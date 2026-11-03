@@ -1,0 +1,40 @@
+# Method 3 — Key Event titles, biological levels and full description text.
+#
+# Endpoint : https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+# Release  : AOPWikiRDF @ 97191db, data generated 2026-08-01  (see pinned-release.yaml)
+# Used by  : analysis/method3/m3_01_snapshot.py  ->  data/method3/corpus/ke_descriptions.csv
+#
+# This is `method1c_ke_inventory.rq` with the description TEXT projected instead of its length.
+# Method 1 needed the length, because it measures how description availability predicts gene
+# recovery. Method 3 needs the text: the adjudicating curator reads the KE description to
+# decide whether a ranked pathway actually captures the mechanism the KE names, and the
+# evidence packets have to be self-contained so the adjudication makes no network calls.
+#
+# The descriptions are the reason to take this from the pinned release rather than from the
+# builder's own /get_ke_options. The builder serves a snapshot of 1561 KEs against the pin's
+# 1595 (upstream issue #239), so ~34 KEs — including several in these three networks — would
+# otherwise arrive with no description at all, and a KE with no description is exactly the one
+# an adjudicator is most likely to get wrong.
+#
+# `dc:description` and the biological level are both OPTIONAL. Rows are returned for KEs that
+# have neither, so this doubles as the check on how much of each organ network is describable:
+# brain 118 of 203, kidney 20 of 68, lung 77 of 134 carry a description.
+#
+# The biological level uses NCI Thesaurus C25664 and takes Molecular / Cellular / Tissue /
+# Organ / Individual / Population. It decides the +1.0 confidence bonus, which was
+# tier-deciding for 84 % of the liver campaign's KEs — so an unbound biolevel is not a cosmetic
+# gap, it silently costs a point.
+
+PREFIX aopo: <http://aopkb.org/aop_ontology#>
+PREFIX dc:   <http://purl.org/dc/elements/1.1/>
+PREFIX nci:  <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?keid ?ke ?ketitle ?biolevel ?description
+WHERE {
+  ?ke a aopo:KeyEvent ;
+      rdfs:label ?keid ;
+      dc:title   ?ketitle .
+  OPTIONAL { ?ke nci:C25664 ?biolevel }
+  OPTIONAL { ?ke dc:description ?description }
+}

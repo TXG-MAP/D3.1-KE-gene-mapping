@@ -1,0 +1,180 @@
+{
+  "purpose": "Methods 2 and 3 gene sets taken from the molAOP Builder's own exports",
+  "decision": "Marvin, 2026-08-14 \u2014 both methods were curated in the builder, so the deliverable reports what the resource holds rather than an independent re-derivation. This also makes the two methods symmetric: same corpus snapshot, same export machinery, same identifier round-trip.",
+  "builder_source_versions": {
+    "wikipathways": "2026-07-10",
+    "go": "2026-06-15",
+    "reactome": "v97",
+    "aopwiki": "2026-08-06"
+  },
+  "builder_source_versions_note": "read from /stats#source-versions. These are NOT the releases the independent cross-checks use \u2014 the builder's WikiPathways snapshot is roughly a month behind the live endpoint and its GO snapshot about two months behind the GOA file. That gap is the subject of upstream molAOP-builder #263 and must be reported, not corrected here.",
+  "exports": {
+    "ke-go": "ccf6861d4be90c1f",
+    "ke-wp": "be8957e1edd978e4"
+  },
+  "bridgedb": {
+    "symbols_in": 9620,
+    "symbols_mapped": 9564,
+    "mapping_rate": 0.9941787941787942,
+    "ensembl_genes": 9582,
+    "unmapped_examples": [
+      "A0ABB0MV19",
+      "A0ABJ7H8I7",
+      "A8MVJ9",
+      "ACOT7L",
+      "ARB2A",
+      "BKGD",
+      "CCL3L1",
+      "CCL4L1",
+      "COXFA4",
+      "CPAP",
+      "DCPH1",
+      "DNAAF19",
+      "DORIP1",
+      "DRC11",
+      "DRC11L",
+      "DRC2",
+      "DRC4",
+      "DRC9",
+      "ENSG00000115760",
+      "ENSG00000164761",
+      "ENSG00000171552",
+      "ERVK-9",
+      "EURL",
+      "GSTT1",
+      "GSTTP2"
+    ]
+  },
+  "identifier_note": "both exports carry HGNC symbols, so both methods now incur the same symbol-to-Ensembl loss. Earlier derivations avoided it \u2014 Method 3 by reading Ensembl straight from WikiPathways, Method 2 by joining on UniProt \u2014 but that understated what a consumer of these exports actually gets.",
+  "supersedes": [
+    "data/method3/derived/method3_ke_ensembl_sets.tsv (WikiPathways SPARQL route)",
+    "data/method2/derived/method2_ke_gene_sets.tsv (pinned GOA route)"
+  ],
+  "supersedes_note": "both remain in the repository and still run. They are cross-checks that measure builder-versus-upstream drift, not the reported numbers.",
+  "methods": {
+    "method2": {
+      "resource": "ke-go",
+      "export_revision": "ccf6861d4be90c1f",
+      "approved_pairs": 336,
+      "kes_service_wide": 306,
+      "kes_in_the_four_networks": 302,
+      "by_organ": [
+        {
+          "organ": "brain",
+          "kes_in_frame": 203,
+          "kes_with_a_mapping": 109,
+          "kes_with_genes": 109,
+          "pct_of_frame_with_genes": 53.7,
+          "unique_genes": 6799,
+          "ke_gene_pairs": 18328,
+          "median_genes_per_annotated_ke": 76.0
+        },
+        {
+          "organ": "kidney",
+          "kes_in_frame": 68,
+          "kes_with_a_mapping": 30,
+          "kes_with_genes": 30,
+          "pct_of_frame_with_genes": 44.1,
+          "unique_genes": 2548,
+          "ke_gene_pairs": 5543,
+          "median_genes_per_annotated_ke": 77.5
+        },
+        {
+          "organ": "liver",
+          "kes_in_frame": 196,
+          "kes_with_a_mapping": 152,
+          "kes_with_genes": 152,
+          "pct_of_frame_with_genes": 77.6,
+          "unique_genes": 5793,
+          "ke_gene_pairs": 23355,
+          "median_genes_per_annotated_ke": 50.0
+        },
+        {
+          "organ": "lung",
+          "kes_in_frame": 134,
+          "kes_with_a_mapping": 58,
+          "kes_with_genes": 58,
+          "pct_of_frame_with_genes": 43.3,
+          "unique_genes": 3478,
+          "ke_gene_pairs": 10103,
+          "median_genes_per_annotated_ke": 53.5
+        },
+        {
+          "organ": "four-organ union",
+          "kes_in_frame": 538,
+          "kes_with_a_mapping": 302,
+          "kes_with_genes": 302,
+          "pct_of_frame_with_genes": 56.1,
+          "unique_genes": 8464,
+          "ke_gene_pairs": 44434,
+          "median_genes_per_annotated_ke": 49.5
+        }
+      ]
+    },
+    "method3": {
+      "resource": "ke-wp",
+      "export_revision": "be8957e1edd978e4",
+      "approved_pairs": 459,
+      "kes_service_wide": 339,
+      "kes_in_the_four_networks": 314,
+      "by_organ": [
+        {
+          "organ": "brain",
+          "kes_in_frame": 203,
+          "kes_with_a_mapping": 124,
+          "kes_with_genes": 124,
+          "pct_of_frame_with_genes": 61.1,
+          "unique_genes": 2290,
+          "ke_gene_pairs": 9107,
+          "median_genes_per_annotated_ke": 62.5
+        },
+        {
+          "organ": "kidney",
+          "kes_in_frame": 68,
+          "kes_with_a_mapping": 39,
+          "kes_with_genes": 39,
+          "pct_of_frame_with_genes": 57.4,
+          "unique_genes": 984,
+          "ke_gene_pairs": 2682,
+          "median_genes_per_annotated_ke": 70.0
+        },
+        {
+          "organ": "liver",
+          "kes_in_frame": 196,
+          "kes_with_a_mapping": 124,
+          "kes_with_genes": 124,
+          "pct_of_frame_with_genes": 63.3,
+          "unique_genes": 2368,
+          "ke_gene_pairs": 9665,
+          "median_genes_per_annotated_ke": 58.0
+        },
+        {
+          "organ": "lung",
+          "kes_in_frame": 134,
+          "kes_with_a_mapping": 79,
+          "kes_with_genes": 79,
+          "pct_of_frame_with_genes": 59.0,
+          "unique_genes": 2499,
+          "ke_gene_pairs": 6882,
+          "median_genes_per_annotated_ke": 64.0
+        },
+        {
+          "organ": "four-organ union",
+          "kes_in_frame": 538,
+          "kes_with_a_mapping": 314,
+          "kes_with_genes": 314,
+          "pct_of_frame_with_genes": 58.4,
+          "unique_genes": 3912,
+          "ke_gene_pairs": 24063,
+          "median_genes_per_annotated_ke": 63.0
+        }
+      ]
+    }
+  },
+  "stage": "builder_genesets",
+  "generated_at": "2026-08-14T07:09:09+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "molaop_builder_base": "https://molaop-builder.vhp4safety.nl",
+  "d31_repo_revision": "370b2d8",
+  "python": "3.12.2"
+}

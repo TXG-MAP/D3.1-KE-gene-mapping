@@ -1,0 +1,12 @@
+{
+  "outputs": [
+    "tables/method1_statistics.md"
+  ],
+  "stage": "04_stats",
+  "generated_at": "2026-08-06T19:39:33+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "endpoint": "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/",
+  "d31_repo_revision": "b8d4407",
+  "python": "3.12.2"
+}

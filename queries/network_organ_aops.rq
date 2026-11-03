@@ -1,0 +1,31 @@
+# AOP -> Key Event membership, with the role each KE plays in that AOP.
+#
+# Endpoint : https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+# Release  : AOPWikiRDF @ 97191db, data generated 2026-08-01  (see pinned-release.yaml)
+# Used by  : analysis/method1/m1_01_fetch.py  ->  data/method1/raw/aop_ke.csv
+#            analysis/method1/m1_02_frames.py  (organ networks are AOP lists; this expands
+#            them to the KE sets the statistics are computed over)
+#
+# Note this returns membership for ALL 595 AOPs, not for one organ. The organ networks are
+# defined OUTSIDE the RDF — by the AOP-selection strategy, not by a triple — so the frame is
+# applied downstream as a filter on ?aopid. The selection is the search-word strategy of
+# MS3.1; the four organ AOP lists are in data/networks/sidra_aops_*.tsv.
+#
+# A KE can be an MIE in one AOP and an intermediate KE in another, so `role` is a property of
+# the (AOP, KE) pair and never of the KE alone. Collapsing it to the KE double-counts.
+
+PREFIX aopo:    <http://aopkb.org/aop_ontology#>
+PREFIX dc:      <http://purl.org/dc/elements/1.1/>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?aop ?aopid ?aoptitle ?keid ?role
+WHERE {
+  ?aop a aopo:AdverseOutcomePathway ;
+       rdfs:label ?aopid ;
+       dc:title   ?aoptitle ;
+       aopo:has_key_event ?ke .
+  ?ke  rdfs:label ?keid .
+  OPTIONAL { ?aop aopo:has_molecular_initiating_event ?ke . BIND("MIE" AS ?mie) }
+  OPTIONAL { ?aop aopo:has_adverse_outcome           ?ke . BIND("AO"  AS ?ao) }
+  BIND(COALESCE(?mie, ?ao, "KE") AS ?role)
+}

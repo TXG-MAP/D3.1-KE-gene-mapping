@@ -1,0 +1,6 @@
+organ	kes_in_frame	kes_with_genes	pct_kes_with_genes	unique_genes	ke_gene_pairs	median_genes_per_annotated_ke
+brain	203	124	61.1	2528	9949	64.5
+kidney	68	39	57.4	1219	3421	73.0
+liver	196	124	63.3	2655	10721	59.5
+lung	134	79	59.0	2788	7835	64.0
+four-organ union	538	314	58.4	4349	26868	64.0

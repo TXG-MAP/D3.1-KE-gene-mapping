@@ -1,0 +1,376 @@
+ke_id	ke_title	ke_title_node	ke_title_builder	organs	n_organs	role	biolevel	biolevel_bonus	aop_ids	n_aops	has_description	description_length	in_builder	n_approved_wp	approved_wps
+KE 9	Activation, 5HT2c	Activation, 5HT2c	Activation, 5HT2c	kidney	1	MIE	Molecular	1.0	AOP 33	1	0	0	1	1	WP732
+KE 10	Acetylcholine accumulation in synapses	Acetylcholine accumulation in synapses	Acetylcholine accumulation in synapses	brain	1	KE	Cellular	1.0	AOP 281;AOP 405;AOP 471	3	1	1192	1	1	WP528
+KE 12	Acetylcholinesterase (AchE) Inhibition	Acetylcholinesterase (AchE) Inhibition	Acetylcholinesterase (AchE) Inhibition	brain	1	MIE	Cellular	1.0	AOP 281;AOP 405;AOP 450;AOP 471	4	1	1090	1	1	WP550
+KE 17	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	lung	1	KE	Molecular	1.0	AOP 417	1	1	672	1	1	WP2882
+KE 18	Activation, AhR	Activation, AhR	Activation, AhR	brain;lung	2	MIE	Molecular	1.0	AOP 415;AOP 416;AOP 417;AOP 419;AOP 458;AOP 459	6	1	7264	1	1	WP2873
+KE 39	Increased Cholinergic Signaling	Increased Cholinergic Signaling	Increased Cholinergic Signaling	brain	1	KE	Organ	0.0	AOP 405	1	1	2987	1	0	
+KE 40	Mitochondrial ATP production, decreased	Mitochondrial ATP production, decreased	Mitochondrial ATP production, decreased	brain;kidney	2	KE	Cellular	1.0	AOP 26;AOP 258;AOP 564	3	0	0	1	2	WP391;WP5241
+KE 50	Increase, Ca++ (intracellular)	Increase, Ca++ (intracellular)	Increase, Ca++ (intracellular)	brain	1	KE	Cellular	1.0	AOP 26	1	1	82	1	0	
+KE 51	Inhibition, Ca++ ATPase	Inhibition, Ca++ ATPase	Inhibition, Ca++ ATPase	brain	1	MIE	Molecular	1.0	AOP 26	1	1	203	1	0	
+KE 52	Decreased, Calcium influx	Decreased, Calcium influx	Decreased, Calcium influx	brain	1	KE	Cellular	1.0	AOP 12;AOP 13	2	1	3187	1	0	
+KE 55	Increase, Cell injury/death	Increase, Cell injury/death	Increase, Cell injury/death	brain;lung	2	KE	Cellular	1.0	AOP 12;AOP 13;AOP 17;AOP 48;AOP 281;AOP 377	6	1	4485	1	3	WP1772;WP2507;WP254
+KE 64	Reduction, Ionotropic GABA receptor chloride channel conductance	Reduction, Ionotropic GABA receptor chloride channel conductance	Reduction, Ionotropic GABA receptor chloride channel conductance	brain	1	KE	Cellular	1.0	AOP 10	1	1	299	1	0	
+KE 68	Increase, Collagen accumulation	Increase, Collagen accumulation	Increase, Collagen accumulation	lung	1	KE	Tissue	1.0	AOP 173;AOP 241;AOP 319;AOP 382	4	1	2791	1	2	WP4786;WP5312
+KE 87	Release, Cytokine	Release, Cytokine	Release, Cytokine	lung	1	KE	Cellular	1.0	AOP 303;AOP 377	2	1	2272	1	2	WP530;WP5473
+KE 105	Inhibition, Mitochondrial Electron Transport Chain Complexes	Inhibition, Mitochondrial Electron Transport Chain Complexes	Inhibition, Mitochondrial Electron Transport Chain Complexes	kidney	1	MIE	Molecular	1.0	AOP 437;AOP 447	2	1	3792	1	1	WP111
+KE 149	Increase, Inflammation	Increase, Inflammation	Increase, Inflammation	brain;lung	2	KE	Cellular	1.0	AOP 206;AOP 280;AOP 544	3	1	4154	1	2	WP453;WP530
+KE 155	Inadequate DNA repair	Inadequate DNA repair	Inadequate DNA repair	lung	1	KE	Cellular	1.0	AOP 272	1	1	13261	1	0	
+KE 166	Decreased, Long-term potentiation (LTP)	Decreased, Long-term potentiation (LTP)	Decreased, Long-term potentiation (LTP)	brain	1	KE	Organ	0.0	AOP 26	1	0	0	1	0	
+KE 177	Increase, Mitochondrial dysfunction	Increase, Mitochondrial dysfunction	Increase, Mitochondrial dysfunction	brain;kidney;lung	3	KE	Cellular	1.0	AOP 3;AOP 48;AOP 256;AOP 258;AOP 377;AOP 437;AOP 447;AOP 464;AOP 481;AOP 500	10	1	8068	1	6	WP111;WP4324;WP5241;WP5507;WP623;WP78
+KE 178	Mitochondrial electron transport chain, disrupted	Mitochondrial electron transport chain, disrupted	Mitochondrial electron transport chain, disrupted	brain;kidney	2	KE	Cellular	1.0	AOP 26;AOP 284;AOP 564	3	0	0	1	1	WP111
+KE 185	Increase, Mutations	Increase, Mutations	Increase, Mutations	lung	1	KE	Molecular	1.0	AOP 272	1	1	2403	1	0	
+KE 186	Altered, Neuroanatomy	Altered, Neuroanatomy	Altered, Neuroanatomy	brain	1	KE	Organ	0.0	AOP 65	1	1	2069	1	0	
+KE 188	Neuroinflammation	Neuroinflammation	Neuroinflammation	brain	1	KE	Tissue	1.0	AOP 3;AOP 12;AOP 17;AOP 48;AOP 374;AOP 429;AOP 471;AOP 535	8	1	5289	1	2	WP4919;WP5485
+KE 191	Neuronal dysfunction	Neuronal dysfunction	Neuronal dysfunction	brain	1	KE	Cellular	1.0	AOP 471;AOP 498	2	0	0	1	0	
+KE 192	Altered, Neurophysiology	Altered, Neurophysiology	Altered, Neurophysiology	brain	1	KE	Organ	0.0	AOP 65	1	1	5764	1	0	
+KE 193	Decreased, Nitric Oxide	Decreased, Nitric Oxide	Decreased, Nitric Oxide	brain	1	KE	Cellular	1.0	AOP 26	1	0	0	1	0	
+KE 195	Inhibition, NMDARs	Inhibition, NMDARs	Inhibition, NMDARs	brain	1	KE	Molecular	1.0	AOP 12;AOP 13	2	1	3754	1	0	
+KE 201	Binding of antagonist, NMDA receptors	Binding of antagonist, NMDA receptors	Binding of antagonist, NMDA receptors	brain	1	MIE	Molecular	1.0	AOP 12;AOP 13	2	1	3765	1	0	
+KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	Inhibition, Nuclear factor kappa B (NF-kB)	Inhibition, Nuclear factor kappa B (NF-kB)	kidney	1	KE	Molecular	1.0	AOP 447	1	1	1439	1	0	
+KE 239	Activation, Pregnane-X receptor, NR1I2	Activation, Pregnane-X receptor, NR1l2	Activation, Pregnane-X receptor, NR1I2	brain	1	MIE	Molecular	1.0	AOP 8	1	1	573	1	0	
+KE 244	Alkylation, Protein	Alkylation, Protein	Alkylation, Protein	kidney	1	MIE	Molecular	1.0	AOP 258	1	1	1903	1	0	
+KE 272	Activation/Proliferation, T-cells	Activation/Proliferation, T-cells	Activation/Proliferation, T-cells	lung	1	KE	Organ	0.0	AOP 39	1	1	877	1	0	
+KE 277	Thyroid hormone synthesis, Decreased	Thyroid hormone synthesis, Decreased	Thyroid hormone synthesis, Decreased	brain;kidney	2	KE;MIE	Cellular	1.0	AOP 42;AOP 54;AOP 65;AOP 128;AOP 134;AOP 402;AOP 459	7	1	7165	1	0	
+KE 279	Thyroperoxidase, Inhibition	Thyroperoxidase, Inhibition	Thyroperoxidase, Inhibition	brain	1	MIE	Molecular	1.0	AOP 42;AOP 402	2	1	5555	1	0	
+KE 280	Thyroxine (T4) in neuronal tissue, Decreased 	Thyroxine (T4) in neuronal tissue, Decreased	Thyroxine (T4) in neuronal tissue, Decreased 	brain	1	KE	Organ	0.0	AOP 8;AOP 42;AOP 54;AOP 65;AOP 134;AOP 152;AOP 458;AOP 459	8	1	4311	1	0	
+KE 281	 Thyroxine (T4) in serum, Decreased	Thyroxine (T4) in serum, Decreased	 Thyroxine (T4) in serum, Decreased	brain;kidney	2	KE	Tissue	1.0	AOP 8;AOP 42;AOP 54;AOP 65;AOP 128;AOP 134;AOP 152;AOP 458;AOP 459	9	1	3953	1	1	WP1981
+KE 294	N/A, Unknown	N/A, Unknown	N/A, Unknown	kidney	1	KE	Molecular	1.0	AOP 33	1	0	0	1	0	
+KE 295	Induction, Upregulation of glucuronyltransferase activity	Induction, Upregulation of glucuronyltransferase activity	Induction, Upregulation of glucuronyltransferase activity	brain	1	KE	Molecular	1.0	AOP 8;AOP 458	2	0	0	1	0	
+KE 313	Increase, Allergic Respiratory Hypersensitivity Response	Increase, Allergic Respiratory Hypersensitivity Response	Increase, Allergic Respiratory Hypersensitivity Response	lung	1	AO	Organ	0.0	AOP 39	1	1	555	1	0	
+KE 319	Loss, Cochlear function	Loss, Cochlear function	Loss, Cochlear function	brain	1	AO	Organ	0.0	AOP 8	1	0	0	1	0	
+KE 341	Impairment, Learning and memory	Impairment, Learning and memory	Impairment, Learning and memory	brain	1	AO	Individual	0.0	AOP 12;AOP 13;AOP 17;AOP 48;AOP 54;AOP 475;AOP 483;AOP 499;AOP 500;AOP 520;AOP 525;AOP 533;AOP 535	13	1	2970	1	0	
+KE 350	Increase, Mortality	Increase, Mortality	Increase, Mortality	brain	1	AO	Individual	0.0	AOP 471	1	1	153	1	0	
+KE 351	Increased Mortality	Increased Mortality	Increased Mortality	brain;kidney;lung	3	AO	Population	0.0	AOP 138;AOP 160;AOP 161;AOP 177;AOP 186;AOP 320;AOP 377;AOP 413;AOP 450;AOP 564	10	1	163	1	0	
+KE 352	N/A, Neurodegeneration	N/A, Neurodegeneration	N/A, Neurodegeneration	brain	1	AO	Tissue	1.0	AOP 12;AOP 48;AOP 281;AOP 374;AOP 450;AOP 471;AOP 500	7	1	6089	1	0	
+KE 360	Decrease, Population growth rate	Decrease, Population growth rate	Decrease, Population growth rate	brain;kidney	2	AO	Population	0.0	AOP 138;AOP 177;AOP 564	3	1	4951	1	0	
+KE 381	Reduced levels of BDNF	Reduced levels of BDNF	Reduced levels of BDNF	brain	1	KE	Molecular	1.0	AOP 12;AOP 13;AOP 54	3	1	4345	1	0	
+KE 382	Aberrant, Dendritic morphology	Aberrant, Dendritic morphology	Aberrant, Dendritic morphology	brain	1	KE	Cellular	1.0	AOP 13	1	1	4110	1	0	
+KE 383	Reduced, Presynaptic release of glutamate	Reduced, Presynaptic release of glutamate	Reduced, Presynaptic release of glutamate	brain	1	KE	Molecular	1.0	AOP 13	1	1	3739	1	0	
+KE 385	Decrease of synaptogenesis	Decrease of synaptogenesis	Decrease of synaptogenesis	brain	1	KE	Cellular	1.0	AOP 13;AOP 54;AOP 533	3	1	5174	1	0	
+KE 386	Decrease of neuronal network function	Decrease of neuronal network function	Decrease of neuronal network function	brain	1	KE	Organ	0.0	AOP 13;AOP 17;AOP 54;AOP 405;AOP 429;AOP 475;AOP 501;AOP 533	8	1	4995	1	0	
+KE 388	Overactivation, NMDARs	Overactivation, NMDARs	Overactivation, NMDARs	brain	1	MIE	Cellular	1.0	AOP 48;AOP 281;AOP 464;AOP 471;AOP 475	5	1	4816	1	0	
+KE 389	Increased, Intracellular Calcium overload	Increased, Intracellular Calcium overload	Increased, Intracellular Calcium overload	brain	1	KE	Cellular	1.0	AOP 48;AOP 281;AOP 464;AOP 475;AOP 535	5	1	1469	1	0	
+KE 396	Covalent Binding, Protein	Covalent Binding, Protein	Covalent Binding, Protein	lung	1	MIE	Molecular	1.0	AOP 39	1	1	3296	1	0	
+KE 398	Activation, Dendritic Cells	Activation, Dendritic Cells	Activation, Dendritic Cells	lung	1	KE	Cellular	1.0	AOP 39	1	1	2568	1	0	
+KE 402	Cognitive function, decreased 	Cognitive function, decreased	Cognitive function, decreased 	brain	1	AO	Individual	0.0	AOP 42;AOP 65;AOP 134;AOP 152;AOP 300;AOP 405;AOP 442;AOP 458;AOP 459;AOP 486;AOP 488;AOP 489	12	1	1884	1	0	
+KE 424	Inhibition, Na+/I- symporter (NIS)	Inhibition, Na+/I- symporter (NIS)	Inhibition, Na+/I- symporter (NIS)	brain	1	MIE	Molecular	1.0	AOP 54;AOP 65;AOP 134	3	1	15999	1	0	
+KE 425	Decrease of Thyroidal iodide	Decrease of Thyroidal iodide	Decrease of Thyroidal iodide	brain	1	KE	Cellular	1.0	AOP 54;AOP 134	2	1	5059	1	0	
+KE 566	impaired, Larval development	impaired, Larval development	impaired, Larval development	brain	1	AO	Population	0.0	AOP 564	1	0	0	1	0	
+KE 613	Occurrence, Epileptic seizure	Occurrence, Epileptic seizure	Occurrence, Epileptic seizure	brain	1	AO	Individual	0.0	AOP 10	1	1	1411	1	0	
+KE 616	Occurrence, A paroxysmal depolarizing shift	Occurrence, A paroxysmal depolarizing shift	Occurrence, A paroxysmal depolarizing shift	brain	1	KE	Tissue	1.0	AOP 10	1	1	1863	1	0	
+KE 618	Decreased, Neuronal network function in adult brain	Decreased, Neuronal network function in adult brain	Decreased, Neuronal network function in adult brain	brain	1	KE	Organ	0.0	AOP 48;AOP 450;AOP 471	3	1	11149	1	0	
+KE 637	impaired, Learning and memory	impaired, Learning and memory	impaired, Learning and memory	brain	1	AO	Individual	0.0	AOP 471	1	0	0	1	0	
+KE 667	Binding at picrotoxin site, iGABAR chloride channel	Binding at picrotoxin site, iGABAR chloride channel	Binding at picrotoxin site, iGABAR chloride channel	brain	1	MIE	Molecular	1.0	AOP 10	1	1	3379	1	0	
+KE 669	Reduction, Neuronal synaptic inhibition	Reduction, Neuronal synaptic inhibition	Reduction, Neuronal synaptic inhibition	brain	1	KE	Cellular	1.0	AOP 10	1	1	275	1	0	
+KE 682	Generation, Amplified excitatory postsynaptic potential (EPSP)	Generation, Amplified excitatory postsynaptic potential (EPSP)	Generation, Amplified excitatory postsynaptic potential (EPSP)	brain	1	KE	Cellular	1.0	AOP 10	1	1	1659	1	0	
+KE 708	Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)	Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)	Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)	kidney	1	KE	Tissue	1.0	AOP 105	1	0	0	1	0	
+KE 709	Increase, Cytotoxicity (renal tubular cell)	Increase, Cytotoxicity (renal tubular cell)	Increase, Cytotoxicity (renal tubular cell)	kidney	1	KE	Cellular	1.0	AOP 105;AOP 256;AOP 257;AOP 258;AOP 437	5	1	9902	1	1	WP4864
+KE 710	Increase, Regenerative cell proliferation (tubular epithelial cells)	Increase, Regenerative cell proliferation (tubular epithelial cells)	Increase, Regenerative cell proliferation (tubular epithelial cells)	kidney	1	KE	Cellular	1.0	AOP 105;AOP 116	2	0	0	1	0	
+KE 713	Increase, Adenomas/carcinomas (renal tubular)	Increase, Adenomas/carcinomas (renal tubular)	Increase, Adenomas/carcinomas (renal tubular)	kidney	1	AO	Tissue	1.0	AOP 105;AOP 116	2	0	0	1	0	
+KE 714	Increased, Binding of chemicals to 2u (serum)	Increased, Binding of chemicals to 2u (serum)	Increased, Binding of chemicals to 2u (serum)	kidney	1	MIE	Molecular	1.0	AOP 105	1	0	0	1	0	
+KE 733	Increase, Necrosis (terminal bronchiolar cells)	Increase, Necrosis (terminal bronchiolar cells)	Increase, Necrosis (terminal bronchiolar cells)	lung	1	KE	Cellular	1.0	AOP 109	1	0	0	1	0	
+KE 734	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	lung	1	KE	Cellular	1.0	AOP 109	1	0	0	1	0	
+KE 735	Increase, Hyperplasia (terminal bronchiolar cells)	Increase, Hyperplasia (terminal bronchiolar cells)	Increase, Hyperplasia (terminal bronchiolar cells)	lung	1	KE	Cellular	1.0	AOP 109	1	0	0	1	0	
+KE 736	Increase, Adenomas/carcinomas (bronchioloalveolar)	Increase, Adenomas/carcinomas (bronchioloalveolar)	Increase, Adenomas/carcinomas (bronchioloalveolar)	lung	1	AO	Tissue	1.0	AOP 109	1	0	0	1	0	
+KE 756	Hippocampal gene expression, Altered 	Hippocampal gene expression, Altered	Hippocampal gene expression, Altered 	brain	1	KE	Tissue	1.0	AOP 8;AOP 42;AOP 134;AOP 152;AOP 300;AOP 458;AOP 459	7	1	3408	1	0	
+KE 757	Hippocampal anatomy, Altered 	Hippocampal anatomy, Altered	Hippocampal anatomy, Altered 	brain	1	KE	Tissue	1.0	AOP 8;AOP 42;AOP 134;AOP 152;AOP 300;AOP 442	6	1	7372	1	0	
+KE 758	Hippocampal Physiology, Altered	Hippocampal Physiology, Altered	Hippocampal Physiology, Altered	brain	1	KE	Tissue	1.0	AOP 8;AOP 42;AOP 134;AOP 152;AOP 300;AOP 442;AOP 458;AOP 459	8	1	2471	1	0	
+KE 759	Increased, Kidney Failure	Increased, Kidney Failure	Increased, Kidney Failure	kidney;lung	2	AO;KE	Population	0.0	AOP 33;AOP 377;AOP 413;AOP 447	4	0	0	1	0	
+KE 761	Increased, Chloride conductance	Increased, Chloride conductance	Increased, Chloride conductance	brain	1	KE	Cellular	1.0	AOP 160;AOP 161	2	0	0	1	0	
+KE 762	Activation, ionotropic GABA Receptor chloride channel	Activation, ionotropic GABA Receptor chloride channel	Activation, ionotropic GABA Receptor chloride channel	brain	1	MIE	Molecular	1.0	AOP 160	1	0	0	1	0	
+KE 767	Increase, Hyperplasia (renal tubular cells)	Increase, Hyperplasia (renal tubular cells)	Increase, Hyperplasia (renal tubular cells)	kidney	1	KE	Cellular	1.0	AOP 105	1	0	0	1	0	
+KE 768	Increase, Cytotoxicity	Increase, Cytotoxicity	Increase, Cytotoxicity	kidney	1	KE	Cellular	1.0	AOP 284	1	1	144	1	0	
+KE 770	Increase, Cytotoxicity (club cells)	Increase, Cytotoxicity (club cells)	Increase, Cytotoxicity (club cells)	lung	1	MIE	Cellular	1.0	AOP 109	1	1	60	1	0	
+KE 771	Decrease, Serum thyroid hormone (T4/T3)	Decrease, Serum thyroid hormone (T4/T3)	Decrease, Serum thyroid hormone (T4/T3)	brain	1	KE	Tissue	1.0	AOP 402	1	0	0	1	0	
+KE 780	Increase, Cytotoxicity (epithelial cells)	Increase, Cytotoxicity (epithelial cells)	Increase, Cytotoxicity (epithelial cells)	lung	1	KE	Cellular	1.0	AOP 451	1	1	64	1	0	
+KE 783	Increase, Cytotoxicity (tubular epithelial cells)	Increase, Cytotoxicity (tubular epithelial cells)	Increase, Cytotoxicity (tubular epithelial cells)	kidney	1	MIE	Cellular	1.0	AOP 116	1	1	69	1	0	
+KE 784	Increase, Hyperplasia (tubular epithelial cells)	Increase, Hyperplasia (tubular epithelial cells)	Increase, Hyperplasia (tubular epithelial cells)	kidney	1	KE	Cellular	1.0	AOP 116	1	0	0	1	0	
+KE 793	Increase, Urinary bladder calculi	Increase, Urinary bladder calculi	Increase, Urinary bladder calculi	kidney	1	MIE	Organ	0.0	AOP 121	1	0	0	1	0	
+KE 794	Increase, Cytotoxicity (urothelial cells)	Increase, Cytotoxicity (urothelial cells)	Increase, Cytotoxicity (urothelial cells)	kidney	1	KE	Cellular	1.0	AOP 121	1	0	0	1	0	
+KE 795	Increase, Regenerative cell proliferation (urothelial cells)	Increase, Regenerative cell proliferation (urothelial cells)	Increase, Regenerative cell proliferation (urothelial cells)	kidney	1	KE	Cellular	1.0	AOP 121	1	0	0	1	0	
+KE 796	Increase, Hyperplasia (urothelial)	Increase, Hyperplasia (urothelial)	Increase, Hyperplasia (urothelial)	kidney	1	KE	Cellular	1.0	AOP 121	1	0	0	1	0	
+KE 797	Increase, Adenomas/carcinomas (urothelial)	Increase, Adenomas/carcinomas (urothelial)	Increase, Adenomas/carcinomas (urothelial)	kidney	1	AO	Tissue	1.0	AOP 121	1	0	0	1	0	
+KE 813	Increased, Serum creatinine	Increased, Serum creatinine	Increased, Serum creatinine	kidney	1	KE	Organ	0.0	AOP 128	1	0	0	1	0	
+KE 814	Occurrence, Kidney toxicity	Occurrence, Kidney toxicity	Occurrence, Kidney toxicity	kidney;lung	2	AO;KE	Organ	0.0	AOP 128;AOP 256;AOP 257;AOP 258;AOP 377;AOP 437;AOP 447	7	1	7239	1	0	
+KE 818	Occurrence, Cytoplasmic vacuolization (Renal tubule)	Occurrence, Cytoplasmic vacuolization (Renal tubule)	Occurrence, Cytoplasmic vacuolization (Renal tubule)	kidney	1	KE	Organ	0.0	AOP 128	1	0	0	1	0	
+KE 819	Decreased, Glomerular filtration	Decreased, Glomerular filtration	Decreased, Glomerular filtration	kidney	1	KE	Tissue	1.0	AOP 128	1	0	0	1	1	WP2572
+KE 820	Decreased, Renal plasma flow	Decreased, Renal plasma flow	Decreased, Renal plasma flow	kidney	1	KE	Tissue	1.0	AOP 128	1	0	0	1	0	
+KE 821	Decreased, Sodium reabsorption	Decreased, Sodium reabsorption	Decreased, Sodium reabsorption	kidney	1	KE	Organ	0.0	AOP 128	1	0	0	1	0	
+KE 823	Occurrence, Cystic dilatation (renal tubule)	Occurrence, Cystic dilatation (renal tubule)	Occurrence, Cystic dilatation (renal tubule)	kidney	1	KE	Organ	0.0	AOP 128	1	0	0	1	0	
+KE 824	Occurrence, Cytoplasmic vacuolization (podocyte)	Occurrence, Cytoplasmic vacuolization (podocyte)	Occurrence, Cytoplasmic vacuolization (podocyte)	kidney	1	KE	Organ	0.0	AOP 128	1	0	0	1	0	
+KE 825	Decreased, Renal ability to dilute urine	Decreased, Renal ability to dilute urine	Decreased, Renal ability to dilute urine	kidney	1	KE	Organ	0.0	AOP 128	1	0	0	1	0	
+KE 831	Disturbance, Lysosomal function	Disturbance, Lysosomal function	Disturbance, Lysosomal function	kidney	1	KE	Cellular	1.0	AOP 257	1	0	0	1	1	WP4923
+KE 850	Induction, CYP1A2/CYP1A5	Induction, CYP1A2/CYP1A5	Induction, CYP1A2/CYP1A5	brain	1	KE	Molecular	1.0	AOP 459	1	1	1166	1	0	
+KE 851	Decrease of GABAergic interneurons	Decrease of GABAergic interneurons	Decrease of GABAergic interneurons	brain	1	KE	Cellular	1.0	AOP 54;AOP 533	2	1	5499	1	0	
+KE 870	Increase, Cell Proliferation	Increase, Cell Proliferation	Increase, Cell Proliferation	lung	1	KE	Cellular	1.0	AOP 272;AOP 303;AOP 451	3	1	2726	1	1	WP179
+KE 875	Binding of agonist, Ionotropic glutamate receptors	Binding of agonist, Ionotropic glutamate receptors	Binding of agonist, Ionotropic glutamate receptors	brain	1	MIE	Molecular	1.0	AOP 48;AOP 475	2	1	5599	1	0	
+KE 877	Inhibition, organic anion transporter 1 (OAT1)	Inhibition, organic anion transporter 1 (OAT1)	Inhibition, organic anion transporter 1 (OAT1)	kidney	1	MIE	Molecular	1.0	AOP 138	1	1	776	1	0	
+KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	brain	1	KE	Cellular	1.0	AOP 3	1	1	2276	1	0	
+KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	brain	1	MIE	Molecular	1.0	AOP 3	1	1	3593	1	0	
+KE 889	Proteostasis, impaired	Proteostasis, impaired	Proteostasis, impaired	brain	1	KE	Cellular	1.0	AOP 3	1	1	3407	1	1	WP4918
+KE 890	Degeneration of dopaminergic neurons of the nigrostriatal pathway	Degeneration of dopaminergic neurons of the nigrostriatal pathway	Degeneration of dopaminergic neurons of the nigrostriatal pathway	brain	1	KE	Organ	0.0	AOP 3;AOP 471	2	1	6374	1	0	
+KE 896	Parkinsonian motor deficits	Parkinsonian motor deficits	Parkinsonian motor deficits	brain	1	AO	Individual	0.0	AOP 3;AOP 464;AOP 471	3	1	8956	1	0	
+KE 898	Disruption, Lysosome	Disruption, Lysosome	Disruption, Lysosome	kidney	1	KE	Cellular	1.0	AOP 257	1	1	4910	1	1	WP4923
+KE 902	Inflammation, Liver	Inflammation, Liver	Inflammation, Liver	lung	1	KE	Organ	0.0	AOP 377	1	1	1628	1	3	WP4493;WP453;WP530
+KE 926	Oxidation, Glutathione (To be considered with MIE)	Oxidation, Glutathione (To be considered with MIE)	Oxidation, Glutathione (To be considered with MIE)	kidney	1	MIE	Molecular	1.0	AOP 284;AOP 413	2	1	834	1	1	WP100
+KE 941	Activation, EGFR	Activation, EGFR	Activation, EGFR	lung	1	MIE	Molecular	1.0	AOP 148	1	1	5611	1	0	
+KE 957	Binding, Transthyretin in serum	Binding, Transthyretin in serum	Binding, Transthyretin in serum	brain	1	MIE	Molecular	1.0	AOP 152	1	1	2520	1	0	
+KE 958	Displacement, Serum thyroxine (T4) from transthyretin	Displacement, Serum thyroxine (T4) from transthyretin	Displacement, Serum thyroxine (T4) from transthyretin	brain	1	KE	Molecular	1.0	AOP 152	1	1	12948	1	0	
+KE 959	Increased, Free serum thyroxine (T4)	Increased, Free serum thyroxine (T4)	Increased, Free serum thyroxine (T4)	brain	1	KE	Tissue	1.0	AOP 152	1	1	3437	1	0	
+KE 960	Increased, Uptake of thyroxine into tissue	Increased, Uptake of thyroxine into tissue	Increased, Uptake of thyroxine into tissue	brain	1	KE	Cellular	1.0	AOP 152	1	1	19201	1	0	
+KE 961	Increased, Clearance of thyroxine from serum	Increased, Clearance of thyroxine from serum	Increased, Clearance of thyroxine from serum	brain	1	KE	Tissue	1.0	AOP 8;AOP 152;AOP 458	3	1	14135	1	0	
+KE 962	Increase, Mucin production	Increase, Mucin production	Increase, Mucin production	lung	1	KE	Cellular	1.0	AOP 148	1	1	2467	1	0	
+KE 1012	Increased, Inhibitory postsynaptic potential	Increased, Inhibitory postsynaptic potential	Increased, Inhibitory postsynaptic potential	brain	1	KE	Cellular	1.0	AOP 160;AOP 161;AOP 471	3	0	0	1	0	
+KE 1014	Induction, Somatic muscle paralysis	Induction, Somatic muscle paralysis	Induction, Somatic muscle paralysis	brain	1	KE	Tissue	1.0	AOP 160;AOP 471	2	0	0	1	0	
+KE 1015	Increased, Neuronal synaptic inhibition	Increased, Neuronal synaptic inhibition	Increased, Neuronal synaptic inhibition	brain	1	KE	Cellular	1.0	AOP 160;AOP 161;AOP 471	3	0	0	1	0	
+KE 1016	Inhibition, Feeding	Inhibition, Feeding	Inhibition, Feeding	brain	1	AO	Individual	0.0	AOP 160;AOP 161;AOP 471	3	1	185	1	0	
+KE 1018	Activation, Glutamate-gated chloride channels	Activation, Glutamate-gated chloride channels	Activation, Glutamate-gated chloride channels	brain	1	MIE	Molecular	1.0	AOP 161;AOP 471	2	0	0	1	0	
+KE 1019	Induction, pharyngeal muscle paralysis	Induction, pharyngeal muscle paralysis	Induction, pharyngeal muscle paralysis	brain	1	KE	Tissue	1.0	AOP 161	1	0	0	1	0	
+KE 1096	Increased, blood uric acid concentration	Increased, blood uric acid concentration	Increased, blood uric acid concentration	kidney	1	KE	Tissue	1.0	AOP 138;AOP 177	2	0	0	1	0	
+KE 1097	Occurrence, renal proximal tubular necrosis	Occurrence, renal proximal tubular necrosis	Occurrence, renal proximal tubular necrosis	kidney	1	KE	Tissue	1.0	AOP 138;AOP 177;AOP 186;AOP 447	4	0	0	1	1	WP4313
+KE 1098	Increased, blood potassium concentration	Increased, blood potassium concentration	Increased, blood potassium concentration	kidney	1	KE	Tissue	1.0	AOP 138;AOP 177;AOP 186	3	0	0	1	0	
+KE 1102	Occurrence, tophi (urate) deposition	Occurrence, tophi (urate) deposition	Occurrence, tophi (urate) deposition	kidney	1	KE	Tissue	1.0	AOP 138;AOP 177	2	0	0	1	0	
+KE 1103	Inhibition, Cyclooxygenase 1 activity	Inhibition, Cyclooxygenase 1 activity	Inhibition, Cyclooxygenase 1 activity	kidney	1	MIE	Molecular	1.0	AOP 177	1	0	0	1	1	WP4719
+KE 1104	Decreased, Prostaglandin F2alpha concentration, plasma 	Decreased, Prostaglandin F2alpha concentration, plasma	Decreased, Prostaglandin F2alpha concentration, plasma 	kidney	1	KE	Tissue	1.0	AOP 177	1	0	0	1	1	WP98
+KE 1105	Occurrence, renal ischemia	Occurrence, renal ischemia	Occurrence, renal ischemia	kidney	1	KE	Tissue	1.0	AOP 177	1	0	0	1	0	
+KE 1106	Occurrence, cardiac arrhythmia	Occurrence, cardiac arrhythmia	Occurrence, cardiac arrhythmia	kidney	1	KE	Organ	0.0	AOP 138;AOP 177;AOP 186	3	0	0	1	0	
+KE 1114	Unknown, MIE	Unknown, MIE	Unknown, MIE	kidney	1	MIE	Molecular	1.0	AOP 186	1	0	0	1	0	
+KE 1115	Increase, Reactive oxygen species	Increase, Reactive oxygen species	Increase, Reactive oxygen species	brain;kidney;lung	3	KE;MIE	Cellular	1.0	AOP 26;AOP 186;AOP 303;AOP 319;AOP 382;AOP 384;AOP 413;AOP 416;AOP 451;AOP 481;AOP 488;AOP 500	12	1	6189	1	2	WP408;WP5477
+KE 1172	Increased activation, Nuclear factor kappa B (NF-kB)	Increased activation, Nuclear factor kappa B (NF-kB)	Increased activation, Nuclear factor kappa B (NF-kB)	lung	1	KE	Cellular	1.0	AOP 319;AOP 377;AOP 382	3	1	558	1	0	
+KE 1177	Decreased, Ionotropic GABA receptor chloride channel conductance	Decreased, Ionotropic GABA receptor chloride channel conductance	Decreased, Ionotropic GABA receptor chloride channel conductance	brain	1	KE	Cellular	1.0	AOP 471	1	0	0	1	0	
+KE 1197	Activation, Fibroblasts	Activation, Fibroblasts	Activation, Fibroblasts	lung	1	KE	Cellular	1.0	AOP 481	1	0	0	1	0	
+KE 1198	Activation, Macrophages	Activation, Macrophages	Activation, Macrophages	lung	1	KE	Cellular	1.0	AOP 481	1	0	0	1	0	
+KE 1215	TRPA1 activation, TRPA1 Receptor	TRPA1 activation, TRPA1 Receptor	TRPA1 activation, TRPA1 Receptor	lung	1	MIE	Molecular	1.0	AOP 196	1	0	0	1	0	
+KE 1218	Opening of calcium channel, Calcium influx	Opening of calcium channel, Calcium influx	Opening of calcium channel, Calcium influx	lung	1	KE	Cellular	1.0	AOP 196	1	0	0	1	0	
+KE 1220	Trigeminal nerve activation	Trigeminal nerve activation	Trigeminal nerve activation	lung	1	KE	Tissue	1.0	AOP 196	1	0	0	1	0	
+KE 1222	SP (Substance P) release, Local increase of SP	SP (Substance P) release, Local increase of SP	SP (Substance P) release, Local increase of SP	lung	1	KE	Cellular	1.0	AOP 196	1	0	0	1	0	
+KE 1223	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	lung	1	AO	Tissue	1.0	AOP 196	1	0	0	1	0	
+KE 1226	Increased Respiratory irritability and Chronic Cough, 	Increased Respiratory irritability and Chronic Cough,	Increased Respiratory irritability and Chronic Cough, 	lung	1	AO	Organ	0.0	AOP 196	1	0	0	1	0	
+KE 1239	Altered, Gene Expression	Altered, Gene Expression	Altered, Gene Expression	brain	1	KE	Molecular	1.0	AOP 533	1	1	249	1	0	
+KE 1250	Decrease, Lung function	Decrease, Lung function	Decrease, Lung function	lung	1	AO	Individual	0.0	AOP 148;AOP 302;AOP 411;AOP 419;AOP 424;AOP 425	6	1	2445	1	0	
+KE 1262	Apoptosis	Apoptosis	Apoptosis	brain;lung	2	KE	Cellular	1.0	AOP 419;AOP 452;AOP 500;AOP 535	4	1	3821	1	2	WP1772;WP254
+KE 1270	Inactivation of PPARγ	Inactivation of PPARγ	Inactivation of PPARγ	lung	1	MIE	Molecular	1.0	AOP 206;AOP 347	2	1	297	1	0	
+KE 1271	Increase, Transforming growth factor-beta signaling	Increase, Transforming growth factor-beta signaling	Increase, Transforming growth factor-beta signaling	lung	1	KE	Molecular	1.0	AOP 206	1	0	0	1	2	WP5382;WP560
+KE 1275	Collagen Deposition	Collagen Deposition	Collagen Deposition	lung	1	KE	Tissue	1.0	AOP 206	1	0	0	1	0	
+KE 1276	Lung fibrosis	Lung fibrosis	Lung fibrosis	lung	1	AO	Organ	0.0	AOP 206;AOP 319;AOP 382;AOP 415	4	1	399	1	0	
+KE 1283	Activation, TGF-beta pathway	Activation, TGF-beta pathway	Activation, TGF-beta pathway	lung	1	KE	Cellular	1.0	AOP 347	1	0	0	1	1	WP560
+KE 1292	Activation, JNK	Activation, JNK	Activation, JNK	lung	1	KE	Cellular	1.0	AOP 347	1	0	0	1	0	
+KE 1321	Increased, intracellular sodium (Na+)	Increased, intracellular sodium (Na+)	Increased, intracellular sodium (Na+)	brain	1	KE	Molecular	1.0	AOP 230	1	0	0	1	0	
+KE 1339	Increase, intracellular calcium	Increase, intracellular calcium	Increase, intracellular calcium	brain	1	KE	Cellular	1.0	AOP 499;AOP 500	2	1	1451	1	0	
+KE 1344	Increased, seizure	Increased, seizure	Increased, seizure	brain	1	KE	Individual	0.0	AOP 230;AOP 231	2	0	0	1	0	
+KE 1348	Increase, seizure	Increase, seizure	Increase, seizure	brain	1	AO	Individual	0.0	AOP 402;AOP 471	2	0	0	1	0	
+KE 1349	Activated, presynaptic neuron 1	Activated, presynaptic neuron 1	Activated, presynaptic neuron 1	brain	1	MIE	Molecular	1.0	AOP 230;AOP 471	2	0	0	1	0	
+KE 1350	Increased, glutamate	Increased, glutamate	Increased, glutamate	brain	1	KE	Molecular	1.0	AOP 230;AOP 281	2	1	806	1	0	
+KE 1351	Activated, NMDA receptor	Activated, NMDA receptor	Activated, NMDA receptor	brain	1	KE	Molecular	1.0	AOP 230	1	0	0	1	0	
+KE 1352	Activated, voltage-gated sodium channel	Activated, voltage-gated sodium channel	Activated, voltage-gated sodium channel	brain	1	KE	Molecular	1.0	AOP 230	1	0	0	1	0	
+KE 1353	Binding to voltage-gated sodium channel	Binding to voltage-gated sodium channel	Binding to voltage-gated sodium channel	brain	1	MIE	Molecular	1.0	AOP 230;AOP 442;AOP 489	3	1	2835	1	0	
+KE 1354	Treat, carbamazepine	Treat, carbamazepine	Treat, carbamazepine	brain	1	KE	Molecular	1.0	AOP 230	1	0	0	1	0	
+KE 1355	Activated, membrane depolarization	Activated, membrane depolarization	Activated, membrane depolarization	brain	1	KE	Cellular	1.0	AOP 230;AOP 231	2	0	0	1	0	
+KE 1357	Increased, RDX dose	Increased, RDX dose	Increased, RDX dose	brain	1	KE	Molecular	1.0	AOP 231	1	0	0	1	0	
+KE 1362	Increased, hippocampal hyperdepolarization	Increased, hippocampal hyperdepolarization	Increased, hippocampal hyperdepolarization	brain	1	KE	Molecular	1.0	AOP 230;AOP 231	2	0	0	1	0	
+KE 1363	Increased, epilepsy	Increased, epilepsy	Increased, epilepsy	brain	1	AO	Individual	0.0	AOP 230;AOP 231;AOP 471	3	0	0	1	0	
+KE 1365	Increase, Apoptosis	Increase, Apoptosis	Increase, Apoptosis	kidney	1	KE	Cellular	1.0	AOP 447	1	0	0	1	1	WP254
+KE 1391	Activation of Cyp2E1	Activation of Cyp2E1	Activation of Cyp2E1	brain	1	KE	Molecular	1.0	AOP 450	1	1	1380	1	0	
+KE 1392	Increase, Oxidative Stress 	Increase, Oxidative Stress	Increase, Oxidative Stress 	brain;kidney;lung	3	AO;KE;MIE	Molecular	1.0	AOP 17;AOP 26;AOP 138;AOP 177;AOP 186;AOP 260;AOP 284;AOP 377;AOP 411;AOP 424;AOP 425;AOP 429;AOP 437;AOP 447;AOP 450;AOP 452;AOP 459;AOP 464;AOP 471;AOP 481;AOP 483;AOP 488;AOP 501;AOP 535	24	1	4283	1	3	WP3941;WP408;WP5477
+KE 1413	Reduced, presynaptic neuron 2 activity	Reduced, presynaptic neuron 2 activity	Reduced, presynaptic neuron 2 activity	brain	1	MIE	Cellular	1.0	AOP 231	1	0	0	1	0	
+KE 1414	Decreased, GABA	Decreased, GABA	Decreased, GABA	brain	1	KE	Cellular	1.0	AOP 231	1	0	0	1	0	
+KE 1415	Reduced, GABA-A receptor activation	Reduced, GABA-A receptor activation	Reduced, GABA-A receptor activation	brain	1	KE	Molecular	1.0	AOP 231	1	0	0	1	0	
+KE 1416	Decreased, intracellular chloride	Decreased, intracellular chloride	Decreased, intracellular chloride	brain	1	KE	Cellular	1.0	AOP 231	1	0	0	1	0	
+KE 1433	Increased CGRP, neuronal release of CGRP	Increased CGRP, neuronal release of CGRP	Increased CGRP, neuronal release of CGRP	lung	1	KE	Cellular	1.0	AOP 196	1	0	0	1	0	
+KE 1434	Irritation of nasal mucosa inducing sneeze reflex	Irritation of nasal mucosa inducing sneeze reflex	Irritation of nasal mucosa inducing sneeze reflex	lung	1	AO	Tissue	1.0	AOP 196	1	0	0	1	0	
+KE 1435	Increased neurokinin A (NKA) by neuronal cells	Increased neurokinin A (NKA) by neuronal cells	Increased neurokinin A (NKA) by neuronal cells	lung	1	KE	Cellular	1.0	AOP 196	1	0	0	1	0	
+KE 1438	Transcription of genes encoding acute phase proteins, Increased	Transcription of genes encoding acute phase proteins, Increased	Transcription of genes encoding acute phase proteins, Increased	lung	1	KE	Organ	0.0	AOP 237	1	1	2063	1	0	
+KE 1439	Systemic acute phase response	Systemic acute phase response	Systemic acute phase response	lung	1	KE	Organ	0.0	AOP 237	1	1	916	1	0	
+KE 1443	Atherosclerosis	Atherosclerosis	Atherosclerosis	lung	1	AO	Individual	0.0	AOP 237	1	1	1152	1	0	
+KE 1445	Increase, Lipid peroxidation	Increase, Lipid peroxidation	Increase, Lipid peroxidation	kidney	1	KE	Molecular	1.0	AOP 413	1	1	1858	1	0	
+KE 1456	Increase, Differentiation of fibroblasts	Increase, Differentiation of fibroblasts	Increase, Differentiation of fibroblasts	lung	1	KE	Cellular	1.0	AOP 241	1	0	0	1	0	
+KE 1457	Epithelial Mesenchymal Transition	Epithelial Mesenchymal Transition	Epithelial Mesenchymal Transition	lung	1	KE	Cellular	1.0	AOP 206;AOP 241;AOP 280;AOP 347;AOP 415;AOP 452	6	1	8567	1	0	
+KE 1458	Pulmonary fibrosis	Pulmonary fibrosis	Pulmonary fibrosis	lung	1	AO	Organ	0.0	AOP 173;AOP 241;AOP 347;AOP 481	4	1	1831	1	0	
+KE 1468	Activation, Latent Transforming Growth Factor Beta 1	Activation, Latent Transforming Growth Factor Beta 1	Activation, Latent Transforming Growth Factor Beta 1	lung	1	MIE	Molecular	1.0	AOP 241	1	0	0	1	0	
+KE 1469	Activation, Transforming Growth Factor beta pathway	Activation, Transforming Growth Factor beta pathway	Activation, Transforming Growth Factor beta pathway	lung	1	KE	Molecular	1.0	AOP 241	1	0	0	1	0	
+KE 1481	Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	kidney	1	MIE	Molecular	1.0	AOP 256	1	0	0	1	0	
+KE 1482	Depletion, mtDNA 	Depletion, mtDNA	Depletion, mtDNA 	kidney	1	KE	Cellular	1.0	AOP 256	1	0	0	1	0	
+KE 1486	Binding of substrate, endocytic receptor	Binding of substrate, endocytic receptor	Binding of substrate, endocytic receptor	kidney	1	MIE	Molecular	1.0	AOP 257	1	0	0	1	0	
+KE 1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	brain;kidney	2	MIE	Molecular	1.0	AOP 17;AOP 284	2	1	1270	1	0	
+KE 1488	Glutamate dyshomeostasis	Glutamate dyshomeostasis	Glutamate dyshomeostasis	brain	1	KE	Cellular	1.0	AOP 17	1	1	4767	1	0	
+KE 1492	Tissue resident cell activation	Tissue resident cell activation	Tissue resident cell activation	brain	1	KE	Cellular	1.0	AOP 17;AOP 483	2	1	7216	1	0	
+KE 1493	Increased Pro-inflammatory mediators	Increased Pro-inflammatory mediators	Increased Pro-inflammatory mediators	brain;lung	2	KE	Tissue	1.0	AOP 17;AOP 377	2	1	12304	1	4	WP4493;WP453;WP5095;WP530
+KE 1495	Substance interaction with the lung resident cell membrane components	Substance interaction with the lung resident cell membrane components	Substance interaction with the lung resident cell membrane components	lung	1	MIE	Molecular	1.0	AOP 173;AOP 237;AOP 451	3	1	4787	1	0	
+KE 1496	Increased, secretion of proinflammatory mediators	Increased, secretion of proinflammatory mediators	Increased, secretion of proinflammatory mediators	lung	1	KE	Cellular	1.0	AOP 39;AOP 173;AOP 237;AOP 319;AOP 320;AOP 377;AOP 382;AOP 451	8	1	3774	1	0	
+KE 1497	Increased, recruitment of inflammatory cells	Increased, recruitment of inflammatory cells	Increased, recruitment of inflammatory cells	lung	1	KE	Tissue	1.0	AOP 173;AOP 303;AOP 377;AOP 451	4	1	2836	1	0	
+KE 1498	Loss of alveolar capillary membrane integrity	Loss of alveolar capillary membrane integrity	Loss of alveolar capillary membrane integrity	lung	1	KE	Tissue	1.0	AOP 173;AOP 302	2	1	5140	1	0	
+KE 1499	Increased, activation of T (T) helper (h) type 2 cells	Increased, activation of T (T) helper (h) type 2 cells	Increased, activation of T (T) helper (h) type 2 cells	lung	1	KE	Tissue	1.0	AOP 173	1	1	3471	1	0	
+KE 1500	Increased, fibroblast proliferation and myofibroblast differentiation	Increased, fibroblast proliferation and myofibroblast differentiation	Increased, fibroblast proliferation and myofibroblast differentiation	lung	1	KE	Tissue	1.0	AOP 173	1	1	3753	1	0	
+KE 1501	Increase, Extracellular matrix deposition	Increase, Extracellular matrix deposition	Increase, Extracellular matrix deposition	lung	1	KE	Tissue	1.0	AOP 415	1	1	4689	1	2	WP129;WP560
+KE 1508	CYP2E1 Activation	CYP2E1 Activation	CYP2E1 Activation	brain	1	MIE	Molecular	1.0	AOP 260	1	1	1104	1	0	
+KE 1509	Protein Adduct Formation	Protein Adduct Formation	Protein Adduct Formation	brain	1	MIE	Molecular	1.0	AOP 260	1	1	449	1	0	
+KE 1511	Lipid Peroxidation	Lipid Peroxidation	Lipid Peroxidation	brain	1	KE	Molecular	1.0	AOP 260	1	1	683	1	0	
+KE 1512	Unfolded Protein Response	Unfolded Protein Response	Unfolded Protein Response	brain	1	KE	Molecular	1.0	AOP 260;AOP 464	2	1	1066	1	1	WP4925
+KE 1513	General Apoptosis	General Apoptosis	General Apoptosis	brain	1	KE	Cellular	1.0	AOP 260	1	1	720	1	0	
+KE 1514	Neurodegeneration	Neurodegeneration	Neurodegeneration	brain	1	AO	Organ	0.0	AOP 260	1	1	383	1	0	
+KE 1527	Increase, Cell membrane depolarization	Increase, Cell membrane depolarization	Increase, Cell membrane depolarization	brain	1	KE	Cellular	1.0	AOP 464	1	0	0	1	0	
+KE 1535	Heart failure 	Heart failure	Heart failure 	lung	1	KE	Organ	0.0	AOP 377	1	1	124	1	0	
+KE 1538	Decreased protection against oxidative stress	Decreased protection against oxidative stress	Decreased protection against oxidative stress	brain;kidney	2	KE	Cellular	1.0	AOP 17;AOP 284	2	1	2222	1	0	
+KE 1541	Mitochondrial Complex I inhibition	Mitochondrial Complex I inhibition	Mitochondrial Complex I inhibition	brain	1	MIE	Molecular	1.0	AOP 564	1	0	0	1	0	
+KE 1547	Mitochondrial Injury	Mitochondrial Injury	Mitochondrial Injury	brain	1	KE	Cellular	1.0	AOP 464	1	0	0	1	0	
+KE 1556	Increase, lung cancer	Increase, lung cancer	Increase, lung cancer	lung	1	AO	Organ	0.0	AOP 272	1	1	1624	1	0	
+KE 1580	Binding of microtubule stabilizing agents (MSA) to microtubules	Binding of microtubule stabilizing agents (MSA) to microtubules	Binding of microtubule stabilizing agents (MSA) to microtubules	brain	1	MIE	Molecular	1.0	AOP 279	1	1	369	1	0	
+KE 1581	Disturbance in microtubule dynamic instability	Disturbance in microtubule dynamic instability	Disturbance in microtubule dynamic instability	brain	1	KE	Cellular	1.0	AOP 279	1	1	1546	1	0	
+KE 1582	Impaired axonial transport	Impaired axonial transport	Impaired axonial transport	brain	1	KE	Cellular	1.0	AOP 279;AOP 429;AOP 471	3	1	1271	1	0	
+KE 1583	Sensory axonal peripheral neuropathy	Sensory axonal peripheral neuropathy	Sensory axonal peripheral neuropathy	brain	1	AO	Individual	0.0	AOP 279;AOP 450;AOP 471	3	1	1183	1	0	
+KE 1584	Interaction of α-diketones with arginine residues	Interaction of α-diketones with arginine residues	Interaction of α-diketones with arginine residues	lung	1	MIE	Molecular	1.0	AOP 280	1	1	190	1	0	
+KE 1585	Proteasomal dysfunction	Proteasomal dysfunction	Proteasomal dysfunction	brain;lung	2	KE	Molecular	1.0	AOP 280;AOP 464	2	1	209	1	0	
+KE 1586	Airway epithelial injury	Airway epithelial injury	Airway epithelial injury	lung	1	KE	Cellular	1.0	AOP 280;AOP 481	2	1	188	1	0	
+KE 1587	Fibroproliferative airway lesions	Fibroproliferative airway lesions	Fibroproliferative airway lesions	lung	1	KE	Tissue	1.0	AOP 280	1	1	709	1	0	
+KE 1588	Bronchiolitis obliterans	Bronchiolitis obliterans	Bronchiolitis obliterans	lung	1	AO	Individual	0.0	AOP 280	1	1	236	1	0	
+KE 1602	Increased Muscarinic Acetylcholine Receptors	Increased Muscarinic Acetylcholine Receptors	Increased Muscarinic Acetylcholine Receptors	brain	1	KE	Molecular	1.0	AOP 281	1	1	1456	1	0	
+KE 1603	Chronic kidney disease	Chronic kidney disease	Chronic kidney disease	kidney	1	AO	Organ	0.0	AOP 284;AOP 384	2	0	0	1	0	
+KE 1605	Accumulation of misfolded proteins	Accumulation of misfolded proteins	Accumulation of misfolded proteins	brain	1	KE	Cellular	1.0	AOP 464	1	1	64	1	1	WP4925
+KE 1607	Increase, Necrosis	Increase, Necrosis	Increase, Necrosis	kidney	1	KE	Tissue	1.0	AOP 413	1	0	0	1	0	
+KE 1623	Occurrence, Focal Seizure	Occurrence, Focal Seizure	Occurrence, Focal Seizure	brain	1	KE	Tissue	1.0	AOP 281	1	1	1122	1	0	
+KE 1633	Increase in inflammation	Increase in inflammation	Increase in inflammation	kidney	1	KE	Tissue	1.0	AOP 447	1	0	0	1	2	WP453;WP530
+KE 1635	Increase, DNA strand breaks	Increase, DNA strand breaks	Increase, DNA strand breaks	brain;lung	2	KE	Molecular	1.0	AOP 272;AOP 483	2	1	2280	1	0	
+KE 1636	Increase, Chromosomal aberrations	Increase, Chromosomal aberrations	Increase, Chromosomal aberrations	lung	1	KE	Cellular	1.0	AOP 272	1	1	5334	1	0	
+KE 1656	Antagonism, Thyroid Receptor 	Antagonism, Thyroid Receptor	Antagonism, Thyroid Receptor 	brain	1	MIE	Molecular	1.0	AOP 300;AOP 525	2	1	1379	1	0	
+KE 1668	Frustrated phagocytosis	Frustrated phagocytosis	Frustrated phagocytosis	lung	1	MIE	Cellular	1.0	AOP 303	1	1	1254	1	0	
+KE 1669	Increased, DNA damage and mutation	Increased, DNA damage and mutation	Increased, DNA damage and mutation	lung	1	KE	Cellular	1.0	AOP 303;AOP 416;AOP 417;AOP 451	4	1	590	1	0	
+KE 1670	Lung cancer	Lung cancer	Lung cancer	lung	1	AO	Organ	0.0	AOP 303;AOP 416;AOP 417;AOP 451	4	1	372	1	0	
+KE 1672	Inhibition of lung surfactant function	Inhibition of lung surfactant function	Inhibition of lung surfactant function	lung	1	MIE	Molecular	1.0	AOP 302	1	1	1045	1	0	
+KE 1673	Alveolar collapse	Alveolar collapse	Alveolar collapse	lung	1	KE	Cellular	1.0	AOP 302	1	1	777	1	0	
+KE 1677	Reduced tidal volume 	Reduced tidal volume	Reduced tidal volume 	lung	1	KE	Organ	0.0	AOP 302	1	0	0	1	0	
+KE 1686	Deposition of Energy	Deposition of Energy	Deposition of Energy	brain;lung	2	MIE	Molecular	1.0	AOP 272;AOP 483	2	1	3151	1	0	
+KE 1708	Th17 cell migration and inflammation induction	Th17 cell migration and inflammation induction	Th17 cell migration and inflammation induction	lung	1	KE	Cellular	1.0	AOP 377	1	1	3122	1	0	
+KE 1738	SARS-CoV-2 cell entry 	SARS-CoV-2 cell entry	SARS-CoV-2 cell entry 	lung	1	KE	Cellular	1.0	AOP 320	1	1	16727	1	0	
+KE 1739	Binding to ACE2	Binding to ACE2	Binding to ACE2	brain;lung	2	MIE	Molecular	1.0	AOP 320;AOP 374	2	1	2825	1	0	
+KE 1740	Induced dysregulation of ACE2 	Induced dysregulation of ACE2	Induced dysregulation of ACE2 	lung	1	MIE	Molecular	1.0	AOP 319	1	0	0	1	1	WP554
+KE 1748	Increase, the risk of acute respiratory failure	Increase, the risk of acute respiratory failure	Increase, the risk of acute respiratory failure	lung	1	KE	Organ	0.0	AOP 320;AOP 377	2	0	0	1	0	
+KE 1750	Increased inflammatory immune responses	Increased inflammatory immune responses	Increased inflammatory immune responses	lung	1	KE	Tissue	1.0	AOP 320	1	0	0	1	0	
+KE 1752	Increased Angiotensin II 	Increased Angiotensin II	Increased Angiotensin II 	kidney;lung	2	KE	Cellular	1.0	AOP 319;AOP 384	2	0	0	1	0	
+KE 1770	Decrease, Mitochondrial membrane potential	Decrease, Mitochondrial membrane potential	Decrease, Mitochondrial membrane potential	kidney	1	KE	Cellular	1.0	AOP 447	1	0	0	1	0	
+KE 1788	Status epilepticus	Status epilepticus	Status epilepticus	brain	1	KE	Individual	0.0	AOP 281	1	1	1327	1	0	
+KE 1792	Toll-like receptor 4 activation	Toll-like receptor 4 activation	Toll-like receptor 4 activation	lung	1	MIE	Molecular	1.0	AOP 347	1	0	0	1	0	
+KE 1793	Activator protein 1 activation	Activator protein 1 activation	Activator protein 1 activation	lung	1	KE	Cellular	1.0	AOP 347	1	0	0	1	0	
+KE 1794	Pin-1 activation	Pin-1 activation	Pin-1 activation	lung	1	KE	Cellular	1.0	AOP 347	1	0	0	1	0	
+KE 1795	Latent Transforming growth Factor beta expression	Latent Transforming growth Factor beta expression	Latent Transforming growth Factor beta expression	lung	1	KE	Cellular	1.0	AOP 347	1	0	0	1	0	
+KE 1809	Increase, Tissue/organ damage	Increase, Tissue/organ damage	Increase, Tissue/organ damage	lung	1	KE	Organ	0.0	AOP 377	1	0	0	1	0	
+KE 1812	Increase, Cytochrome c release	Increase, Cytochrome c release	Increase, Cytochrome c release	brain	1	KE	Cellular	1.0	AOP 464	1	0	0	1	0	
+KE 1815	Increase, Endoplasmic reticulum stress	Increase, Endoplasmic reticulum stress	Increase, Endoplasmic reticulum stress	kidney	1	KE	Cellular	1.0	AOP 447	1	0	0	1	1	WP4925
+KE 1816	Mitochondrial dysfunction EMPTY	Mitochondrial dysfunction EMPTY	Mitochondrial dysfunction EMPTY	brain	1	KE	Cellular	1.0	AOP 429	1	0	0	1	0	
+KE 1825	Increase, Cell death	Increase, Cell death	Increase, Cell death	brain;lung	2	KE	Cellular	1.0	AOP 377;AOP 464	2	1	5580	1	4	WP1772;WP2513;WP254;WP4923
+KE 1829	Altered, Thyroid hormone-dependent gene expression	Altered, Thyroid hormone-dependent gene expression	Altered, Thyroid hormone-dependent gene expression	brain	1	KE	Molecular	1.0	AOP 402	1	0	0	1	0	
+KE 1841	Encephalitis	Encephalitis	Encephalitis	brain	1	AO	Organ	0.0	AOP 374;AOP 471	2	1	3433	1	0	
+KE 1842	Prolonged TLR9 activation	Prolonged TLR9 activation	Prolonged TLR9 activation	lung	1	MIE	Molecular	1.0	AOP 377	1	0	0	1	0	
+KE 1843	Multi Organ Failure involving Acute Respiratory Distress Syndrome	Multi Organ Failure involving Acute Respiratory Distress Syndrome	Multi Organ Failure involving Acute Respiratory Distress Syndrome	lung	1	AO	Individual	0.0	AOP 377	1	1	387	1	0	
+KE 1844	systemic inflammatory response syndrome	systemic inflammatory response syndrome	systemic inflammatory response syndrome	lung	1	KE	Individual	0.0	AOP 377	1	0	0	1	0	
+KE 1846	Thrombosis and Disseminated Intravascular Coagulation	Thrombosis and Disseminated Intravascular Coagulation	Thrombosis and Disseminated Intravascular Coagulation	lung	1	KE	Individual	0.0	AOP 377	1	1	1845	1	0	
+KE 1847	Increased SARS-CoV-2 production	Increased SARS-CoV-2 production	Increased SARS-CoV-2 production	lung	1	KE	Cellular	1.0	AOP 320	1	1	14889	1	0	
+KE 1848	Toll Like Receptor (TLR) Dysregulation	Toll Like Receptor (TLR) Dysregulation	Toll Like Receptor (TLR) Dysregulation	lung	1	KE	Molecular	1.0	AOP 320;AOP 377	2	1	6697	1	0	
+KE 1851	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	lung	1	MIE	Molecular	1.0	AOP 319;AOP 382	2	0	0	1	0	
+KE 1852	Increased Ang II type 1 receptor (AT1R)	Increased Ang II type 1 receptor (AT1R)	Increased Ang II type 1 receptor (AT1R)	kidney	1	KE	Tissue	1.0	AOP 384	1	0	0	1	1	WP5036
+KE 1853	Hyperactivation of ACE/Ang-II/AT1R axis	Hyperactivation of ACE/Ang-II/AT1R axis	Hyperactivation of ACE/Ang-II/AT1R axis	kidney	1	MIE	Molecular	1.0	AOP 384	1	0	0	1	0	
+KE 1854	Dysregulation, ACE2 expression and activity	Dysregulation, ACE2 expression and activity	Dysregulation, ACE2 expression and activity	lung	1	KE	Molecular	1.0	AOP 319	1	1	16018	1	0	
+KE 1855	Increased Sodium-sensitive hypertension	Increased Sodium-sensitive hypertension	Increased Sodium-sensitive hypertension	kidney	1	KE	Tissue	1.0	AOP 384	1	0	0	1	0	
+KE 1857	Platelet-neutrophil interactions, Increased 	Platelet-neutrophil interactions, Increased	Platelet-neutrophil interactions, Increased 	lung	1	KE	Cellular	1.0	AOP 377	1	1	4371	1	0	
+KE 1868	Hyperinflammation	Hyperinflammation	Hyperinflammation	lung	1	KE	Tissue	1.0	AOP 377	1	1	7085	1	0	
+KE 1869	Diminished protective oxidative stress response	Diminished protective oxidative stress response	Diminished protective oxidative stress response	brain;lung	2	KE	Cellular	1.0	AOP 377;AOP 488	2	1	2407	1	0	
+KE 1895	NLRP3 inflammasome activity, increased	NLRP3 inflammasome activity, increased	NLRP3 inflammasome activity, increased	lung	1	KE	Molecular	1.0	AOP 377	1	1	1103	1	0	
+KE 1897	increased MyD88 activation	increased MyD88 activation	increased MyD88 activation	lung	1	KE	Molecular	1.0	AOP 377	1	0	0	1	0	
+KE 1898	Increase, Damage-associated molecular pattern release	Increase, Damage-associated molecular pattern release	Increase, Damage-associated molecular pattern release	lung	1	KE	Tissue	1.0	AOP 377	1	0	0	1	0	
+KE 1899	formation of neutrophil extracellular traps (NETs)	formation of neutrophil extracellular traps (NETs)	formation of neutrophil extracellular traps (NETs)	lung	1	KE	Cellular	1.0	AOP 377	1	0	0	1	0	
+KE 1900	increased platelet surface TLR9 expression	increased platelet surface TLR9 expression	increased platelet surface TLR9 expression	lung	1	KE	Cellular	1.0	AOP 377	1	0	0	1	0	
+KE 1901	Interferon-I antiviral response, antagonized by SARS-CoV-2	Interferon-I antiviral response, antagonized by SARS-CoV-2	Interferon-I antiviral response, antagonized by SARS-CoV-2	lung	1	KE	Cellular	1.0	AOP 320	1	1	8799	1	0	
+KE 1906	Cystic Fibrosis Transmembrane Regulator Function, Decreased	Cystic Fibrosis Transmembrane Regulator Function, Decreased	Cystic Fibrosis Transmembrane Regulator Function, Decreased	lung	1	KE	Molecular	1.0	AOP 424	1	1	2309	1	0	
+KE 1907	Airway Surface Liquid Height, Decreased 	Airway Surface Liquid Height, Decreased	Airway Surface Liquid Height, Decreased 	lung	1	KE	Tissue	1.0	AOP 424	1	1	1505	1	0	
+KE 1908	Cilia Beat Frequency, Decreased	Cilia Beat Frequency, Decreased	Cilia Beat Frequency, Decreased	lung	1	KE	Cellular	1.0	AOP 411;AOP 424;AOP 425	3	1	3516	1	0	
+KE 1909	Mucociliary Clearance, Decreased	Mucociliary Clearance, Decreased	Mucociliary Clearance, Decreased	lung	1	KE	Individual	0.0	AOP 411;AOP 424;AOP 425	3	1	756	1	0	
+KE 1911	FOXJ1 Protein, Decreased	FOXJ1 Protein, Decreased	FOXJ1 Protein, Decreased	lung	1	KE	Cellular	1.0	AOP 425	1	1	2547	1	0	
+KE 1912	Motile Cilia Number/Length, Decreased	Motile Cilia Number/Length, Decreased	Motile Cilia Number/Length, Decreased	lung	1	KE	Cellular	1.0	AOP 425	1	1	1526	1	0	
+KE 1917	Altered gene expression, NRF2 dependent antioxidant pathway	Altered gene expression, NRF2 dependent antioxidant pathway	Altered gene expression, NRF2 dependent antioxidant pathway	kidney	1	KE	Molecular	1.0	AOP 447	1	0	0	1	0	
+KE 1921	Altered gene expression, NF-kB dependent Interleukin-6 pathway	Altered gene expression, NF-kB dependent Interleukin-6 pathway	Altered gene expression, NF-kB dependent Interleukin-6 pathway	lung	1	KE	Molecular	1.0	AOP 415;AOP 416	2	0	0	1	0	
+KE 1922	Increased, Reactive metabolites production	Increased, Reactive metabolites production	Increased, Reactive metabolites production	lung	1	KE	Cellular	1.0	AOP 417	1	0	0	1	0	
+KE 1923	Altered gene expression, P53 dependent apoptosis pathway	Altered gene expression, P53 dependent apoptosis pathway	Altered gene expression, P53 dependent apoptosis pathway	lung	1	KE	Molecular	1.0	AOP 419	1	0	0	1	0	
+KE 1933	Increased, Interleukin-6 production	Increased, Interleukin-6 production	Increased, Interleukin-6 production	lung	1	KE	Cellular	1.0	AOP 416	1	0	0	1	0	
+KE 1941	Memory Loss	Memory Loss	Memory Loss	brain	1	AO	Individual	0.0	AOP 429	1	0	0	1	0	
+KE 1942	Accumulation, Cytosolic toxic Tau oligomers	Accumulation, Cytosolic toxic Tau oligomers	Accumulation, Cytosolic toxic Tau oligomers	brain	1	KE	Cellular	1.0	AOP 429	1	0	0	1	0	
+KE 1943	Hyperphosphorylation of Tau	Hyperphosphorylation of Tau	Hyperphosphorylation of Tau	brain	1	KE	Cellular	1.0	AOP 429	1	0	0	1	0	
+KE 1944	Synaptic dysfunction	Synaptic dysfunction	Synaptic dysfunction	brain	1	KE	Organ	0.0	AOP 429;AOP 471;AOP 475	3	1	450	1	0	
+KE 1945	Dysfunctional Autophagy	Dysfunctional Autophagy	Dysfunctional Autophagy	brain;lung	2	KE	Cellular	1.0	AOP 429;AOP 452	2	0	0	1	0	
+KE 1977	Disruption of sodium channel gating kinetics	Disruption of sodium channel gating kinetics	Disruption of sodium channel gating kinetics	brain	1	KE	Cellular	1.0	AOP 442;AOP 489	2	1	2036	1	0	
+KE 1978	Increase risk, microcephaly	Increase risk, microcephaly	Increase risk, microcephaly	brain	1	AO	Individual	0.0	AOP 523	1	0	0	1	0	
+KE 1983	Disruption, action potential generation	Disruption, action potential generation	Disruption, action potential generation	brain	1	KE	Cellular	1.0	AOP 442	1	1	2908	1	0	
+KE 2005	Altered neurotransmission in development	Altered neurotransmission in development	Altered neurotransmission in development	brain	1	KE	Cellular	1.0	AOP 442	1	1	2130	1	0	
+KE 2006	Secondary genotoxicity	Secondary genotoxicity	Secondary genotoxicity	lung	1	KE	Cellular	1.0	AOP 451	1	0	0	1	0	
+KE 2007	Non-coding RNA expression profile alteration	Non-coding RNA expression profile alteration	Non-coding RNA expression profile alteration	lung	1	MIE	Molecular	1.0	AOP 452	1	0	0	1	0	
+KE 2008	Chronic obstructive pulmonary disease	Chronic obstructive pulmonary disease	Chronic obstructive pulmonary disease	lung	1	AO	Individual	0.0	AOP 452	1	0	0	1	0	
+KE 2009	Activation of inflammation pathway	Activation of inflammation pathway	Activation of inflammation pathway	lung	1	KE	Cellular	1.0	AOP 452	1	0	0	1	2	WP453;WP530
+KE 2010	Pulmonary inflammation	Pulmonary inflammation	Pulmonary inflammation	lung	1	KE	Organ	0.0	AOP 452;AOP 481	2	0	0	1	0	
+KE 2011	Emphysema	Emphysema	Emphysema	lung	1	KE	Organ	0.0	AOP 452	1	0	0	1	0	
+KE 2012	Fibroblast proliferation and differentiation	Fibroblast proliferation and differentiation	Fibroblast proliferation and differentiation	lung	1	KE	Cellular	1.0	AOP 452	1	0	0	1	0	
+KE 2013	Airway remodeling	Airway remodeling	Airway remodeling	lung	1	KE	Organ	0.0	AOP 452	1	0	0	1	0	
+KE 2017	Endoplasmic reticulum stress	Endoplasmic reticulum stress	Endoplasmic reticulum stress	brain	1	KE	Cellular	1.0	AOP 464	1	0	0	1	0	
+KE 2029	protein-coupled estrogen receptor 1 (GPER) activation	protein-coupled estrogen receptor 1 (GPER) activation	protein-coupled estrogen receptor 1 (GPER) activation	brain	1	MIE	Molecular	1.0	AOP 535	1	0	0	1	1	WP712
+KE 2036	Activation of metabotropic glutamate receptor	Activation of metabotropic glutamate receptor	Activation of metabotropic glutamate receptor	brain	1	MIE	Molecular	1.0	AOP 464	1	0	0	1	0	
+KE 2037	Inositol triphosphate receptor activation	Inositol triphosphate receptor activation	Inositol triphosphate receptor activation	brain	1	MIE	Molecular	1.0	AOP 464	1	1	1201	1	0	
+KE 2038	Activation of calpain signalling	Activation of calpain signalling	Activation of calpain signalling	brain	1	KE	Cellular	1.0	AOP 464	1	0	0	1	0	
+KE 2039	Inhibition GABAA receptor	Inhibition GABAA receptor	Inhibition GABAA receptor	brain	1	MIE	Molecular	1.0	AOP 464	1	0	0	1	0	
+KE 2078	Loss of drebrin	Loss of drebrin	Loss of drebrin	brain	1	KE	Cellular	1.0	AOP 471;AOP 475	2	1	1547	1	0	
+KE 2085	Pulmonary epithelial injury	Pulmonary epithelial injury	Pulmonary epithelial injury	lung	1	KE	Cellular	1.0	AOP 481	1	0	0	1	0	
+KE 2086	Airway inflammation	Airway inflammation	Airway inflammation	lung	1	KE	Organ	0.0	AOP 481	1	0	0	1	0	
+KE 2087	Increased incidence of respiratory disease	Increased incidence of respiratory disease	Increased incidence of respiratory disease	lung	1	AO	Individual	0.0	AOP 481	1	0	0	1	0	
+KE 2088	Dysfunction of respiratory system	Dysfunction of respiratory system	Dysfunction of respiratory system	lung	1	AO	Individual	0.0	AOP 481	1	0	0	1	0	
+KE 2093	Brain thyroid hormone (T4/T3) decreased	Brain thyroid hormone (T4/T3) decreased	Brain thyroid hormone (T4/T3) decreased	brain	1	KE	Organ	0.0	AOP 402	1	0	0	1	0	
+KE 2094	Abnormal, neuroblast migration	Abnormal, neuroblast migration	Abnormal, neuroblast migration	brain	1	KE	Cellular	1.0	AOP 402	1	0	0	1	0	
+KE 2095	Periventricular heterotopia formation	Periventricular heterotopia formation	Periventricular heterotopia formation	brain	1	AO	Individual	0.0	AOP 402	1	0	0	1	0	
+KE 2097	Increase, Pro-Inflammatory Mediators	Increase, Pro-Inflammatory Mediators	Increase, Pro-Inflammatory Mediators	brain	1	KE	Tissue	1.0	AOP 483	1	1	4390	1	0	
+KE 2098	Increase, Abnormal Neural Remodeling	Increase, Abnormal Neural Remodeling	Increase, Abnormal Neural Remodeling	brain	1	KE	Tissue	1.0	AOP 483	1	1	3171	1	0	
+KE 2107	Hypomyelination	Hypomyelination	Hypomyelination	brain	1	KE	Tissue	1.0	AOP 488;AOP 489;AOP 525	3	0	0	1	0	
+KE 2108	Altered, white brain matter	Altered, white brain matter	Altered, white brain matter	brain	1	KE	Tissue	1.0	AOP 488;AOP 489;AOP 525	3	0	0	1	0	
+KE 2109	Binding, extracellular matrix protein laminin	Binding, extracellular matrix protein laminin	Binding, extracellular matrix protein laminin	brain	1	MIE	Molecular	1.0	AOP 486	1	0	0	1	0	
+KE 2110	Disrupted binding, laminin-beta1-integrin receptors with laminin	Disrupted binding, laminin-beta1-integrin receptors with laminin	Disrupted binding, laminin-beta1-integrin receptors with laminin	brain	1	KE	Molecular	1.0	AOP 486	1	0	0	1	0	
+KE 2111	Decreased, neural progenitor cell adhesion to laminin	Decreased, neural progenitor cell adhesion to laminin	Decreased, neural progenitor cell adhesion to laminin	brain	1	KE	Cellular	1.0	AOP 486	1	0	0	1	0	
+KE 2112	Disturbed, radial glia cell alignment and migration	Disturbed, radial glia cell alignment and migration	Disturbed, radial glia cell alignment and migration	brain	1	KE	Cellular	1.0	AOP 486	1	0	0	1	0	
+KE 2113	Decreased, radial glia cell density	Decreased, radial glia cell density	Decreased, radial glia cell density	brain	1	KE	Cellular	1.0	AOP 486	1	0	0	1	0	
+KE 2114	Disturbed, cortical architecture	Disturbed, cortical architecture	Disturbed, cortical architecture	brain	1	KE	Organ	0.0	AOP 486	1	0	0	1	0	
+KE 2115	Altered, cholesterol metabolism	Altered, cholesterol metabolism	Altered, cholesterol metabolism	brain	1	KE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2116	Decreased, oligodendrocyte differentiation	Decreased, oligodendrocyte differentiation	Decreased, oligodendrocyte differentiation	brain	1	KE	Cellular	1.0	AOP 488;AOP 489	2	0	0	1	0	
+KE 2117	Increase, goblet cell number	Increase, goblet cell number	Increase, goblet cell number	lung	1	KE	Cellular	1.0	AOP 148	1	1	2869	1	0	
+KE 2146	Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2	Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2	Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2	brain	1	MIE	Molecular	1.0	AOP 499;AOP 500	2	1	1442	1	0	
+KE 2148	Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron 	Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron	Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron 	brain	1	MIE	Molecular	1.0	AOP 498	1	0	0	1	0	
+KE 2149	Increased intracelluar Iron accumulation	Increased intracelluar Iron accumulation	Increased intracelluar Iron accumulation	brain	1	MIE	Cellular	1.0	AOP 498;AOP 501	2	0	0	1	0	
+KE 2150	Neurological disorder	Neurological disorder	Neurological disorder	brain	1	AO	Individual	0.0	AOP 471;AOP 498;AOP 501	3	0	0	1	0	
+KE 2151	Disruption, neurotransmitter release	Disruption, neurotransmitter release	Disruption, neurotransmitter release	brain	1	KE	Molecular	1.0	AOP 471;AOP 499;AOP 535;AOP 564	4	1	77	1	0	
+KE 2187	Opening, voltage-gated calcium channels	Opening, voltage-gated calcium channels	Opening, voltage-gated calcium channels	brain	1	MIE	Molecular	1.0	AOP 464	1	0	0	1	0	
+KE 2188	Activation, caspases	Activation, caspases	Activation, caspases	brain	1	KE	Cellular	1.0	AOP 464	1	0	0	1	0	
+KE 2195	Increase, CNS Neural cell death	Increase, CNS Neural cell death	Increase, CNS Neural cell death	brain	1	MIE	Cellular	1.0	AOP 471	1	0	0	1	0	
+KE 2196	Decrease, elavl3 	Decrease, elavl3	Decrease, elavl3 	brain	1	KE	Molecular	1.0	AOP 471	1	0	0	1	0	
+KE 2197	Decrease, sox10	Decrease, sox10	Decrease, sox10	brain	1	KE	Molecular	1.0	AOP 471	1	0	0	1	0	
+KE 2198	Decrease, mbp	Decrease, mbp	Decrease, mbp	brain	1	KE	Molecular	1.0	AOP 471	1	0	0	1	0	
+KE 2201	Agonism, Retinoic acid receptor	Agonism, Retinoic acid receptor	Agonism, Retinoic acid receptor	brain	1	MIE	Molecular	1.0	AOP 520;AOP 523	2	1	3387	1	0	
+KE 2202	Altered expression of cell cycle genes	Altered expression of cell cycle genes	Altered expression of cell cycle genes	brain	1	KE	Molecular	1.0	AOP 520;AOP 523	2	1	2187	1	0	
+KE 2203	Decreased proliferation of cortical neural progenitor cells	Decreased proliferation of cortical neural progenitor cells	Decreased proliferation of cortical neural progenitor cells	brain	1	KE	Cellular	1.0	AOP 520;AOP 523	2	1	2087	1	0	
+KE 2204	Altered brain morphology	Altered brain morphology	Altered brain morphology	brain	1	KE	Organ	0.0	AOP 520	1	0	0	1	0	
+KE 2208	Aberrant, synaptic formation and plasticity	Aberrant, synaptic formation and plasticity	Aberrant, synaptic formation and plasticity	brain	1	KE	Organ	0.0	AOP 535	1	0	0	1	0	
+KE 2210	Reduced cortical thickness	Reduced cortical thickness	Reduced cortical thickness	brain	1	KE	Tissue	1.0	AOP 523	1	0	0	1	0	
+KE 2216	Binding of antagonist to thyroid hormone receptor	Binding of antagonist to thyroid hormone receptor	Binding of antagonist to thyroid hormone receptor	brain	1	MIE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2217	Binding of antagonist to glucocorticoid hormone receptor	Binding of antagonist to glucocorticoid hormone receptor	Binding of antagonist to glucocorticoid hormone receptor	brain	1	MIE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2218	Binding of (ant)agonist to liver X receptor	Binding of (ant)agonist to liver X receptor	Binding of (ant)agonist to liver X receptor	brain	1	MIE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2219	Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha	Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha	Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha	brain	1	MIE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2220	Antagonism, Glucocorticoid hormone receptor	Antagonism, Glucocorticoid hormone receptor	Antagonism, Glucocorticoid hormone receptor	brain	1	KE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2221	Altered Liver X receptor activity	Altered Liver X receptor activity	Altered Liver X receptor activity	brain	1	KE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2222	Altered peroxisome proliferator–activated receptor alpha activity	Altered peroxisome proliferator–activated receptor alpha activity	Altered peroxisome proliferator–activated receptor alpha activity	brain	1	KE	Molecular	1.0	AOP 525	1	0	0	1	0	
+KE 2223	Reduced number of oligodendrocytes	Reduced number of oligodendrocytes	Reduced number of oligodendrocytes	brain	1	KE	Cellular	1.0	AOP 525	1	0	0	1	0	
+KE 2232	Antagonism, Retinoic acid receptors	Antagonism, Retinoic acid receptors	Antagonism, Retinoic acid receptors	brain	1	MIE	Molecular	1.0	AOP 533	1	0	0	1	0	
+KE 2233	Decreased, ERαβ heterodimers	Decreased, ERαβ heterodimers	Decreased, ERαβ heterodimers	brain	1	KE	Molecular	1.0	AOP 535	1	0	0	1	0	
+KE 2242	Abnormality, dendritic spine morphology	Abnormality, dendritic spine morphology	Abnormality, dendritic spine morphology	brain	1	KE	Cellular	1.0	AOP 475	1	1	927	1	0	
+KE 2244	Altered Stress Response Signaling	Altered Stress Response Signaling	Altered Stress Response Signaling	brain	1	KE	Molecular	1.0	AOP 483	1	1	8591	1	0	
+KE 2262	 Neuropathy target esterase, inhibited	Neuropathy target esterase, inhibited	 Neuropathy target esterase, inhibited	brain	1	MIE	Molecular	1.0	AOP 543;AOP 544	2	1	2308	1	0	
+KE 2263	 Lysolecithin, increased	Lysolecithin, increased	 Lysolecithin, increased	brain	1	KE	Cellular	1.0	AOP 543;AOP 544	2	1	1214	1	0	
+KE 2264	 Lysolecithin cell membrane integration, increased	Lysolecithin cell membrane integration, increased	 Lysolecithin cell membrane integration, increased	brain	1	KE	Cellular	1.0	AOP 543	1	1	782	1	0	
+KE 2265	 Oligodendrocyte death, increased	Oligodendrocyte death, increased	 Oligodendrocyte death, increased	brain	1	KE	Cellular	1.0	AOP 543;AOP 544	2	1	780	1	0	
+KE 2266	Demyelination, increased	Demyelination, increased	Demyelination, increased	brain	1	KE	Cellular	1.0	AOP 543;AOP 544	2	1	684	1	0	
+KE 2267	Delayed neuropathy, increased	Delayed neuropathy, increased	Delayed neuropathy, increased	brain	1	AO	Individual	0.0	AOP 543;AOP 544	2	0	0	1	0	
+KE 2299	Altered, Redox Homeostasis	Altered, Redox Homeostasis	Altered, Redox Homeostasis	brain	1	KE	Molecular	1.0	AOP 564	1	1	179	1	0	
+KE 2300	Disruption, Glucolipid metabolism	Disruption, Glucolipid metabolism	Disruption, Glucolipid metabolism	brain	1	KE	Cellular	1.0	AOP 564	1	1	172	1	0	
+KE 2301	Abnormal, Behavior	Abnormal, Behavior	Abnormal, Behavior	brain	1	KE	Individual	0.0	AOP 564	1	1	89	1	0	
+KE 2302	Increase, Malformations	Increase, Malformations	Increase, Malformations	brain	1	AO	Population	0.0	AOP 564	1	1	150	1	0	

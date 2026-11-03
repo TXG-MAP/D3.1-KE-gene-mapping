@@ -1,0 +1,89 @@
+{
+  "pin_verification": {
+    "endpoint": "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/",
+    "pinned_commit": "97191db",
+    "expected_created_on": "2026-08-01",
+    "observed_created_on": [
+      "2026-08-01"
+    ],
+    "expected_void_triples": {
+      "AOPWikiRDF.ttl": 138968,
+      "AOPWikiRDF-Enriched.ttl": 8360,
+      "AOPWikiRDF-Genes.ttl": 214561
+    },
+    "observed_void_triples": {
+      "AOPWikiRDF-Enriched.ttl": 8360,
+      "AOPWikiRDF.ttl": 138968,
+      "AOPWikiRDF-Genes.ttl": 214561
+    },
+    "matches_pin": true,
+    "problems": []
+  },
+  "outputs": {
+    "ke_inventory.csv": {
+      "rows": 1595,
+      "sha256": "bc0928e6d3b70a216aa331486673da3545fe5b68ef8a66803befc8e1e01783b7"
+    },
+    "ke_gene_long.csv": {
+      "rows": 4366,
+      "sha256": "20e2ad55d60eecfdcab7dbaecf11367736d7ae0f410c470c793752a4312c3de3"
+    },
+    "aop_ke.csv": {
+      "rows": 3722,
+      "sha256": "7c6d43f0918affc8deeaaaa84f683a31f88333ad819c12c56c822125ee4ba699"
+    },
+    "ker_gene_long.csv": {
+      "rows": 7752,
+      "sha256": "b246dcd366c68816dd8b5402e01810c1ef9f1ded5f753fef93b7c76759a58b49"
+    },
+    "gene_xrefs.csv": {
+      "rows": 3832,
+      "sha256": "0437ce1340b490f66ea1bd48d07c8be2c78b7c58a2e39e8093a9b1a9f890637c"
+    }
+  },
+  "observed_counts": {
+    "aops": 595,
+    "key_events": 1595,
+    "kes_with_genes": 488,
+    "kes_gene_by_ner": 462,
+    "kes_gene_by_regex": 384,
+    "unique_genes_on_kes": 1914,
+    "kes_with_description": 635,
+    "gene_annotated_kes_without_description": 0,
+    "aops_with_at_least_one_ke": 540,
+    "aops_with_no_key_event": 55,
+    "kers_with_genes": 703,
+    "unique_genes_on_kers": 2368
+  },
+  "declared_counts": {
+    "aops": 595,
+    "key_events": 1595,
+    "key_event_relationships": 2359,
+    "kes_with_genes": 488,
+    "kes_gene_by_ner": 462,
+    "kes_gene_by_regex": 384,
+    "unique_genes_on_kes": 1914,
+    "kes_with_biological_event": 886,
+    "kes_without_biological_event": 709,
+    "kes_with_bp_term": 764,
+    "aops_with_at_least_one_key_event": 540,
+    "aops_with_no_key_event": 55,
+    "kers_with_genes": 703,
+    "unique_genes_on_kers": 2368
+  },
+  "count_mismatches": [],
+  "queries": [
+    "method1b_regex_vs_ner.rq",
+    "method1c_ke_inventory.rq",
+    "network_organ_aops.rq",
+    "method1d_ker_gene_annotations.rq",
+    "method1e_gene_xrefs.rq"
+  ],
+  "stage": "01_fetch",
+  "generated_at": "2026-08-06T19:39:25+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "endpoint": "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/",
+  "d31_repo_revision": "b8d4407",
+  "python": "3.12.2"
+}

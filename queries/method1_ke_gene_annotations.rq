@@ -1,0 +1,37 @@
+# Method 1 — retrieve gene annotations (NCBI Gene) for every KE of a given AOP.
+#
+# Endpoint : https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+# Release  : AOPWikiRDF @ 97191db, data generated 2026-08-01  (see pinned-release.yaml)
+# Retrieved: (fill in on re-run)
+# Used by  : analysis/method1/Method1.ipynb (one call per AOP ID)
+#
+# The gene block is OPTIONAL on purpose: KEs without any gene annotation must stay in the
+# result set, otherwise the "% of KEs with gene annotations" denominator is wrong.
+#
+# NOTE: as of AOP-Wiki RDF v1.3 (2026-06-24) edam:data_1025 is the UNION of the regex/HGNC
+# matches and the BERN2 NER matches. To report the two separately, query the provenance
+# predicates :geneDetectedByRegex and :geneDetectedByNER instead — see
+# queries/method1b_regex_vs_ner.rq.
+
+PREFIX aopo:    <http://aopkb.org/aop_ontology#>
+PREFIX dc:      <http://purl.org/dc/elements/1.1/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX edam:    <http://edamontology.org/>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT ?aop ?ke ?keid ?ketitle ?id ?ncbi
+WHERE {
+  ?aop a aopo:AdverseOutcomePathway ;
+       rdfs:label "AOP ID" .                      # <- substituted per AOP by the notebook
+  ?ke  a aopo:KeyEvent ;
+       dcterms:isPartOf ?aop ;
+       dc:title ?ketitle ;
+       rdfs:label ?keid .
+  OPTIONAL {
+    ?ke     edam:data_1025 ?object .
+    ?object skos:exactMatch ?id .
+    ?id     a edam:data_1027 ;
+            edam:data_1027 ?ncbi .
+  }
+}

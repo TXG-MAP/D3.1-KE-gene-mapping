@@ -1,0 +1,43 @@
+# Method 1 — every KE-gene pair with its detector provenance.
+#
+# Endpoint : https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+# Release  : AOPWikiRDF @ 97191db, data generated 2026-08-01  (see pinned-release.yaml)
+# Used by  : analysis/method1/m1_01_fetch.py  ->  data/method1/raw/ke_gene_long.csv
+#
+# This is the query that makes the regex-vs-BERN2 comparison possible without re-running the
+# mapping pipeline. Since AOP-Wiki RDF v1.3 (2026-06-24) the two detectors are UNIONed into
+# edam:data_1025, but both subsets survive separately as provenance predicates:
+#
+#   :geneDetectedByRegex  exact string matching of the HGNC symbol/name/alias dictionary
+#   :geneDetectedByNER    BERN2 named-entity recognition + entity linking (NCBI Gene -> HGNC)
+#
+# Both are OPTIONAL and bound per-gene, so each row carries the flags for THAT gene rather
+# than for the KE as a whole. Binding them without the ?gene join (i.e. as two independent
+# KE-level OPTIONALs) produces a cross-product: KE 1000 has 3 genes and would return 9 rows
+# with mismatched flags. That mistake is why the FILTER-free per-gene form below is used.
+#
+# Genes are HGNC IRIs (https://identifiers.org/hgnc/NNNN). rdfs:label carries the symbol.
+#
+# The two flags use EXISTS rather than OPTIONAL + BIND. Both forms give the right answer here,
+# but EXISTS returns a value on every row (Virtuoso serialises xsd:boolean as 1/0) instead of
+# leaving the variable unbound, so a consumer cannot confuse "detector said no" with "the
+# OPTIONAL did not join". The ?gene inside EXISTS is the same variable as the one projected,
+# which is what makes the flags per-gene rather than per-KE. Binding them per-KE instead
+# yields a cross-product: KE 1000 has 3 genes and would return 9 rows with mismatched flags.
+
+PREFIX aopo:  <http://aopkb.org/aop_ontology#>
+PREFIX dc:    <http://purl.org/dc/elements/1.1/>
+PREFIX edam:  <http://edamontology.org/>
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX aopw:  <https://aopwiki.rdf.bigcat-bioinformatics.org/>
+
+SELECT DISTINCT ?keid ?ketitle ?gene ?symbol ?byRegex ?byNer
+WHERE {
+  ?ke a aopo:KeyEvent ;
+      rdfs:label ?keid ;
+      dc:title   ?ketitle ;
+      edam:data_1025 ?gene .
+  OPTIONAL { ?gene rdfs:label ?symbol }
+  BIND( EXISTS { ?ke aopw:geneDetectedByRegex ?gene } AS ?byRegex )
+  BIND( EXISTS { ?ke aopw:geneDetectedByNER   ?gene } AS ?byNer )
+}

@@ -1,0 +1,602 @@
+organ	ke_id	ke_name	ke_type	n_approved_pathways	pathways
+brain	KE 613	Occurrence, Epileptic seizure	AO	1	WP5600
+brain	KE 616	Occurrence, A paroxysmal depolarizing shift	KE	1	WP5600
+brain	KE 64	Reduction, Ionotropic GABA receptor chloride channel conductance	KE	1	WP4159
+brain	KE 669	Reduction, Neuronal synaptic inhibition	KE	1	WP5600
+brain	KE 682	Generation, Amplified excitatory postsynaptic potential (EPSP)	KE	1	WP5600
+brain	KE 667	Binding at picrotoxin site, iGABAR chloride channel	MIE	1	WP4159
+brain	KE 341	Impairment, Learning and memory	AO	0	
+brain	KE 352	N/A, Neurodegeneration	AO	1	WP5372
+brain	KE 188	Neuroinflammation	KE	3	WP4919|WP5083|WP5485
+brain	KE 195	Inhibition, NMDARs	KE	0	
+brain	KE 381	Reduced levels of BDNF	KE	1	WP2380
+brain	KE 52	Decreased, Calcium influx	KE	1	WP536
+brain	KE 55	Increase, Cell injury/death	KE	3	WP1772|WP2507|WP254
+brain	KE 201	Binding of antagonist, NMDA receptors	MIE	0	
+brain	KE 382	Aberrant, Dendritic morphology	KE	0	
+brain	KE 383	Reduced, Presynaptic release of glutamate	KE	2	WP2267|WP5083
+brain	KE 385	Decrease of synaptogenesis	KE	2	WP4875|WP5231
+brain	KE 386	Decrease of neuronal network function	KE	1	WP4875
+brain	KE 402	Cognitive function, decreased	AO	0	
+brain	KE 277	Thyroid hormone synthesis, Decreased	KE	1	WP1981
+brain	KE 280	Thyroxine (T4) in neuronal tissue, Decreased	KE	0	
+brain	KE 281	Thyroxine (T4) in serum, Decreased	KE	1	WP1981
+brain	KE 425	Decrease of Thyroidal iodide	KE	1	WP1981
+brain	KE 756	Hippocampal gene expression, Altered	KE	1	WP5231
+brain	KE 757	Hippocampal anatomy, Altered	KE	2	WP5231|WP5536
+brain	KE 758	Hippocampal Physiology, Altered	KE	2	WP5090|WP5231
+brain	KE 424	Inhibition, Na+/I- symporter (NIS)	MIE	0	
+brain	KE 958	Displacement, Serum thyroxine (T4) from transthyretin	KE	0	
+brain	KE 959	Increased, Free serum thyroxine (T4)	KE	1	WP4746
+brain	KE 960	Increased, Uptake of thyroxine into tissue	KE	1	WP4746
+brain	KE 961	Increased, Clearance of thyroxine from serum	KE	1	WP4746
+brain	KE 957	Binding, Transthyretin in serum	MIE	0	
+brain	KE 351	Increased Mortality	AO	0	
+brain	KE 1012	Increased, Inhibitory postsynaptic potential	KE	1	WP5600
+brain	KE 1014	Induction, Somatic muscle paralysis	KE	1	WP383
+brain	KE 1015	Increased, Neuronal synaptic inhibition	KE	1	WP5600
+brain	KE 1016	Inhibition, Feeding	AO	0	
+brain	KE 761	Increased, Chloride conductance	KE	1	WP4159
+brain	KE 762	Activation, ionotropic GABA Receptor chloride channel	MIE	1	WP4159
+brain	KE 1019	Induction, pharyngeal muscle paralysis	KE	0	
+brain	KE 1018	Activation, Glutamate-gated chloride channels	MIE	0	
+brain	KE 1392	Increase, Oxidative Stress	AO	3	WP3941|WP408|WP5477
+brain	KE 1488	Glutamate dyshomeostasis	KE	1	WP5083
+brain	KE 1492	Tissue resident cell activation	KE	0	
+brain	KE 1493	Increased Pro-inflammatory mediators	KE	4	WP4493|WP453|WP5095|WP530
+brain	KE 1538	Decreased protection against oxidative stress	KE	1	WP408
+brain	KE 1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	MIE	1	WP408
+brain	KE 1363	Increased, epilepsy	AO	1	WP5600
+brain	KE 1321	Increased, intracellular sodium (Na+)	KE	0	
+brain	KE 1344	Increased, seizure	KE	0	
+brain	KE 1350	Increased, glutamate	KE	1	WP5083
+brain	KE 1351	Activated, NMDA receptor	KE	0	
+brain	KE 1352	Activated, voltage-gated sodium channel	KE	1	WP5598
+brain	KE 1353	Binding to voltage-gated sodium channel	MIE	1	WP5598
+brain	KE 1354	Treat, carbamazepine	KE	0	
+brain	KE 1355	Activated, membrane depolarization	KE	1	WP5600
+brain	KE 1362	Increased, hippocampal hyperdepolarization	KE	1	WP5600
+brain	KE 1349	Activated, presynaptic neuron 1	MIE	1	WP2267
+brain	KE 1357	Increased, RDX dose	KE	0	
+brain	KE 1414	Decreased, GABA	KE	1	WP4157
+brain	KE 1415	Reduced, GABA-A receptor activation	KE	1	WP4159
+brain	KE 1416	Decreased, intracellular chloride	KE	0	
+brain	KE 1413	Reduced, presynaptic neuron 2 activity	MIE	1	WP2267
+brain	KE 1115	Increase, Reactive oxygen species	MIE	2	WP408|WP5477
+brain	KE 166	Decreased, Long-term potentiation (LTP)	KE	0	
+brain	KE 178	Mitochondrial electron transport chain, disrupted	KE	2	WP111|WP4324
+brain	KE 193	Decreased, Nitric Oxide	KE	1	WP1995
+brain	KE 40	Mitochondrial ATP production, decreased	KE	3	WP1403|WP391|WP5241
+brain	KE 50	Increase, Ca++ (intracellular)	KE	1	WP536
+brain	KE 51	Inhibition, Ca++ ATPase	MIE	0	
+brain	KE 1514	Neurodegeneration	AO	0	
+brain	KE 1511	Lipid Peroxidation	KE	1	WP4313
+brain	KE 1512	Unfolded Protein Response	KE	1	WP4925
+brain	KE 1513	General Apoptosis	KE	1	WP254
+brain	KE 1508	CYP2E1 Activation	MIE	1	WP43
+brain	KE 1509	Protein Adduct Formation	MIE	0	
+brain	KE 1583	Sensory axonal peripheral neuropathy	AO	0	
+brain	KE 1581	Disturbance in microtubule dynamic instability	KE	1	WP2038
+brain	KE 1582	Impaired axonial transport	KE	0	
+brain	KE 1580	Binding of microtubule stabilizing agents (MSA) to microtubules	MIE	0	
+brain	KE 10	Acetylcholine accumulation in synapses	KE	1	WP528
+brain	KE 1602	Increased Muscarinic Acetylcholine Receptors	KE	0	
+brain	KE 1623	Occurrence, Focal Seizure	KE	1	WP5598
+brain	KE 1788	Status epilepticus	KE	1	WP5600
+brain	KE 388	Overactivation, NMDARs	MIE	1	WP5600
+brain	KE 389	Increased, Intracellular Calcium overload	KE	0	
+brain	KE 12	Acetylcholinesterase (AchE) Inhibition	MIE	1	WP550
+brain	KE 896	Parkinsonian motor deficits	AO	1	WP2371
+brain	KE 177	Increase, Mitochondrial dysfunction	KE	6	WP111|WP4324|WP5241|WP5507|WP623|WP78
+brain	KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	KE	1	WP111
+brain	KE 889	Proteostasis, impaired	KE	2	WP183|WP4918
+brain	KE 890	Degeneration of dopaminergic neurons of the nigrostriatal pathway	KE	1	WP5372
+brain	KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MIE	1	WP4324
+brain	KE 1656	Antagonism, Thyroid Receptor	MIE	1	WP4746
+brain	KE 1841	Encephalitis	AO	1	WP4919
+brain	KE 1739	Binding to ACE2	MIE	0	
+brain	KE 1348	Increase, seizure	AO	0	
+brain	KE 2095	Periventricular heterotopia formation	AO	0	
+brain	KE 1829	Altered, Thyroid hormone-dependent gene expression	KE	1	WP4746
+brain	KE 2093	Brain thyroid hormone (T4/T3) decreased	KE	1	WP4746
+brain	KE 2094	Abnormal, neuroblast migration	KE	1	WP5289
+brain	KE 771	Decrease, Serum thyroid hormone (T4/T3)	KE	1	WP1981
+brain	KE 279	Thyroperoxidase, Inhibition	MIE	0	
+brain	KE 39	Increased Cholinergic Signaling	KE	0	
+brain	KE 1941	Memory Loss	AO	0	
+brain	KE 1816	Mitochondrial dysfunction EMPTY	KE	1	WP5504
+brain	KE 1942	Accumulation, Cytosolic toxic Tau oligomers	KE	0	
+brain	KE 1943	Hyperphosphorylation of Tau	KE	0	
+brain	KE 1944	Synaptic dysfunction	KE	1	WP2267
+brain	KE 1945	Dysfunctional Autophagy	KE	1	WP4923
+brain	KE 1977	Disruption of sodium channel gating kinetics	KE	1	WP5598
+brain	KE 1983	Disruption, action potential generation	KE	0	
+brain	KE 2005	Altered neurotransmission in development	KE	1	WP2267
+brain	KE 1391	Activation of Cyp2E1	KE	1	WP43
+brain	KE 618	Decreased, Neuronal network function in adult brain	KE	1	WP5083
+brain	KE 295	Induction, Upregulation of glucuronyltransferase activity	KE	1	WP698
+brain	KE 18	Activation, AhR	MIE	1	WP2873
+brain	KE 850	Induction, CYP1A2/CYP1A5	KE	2	WP2586|WP43
+brain	KE 1527	Increase, Cell membrane depolarization	KE	1	WP5600
+brain	KE 1547	Mitochondrial Injury	KE	0	
+brain	KE 1585	Proteasomal dysfunction	KE	1	WP183
+brain	KE 1605	Accumulation of misfolded proteins	KE	1	WP4925
+brain	KE 1812	Increase, Cytochrome c release	KE	1	WP254
+brain	KE 1825	Increase, Cell death	KE	4	WP1772|WP2513|WP254|WP4923
+brain	KE 2017	Endoplasmic reticulum stress	KE	1	WP4925
+brain	KE 2038	Activation of calpain signalling	KE	0	
+brain	KE 2188	Activation, caspases	KE	1	WP254
+brain	KE 2036	Activation of metabotropic glutamate receptor	MIE	1	WP501
+brain	KE 2037	Inositol triphosphate receptor activation	MIE	0	
+brain	KE 2039	Inhibition GABAA receptor	MIE	1	WP4159
+brain	KE 2187	Opening, voltage-gated calcium channels	MIE	0	
+brain	KE 350	Increase, Mortality	AO	0	
+brain	KE 637	impaired, Learning and memory	AO	0	
+brain	KE 1177	Decreased, Ionotropic GABA receptor chloride channel conductance	KE	2	WP4159|WP5600
+brain	KE 191	Neuronal dysfunction	KE	0	
+brain	KE 2078	Loss of drebrin	KE	0	
+brain	KE 2150	Neurological disorder	AO	0	
+brain	KE 2151	Disruption, neurotransmitter release	KE	1	WP2267
+brain	KE 2196	Decrease, elavl3	KE	0	
+brain	KE 2197	Decrease, sox10	KE	0	
+brain	KE 2198	Decrease, mbp	KE	0	
+brain	KE 2195	Increase, CNS Neural cell death	MIE	1	WP1772
+brain	KE 2242	Abnormality, dendritic spine morphology	KE	0	
+brain	KE 875	Binding of agonist, Ionotropic glutamate receptors	MIE	1	WP5083
+brain	KE 1635	Increase, DNA strand breaks	KE	2	WP3959|WP4946
+brain	KE 2097	Increase, Pro-Inflammatory Mediators	KE	1	WP5095
+brain	KE 2098	Increase, Abnormal Neural Remodeling	KE	1	WP5090
+brain	KE 2244	Altered Stress Response Signaling	KE	0	
+brain	KE 1686	Deposition of Energy	MIE	0	
+brain	KE 2110	Disrupted binding, laminin-beta1-integrin receptors with laminin	KE	1	WP185
+brain	KE 2111	Decreased, neural progenitor cell adhesion to laminin	KE	1	WP185
+brain	KE 2112	Disturbed, radial glia cell alignment and migration	KE	0	
+brain	KE 2113	Decreased, radial glia cell density	KE	0	
+brain	KE 2114	Disturbed, cortical architecture	KE	0	
+brain	KE 2109	Binding, extracellular matrix protein laminin	MIE	0	
+brain	KE 1869	Diminished protective oxidative stress response	KE	1	WP408
+brain	KE 2107	Hypomyelination	KE	1	WP4304
+brain	KE 2108	Altered, white brain matter	KE	0	
+brain	KE 2116	Decreased, oligodendrocyte differentiation	KE	2	WP4304|WP5574
+brain	KE 2149	Increased intracelluar Iron accumulation	MIE	0	
+brain	KE 2148	Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron	MIE	0	
+brain	KE 1339	Increase, intracellular calcium	KE	1	WP536
+brain	KE 2146	Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2	MIE	0	
+brain	KE 1262	Apoptosis	KE	2	WP1772|WP254
+brain	KE 2202	Altered expression of cell cycle genes	KE	1	WP179
+brain	KE 2203	Decreased proliferation of cortical neural progenitor cells	KE	0	
+brain	KE 2204	Altered brain morphology	KE	0	
+brain	KE 2201	Agonism, Retinoic acid receptor	MIE	0	
+brain	KE 1978	Increase risk, microcephaly	AO	0	
+brain	KE 2210	Reduced cortical thickness	KE	0	
+brain	KE 2115	Altered, cholesterol metabolism	KE	2	WP197|WP4545
+brain	KE 2220	Antagonism, Glucocorticoid hormone receptor	KE	1	WP2880
+brain	KE 2221	Altered Liver X receptor activity	KE	1	WP2874
+brain	KE 2222	Altered peroxisome proliferator–activated receptor alpha activity	KE	0	
+brain	KE 2223	Reduced number of oligodendrocytes	KE	1	WP5574
+brain	KE 2216	Binding of antagonist to thyroid hormone receptor	MIE	1	WP4746
+brain	KE 2217	Binding of antagonist to glucocorticoid hormone receptor	MIE	1	WP2880
+brain	KE 2218	Binding of (ant)agonist to liver X receptor	MIE	1	WP2874
+brain	KE 2219	Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha	MIE	0	
+brain	KE 1239	Altered, Gene Expression	KE	0	
+brain	KE 851	Decrease of GABAergic interneurons	KE	1	WP4159
+brain	KE 2232	Antagonism, Retinoic acid receptors	MIE	2	WP5397|WP716
+brain	KE 2208	Aberrant, synaptic formation and plasticity	KE	2	WP4875|WP5231
+brain	KE 2233	Decreased, ERαβ heterodimers	KE	1	WP2881
+brain	KE 2029	protein-coupled estrogen receptor 1 (GPER) activation	MIE	1	WP712
+brain	KE 2267	Delayed neuropathy, increased	AO	0	
+brain	KE 2263	Lysolecithin, increased	KE	0	
+brain	KE 2264	Lysolecithin cell membrane integration, increased	KE	0	
+brain	KE 2265	Oligodendrocyte death, increased	KE	1	WP1772
+brain	KE 2266	Demyelination, increased	KE	0	
+brain	KE 2262	Neuropathy target esterase, inhibited	MIE	0	
+brain	KE 149	Increase, Inflammation	KE	2	WP453|WP530
+brain	KE 2302	Increase, Malformations	AO	0	
+brain	KE 360	Decrease, Population growth rate	AO	0	
+brain	KE 566	impaired, Larval development	AO	0	
+brain	KE 2299	Altered, Redox Homeostasis	KE	1	WP408
+brain	KE 2300	Disruption, Glucolipid metabolism	KE	2	WP3965|WP534
+brain	KE 2301	Abnormal, Behavior	KE	0	
+brain	KE 1541	Mitochondrial Complex I inhibition	MIE	1	WP4324
+brain	KE 186	Altered, Neuroanatomy	KE	1	WP5231
+brain	KE 192	Altered, Neurophysiology	KE	1	WP5231
+brain	KE 319	Loss, Cochlear function	AO	0	
+brain	KE 239	Activation, Pregnane-X receptor, NR1l2	MIE	1	WP2876
+kidney	KE 713	Increase, Adenomas/carcinomas (renal tubular)	AO	0	
+kidney	KE 708	Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)	KE	0	
+kidney	KE 709	Increase, Cytotoxicity (renal tubular cell)	KE	2	WP1772|WP4864
+kidney	KE 710	Increase, Regenerative cell proliferation (tubular epithelial cells)	KE	1	WP5475
+kidney	KE 767	Increase, Hyperplasia (renal tubular cells)	KE	2	WP4838|WP5475
+kidney	KE 714	Increased, Binding of chemicals to 2u (serum)	MIE	0	
+kidney	KE 784	Increase, Hyperplasia (tubular epithelial cells)	KE	1	WP5475
+kidney	KE 783	Increase, Cytotoxicity (tubular epithelial cells)	MIE	2	WP1772|WP4838
+kidney	KE 797	Increase, Adenomas/carcinomas (urothelial)	AO	0	
+kidney	KE 794	Increase, Cytotoxicity (urothelial cells)	KE	1	WP1772
+kidney	KE 795	Increase, Regenerative cell proliferation (urothelial cells)	KE	1	WP5475
+kidney	KE 796	Increase, Hyperplasia (urothelial)	KE	0	
+kidney	KE 793	Increase, Urinary bladder calculi	MIE	0	
+kidney	KE 814	Occurrence, Kidney toxicity	AO	0	
+kidney	KE 281	Thyroxine (T4) in serum, Decreased	KE	1	WP1981
+kidney	KE 813	Increased, Serum creatinine	KE	0	
+kidney	KE 818	Occurrence, Cytoplasmic vacuolization (Renal tubule)	KE	0	
+kidney	KE 819	Decreased, Glomerular filtration	KE	1	WP2572
+kidney	KE 820	Decreased, Renal plasma flow	KE	0	
+kidney	KE 821	Decreased, Sodium reabsorption	KE	1	WP4917
+kidney	KE 823	Occurrence, Cystic dilatation (renal tubule)	KE	0	
+kidney	KE 824	Occurrence, Cytoplasmic vacuolization (podocyte)	KE	0	
+kidney	KE 825	Decreased, Renal ability to dilute urine	KE	0	
+kidney	KE 277	Thyroid hormone synthesis, Decreased	MIE	1	WP1981
+kidney	KE 351	Increased Mortality	AO	0	
+kidney	KE 360	Decrease, Population growth rate	AO	0	
+kidney	KE 1096	Increased, blood uric acid concentration	KE	1	WP4224
+kidney	KE 1097	Occurrence, renal proximal tubular necrosis	KE	1	WP4313
+kidney	KE 1098	Increased, blood potassium concentration	KE	0	
+kidney	KE 1102	Occurrence, tophi (urate) deposition	KE	0	
+kidney	KE 1106	Occurrence, cardiac arrhythmia	KE	0	
+kidney	KE 1392	Increase, Oxidative Stress	KE	3	WP3941|WP408|WP5477
+kidney	KE 877	Inhibition, organic anion transporter 1 (OAT1)	MIE	0	
+kidney	KE 1104	Decreased, Prostaglandin F2alpha concentration, plasma	KE	1	WP98
+kidney	KE 1105	Occurrence, renal ischemia	KE	0	
+kidney	KE 1103	Inhibition, Cyclooxygenase 1 activity	MIE	1	WP4719
+kidney	KE 1115	Increase, Reactive oxygen species	KE	2	WP408|WP5477
+kidney	KE 1114	Unknown, MIE	MIE	0	
+kidney	KE 1482	Depletion, mtDNA	KE	0	
+kidney	KE 177	Increase, Mitochondrial dysfunction	KE	6	WP111|WP4324|WP5241|WP5507|WP623|WP78
+kidney	KE 1481	Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	MIE	0	
+kidney	KE 831	Disturbance, Lysosomal function	KE	1	WP4923
+kidney	KE 898	Disruption, Lysosome	KE	1	WP4923
+kidney	KE 1486	Binding of substrate, endocytic receptor	MIE	0	
+kidney	KE 40	Mitochondrial ATP production, decreased	KE	3	WP1403|WP391|WP5241
+kidney	KE 244	Alkylation, Protein	MIE	0	
+kidney	KE 1603	Chronic kidney disease	AO	0	
+kidney	KE 1538	Decreased protection against oxidative stress	KE	1	WP408
+kidney	KE 178	Mitochondrial electron transport chain, disrupted	KE	2	WP111|WP4324
+kidney	KE 768	Increase, Cytotoxicity	KE	1	WP254
+kidney	KE 926	Oxidation, Glutathione (To be considered with MIE)	MIE	1	WP100
+kidney	KE 1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	MIE	1	WP408
+kidney	KE 759	Increased, Kidney Failure	AO	0	
+kidney	KE 294	N/A, Unknown	KE	0	
+kidney	KE 9	Activation, 5HT2c	MIE	1	WP732
+kidney	KE 1752	Increased Angiotensin II	KE	1	WP4756
+kidney	KE 1852	Increased Ang II type 1 receptor (AT1R)	KE	1	WP5036
+kidney	KE 1855	Increased Sodium-sensitive hypertension	KE	0	
+kidney	KE 1853	Hyperactivation of ACE/Ang-II/AT1R axis	MIE	2	WP4756|WP5036
+kidney	KE 1445	Increase, Lipid peroxidation	KE	1	WP4313
+kidney	KE 1607	Increase, Necrosis	KE	2	WP2513|WP4313
+kidney	KE 105	Inhibition, Mitochondrial Electron Transport Chain Complexes	MIE	1	WP111
+kidney	KE 1365	Increase, Apoptosis	KE	2	WP1772|WP254
+kidney	KE 1633	Increase in inflammation	KE	2	WP453|WP530
+kidney	KE 1770	Decrease, Mitochondrial membrane potential	KE	1	WP111
+kidney	KE 1815	Increase, Endoplasmic reticulum stress	KE	1	WP4925
+kidney	KE 1917	Altered gene expression, NRF2 dependent antioxidant pathway	KE	1	WP3
+kidney	KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	KE	2	WP231|WP3656
+liver	KE 334	Promotion, Hepatocelluar carcinoma	AO	3	WP313|WP4336|WP4337
+liver	KE 142	Hyperplasia, Hyperplasia	KE	0	
+liver	KE 57	Proliferation, Cell proliferation in the absence of cytotoxicity	KE	1	WP179
+liver	KE 294	N/A, Unknown	MIE	0	
+liver	KE 719	Increase, hepatocellular adenomas and carcinomas	AO	2	WP3646|WP4336
+liver	KE 1214	Altered gene expression specific to CAR activation, Hepatocytes	KE	1	WP2875
+liver	KE 716	Increase, cell proliferation (hepatocytes)	KE	3	WP179|WP313|WP5475
+liver	KE 774	Increase, Preneoplastic foci (hepatocytes)	KE	1	WP5475
+liver	KE 715	Activation, Constitutive androstane receptor	MIE	1	WP2875
+liver	KE 209	Peptide Oxidation	KE	2	WP408|WP5477
+liver	KE 726	Increased, Induction of pyruvate dehydrogenase (PDH)	KE	0	
+liver	KE 768	Increase, Cytotoxicity	KE	1	WP254
+liver	KE 769	Increase, Oxidative metabolism	KE	1	WP623
+liver	KE 724	Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme	MIE	0	
+liver	KE 25	Agonism, Androgen receptor	MIE	2	WP138|WP2263
+liver	KE 787	Increase, Regenerative cell proliferation (hepatocytes)	KE	2	WP179|WP313
+liver	KE 786	Increase, Cytotoxicity (hepatocytes)	MIE	0	
+liver	KE 840	Formation, Liver fibrosis	AO	1	WP4786
+liver	KE 177	Mitochondrial dysfunction	KE	6	WP111|WP4324|WP5241|WP5507|WP623|WP78
+liver	KE 829	Damage, Lipid bilayer	KE	0	
+liver	KE 831	Disturbance, Lysosomal function	KE	1	WP4923
+liver	KE 833	Occurrence, Cytoplasmic vacuolization (hepatocyte)	KE	0	
+liver	KE 835	Occurrence, Ballooning degeneration (hepatocyte)	KE	1	WP4925
+liver	KE 836	Occurrence, Cytoplasmic vacuolization (Bile duct cell)	KE	1	WP4923
+liver	KE 837	Occurrence, Cytoplasmic vacuolization (kupffer cell)	KE	1	WP4923
+liver	KE 838	Induction, Microvesicular fat	KE	1	WP5123
+liver	KE 839	Formation, Mallory body	KE	1	WP183
+liver	KE 828	Inhibition, Phospholipase A	MIE	0	
+liver	KE 344	N/A, Liver fibrosis	AO	1	WP4786
+liver	KE 1493	Increased Pro-inflammatory mediators	KE	4	WP4493|WP453|WP5095|WP530
+liver	KE 1494	Leukocyte recruitment/activation	KE	2	WP4493|WP4542
+liver	KE 265	Activation, Stellate cells	KE	1	WP560
+liver	KE 55	Increase, Cell injury/death	KE	3	WP1772|WP2507|WP254
+liver	KE 68	Accumulation, Collagen	KE	3	WP3624|WP4786|WP5312
+liver	KE 898	Disruption, Lysosome	KE	1	WP4923
+liver	KE 1539	Endocytotic lysosomal uptake	MIE	0	
+liver	KE 741	Increase, Adenomas/carcinomas (follicular cell)	AO	0	
+liver	KE 1023	Increased, Thyroid-stimulating hormone (TSH)	KE	0	
+liver	KE 281	Thyroxine (T4) in serum, Decreased	KE	1	WP1981
+liver	KE 295	Induction, Upregulation of glucuronyltransferase activity	KE	1	WP698
+liver	KE 739	Increase, Hypertrophy and proliferation (follicular cell)	KE	0	
+liver	KE 740	Increase, Hyperplasia (follicular cells)	KE	0	
+liver	KE 961	Increased, Clearance of thyroxine from serum	KE	1	WP4746
+liver	KE 1291	Hepatotoxicity	AO	0	
+liver	KE 1284	Up Regulation, SREBF2	KE	2	WP1982|WP2011
+liver	KE 1285	Up Regulation, Unsaturated fatty acid	KE	3	WP357|WP4723|WP4724
+liver	KE 1286	Down Regulation, GSS and GSTs gene	KE	0	
+liver	KE 1287	Glutathione synthesis	KE	1	WP100
+liver	KE 1288	Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene	KE	0	
+liver	KE 1289	Perturbation of cholesterol	KE	3	WP197|WP2011|WP5304
+liver	KE 1290	Glutathione homeostasis	KE	1	WP100
+liver	KE 1489	N/A, Steatohepatisis	AO	2	WP4396|WP453
+liver	KE 1115	Increase, Reactive oxygen species	MIE	2	WP408|WP5477
+liver	KE 1305	Increase, cytosolic fatty acid	KE	0	
+liver	KE 1491	Increased, Oncotic Necrosis	KE	0	
+liver	KE 459	Increased, Liver Steatosis	AO	4	WP143|WP3965|WP5061|WP5323
+liver	KE 1490	Inhibition, Fatty Acid Beta Oxidation	MIE	0	
+liver	KE 1395	Liver Cancer	AO	1	WP3646
+liver	KE 1392	Oxidative Stress	KE	3	WP3941|WP408|WP5477
+liver	KE 1393	Hepatocytotoxicity	KE	1	WP1772
+liver	KE 1394	Induction, persistent proliferation/sustained proliferation	KE	3	WP179|WP313|WP5475
+liver	KE 1391	Activation of Cyp2E1	MIE	1	WP43
+liver	KE 1419	Reduced, FXR activity	KE	0	
+liver	KE 1420	Reduced, SHP activity	KE	0	
+liver	KE 1421	Activated, LXR	KE	1	WP2874
+liver	KE 1422	Reduced, PPARalpha	KE	2	WP2878|WP3942
+liver	KE 1423	Reduced, HSD17B4 activity	KE	0	
+liver	KE 1424	Reduced, fatty acid beta oxidation	KE	1	WP143
+liver	KE 1417	NFE2/Nrf2 repression	MIE	2	WP2884|WP4357
+liver	KE 357	Cholestasis, Pathology	AO	2	WP5176|WP5238
+liver	KE 149	Increase, Inflammation	KE	2	WP453|WP530
+liver	KE 214	Bile accumulation, Pathological condition	KE	4	WP2289|WP4389|WP5176|WP5396
+liver	KE 288	Activation of specific nuclear receptors, Transcriptional change	KE	2	WP2882|WP299
+liver	KE 87	Release, Cytokine	KE	2	WP530|WP5473
+liver	KE 41	Inhibition, Bile Salt Export Pump (ABCB11)	MIE	2	WP5176|WP5396
+liver	KE 1548	Necrotic Tissue	AO	2	WP2513|WP254
+liver	KE 1549	Liver Injury	AO	0	
+liver	KE 1545	Decrease in mitochondrial oxidative phosphorylation	KE	0	
+liver	KE 1547	Mitochondrial Injury	KE	0	
+liver	KE 889	Impaired, Proteostasis	KE	2	WP183|WP4918
+liver	KE 1542	Increase, Mitochondrial complex III antagonism	MIE	0	
+liver	KE 1543	Mitochondrial Complex IV inhibition	MIE	0	
+liver	KE 1544	Mitochondrial Complex V inhibition	MIE	0	
+liver	KE 1653	Binding of inhibitor to mitochondrial complex III	MIE	0	
+liver	KE 1654	Binding of inhibitor to mitochondrial complex IV	MIE	0	
+liver	KE 1655	Binding of inhibitor to mitochondrial complex V	MIE	0	
+liver	KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	MIE	1	WP111
+liver	KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MIE	1	WP4324
+liver	KE 1575	Activation, Caspase 8 pathway	KE	1	WP254
+liver	KE 1576	Activation, Tissue resident cells (Kuppfer cells)	KE	0	
+liver	KE 1579	Increase, proinflammatory mediators (TNFalpha)	KE	2	WP231|WP5095
+liver	KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	KE	2	WP231|WP3656
+liver	KE 1574	Inhibition, IKK complex	MIE	0	
+liver	KE 1262	Apoptosis	KE	2	WP1772|WP254
+liver	KE 1512	Unfolded Protein Response	KE	1	WP4925
+liver	KE 1605	Accumulation of misfolded proteins	KE	1	WP4925
+liver	KE 1606	Activation of hepatic stellate cells	KE	0	
+liver	KE 1604	Inhibition of N-linked glycosylation	MIE	0	
+liver	KE 1834	Decrease, Acyl-CoA dehydrogenases	KE	0	
+liver	KE 291	Accumulation, Triglyceride	KE	2	WP325|WP5323
+liver	KE 860	Decreased, Mitochondrial Fatty Acid Beta Oxidation	KE	2	WP143|WP368
+liver	KE 122	Activation, Glucocorticoid Receptor	MIE	1	WP2880
+liver	KE 345	N/A, Liver Steatosis	AO	2	WP4396|WP5323
+liver	KE 115	Increase, FA Influx	KE	1	WP5061
+liver	KE 116	Activation, FAS	KE	0	
+liver	KE 258	Activation, SCD-1	KE	0	
+liver	KE 264	Activation, SREBP-1c	KE	1	WP1982
+liver	KE 54	Up Regulation, CD36	KE	0	
+liver	KE 66	Activation, ChREBP	KE	0	
+liver	KE 89	Synthesis, De Novo Fatty Acid (FA)	KE	1	WP357
+liver	KE 167	Activation, LXR	MIE	1	WP2874
+liver	KE 228	peroxisome proliferator activated receptor promoter demethylation	MIE	1	WP3942
+liver	KE 140	Decreased, HSD17B10 expression	KE	0	
+liver	KE 179	Decrease, Fatty acid beta-oxidation	KE	1	WP143
+liver	KE 327	Accumulation, Fatty acid	KE	3	WP143|WP357|WP5061
+liver	KE 8	Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity	KE	0	
+liver	KE 231	Decreased, PPAR-alpha activation	MIE	2	WP2878|WP3942
+liver	KE 232	Decreased, PPAR-beta activation	MIE	1	WP3942
+liver	KE 233	Decreased, PPAR-gamma activation	MIE	1	WP3942
+liver	KE 1820	Immune mediated hepatitis	AO	1	WP530
+liver	KE 1633	Increase in inflammation	KE	2	WP453|WP530
+liver	KE 1815	Activation of ER stress	KE	1	WP4925
+liver	KE 1817	Apoptotic cell death	AO	2	WP1772|WP254
+liver	KE 1818	Immune cell activation	KE	1	WP69
+liver	KE 1819	IFNγ signaling	KE	1	WP619
+liver	KE 1814	benzoquinone imine and acylglucuronide metabolites	MIE	0	
+liver	KE 1170	Increase, Phenotypic enzyme activity	KE	0	
+liver	KE 1171	Increase, Clonal Expansion of Altered Hepatic Foci	KE	1	WP5475
+liver	KE 227	Activation, PPARα	MIE	1	WP2878
+liver	KE 1492	Tissue resident cell activation	KE	0	
+liver	KE 244	Alkylation, Protein	MIE	0	
+liver	KE 1501	Increased, extracellular matrix deposition	KE	3	WP129|WP5312|WP560
+liver	KE 1743	Increase plasma Ang II	KE	1	WP4756
+liver	KE 1852	Increased Ang II type 1 receptor (AT1R)	KE	1	WP5036
+liver	KE 1740	Induced dysregulation of ACE2	MIE	1	WP554
+liver	KE 856	Formation, Hepatocellular and Bile duct tumors	AO	1	WP4336
+liver	KE 139	N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects	KE	0	
+liver	KE 853	Changes/Inhibition, Cellular Homeostasis and Apoptosis	KE	2	WP1772|WP254
+liver	KE 854	Alterations, Cellular proliferation / hyperplasia	KE	2	WP179|WP5475
+liver	KE 165	Activation, Long term AHR receptor driven direct and indirect gene expression changes	MIE	2	WP2586|WP2873
+liver	KE 1194	Increase, DNA damage	MIE	1	WP707
+liver	KE 2031	Releasing, Apoptosis-Inducing Factor (AIF)	KE	2	WP1772|WP2507
+liver	KE 2030	Activation, PARP1	MIE	0	
+liver	KE 378	Tumorigenesis, Hepatocellular carcinoma	AO	3	WP3646|WP4336|WP4337
+liver	KE 376	Increased, Induced Mutations in Critical Genes	KE	1	WP4946
+liver	KE 409	Metabolism of AFB1, Production of Reactive Electrophiles	KE	0	
+liver	KE 491	Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)	KE	2	WP313|WP5475
+liver	KE 493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	KE	3	WP4752|WP4753|WP4946
+liver	KE 373	Formation, Pro-mutagenic DNA Adducts	MIE	1	WP4753
+liver	KE 18	Activation, AhR	MIE	1	WP2873
+liver	KE 239	Activation, Pregnane-X receptor, NR1l2	MIE	1	WP2876
+liver	KE 2199	Increased, Expression of LXR activated genes	KE	0	
+liver	KE 2224	Dysregulation of transcriptional expression within PPAR signaling network	KE	1	WP3942
+liver	KE 2225	Disrupted Lipid Storage	KE	2	WP3965|WP5323
+liver	KE 2227	Disrupted PPAR isoform nuclear signaling	KE	1	WP3942
+liver	KE 2226	Stressor binding PPAR isoforms	MIE	1	WP3942
+liver	KE 216	Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)	KE	1	WP534
+liver	KE 450	Suppression, VLDL secretion	KE	1	WP5323
+liver	KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	KE	2	WP143|WP368
+liver	KE 462	Up Regulation, SCD-1	KE	0	
+liver	KE 465	Increased, FA Influx	KE	1	WP5061
+liver	KE 466	Up Regulation, LDLR (low density lipoprotein receptor)	KE	0	
+liver	KE 467	Increased, LDL uptake	KE	0	
+liver	KE 80	Up Regulation, CYP1A1	KE	0	
+liver	KE 454	Increased, Triglyceride formation	KE	1	WP325
+liver	KE 457	Activation, SREBF1	KE	1	WP1982
+liver	KE 458	Increased, De Novo FA synthesis	KE	1	WP357
+liver	KE 463	Up Regulation, FAS	KE	0	
+liver	KE 470	Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)	KE	0	
+liver	KE 456	Suppression, Constitutive androstane receptor, NR1l3	MIE	1	WP2875
+liver	KE 468	Inhibition, PPAR alpha	MIE	2	WP2878|WP3942
+liver	KE 2019	Non-alcoholic fatty liver disease	AO	0	
+liver	KE 1293	Activation, FOXO	KE	0	
+liver	KE 1505	Cell cycle, disrupted	KE	0	
+liver	KE 1821	Decrease, Cell proliferation	KE	0	
+liver	KE 2344	Upregulation, growth arrest and DNA-damage-inducible beta a	KE	0	
+liver	KE 2345	Activation, MAPK	KE	0	
+liver	KE 2346	Decrease, Proliferating Cell Nuclear Antigen	KE	0	
+liver	KE 2347	Increase, Lipid degradation	KE	0	
+liver	KE 2348	Inhibition, Liver regeneration	KE	0	
+liver	KE 471	Inhibition, FoxA2	KE	1	WP5066
+liver	KE 472	Down Regulation, CPT1A	KE	0	
+liver	KE 474	Down Regulation, HMGCS2	KE	1	WP4718
+liver	KE 477	Decreased, Ketogenesis	KE	0	
+liver	KE 245	Activation, PXR/SXR	MIE	1	WP2876
+liver	KE 480	Activation, SHP	KE	0	
+liver	KE 482	Decreased, DHB4/HSD17B4	KE	0	
+liver	KE 483	Activation, LXR alpha	KE	1	WP2874
+liver	KE 878	Inhibition, SREBP1c	KE	1	WP1982
+liver	KE 879	Activation, MTTP	KE	0	
+liver	KE 880	Increased, ApoB100	KE	0	
+liver	KE 881	Increased, Triglyceride	KE	2	WP325|WP5323
+liver	KE 478	Activation, NRF2	MIE	2	WP2884|WP4357
+liver	KE 479	Activation, NR1H4	MIE	0	
+liver	KE 484	Activation, AKT2	KE	1	WP4172
+liver	KE 486	systemic inflammation leading to hepatic steatosis	MIE	3	WP4493|WP453|WP530
+lung	KE 736	Increase, Adenomas/carcinomas (bronchioloalveolar)	AO	0	
+lung	KE 733	Increase, Necrosis (terminal bronchiolar cells)	KE	0	
+lung	KE 734	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	KE	0	
+lung	KE 735	Increase, Hyperplasia (terminal bronchiolar cells)	KE	0	
+lung	KE 770	Increase, Cytotoxicity (club cells)	MIE	1	WP1772
+lung	KE 1250	Decrease, Lung function	AO	0	
+lung	KE 2117	Increase, goblet cell number	KE	0	
+lung	KE 962	Increase, Mucin production	KE	0	
+lung	KE 941	Activation, EGFR	MIE	1	WP437
+lung	KE 1458	Pulmonary fibrosis	AO	1	WP3624
+lung	KE 1496	Increased, secretion of proinflammatory mediators	KE	1	WP5095
+lung	KE 1497	Increased, recruitment of inflammatory cells	KE	1	WP4493
+lung	KE 1498	Loss of alveolar capillary membrane integrity	KE	0	
+lung	KE 1499	Increased, activation of T (T) helper (h) type 2 cells	KE	0	
+lung	KE 1500	Increased, fibroblast proliferation and myofibroblast differentiation	KE	0	
+lung	KE 68	Increase, Collagen accumulation	KE	3	WP3624|WP4786|WP5312
+lung	KE 1495	Substance interaction with the lung resident cell membrane components	MIE	0	
+lung	KE 1223	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	AO	1	WP4962
+lung	KE 1226	Increased Respiratory irritability and Chronic Cough,	AO	0	
+lung	KE 1434	Irritation of nasal mucosa inducing sneeze reflex	AO	0	
+lung	KE 1218	Opening of calcium channel, Calcium influx	KE	1	WP536
+lung	KE 1220	Trigeminal nerve activation	KE	0	
+lung	KE 1222	SP (Substance P) release, Local increase of SP	KE	0	
+lung	KE 1433	Increased CGRP, neuronal release of CGRP	KE	0	
+lung	KE 1435	Increased neurokinin A (NKA) by neuronal cells	KE	0	
+lung	KE 1215	TRPA1 activation, TRPA1 Receptor	MIE	0	
+lung	KE 1276	Lung fibrosis	AO	1	WP3624
+lung	KE 1271	Increase, Transforming growth factor-beta signaling	KE	2	WP5382|WP560
+lung	KE 1275	Collagen Deposition	KE	2	WP4786|WP5312
+lung	KE 1457	Epithelial Mesenchymal Transition	KE	1	WP5469
+lung	KE 149	Increase, Inflammation	KE	2	WP453|WP530
+lung	KE 1270	Inactivation of PPARγ	MIE	1	WP3942
+lung	KE 1443	Atherosclerosis	AO	0	
+lung	KE 1438	Transcription of genes encoding acute phase proteins, Increased	KE	0	
+lung	KE 1439	Systemic acute phase response	KE	1	WP4493
+lung	KE 1456	Increase, Differentiation of fibroblasts	KE	1	WP3624
+lung	KE 1469	Activation, Transforming Growth Factor beta pathway	KE	1	WP560
+lung	KE 1468	Activation, Latent Transforming Growth Factor Beta 1	MIE	1	WP560
+lung	KE 1556	Increase, lung cancer	AO	2	WP4255|WP4658
+lung	KE 155	Inadequate DNA repair	KE	1	WP4946
+lung	KE 1635	Increase, DNA strand breaks	KE	2	WP3959|WP4946
+lung	KE 1636	Increase, Chromosomal aberrations	KE	0	
+lung	KE 185	Increase, Mutations	KE	0	
+lung	KE 870	Increase, Cell Proliferation	KE	1	WP179
+lung	KE 1686	Deposition of Energy	MIE	0	
+lung	KE 1588	Bronchiolitis obliterans	AO	0	
+lung	KE 1585	Proteasomal dysfunction	KE	1	WP183
+lung	KE 1586	Airway epithelial injury	KE	0	
+lung	KE 1587	Fibroproliferative airway lesions	KE	1	WP3624
+lung	KE 1584	Interaction of α-diketones with arginine residues	MIE	0	
+lung	KE 1673	Alveolar collapse	KE	0	
+lung	KE 1677	Reduced tidal volume	KE	0	
+lung	KE 1672	Inhibition of lung surfactant function	MIE	0	
+lung	KE 1670	Lung cancer	AO	2	WP4255|WP4658
+lung	KE 1115	Increase, Reactive oxygen species	MIE	2	WP408|WP5477
+lung	KE 1669	Increased, DNA damage and mutation	KE	2	WP4946|WP707
+lung	KE 87	Release, Cytokine	KE	2	WP530|WP5473
+lung	KE 1668	Frustrated phagocytosis	MIE	1	WP3937
+lung	KE 1172	Increased activation, Nuclear factor kappa B (NF-kB)	KE	1	WP3656
+lung	KE 1752	Increased Angiotensin II	KE	1	WP4756
+lung	KE 1851	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	MIE	2	WP4756|WP5036
+lung	KE 1854	Dysregulation, ACE2 expression and activity	KE	2	WP4969|WP5036
+lung	KE 1740	Induced dysregulation of ACE2	MIE	1	WP554
+lung	KE 351	Increased Mortality	AO	0	
+lung	KE 1738	SARS-CoV-2 cell entry	KE	1	WP4846
+lung	KE 1748	Increase, the risk of acute respiratory failure	KE	0	
+lung	KE 1750	Increased inflammatory immune responses	KE	2	WP4493|WP453
+lung	KE 1847	Increased SARS-CoV-2 production	KE	1	WP4846
+lung	KE 1848	Toll Like Receptor (TLR) Dysregulation	KE	1	WP3858
+lung	KE 1901	Interferon-I antiviral response, antagonized by SARS-CoV-2	KE	1	WP4868
+lung	KE 1739	Binding to ACE2	MIE	0	
+lung	KE 1283	Activation, TGF-beta pathway	KE	2	WP3874|WP560
+lung	KE 1292	Activation, JNK	KE	1	WP382
+lung	KE 1793	Activator protein 1 activation	KE	0	
+lung	KE 1794	Pin-1 activation	KE	0	
+lung	KE 1795	Latent Transforming growth Factor beta expression	KE	1	WP560
+lung	KE 1792	Toll-like receptor 4 activation	MIE	1	WP75
+lung	KE 1843	Multi Organ Failure involving Acute Respiratory Distress Syndrome	AO	0	
+lung	KE 1392	Increase, Oxidative Stress	MIE	3	WP3941|WP408|WP5477
+lung	KE 1493	Increased Pro-inflammatory mediators	KE	4	WP4493|WP453|WP5095|WP530
+lung	KE 1535	Heart failure	KE	0	
+lung	KE 1708	Th17 cell migration and inflammation induction	KE	2	WP2112|WP5130
+lung	KE 177	Increase, Mitochondrial dysfunction	KE	6	WP111|WP4324|WP5241|WP5507|WP623|WP78
+lung	KE 1809	Increase, Tissue/organ damage	KE	0	
+lung	KE 1825	Increase, Cell death	KE	4	WP1772|WP2513|WP254|WP4923
+lung	KE 1844	systemic inflammatory response syndrome	KE	1	WP4493
+lung	KE 1846	Thrombosis and Disseminated Intravascular Coagulation	KE	1	WP272
+lung	KE 1857	Platelet-neutrophil interactions, Increased	KE	1	WP4462
+lung	KE 1868	Hyperinflammation	KE	1	WP5095
+lung	KE 1869	Diminished protective oxidative stress response	KE	1	WP408
+lung	KE 1895	NLRP3 inflammasome activity, increased	KE	0	
+lung	KE 1897	increased MyD88 activation	KE	1	WP3877
+lung	KE 1898	Increase, Damage-associated molecular pattern release	KE	0	
+lung	KE 1899	formation of neutrophil extracellular traps (NETs)	KE	0	
+lung	KE 1900	increased platelet surface TLR9 expression	KE	1	WP1449
+lung	KE 55	Increase, Cell injury/death	KE	3	WP1772|WP2507|WP254
+lung	KE 759	Increased, Kidney Failure	KE	0	
+lung	KE 814	Occurrence, Kidney toxicity	KE	0	
+lung	KE 902	Inflammation, Liver	KE	3	WP4493|WP453|WP530
+lung	KE 1842	Prolonged TLR9 activation	MIE	1	WP1449
+lung	KE 313	Increase, Allergic Respiratory Hypersensitivity Response	AO	0	
+lung	KE 272	Activation/Proliferation, T-cells	KE	1	WP69
+lung	KE 398	Activation, Dendritic Cells	KE	1	WP5187
+lung	KE 396	Covalent Binding, Protein	MIE	0	
+lung	KE 1908	Cilia Beat Frequency, Decreased	KE	1	WP4803
+lung	KE 1909	Mucociliary Clearance, Decreased	KE	1	WP4803
+lung	KE 1501	Increase, Extracellular matrix deposition	KE	3	WP129|WP5312|WP560
+lung	KE 1921	Altered gene expression, NF-kB dependent Interleukin-6 pathway	KE	0	
+lung	KE 18	Activation, AhR	MIE	1	WP2873
+lung	KE 1933	Increased, Interleukin-6 production	KE	1	WP4493
+lung	KE 17	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	KE	2	WP2873|WP2882
+lung	KE 1922	Increased, Reactive metabolites production	KE	1	WP702
+lung	KE 1262	Apoptosis	KE	2	WP1772|WP254
+lung	KE 1923	Altered gene expression, P53 dependent apoptosis pathway	KE	1	WP4963
+lung	KE 1906	Cystic Fibrosis Transmembrane Regulator Function, Decreased	KE	0	
+lung	KE 1907	Airway Surface Liquid Height, Decreased	KE	0	
+lung	KE 1911	FOXJ1 Protein, Decreased	KE	0	
+lung	KE 1912	Motile Cilia Number/Length, Decreased	KE	2	WP4536|WP4803
+lung	KE 2006	Secondary genotoxicity	KE	0	
+lung	KE 780	Increase, Cytotoxicity (epithelial cells)	KE	1	WP1772
+lung	KE 2008	Chronic obstructive pulmonary disease	AO	0	
+lung	KE 1945	Dysfunctional Autophagy	KE	1	WP4923
+lung	KE 2009	Activation of inflammation pathway	KE	2	WP453|WP530
+lung	KE 2010	Pulmonary inflammation	KE	1	WP453
+lung	KE 2011	Emphysema	KE	0	
+lung	KE 2012	Fibroblast proliferation and differentiation	KE	1	WP3624
+lung	KE 2013	Airway remodeling	KE	1	WP3624
+lung	KE 2007	Non-coding RNA expression profile alteration	MIE	0	
+lung	KE 2087	Increased incidence of respiratory disease	AO	0	
+lung	KE 2088	Dysfunction of respiratory system	AO	0	
+lung	KE 1197	Activation, Fibroblasts	KE	1	WP3624
+lung	KE 1198	Activation, Macrophages	KE	1	WP4493
+lung	KE 2085	Pulmonary epithelial injury	KE	0	
+lung	KE 2086	Airway inflammation	KE	2	WP3624|WP4493

@@ -1,0 +1,539 @@
+ke_id	organs	method1_n	method2_n	method3_n	method1_attempted	method2_attempted	method3_attempted	shared_all_three	union_genes	jaccard_m1_m2	jaccard_m1_m3	jaccard_m2_m3
+KE 8	liver	0	53	0	False	True	True	0	53			
+KE 9	kidney	0	0	20	False	False	True	0	20			
+KE 10	brain	2	3	7	True	True	True	1	10	0.25	0.125	0.1111
+KE 12	brain	4	0	16	True	False	True	0	19		0.0526	
+KE 17	lung	5	0	314	True	True	True	0	317		0.0063	
+KE 18	brain|liver|lung	38	183	45	True	True	True	4	243	0.0279	0.2206	0.027
+KE 25	liver	7	19	190	True	True	True	1	209	0.04	0.0051	0.0296
+KE 39	brain	5	0	0	True	False	True	0	5			
+KE 40	brain|kidney	0	0	95	False	False	True	0	95			
+KE 41	liver	2	1	29	True	True	True	1	30	0.5	0.0333	0.0345
+KE 50	brain	1	176	151	True	True	True	1	307	0.0057	0.0066	0.0651
+KE 51	brain	1	0	0	True	False	True	0	1			
+KE 52	brain	8	0	151	True	False	True	0	156		0.0192	
+KE 54	liver	6	87	0	True	True	True	0	92	0.0109		
+KE 55	brain|liver|lung	27	913	126	True	True	True	11	960	0.0173	0.0775	0.0948
+KE 57	liver	0	786	120	False	True	True	0	853			0.0621
+KE 64	brain	1	0	31	True	False	True	0	32		0.0	
+KE 66	liver	6	7	0	True	True	True	0	12	0.0833		
+KE 68	liver|lung	7	51	123	True	True	True	1	169	0.0357	0.0236	0.0482
+KE 80	liver	0	130	0	False	True	True	0	130			
+KE 87	liver|lung	16	20	266	True	True	True	3	283	0.0909	0.0483	0.0214
+KE 89	liver	11	125	22	True	True	True	3	145	0.0226	0.1	0.073
+KE 105	kidney	9	103	106	True	True	True	4	141	0.0467	0.036	0.5255
+KE 115	liver	1	109	18	True	True	True	1	114	0.0092	0.0556	0.114
+KE 116	liver	5	125	0	True	True	True	0	129	0.0078		
+KE 122	liver	2	4	70	True	True	True	1	74	0.2	0.0141	0.0137
+KE 139	liver	0	0	0	True	True	True	0	0			
+KE 140	liver	0	53	0	False	True	True	0	53			
+KE 142	liver	0	2	0	False	True	True	0	2			
+KE 149	brain|liver|lung	16	510	54	True	True	True	4	550	0.0174	0.0606	0.0387
+KE 155	lung	35	0	119	True	False	True	0	134		0.1493	
+KE 165	liver	4	183	75	True	True	True	1	252	0.0054	0.026	0.032
+KE 166	brain	0	0	0	False	False	True	0	0			
+KE 167	liver	33	0	10	True	True	True	0	38		0.1316	
+KE 177	brain|kidney|liver|lung	21	283	157	True	True	True	0	415	0.0066	0.0056	0.1083
+KE 178	brain|kidney	0	103	124	False	True	True	0	152			0.4934
+KE 179	liver	1	53	34	True	True	True	0	72	0.0	0.0	0.2254
+KE 185	lung	0	0	0	True	False	True	0	0			
+KE 186	brain	1	0	27	True	False	True	0	28		0.0	
+KE 188	brain	15	0	164	True	False	True	0	171		0.0468	
+KE 191	brain	0	0	0	False	False	True	0	0			
+KE 192	brain	2	0	27	True	False	True	0	29		0.0	
+KE 193	brain	0	26	10	False	True	True	0	33			0.0909
+KE 195	brain	12	0	0	True	False	True	0	12			
+KE 201	brain	12	5	0	True	True	True	0	17	0.0		
+KE 202	kidney|liver	18	38	100	True	True	True	4	129	0.0769	0.0727	0.1597
+KE 209	liver	15	0	73	True	False	True	0	83		0.0602	
+KE 214	liver	0	37	43	False	True	True	0	65			0.2308
+KE 216	liver	0	38	45	False	True	True	0	65			0.2769
+KE 227	liver	6	9	26	True	True	True	1	38	0.0714	0.0323	0.0606
+KE 228	liver	4	13	50	True	True	True	2	62	0.1333	0.0385	0.05
+KE 231	liver	0	9	58	False	True	True	0	64			0.0469
+KE 232	liver	0	9	50	False	True	True	0	56			0.0536
+KE 233	liver	2	9	50	True	True	True	2	56	0.2222	0.04	0.0536
+KE 239	brain|liver	3	92	32	True	True	True	1	120	0.0106	0.0606	0.042
+KE 244	kidney|liver	0	42	0	True	True	True	0	42			
+KE 245	liver	0	92	32	False	True	True	0	119			0.042
+KE 258	liver	6	38	0	True	True	True	0	43	0.0233		
+KE 264	liver	8	8	71	True	True	True	1	78	0.0667	0.0533	0.0676
+KE 265	liver	16	2	55	True	True	True	0	72	0.0	0.0143	0.0
+KE 272	lung	3	0	90	True	False	True	0	93		0.0	
+KE 277	brain|kidney	19	0	26	True	False	True	0	38		0.1842	
+KE 279	brain	7	0	0	True	False	True	0	7			
+KE 280	brain	10	31	0	True	True	True	0	35	0.1714		
+KE 281	brain|kidney|liver	6	0	26	True	False	True	0	31		0.0323	
+KE 288	liver	0	92	329	False	True	True	0	404			0.0421
+KE 291	liver	17	0	59	True	True	True	0	76		0.0	
+KE 294	kidney|liver	0	0	0	False	True	True	0	0			
+KE 295	brain|liver	0	130	26	False	True	True	0	141			0.1064
+KE 313	lung	0	0	0	True	False	True	0	0			
+KE 319	brain	0	0	0	False	False	True	0	0			
+KE 327	liver	0	360	60	False	True	True	0	370			0.1351
+KE 334	liver	0	9	141	False	True	True	0	150			0.0
+KE 341	brain	0	0	0	True	False	True	0	0			
+KE 344	liver	2	0	33	True	False	True	0	35		0.0	
+KE 345	liver	0	39	190	False	True	True	0	227			0.0088
+KE 350	brain	0	0	0	True	False	True	0	0			
+KE 351	brain|kidney|lung	0	0	0	True	False	True	0	0			
+KE 352	brain	8	0	17	True	False	True	0	24		0.0417	
+KE 357	liver	0	6	41	False	True	True	0	44			0.0682
+KE 360	brain|kidney	0	0	0	True	False	True	0	0			
+KE 373	liver	3	0	43	True	True	True	0	46		0.0	
+KE 376	liver	3	0	119	True	False	True	0	122		0.0	
+KE 378	liver	6	0	155	True	True	True	0	160		0.0063	
+KE 381	brain	19	0	144	True	False	True	0	158		0.0316	
+KE 382	brain	2	0	0	True	False	True	0	2			
+KE 383	brain	10	0	187	True	False	True	0	190		0.0368	
+KE 385	brain	6	0	54	True	False	True	0	58		0.0345	
+KE 386	brain	13	0	33	True	False	True	0	42		0.0952	
+KE 388	brain	9	0	123	True	False	True	0	127		0.0394	
+KE 389	brain	2	0	0	True	False	True	0	2			
+KE 396	lung	1	0	0	True	False	True	0	1			
+KE 398	lung	17	0	10	True	False	True	0	27		0.0	
+KE 402	brain	2	221	0	True	True	True	0	223	0.0		
+KE 409	liver	10	7	0	True	True	True	0	15	0.1333		
+KE 424	brain	10	0	0	True	False	True	0	10			
+KE 425	brain	11	0	26	True	False	True	0	34		0.0882	
+KE 450	liver	0	11	35	False	True	True	0	41			0.122
+KE 451	liver	0	53	38	False	True	True	0	73			0.2466
+KE 454	liver	0	19	24	False	True	True	0	35			0.2286
+KE 456	liver	0	92	31	False	True	True	0	120			0.025
+KE 457	liver	0	8	71	False	True	True	0	74			0.0676
+KE 458	liver	0	125	22	False	True	True	0	137			0.073
+KE 459	liver	6	0	97	True	False	True	0	103		0.0	
+KE 462	liver	0	38	0	False	True	True	0	38			
+KE 463	liver	0	125	0	False	True	True	0	125			
+KE 465	liver	0	87	18	False	True	True	0	93			0.129
+KE 466	liver	0	14	0	False	True	True	0	14			
+KE 467	liver	0	14	0	False	True	True	0	14			
+KE 468	liver	0	9	58	False	True	True	0	64			0.0469
+KE 470	liver	0	2	0	False	True	True	0	2			
+KE 471	liver	0	0	21	False	True	True	0	21			
+KE 472	liver	0	5	0	False	True	True	0	5			
+KE 474	liver	0	5	47	False	True	True	0	51			0.0196
+KE 477	liver	0	0	0	False	False	True	0	0			
+KE 478	liver	0	200	156	False	True	True	0	339			0.0501
+KE 479	liver	0	2	0	False	True	True	0	2			
+KE 480	liver	0	92	0	False	True	True	0	92			
+KE 482	liver	0	14	0	False	True	True	0	14			
+KE 483	liver	0	0	10	False	True	True	0	10			
+KE 484	liver	0	45	340	False	True	True	0	370			0.0405
+KE 486	liver	0	545	68	True	True	True	0	584			0.0497
+KE 491	liver	2	5	116	True	True	True	0	122	0.0	0.0	0.0083
+KE 493	liver	6	519	127	True	True	True	1	528	0.0038	0.0076	0.2328
+KE 566	brain	0	0	0	False	False	True	0	0			
+KE 613	brain	0	0	123	True	False	True	0	123			
+KE 616	brain	2	0	123	True	False	True	0	125		0.0	
+KE 618	brain	12	0	140	True	False	True	0	147		0.034	
+KE 637	brain	0	177	0	False	True	True	0	177			
+KE 667	brain	6	0	31	True	False	True	0	36		0.0278	
+KE 669	brain	1	0	123	True	False	True	0	124		0.0	
+KE 682	brain	8	0	123	True	False	True	0	130		0.0077	
+KE 708	kidney	0	4	0	False	True	True	0	4			
+KE 709	kidney	29	0	97	True	False	True	0	108		0.1667	
+KE 710	kidney	0	0	98	False	False	True	0	98			
+KE 713	kidney	0	0	0	False	False	True	0	0			
+KE 714	kidney	0	0	0	False	False	True	0	0			
+KE 715	liver	9	92	31	True	True	True	1	126	0.01	0.0811	0.025
+KE 716	liver	0	5	230	True	True	True	0	234			0.0043
+KE 719	liver	0	0	142	False	False	True	0	142			
+KE 724	liver	0	10	0	False	True	True	0	10			
+KE 726	liver	0	6	0	False	True	True	0	6			
+KE 733	lung	0	0	0	False	False	True	0	0			
+KE 734	lung	0	0	0	False	False	True	0	0			
+KE 735	lung	0	0	0	False	False	True	0	0			
+KE 736	lung	0	0	0	False	True	True	0	0			
+KE 739	liver	0	72	0	False	True	True	0	72			
+KE 740	liver	0	0	0	False	False	True	0	0			
+KE 741	liver	0	0	0	False	True	True	0	0			
+KE 756	brain	8	0	27	True	True	True	0	34		0.0294	
+KE 757	brain	17	49	38	True	True	True	0	99	0.0154	0.0377	0.0235
+KE 758	brain	2	376	132	True	True	True	0	501	0.0	0.0	0.018
+KE 759	kidney|lung	0	0	0	False	False	True	0	0			
+KE 761	brain	0	0	31	False	False	True	0	31			
+KE 762	brain	0	0	31	False	False	True	0	31			
+KE 767	kidney	0	0	122	False	False	True	0	122			
+KE 768	kidney|liver	0	889	87	True	True	True	0	913			0.069
+KE 769	liver	0	203	61	False	True	True	0	213			0.2394
+KE 770	lung	0	0	91	True	False	True	0	91			
+KE 771	brain	0	21	26	False	True	True	0	42			0.119
+KE 774	liver	0	0	98	False	False	True	0	98			
+KE 780	lung	0	0	91	True	False	True	0	91			
+KE 783	kidney	1	0	113	True	False	True	0	114		0.0	
+KE 784	kidney	0	0	98	False	False	True	0	98			
+KE 786	liver	1	889	0	True	True	True	0	890	0.0		
+KE 787	liver	0	5	155	False	True	True	0	160			0.0
+KE 793	kidney	0	0	0	False	False	True	0	0			
+KE 794	kidney	0	0	91	False	False	True	0	91			
+KE 795	kidney	0	0	98	False	False	True	0	98			
+KE 796	kidney	0	0	0	False	False	True	0	0			
+KE 797	kidney	0	0	0	False	True	True	0	0			
+KE 813	kidney	0	0	0	False	False	True	0	0			
+KE 814	kidney|lung	12	0	0	True	False	True	0	12			
+KE 818	kidney	0	0	0	False	False	True	0	0			
+KE 819	kidney	0	0	73	False	False	True	0	73			
+KE 820	kidney	0	0	0	False	False	True	0	0			
+KE 821	kidney	0	0	57	False	False	True	0	57			
+KE 823	kidney	0	0	0	False	False	True	0	0			
+KE 824	kidney	0	0	0	False	False	True	0	0			
+KE 825	kidney	0	0	0	False	False	True	0	0			
+KE 828	liver	0	49	0	False	True	True	0	49			
+KE 829	liver	0	660	0	False	True	True	0	660			
+KE 831	kidney|liver	0	76	30	False	True	True	0	106			0.0
+KE 833	liver	0	0	0	False	True	True	0	0			
+KE 835	liver	0	0	23	False	True	True	0	23			
+KE 836	liver	0	0	30	False	True	True	0	30			
+KE 837	liver	0	0	30	False	True	True	0	30			
+KE 838	liver	0	0	19	False	False	True	0	19			
+KE 839	liver	0	0	63	False	False	True	0	63			
+KE 840	liver	0	0	33	False	False	True	0	33			
+KE 850	brain	5	0	105	True	False	True	0	106		0.0377	
+KE 851	brain	13	0	31	True	False	True	0	44		0.0	
+KE 853	liver	1	1405	126	True	True	True	0	1439	0.0007	0.0	0.0639
+KE 854	liver	5	318	212	True	True	True	0	511	0.0031	0.0046	0.0433
+KE 856	liver	1	0	90	True	True	True	0	91		0.0	
+KE 860	liver	20	53	38	True	True	True	13	76	0.2807	0.3182	0.2466
+KE 870	lung	7	0	120	True	False	True	0	126		0.0079	
+KE 875	brain	13	0	140	True	False	True	0	145		0.0552	
+KE 877	kidney	5	0	0	True	False	True	0	5			
+KE 878	liver	0	8	71	False	True	True	0	74			0.0676
+KE 879	liver	0	11	0	False	True	True	0	11			
+KE 880	liver	0	11	0	False	True	True	0	11			
+KE 881	liver	0	46	59	False	True	True	0	88			0.1932
+KE 887	brain|liver	5	43	106	True	True	True	2	111	0.0435	0.0183	0.3796
+KE 888	brain|liver	20	43	56	True	True	True	9	71	0.2115	0.1343	0.5968
+KE 889	brain|liver	14	0	72	True	False	True	0	85		0.0118	
+KE 890	brain	6	0	17	True	False	True	0	22		0.0455	
+KE 896	brain	9	72	71	True	True	True	0	146	0.0253	0.0	0.0288
+KE 898	kidney|liver	20	151	30	True	True	True	0	198	0.0059	0.0	0.0112
+KE 902	lung	3	0	68	True	False	True	0	70		0.0143	
+KE 926	kidney	0	0	19	True	False	True	0	19			
+KE 941	lung	26	0	162	True	False	True	0	180		0.0444	
+KE 957	brain	9	0	0	True	False	True	0	9			
+KE 958	brain	25	12	0	True	True	True	0	35	0.0571		
+KE 959	brain	7	12	91	True	True	True	0	106	0.0	0.0103	0.03
+KE 960	brain	41	0	91	True	False	True	0	127		0.0394	
+KE 961	brain|liver	41	3	91	True	True	True	2	126	0.0476	0.0476	0.033
+KE 962	lung	18	0	0	True	False	True	0	18			
+KE 1012	brain	0	0	123	False	False	True	0	123			
+KE 1014	brain	0	0	38	False	False	True	0	38			
+KE 1015	brain	0	0	123	False	False	True	0	123			
+KE 1016	brain	0	0	0	True	False	True	0	0			
+KE 1018	brain	0	0	0	False	False	True	0	0			
+KE 1019	brain	0	0	0	False	False	True	0	0			
+KE 1023	liver	0	0	0	False	True	True	0	0			
+KE 1096	kidney	0	16	23	False	True	True	0	37			0.0541
+KE 1097	kidney	0	19	64	False	True	True	0	83			0.0
+KE 1098	kidney	0	36	0	False	True	True	0	36			
+KE 1102	kidney	0	0	0	False	True	True	0	0			
+KE 1103	kidney	0	0	31	False	False	True	0	31			
+KE 1104	kidney	0	35	46	False	True	True	0	68			0.1912
+KE 1105	kidney	0	0	0	False	False	True	0	0			
+KE 1106	kidney	0	65	0	False	True	True	0	65			
+KE 1114	kidney	0	0	0	False	True	True	0	0			
+KE 1115	brain|kidney|liver|lung	11	79	73	True	True	True	2	144	0.0465	0.05	0.0935
+KE 1170	liver	0	0	0	True	True	True	0	0			
+KE 1171	liver	7	5	98	True	True	True	0	109	0.0	0.0	0.0098
+KE 1172	lung	6	0	10	True	False	True	0	15		0.0667	
+KE 1177	brain	0	26	130	False	True	True	0	137			0.1387
+KE 1194	liver	1	787	69	True	True	True	0	813	0.0	0.0	0.0542
+KE 1197	lung	0	0	64	False	False	True	0	64			
+KE 1198	lung	0	0	17	False	False	True	0	17			
+KE 1214	liver	22	92	31	True	True	True	1	133	0.0179	0.1778	0.025
+KE 1215	lung	0	0	0	False	False	True	0	0			
+KE 1218	lung	0	0	151	False	False	True	0	151			
+KE 1220	lung	0	0	0	False	False	True	0	0			
+KE 1222	lung	0	0	0	False	False	True	0	0			
+KE 1223	lung	0	0	16	False	False	True	0	16			
+KE 1226	lung	0	0	0	False	False	True	0	0			
+KE 1239	brain	1	0	0	True	False	True	0	1			
+KE 1250	lung	1	0	0	True	False	True	0	1			
+KE 1262	brain|liver|lung	18	840	126	True	True	True	9	883	0.0118	0.0746	0.1027
+KE 1270	lung	1	9	50	True	True	True	1	56	0.1111	0.02	0.0536
+KE 1271	lung	0	78	60	False	True	True	0	118			0.1695
+KE 1275	lung	0	13	59	False	True	True	0	67			0.0746
+KE 1276	lung	0	213	64	True	True	True	0	271			0.0221
+KE 1283	lung	0	0	65	False	False	True	0	65			
+KE 1284	liver	0	8	76	False	True	True	0	79			0.0633
+KE 1285	liver	0	38	38	False	True	True	0	66			0.1515
+KE 1286	liver	0	51	0	False	True	True	0	51			
+KE 1287	liver	0	12	19	False	True	True	0	26			0.1923
+KE 1288	liver	0	34	0	False	True	True	0	34			
+KE 1289	liver	0	92	86	False	True	True	0	146			0.2192
+KE 1290	liver	0	51	19	False	True	True	0	56			0.25
+KE 1291	liver	0	0	0	False	True	True	0	0			
+KE 1292	lung	0	0	246	False	False	True	0	246			
+KE 1293	liver	0	0	0	False	False	True	0	0			
+KE 1305	liver	0	360	0	True	True	True	0	360			
+KE 1321	brain	0	28	0	False	True	True	0	28			
+KE 1339	brain	13	0	151	True	False	True	0	163		0.0061	
+KE 1344	brain	0	0	0	False	True	True	0	0			
+KE 1348	brain	0	0	0	False	True	True	0	0			
+KE 1349	brain	0	1	51	False	True	True	0	52			0.0
+KE 1350	brain	1	0	140	True	False	True	0	140		0.0071	
+KE 1351	brain	0	5	0	False	True	True	0	5			
+KE 1352	brain	0	163	37	False	True	True	0	186			0.0753
+KE 1353	brain	5	0	37	True	False	True	0	40		0.05	
+KE 1354	brain	0	0	0	False	True	True	0	0			
+KE 1355	brain	0	53	123	False	True	True	0	176			0.0
+KE 1357	brain	0	0	0	False	True	True	0	0			
+KE 1362	brain	0	53	123	False	True	True	0	176			0.0
+KE 1363	brain	0	0	123	False	True	True	0	123			
+KE 1365	kidney	0	840	126	False	True	True	0	876			0.1027
+KE 1391	brain|liver	3	130	62	True	True	True	1	165	0.0076	0.0317	0.1707
+KE 1392	brain|kidney|liver|lung	19	351	107	True	True	True	6	432	0.0221	0.0769	0.0802
+KE 1393	liver	14	889	91	True	True	True	7	912	0.0101	0.0714	0.0805
+KE 1394	liver	40	318	230	True	True	True	3	544	0.0142	0.0714	0.0458
+KE 1395	liver	1	0	56	True	True	True	0	57		0.0	
+KE 1413	brain	0	1	51	False	True	True	0	52			0.0
+KE 1414	brain	0	8	11	False	True	True	0	16			0.1875
+KE 1415	brain	0	26	31	False	True	True	0	40			0.425
+KE 1416	brain	0	9	0	False	True	True	0	9			
+KE 1417	liver	0	200	156	False	True	True	0	339			0.0501
+KE 1419	liver	0	2	0	False	True	True	0	2			
+KE 1420	liver	0	0	0	False	True	True	0	0			
+KE 1421	liver	0	92	10	False	True	True	0	101			0.0099
+KE 1422	liver	0	9	58	False	True	True	0	64			0.0469
+KE 1423	liver	0	53	0	False	True	True	0	53			
+KE 1424	liver	0	53	34	False	True	True	0	71			0.2254
+KE 1433	lung	0	0	0	False	False	True	0	0			
+KE 1434	lung	0	0	0	False	False	True	0	0			
+KE 1435	lung	0	0	0	False	False	True	0	0			
+KE 1438	lung	10	0	0	True	False	True	0	10			
+KE 1439	lung	9	0	17	True	False	True	0	26		0.0	
+KE 1443	lung	2	0	0	True	False	True	0	2			
+KE 1445	kidney	0	0	64	True	False	True	0	64			
+KE 1456	lung	0	137	64	False	True	True	0	196			0.0255
+KE 1457	lung	45	0	23	True	False	True	0	62		0.0968	
+KE 1458	lung	2	213	64	True	True	True	1	271	0.0094	0.0154	0.0221
+KE 1468	lung	0	9	55	False	True	True	0	62			0.0323
+KE 1469	lung	0	78	55	False	True	True	0	113			0.177
+KE 1481	kidney	0	10	0	False	True	True	0	10			
+KE 1482	kidney	0	15	0	False	True	True	0	15			
+KE 1486	kidney	0	162	0	False	True	True	0	162			
+KE 1487	brain|kidney	5	0	33	True	True	True	0	36		0.0556	
+KE 1488	brain	23	2	140	True	True	True	1	149	0.0417	0.1014	0.0071
+KE 1489	liver	0	0	186	True	True	True	0	186			
+KE 1490	liver	0	53	0	True	True	True	0	53			
+KE 1491	liver	0	889	0	True	True	True	0	889			
+KE 1492	brain|liver	38	611	0	True	True	True	0	634	0.0237		
+KE 1493	brain|liver|lung	53	76	172	True	True	True	2	272	0.032	0.0976	0.029
+KE 1494	liver	4	584	51	True	True	True	0	623	0.0017	0.0	0.0242
+KE 1495	lung	9	0	0	True	False	True	0	9			
+KE 1496	lung	35	0	127	True	False	True	0	136		0.1912	
+KE 1497	lung	0	0	17	True	False	True	0	17			
+KE 1498	lung	9	31	0	True	True	True	0	40	0.0		
+KE 1499	lung	19	1	0	True	True	True	0	20	0.0		
+KE 1500	lung	18	6	0	True	True	True	0	24	0.0		
+KE 1501	liver|lung	11	25	117	True	True	True	1	149	0.0909	0.0079	0.0071
+KE 1505	liver	4	0	0	True	False	True	0	4			
+KE 1508	brain	3	130	62	True	True	True	2	164	0.0153	0.0484	0.1707
+KE 1509	brain	0	42	0	True	True	True	0	42			
+KE 1511	brain	0	78	64	True	True	True	0	140			0.0143
+KE 1512	brain|liver	8	60	23	True	True	True	7	72	0.1148	0.2917	0.169
+KE 1513	brain	4	0	87	True	False	True	0	88		0.0341	
+KE 1514	brain	0	889	0	True	True	True	0	889			
+KE 1527	brain	0	53	123	False	True	True	0	176			0.0
+KE 1535	lung	0	0	0	True	False	True	0	0			
+KE 1538	brain|kidney	9	200	33	True	True	True	1	226	0.0195	0.05	0.0495
+KE 1539	liver	8	475	0	True	True	True	0	479	0.0084		
+KE 1541	brain	0	43	56	False	True	True	0	62			0.5968
+KE 1542	liver	13	14	0	True	True	True	0	22	0.2273		
+KE 1543	liver	6	21	0	True	True	True	0	26	0.0385		
+KE 1544	liver	4	64	0	True	True	True	0	67	0.0149		
+KE 1545	liver	1	105	0	True	True	True	0	106	0.0		
+KE 1547	brain|liver	0	283	0	False	True	True	0	283			
+KE 1548	liver	0	889	93	True	True	True	0	916			0.0721
+KE 1549	liver	8	0	0	True	True	True	0	8			
+KE 1556	lung	0	0	139	True	True	True	0	139			
+KE 1574	liver	5	38	0	True	True	True	0	39	0.1026		
+KE 1575	liver	10	38	87	True	True	True	5	107	0.1163	0.1023	0.1792
+KE 1576	liver	0	49	0	False	True	True	0	49			
+KE 1579	liver	0	0	215	False	True	True	0	215			
+KE 1580	brain	2	539	0	True	True	True	0	540	0.0019		
+KE 1581	brain	7	60	48	True	True	True	0	109	0.0	0.0	0.0588
+KE 1582	brain	2	61	0	True	True	True	0	62	0.0161		
+KE 1583	brain	0	0	0	True	True	True	0	0			
+KE 1584	lung	0	6	0	True	True	True	0	6			
+KE 1585	brain|lung	0	501	63	True	True	True	0	527			0.0702
+KE 1586	lung	0	356	0	True	True	True	0	356			
+KE 1587	lung	1	213	64	True	True	True	0	271	0.0047	0.0	0.0221
+KE 1588	lung	0	0	0	True	True	True	0	0			
+KE 1602	brain	13	0	0	True	False	True	0	13			
+KE 1603	kidney	0	0	0	False	True	True	0	0			
+KE 1604	liver	3	84	0	True	True	True	0	87	0.0		
+KE 1605	brain|liver	0	248	23	True	True	True	0	269			0.0074
+KE 1606	liver	1	2	0	True	True	True	0	3	0.0		
+KE 1607	kidney	0	889	75	False	True	True	0	949			0.0158
+KE 1623	brain	1	0	37	True	False	True	0	38		0.0	
+KE 1633	kidney|liver	0	510	54	False	True	True	0	543			0.0387
+KE 1635	brain|lung	1	0	156	True	False	True	0	157		0.0	
+KE 1636	lung	0	0	0	True	False	True	0	0			
+KE 1653	liver	0	14	0	False	True	True	0	14			
+KE 1654	liver	0	21	0	False	True	True	0	21			
+KE 1655	liver	0	64	0	False	True	True	0	64			
+KE 1656	brain	12	3	91	True	True	True	2	101	0.1538	0.03	0.0217
+KE 1668	lung	0	0	40	True	False	True	0	40			
+KE 1669	lung	0	0	173	True	False	True	0	173			
+KE 1670	lung	0	0	139	True	False	True	0	139			
+KE 1672	lung	1	14	0	True	True	True	0	15	0.0		
+KE 1673	lung	0	0	0	True	True	True	0	0			
+KE 1677	lung	0	6	0	False	True	True	0	6			
+KE 1686	brain|lung	1	0	0	True	False	True	0	1			
+KE 1708	lung	19	40	93	True	True	True	2	126	0.0351	0.0769	0.1565
+KE 1738	lung	57	0	10	True	False	True	0	61		0.0984	
+KE 1739	brain|lung	8	0	0	True	False	True	0	8			
+KE 1740	liver|lung	0	13	17	False	True	True	0	24			0.25
+KE 1743	liver	0	13	44	False	True	True	0	53			0.0755
+KE 1748	lung	0	0	0	False	True	True	0	0			
+KE 1750	lung	0	510	49	False	True	True	0	537			0.041
+KE 1752	kidney|lung	0	13	44	False	True	True	0	53			0.0755
+KE 1770	kidney	0	2	106	False	True	True	0	107			0.0093
+KE 1788	brain	3	0	123	True	False	True	0	125		0.008	
+KE 1792	lung	0	29	95	False	True	True	0	107			0.1589
+KE 1793	lung	0	0	0	False	True	True	0	0			
+KE 1794	lung	0	3	0	False	True	True	0	3			
+KE 1795	lung	0	9	55	False	True	True	0	62			0.0323
+KE 1809	lung	0	0	0	False	True	True	0	0			
+KE 1812	brain	0	19	87	False	True	True	0	96			0.1042
+KE 1814	liver	0	30	0	False	True	True	0	30			
+KE 1815	kidney|liver	0	218	23	False	True	True	0	223			0.0807
+KE 1816	brain	0	0	61	False	True	True	0	61			
+KE 1817	liver	0	840	126	False	True	True	0	876			0.1027
+KE 1818	liver	0	180	90	False	True	True	0	264			0.0227
+KE 1819	liver	0	13	37	False	True	True	0	42			0.1905
+KE 1820	liver	0	2	26	False	True	True	0	27			0.037
+KE 1821	liver	0	0	0	True	False	True	0	0			
+KE 1825	brain|lung	31	889	161	True	True	True	15	965	0.02	0.0847	0.1029
+KE 1829	brain	0	20	91	False	True	True	0	110			0.0091
+KE 1834	liver	0	11	0	False	True	True	0	11			
+KE 1841	brain	6	39	13	True	True	True	0	58	0.0	0.0	0.0
+KE 1842	lung	0	9	145	False	True	True	0	151			0.0199
+KE 1843	lung	1	0	0	True	True	True	0	1			
+KE 1844	lung	0	510	17	False	True	True	0	516			0.0213
+KE 1846	lung	3	0	22	True	False	True	0	24		0.0417	
+KE 1847	lung	50	0	10	True	False	True	0	60		0.0	
+KE 1848	lung	23	46	31	True	True	True	13	66	0.2545	0.3171	0.3509
+KE 1851	lung	0	13	70	False	True	True	0	77			0.0779
+KE 1852	kidney|liver	0	13	28	False	True	True	0	38			0.0789
+KE 1853	kidney	0	25	70	False	True	True	0	85			0.1176
+KE 1854	lung	42	0	52	True	False	True	0	82		0.1463	
+KE 1855	kidney	0	156	0	False	True	True	0	156			
+KE 1857	lung	15	11	17	True	True	True	0	39	0.0	0.1429	0.0
+KE 1868	lung	15	0	127	True	False	True	0	136		0.0441	
+KE 1869	brain|lung	13	0	33	True	False	True	0	41		0.122	
+KE 1895	lung	5	0	0	True	False	True	0	5			
+KE 1897	lung	0	16	18	False	True	True	0	28			0.2143
+KE 1898	lung	0	0	0	False	True	True	0	0			
+KE 1899	lung	0	3	0	False	True	True	0	3			
+KE 1900	lung	0	27	145	False	True	True	0	172			0.0
+KE 1901	lung	60	0	31	True	False	True	0	81		0.1235	
+KE 1906	lung	2	0	0	True	False	True	0	2			
+KE 1907	lung	6	13	0	True	True	True	0	18	0.0556		
+KE 1908	lung	15	0	183	True	False	True	0	198		0.0	
+KE 1909	lung	2	0	183	True	False	True	0	185		0.0	
+KE 1911	lung	10	0	0	True	True	True	0	10			
+KE 1912	lung	0	63	225	True	True	True	0	273			0.0549
+KE 1917	kidney	0	200	15	False	True	True	0	211			0.019
+KE 1921	lung	0	38	0	False	True	True	0	38			
+KE 1922	lung	0	130	185	False	True	True	0	247			0.2753
+KE 1923	lung	0	38	96	False	True	True	0	131			0.0229
+KE 1933	lung	0	0	17	False	True	True	0	17			
+KE 1941	brain	0	85	0	False	True	True	0	85			
+KE 1942	brain	0	26	0	False	True	True	0	26			
+KE 1943	brain	0	305	0	False	True	True	0	305			
+KE 1944	brain	0	444	51	True	True	True	0	466			0.0622
+KE 1945	brain|lung	0	317	30	False	True	True	0	327			0.0612
+KE 1977	brain	0	0	37	True	False	True	0	37			
+KE 1978	brain	0	516	0	False	True	True	0	516			
+KE 1983	brain	1	0	0	True	False	True	0	1			
+KE 2005	brain	1	376	51	True	True	True	0	398	0.0027	0.0	0.0729
+KE 2006	lung	0	0	0	False	False	True	0	0			
+KE 2007	lung	0	60	0	False	True	True	0	60			
+KE 2008	lung	0	0	0	False	True	True	0	0			
+KE 2009	lung	0	510	54	False	True	True	0	543			0.0387
+KE 2010	lung	0	510	32	False	True	True	0	531			0.0207
+KE 2011	lung	0	0	0	False	True	True	0	0			
+KE 2012	lung	0	140	64	False	True	True	0	199			0.0251
+KE 2013	lung	0	56	64	False	True	True	0	117			0.0256
+KE 2017	brain	0	218	23	False	True	True	0	223			0.0807
+KE 2019	liver	0	0	0	False	False	True	0	0			
+KE 2029	brain	0	19	23	False	True	True	0	41			0.0244
+KE 2030	liver	0	7	0	False	True	True	0	7			
+KE 2031	liver	0	241	92	False	True	True	0	287			0.1603
+KE 2036	brain	0	15	15	False	True	True	0	22			0.3636
+KE 2037	brain	5	11	0	True	True	True	0	15	0.0667		
+KE 2038	brain	0	650	0	False	True	True	0	650			
+KE 2039	brain	0	26	31	False	True	True	0	40			0.425
+KE 2078	brain	5	0	0	True	False	True	0	5			
+KE 2085	lung	0	356	0	False	True	True	0	356			
+KE 2086	lung	0	510	78	False	True	True	0	559			0.0519
+KE 2087	lung	0	0	0	False	True	True	0	0			
+KE 2088	lung	0	6	0	False	True	True	0	6			
+KE 2093	brain	0	31	91	False	True	True	0	111			0.0991
+KE 2094	brain	0	1	72	False	True	True	0	73			0.0
+KE 2095	brain	0	0	0	False	True	True	0	0			
+KE 2097	brain	16	0	127	True	False	True	0	134		0.0672	
+KE 2098	brain	0	0	105	True	False	True	0	105			
+KE 2107	brain	0	84	30	False	True	True	0	109			0.0459
+KE 2108	brain	0	84	0	False	True	True	0	84			
+KE 2109	brain	0	123	0	False	True	True	0	123			
+KE 2110	brain	0	123	101	False	True	True	0	192			0.1667
+KE 2111	brain	0	123	101	False	True	True	0	192			0.1667
+KE 2112	brain	0	28	0	False	True	True	0	28			
+KE 2113	brain	0	135	0	False	True	True	0	135			
+KE 2114	brain	0	88	0	False	True	True	0	88			
+KE 2115	brain	0	103	65	False	True	True	0	141			0.1915
+KE 2116	brain	0	50	61	False	True	True	0	96			0.1562
+KE 2117	lung	4	0	0	True	True	True	0	4			
+KE 2146	brain	4	0	0	True	False	True	0	4			
+KE 2148	brain	0	162	0	False	True	True	0	162			
+KE 2149	brain	0	71	0	False	True	True	0	71			
+KE 2150	brain	0	0	0	False	True	True	0	0			
+KE 2151	brain	0	0	51	True	False	True	0	51			
+KE 2187	brain	0	210	0	False	True	True	0	210			
+KE 2188	brain	0	241	87	False	True	True	0	286			0.1469
+KE 2195	brain	0	889	91	False	True	True	0	907			0.0805
+KE 2196	brain	0	0	0	False	True	True	0	0			
+KE 2197	brain	0	0	0	False	True	True	0	0			
+KE 2198	brain	0	0	0	False	True	True	0	0			
+KE 2199	liver	8	92	0	True	True	True	0	100	0.0		
+KE 2201	brain	9	17	0	True	True	True	0	21	0.2381		
+KE 2202	brain	3	547	120	True	True	True	2	603	0.0036	0.0165	0.108
+KE 2203	brain	8	44	0	True	True	True	0	52	0.0		
+KE 2204	brain	0	19	0	False	True	True	0	19			
+KE 2208	brain	0	275	54	False	True	True	0	304			0.0822
+KE 2210	brain	0	88	0	False	True	True	0	88			
+KE 2216	brain	0	3	91	False	True	True	0	92			0.0217
+KE 2217	brain	0	4	70	False	True	True	0	73			0.0137
+KE 2218	brain	0	92	10	False	True	True	0	101			0.0099
+KE 2219	brain	0	9	0	False	True	True	0	9			
+KE 2220	brain	0	4	70	False	True	True	0	73			0.0137
+KE 2221	brain	0	92	10	False	True	True	0	101			0.0099
+KE 2222	brain	0	9	0	False	True	True	0	9			
+KE 2223	brain	0	50	48	False	True	True	0	84			0.1667
+KE 2224	liver	2	9	50	True	True	True	1	57	0.1	0.0196	0.0536
+KE 2225	liver	4	39	64	True	True	True	0	104	0.0	0.0	0.03
+KE 2226	liver	1	9	50	True	True	True	1	56	0.1111	0.02	0.0536
+KE 2227	liver	3	9	50	True	True	True	2	56	0.2	0.06	0.0536
+KE 2232	brain	0	17	43	False	True	True	0	54			0.1111
+KE 2233	brain	0	19	13	False	True	True	0	31			0.0323
+KE 2242	brain	1	0	0	True	False	True	0	1			
+KE 2244	brain	43	0	0	True	False	True	0	43			
+KE 2262	brain	4	361	0	True	True	True	0	363	0.0055		
+KE 2263	brain	5	361	0	True	True	True	0	364	0.0055		
+KE 2264	brain	1	660	0	True	True	True	0	661	0.0		
+KE 2265	brain	1	0	91	True	False	True	0	92		0.0	
+KE 2266	brain	0	0	0	True	False	True	0	0			
+KE 2267	brain	0	0	0	False	True	True	0	0			
+KE 2299	brain	0	0	33	True	False	True	0	33			
+KE 2300	brain	0	0	73	True	False	True	0	73			
+KE 2301	brain	0	0	0	True	False	True	0	0			
+KE 2302	brain	0	0	0	True	True	True	0	0			
+KE 2344	liver	0	0	0	False	False	True	0	0			
+KE 2345	liver	0	0	0	False	False	True	0	0			
+KE 2346	liver	0	0	0	False	False	True	0	0			
+KE 2347	liver	0	0	0	False	False	True	0	0			
+KE 2348	liver	0	0	0	False	False	True	0	0			

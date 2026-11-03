@@ -1,0 +1,206 @@
+aop_number,aopid,aop_title,keid,role
+39,AOP 39,"Covalent Binding, Protein, leading to Increase, Allergic Respiratory Hypersensitivity Response",KE 1496,KE
+39,AOP 39,"Covalent Binding, Protein, leading to Increase, Allergic Respiratory Hypersensitivity Response",KE 272,KE
+39,AOP 39,"Covalent Binding, Protein, leading to Increase, Allergic Respiratory Hypersensitivity Response",KE 313,AO
+39,AOP 39,"Covalent Binding, Protein, leading to Increase, Allergic Respiratory Hypersensitivity Response",KE 396,MIE
+39,AOP 39,"Covalent Binding, Protein, leading to Increase, Allergic Respiratory Hypersensitivity Response",KE 398,KE
+109,AOP 109,Cytotoxicity leading to bronchioloalveolar adenomas and carcinomas (in mouse),KE 733,KE
+109,AOP 109,Cytotoxicity leading to bronchioloalveolar adenomas and carcinomas (in mouse),KE 734,KE
+109,AOP 109,Cytotoxicity leading to bronchioloalveolar adenomas and carcinomas (in mouse),KE 735,KE
+109,AOP 109,Cytotoxicity leading to bronchioloalveolar adenomas and carcinomas (in mouse),KE 736,AO
+109,AOP 109,Cytotoxicity leading to bronchioloalveolar adenomas and carcinomas (in mouse),KE 770,MIE
+148,AOP 148,EGFR Activation Leading to Decreased Lung Function,KE 1250,AO
+148,AOP 148,EGFR Activation Leading to Decreased Lung Function,KE 2117,KE
+148,AOP 148,EGFR Activation Leading to Decreased Lung Function,KE 941,MIE
+148,AOP 148,EGFR Activation Leading to Decreased Lung Function,KE 962,KE
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 1458,AO
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 1495,MIE
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 1496,KE
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 1497,KE
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 1498,KE
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 1499,KE
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 1500,KE
+173,AOP 173,Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis,KE 68,KE
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1215,MIE
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1218,KE
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1220,KE
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1222,KE
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1223,AO
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1226,AO
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1433,KE
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1434,AO
+196,AOP 196,Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation,KE 1435,KE
+206,AOP 206,Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis,KE 1270,MIE
+206,AOP 206,Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis,KE 1271,KE
+206,AOP 206,Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis,KE 1275,KE
+206,AOP 206,Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis,KE 1276,AO
+206,AOP 206,Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis,KE 1457,KE
+206,AOP 206,Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis,KE 149,KE
+237,AOP 237,Substance interaction with lung resident cell membrane components leading to atherosclerosis via acute phase response,KE 1438,KE
+237,AOP 237,Substance interaction with lung resident cell membrane components leading to atherosclerosis via acute phase response,KE 1439,KE
+237,AOP 237,Substance interaction with lung resident cell membrane components leading to atherosclerosis via acute phase response,KE 1443,AO
+237,AOP 237,Substance interaction with lung resident cell membrane components leading to atherosclerosis via acute phase response,KE 1495,MIE
+237,AOP 237,Substance interaction with lung resident cell membrane components leading to atherosclerosis via acute phase response,KE 1496,KE
+241,AOP 241,Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis,KE 1456,KE
+241,AOP 241,Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis,KE 1457,KE
+241,AOP 241,Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis,KE 1458,AO
+241,AOP 241,Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis,KE 1468,MIE
+241,AOP 241,Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis,KE 1469,KE
+241,AOP 241,Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis,KE 68,KE
+272,AOP 272,Deposition of energy leading to lung cancer,KE 155,KE
+272,AOP 272,Deposition of energy leading to lung cancer,KE 1556,AO
+272,AOP 272,Deposition of energy leading to lung cancer,KE 1635,KE
+272,AOP 272,Deposition of energy leading to lung cancer,KE 1636,KE
+272,AOP 272,Deposition of energy leading to lung cancer,KE 1686,MIE
+272,AOP 272,Deposition of energy leading to lung cancer,KE 185,KE
+272,AOP 272,Deposition of energy leading to lung cancer,KE 870,KE
+280,AOP 280,α-diketone-induced bronchiolitis obliterans,KE 1457,KE
+280,AOP 280,α-diketone-induced bronchiolitis obliterans,KE 149,KE
+280,AOP 280,α-diketone-induced bronchiolitis obliterans,KE 1584,MIE
+280,AOP 280,α-diketone-induced bronchiolitis obliterans,KE 1585,KE
+280,AOP 280,α-diketone-induced bronchiolitis obliterans,KE 1586,KE
+280,AOP 280,α-diketone-induced bronchiolitis obliterans,KE 1587,KE
+280,AOP 280,α-diketone-induced bronchiolitis obliterans,KE 1588,AO
+302,AOP 302,Lung surfactant function inhibition leading to decreased lung function,KE 1250,AO
+302,AOP 302,Lung surfactant function inhibition leading to decreased lung function,KE 1498,KE
+302,AOP 302,Lung surfactant function inhibition leading to decreased lung function,KE 1672,MIE
+302,AOP 302,Lung surfactant function inhibition leading to decreased lung function,KE 1673,KE
+302,AOP 302,Lung surfactant function inhibition leading to decreased lung function,KE 1677,KE
+303,AOP 303,Frustrated phagocytosis-induced lung cancer,KE 1115,KE
+303,AOP 303,Frustrated phagocytosis-induced lung cancer,KE 1497,KE
+303,AOP 303,Frustrated phagocytosis-induced lung cancer,KE 1668,MIE
+303,AOP 303,Frustrated phagocytosis-induced lung cancer,KE 1669,KE
+303,AOP 303,Frustrated phagocytosis-induced lung cancer,KE 1670,AO
+303,AOP 303,Frustrated phagocytosis-induced lung cancer,KE 87,KE
+303,AOP 303,Frustrated phagocytosis-induced lung cancer,KE 870,KE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1115,KE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1172,KE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1276,AO
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1496,KE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1740,MIE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1752,KE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1851,KE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 1854,KE
+319,AOP 319,Binding to ACE2 leading to lung fibrosis,KE 68,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1496,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1738,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1739,MIE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1748,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1750,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1847,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1848,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 1901,KE
+320,AOP 320,Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality,KE 351,AO
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1270,MIE
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1283,KE
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1292,KE
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1457,KE
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1458,AO
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1792,MIE
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1793,KE
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1794,KE
+347,AOP 347,Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis,KE 1795,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1172,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1392,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1493,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1496,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1497,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1535,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1708,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1748,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 177,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1809,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1825,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1842,MIE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1843,AO
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1844,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1846,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1848,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1857,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1868,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1869,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1895,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1897,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1898,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1899,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 1900,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 351,AO
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 55,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 759,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 814,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 87,KE
+377,AOP 377,Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS),KE 902,KE
+382,AOP 382,Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis,KE 1115,KE
+382,AOP 382,Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis,KE 1172,KE
+382,AOP 382,Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis,KE 1276,AO
+382,AOP 382,Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis,KE 1496,KE
+382,AOP 382,Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis,KE 1851,MIE
+382,AOP 382,Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis,KE 68,KE
+411,AOP 411,Oxidative stress Leading to Decreased Lung Function ,KE 1250,AO
+411,AOP 411,Oxidative stress Leading to Decreased Lung Function ,KE 1392,MIE
+411,AOP 411,Oxidative stress Leading to Decreased Lung Function ,KE 1908,KE
+411,AOP 411,Oxidative stress Leading to Decreased Lung Function ,KE 1909,KE
+415,AOP 415,Aryl hydrocarbon receptor activation leading to lung fibrosis through IL-6 toxicity pathway,KE 1276,AO
+415,AOP 415,Aryl hydrocarbon receptor activation leading to lung fibrosis through IL-6 toxicity pathway,KE 1457,KE
+415,AOP 415,Aryl hydrocarbon receptor activation leading to lung fibrosis through IL-6 toxicity pathway,KE 1501,KE
+415,AOP 415,Aryl hydrocarbon receptor activation leading to lung fibrosis through IL-6 toxicity pathway,KE 18,MIE
+415,AOP 415,Aryl hydrocarbon receptor activation leading to lung fibrosis through IL-6 toxicity pathway,KE 1921,KE
+416,AOP 416,Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway,KE 1115,KE
+416,AOP 416,Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway,KE 1669,KE
+416,AOP 416,Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway,KE 1670,AO
+416,AOP 416,Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway,KE 18,MIE
+416,AOP 416,Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway,KE 1921,KE
+416,AOP 416,Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway,KE 1933,KE
+417,AOP 417,Aryl hydrocarbon receptor activation leading to lung cancer through AHR-ARNT toxicity pathway,KE 1669,KE
+417,AOP 417,Aryl hydrocarbon receptor activation leading to lung cancer through AHR-ARNT toxicity pathway,KE 1670,AO
+417,AOP 417,Aryl hydrocarbon receptor activation leading to lung cancer through AHR-ARNT toxicity pathway,KE 17,KE
+417,AOP 417,Aryl hydrocarbon receptor activation leading to lung cancer through AHR-ARNT toxicity pathway,KE 18,MIE
+417,AOP 417,Aryl hydrocarbon receptor activation leading to lung cancer through AHR-ARNT toxicity pathway,KE 1922,KE
+419,AOP 419,Aryl hydrocarbon receptor activation leading to impaired lung function through P53 toxicity pathway,KE 1250,AO
+419,AOP 419,Aryl hydrocarbon receptor activation leading to impaired lung function through P53 toxicity pathway,KE 1262,KE
+419,AOP 419,Aryl hydrocarbon receptor activation leading to impaired lung function through P53 toxicity pathway,KE 18,KE
+419,AOP 419,Aryl hydrocarbon receptor activation leading to impaired lung function through P53 toxicity pathway,KE 1923,KE
+424,AOP 424,Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction,KE 1250,AO
+424,AOP 424,Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction,KE 1392,MIE
+424,AOP 424,Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction,KE 1906,KE
+424,AOP 424,Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction,KE 1907,KE
+424,AOP 424,Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction,KE 1908,KE
+424,AOP 424,Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction,KE 1909,KE
+425,AOP 425,Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1,KE 1250,AO
+425,AOP 425,Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1,KE 1392,MIE
+425,AOP 425,Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1,KE 1908,KE
+425,AOP 425,Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1,KE 1909,KE
+425,AOP 425,Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1,KE 1911,KE
+425,AOP 425,Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1,KE 1912,KE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 1115,KE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 1495,MIE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 1496,KE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 1497,KE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 1669,KE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 1670,AO
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 2006,KE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 780,KE
+451,AOP 451,Interaction with lung resident cell membrane components leads to lung cancer,KE 870,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 1262,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 1392,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 1457,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 1945,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 2007,MIE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 2008,AO
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 2009,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 2010,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 2011,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 2012,KE
+452,AOP 452,Adverse outcome pathway of PM-induced respiratory toxicity,KE 2013,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 1115,MIE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 1197,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 1198,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 1392,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 1458,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 1586,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 177,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 2010,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 2085,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 2086,KE
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 2087,AO
+481,AOP 481,AOPs of amorphous silica nanoparticles: ROS-mediated oxidative stress increased respiratory dysfunction and diseases.,KE 2088,AO

@@ -1,0 +1,16 @@
+{
+  "figures": [
+    "FIG07-method1-gene-venn-four-organs",
+    "FIG08-method1-regex-vs-bern2",
+    "FIG09-genes-per-ke-boxplot",
+    "FIG12-method1-coverage-by-structure",
+    "FIG14-method1-denominator"
+  ],
+  "stage": "05_figures",
+  "generated_at": "2026-08-17T11:02:32+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "endpoint": "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/",
+  "d31_repo_revision": "5210da1",
+  "python": "3.12.2"
+}

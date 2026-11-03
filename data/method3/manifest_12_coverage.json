@@ -1,0 +1,89 @@
+{
+  "purpose": "Method 3 coverage of the four frozen organ networks, on the closed queue",
+  "queue_closed_on": "2026-08-13",
+  "queue_closed_by": "curator adjudication complete (Marvin, 2026-08-13)",
+  "gmt_export_revision": "be8957e1edd978e4",
+  "gmt_content_sha256": "f052d74ed99ecea850cfbcfd7335c7bb59a761f422005d6a55640cac26d6da58",
+  "approved_pairs": 459,
+  "approved_kes": 339,
+  "frames": {
+    "brain": 203,
+    "kidney": 68,
+    "liver": 196,
+    "lung": 134
+  },
+  "frame_union_kes": 538,
+  "proposals_lodged": 223,
+  "proposals_approved": 213,
+  "proposals_rejected": 10,
+  "coverage": [
+    {
+      "organ": "brain",
+      "kes_in_frame": 203,
+      "kes_with_approved_mapping": 124,
+      "pct_kes_covered": 61.1,
+      "kes_without": 79,
+      "approved_pairs": 160,
+      "distinct_pathways": 71,
+      "median_pathways_per_mapped_ke": 1.0
+    },
+    {
+      "organ": "kidney",
+      "kes_in_frame": 68,
+      "kes_with_approved_mapping": 39,
+      "pct_kes_covered": 57.4,
+      "kes_without": 29,
+      "approved_pairs": 58,
+      "distinct_pathways": 35,
+      "median_pathways_per_mapped_ke": 1.0
+    },
+    {
+      "organ": "liver",
+      "kes_in_frame": 196,
+      "kes_with_approved_mapping": 124,
+      "pct_kes_covered": 63.3,
+      "kes_without": 72,
+      "approved_pairs": 200,
+      "distinct_pathways": 88,
+      "median_pathways_per_mapped_ke": 1.0
+    },
+    {
+      "organ": "lung",
+      "kes_in_frame": 134,
+      "kes_with_approved_mapping": 79,
+      "pct_kes_covered": 59.0,
+      "kes_without": 55,
+      "approved_pairs": 119,
+      "distinct_pathways": 63,
+      "median_pathways_per_mapped_ke": 1.0
+    },
+    {
+      "organ": "four-organ union",
+      "kes_in_frame": 538,
+      "kes_with_approved_mapping": 314,
+      "pct_kes_covered": 58.4,
+      "kes_without": 224,
+      "approved_pairs": 432,
+      "distinct_pathways": 158,
+      "median_pathways_per_mapped_ke": 1.0
+    }
+  ],
+  "note": "Coverage counts every approved pair on a network's KEs, including mappings that predate the D3.1/D3.2 campaigns. Organ rows must not be summed: 50 KEs sit in more than one frozen network.",
+  "outputs": [
+    "data/method3/derived/method3_coverage_by_organ.tsv",
+    "data/method3/derived/method3_coverage_by_ke.tsv",
+    "data/method3/derived/method3_proposal_outcomes.tsv",
+    "data/method3/derived/method3_approved_pairs.tsv",
+    "data/method3/corpus/ke-wp_final_2026-08-13.gmt",
+    "data/method3/corpus/live_mappings_final_2026-08-13.json",
+    "tables/method3_coverage.md"
+  ],
+  "stage": "12_coverage",
+  "generated_at": "2026-08-13T14:03:11+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "molaop_builder_base": "https://molaop-builder.vhp4safety.nl",
+  "d31_repo_revision": "12ca8ca",
+  "python": "3.12.2",
+  "requests_issued": 4
+}

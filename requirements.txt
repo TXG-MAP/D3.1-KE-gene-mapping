@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+requests>=2.31
+SPARQLWrapper>=2.0
+PyYAML>=6.0
+networkx>=3.0
+Pillow>=10.0
+py4cytoscape>=1.9   # only for analysis/networks/net_01_cytoscape_render.py (needs a running Cytoscape)

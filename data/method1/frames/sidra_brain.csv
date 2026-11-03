@@ -1,0 +1,398 @@
+aop_number,aopid,aop_title,keid,role
+3,AOP 3,Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits,KE 177,KE
+3,AOP 3,Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits,KE 188,KE
+3,AOP 3,Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits,KE 887,KE
+3,AOP 3,Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits,KE 888,MIE
+3,AOP 3,Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits,KE 889,KE
+3,AOP 3,Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits,KE 890,KE
+3,AOP 3,Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits,KE 896,AO
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 239,MIE
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 280,KE
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 281,KE
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 295,KE
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 319,AO
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 756,KE
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 757,KE
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 758,KE
+8,AOP 8,"Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals",KE 961,KE
+10,AOP 10,Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain,KE 613,AO
+10,AOP 10,Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain,KE 616,KE
+10,AOP 10,Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain,KE 64,KE
+10,AOP 10,Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain,KE 667,MIE
+10,AOP 10,Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain,KE 669,KE
+10,AOP 10,Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain,KE 682,KE
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 188,KE
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 195,KE
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 201,MIE
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 341,AO
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 352,AO
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 381,KE
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 52,KE
+12,AOP 12,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging,KE 55,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 195,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 201,MIE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 341,AO
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 381,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 382,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 383,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 385,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 386,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 52,KE
+13,AOP 13,Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities,KE 55,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 1392,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 1487,MIE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 1488,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 1492,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 1493,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 1538,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 188,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 341,AO
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 386,KE
+17,AOP 17,Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory,KE 55,KE
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 1115,KE
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 1392,AO
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 166,KE
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 178,KE
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 193,KE
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 40,KE
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 50,KE
+26,AOP 26,Calcium-mediated neuronal ROS production and energy imbalance,KE 51,MIE
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 277,KE
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 279,MIE
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 280,KE
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 281,KE
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 402,AO
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 756,KE
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 757,KE
+42,AOP 42,Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 758,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 177,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 188,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 341,AO
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 352,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 388,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 389,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 55,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 618,KE
+48,AOP 48,"Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.",KE 875,MIE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 277,KE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 280,KE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 281,KE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 341,AO
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 381,KE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 385,KE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 386,KE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 424,MIE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 425,KE
+54,AOP 54,Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment ,KE 851,KE
+65,AOP 65,XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 186,KE
+65,AOP 65,XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 192,KE
+65,AOP 65,XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 277,KE
+65,AOP 65,XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 280,KE
+65,AOP 65,XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 281,KE
+65,AOP 65,XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 402,AO
+65,AOP 65,XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 424,MIE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 277,KE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 280,KE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 281,KE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 402,AO
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 424,MIE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 425,KE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 756,KE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 757,KE
+134,AOP 134,Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 758,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 280,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 281,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 402,AO
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 756,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 757,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 758,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 957,MIE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 958,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 959,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 960,KE
+152,AOP 152,Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity ,KE 961,KE
+160,AOP 160,Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality,KE 1012,KE
+160,AOP 160,Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality,KE 1014,KE
+160,AOP 160,Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality,KE 1015,KE
+160,AOP 160,Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality,KE 1016,KE
+160,AOP 160,Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality,KE 351,AO
+160,AOP 160,Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality,KE 761,KE
+160,AOP 160,Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality,KE 762,MIE
+161,AOP 161,Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality,KE 1012,KE
+161,AOP 161,Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality,KE 1015,KE
+161,AOP 161,Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality,KE 1016,KE
+161,AOP 161,Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality,KE 1018,MIE
+161,AOP 161,Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality,KE 1019,KE
+161,AOP 161,Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality,KE 351,AO
+161,AOP 161,Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality,KE 761,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1321,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1344,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1349,MIE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1350,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1351,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1352,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1353,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1354,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1355,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1362,KE
+230,AOP 230,presynaptic neuron 1 activation to epilepsy,KE 1363,AO
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1344,KE
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1355,KE
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1357,KE
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1362,KE
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1363,AO
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1413,MIE
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1414,KE
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1415,KE
+231,AOP 231,presynaptic neuron 2 repression to epilepsy,KE 1416,KE
+260,AOP 260,CYP2E1 activation and formation of protein adducts leading to neurodegeneration,KE 1392,KE
+260,AOP 260,CYP2E1 activation and formation of protein adducts leading to neurodegeneration,KE 1508,MIE
+260,AOP 260,CYP2E1 activation and formation of protein adducts leading to neurodegeneration,KE 1509,MIE
+260,AOP 260,CYP2E1 activation and formation of protein adducts leading to neurodegeneration,KE 1511,KE
+260,AOP 260,CYP2E1 activation and formation of protein adducts leading to neurodegeneration,KE 1512,KE
+260,AOP 260,CYP2E1 activation and formation of protein adducts leading to neurodegeneration,KE 1513,KE
+260,AOP 260,CYP2E1 activation and formation of protein adducts leading to neurodegeneration,KE 1514,AO
+279,AOP 279,Microtubule interacting drugs lead to peripheral neuropathy,KE 1580,MIE
+279,AOP 279,Microtubule interacting drugs lead to peripheral neuropathy,KE 1581,KE
+279,AOP 279,Microtubule interacting drugs lead to peripheral neuropathy,KE 1582,KE
+279,AOP 279,Microtubule interacting drugs lead to peripheral neuropathy,KE 1583,AO
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 10,KE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 12,MIE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 1350,KE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 1602,KE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 1623,KE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 1788,KE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 352,AO
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 388,KE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 389,KE
+281,AOP 281,Acetylcholinesterase Inhibition Leading to Neurodegeneration,KE 55,KE
+300,AOP 300,Thyroid Receptor Antagonism and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 1656,MIE
+300,AOP 300,Thyroid Receptor Antagonism and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 402,AO
+300,AOP 300,Thyroid Receptor Antagonism and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 756,KE
+300,AOP 300,Thyroid Receptor Antagonism and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 757,KE
+300,AOP 300,Thyroid Receptor Antagonism and Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 758,KE
+374,AOP 374,Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on brain cells (neuronal and non-neuronal) leads to neuroinflammation resulting in encephalitis,KE 1739,MIE
+374,AOP 374,Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on brain cells (neuronal and non-neuronal) leads to neuroinflammation resulting in encephalitis,KE 1841,AO
+374,AOP 374,Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on brain cells (neuronal and non-neuronal) leads to neuroinflammation resulting in encephalitis,KE 188,KE
+374,AOP 374,Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on brain cells (neuronal and non-neuronal) leads to neuroinflammation resulting in encephalitis,KE 352,KE
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 1348,AO
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 1829,KE
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 2093,KE
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 2094,KE
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 2095,AO
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 277,KE
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 279,MIE
+402,AOP 402,Thyroid peroxidase (TPO) inhibition leads to periventricular heterotopia formation in the developing rat brain,KE 771,KE
+405,AOP 405,Organo-Phosphate Chemicals induced inhibition of AChE  leading to impaired cognitive function,KE 10,KE
+405,AOP 405,Organo-Phosphate Chemicals induced inhibition of AChE  leading to impaired cognitive function,KE 12,MIE
+405,AOP 405,Organo-Phosphate Chemicals induced inhibition of AChE  leading to impaired cognitive function,KE 386,KE
+405,AOP 405,Organo-Phosphate Chemicals induced inhibition of AChE  leading to impaired cognitive function,KE 39,KE
+405,AOP 405,Organo-Phosphate Chemicals induced inhibition of AChE  leading to impaired cognitive function,KE 402,AO
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1392,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1582,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1816,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 188,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1941,AO
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1942,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1943,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1944,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 1945,KE
+429,AOP 429,A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants,KE 386,KE
+442,AOP 442,Binding to voltage gate sodium channels during development leads to cognitive impairment,KE 1353,MIE
+442,AOP 442,Binding to voltage gate sodium channels during development leads to cognitive impairment,KE 1977,KE
+442,AOP 442,Binding to voltage gate sodium channels during development leads to cognitive impairment,KE 1983,KE
+442,AOP 442,Binding to voltage gate sodium channels during development leads to cognitive impairment,KE 2005,KE
+442,AOP 442,Binding to voltage gate sodium channels during development leads to cognitive impairment,KE 402,AO
+442,AOP 442,Binding to voltage gate sodium channels during development leads to cognitive impairment,KE 757,KE
+442,AOP 442,Binding to voltage gate sodium channels during development leads to cognitive impairment,KE 758,KE
+450,AOP 450, Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality,KE 12,MIE
+450,AOP 450, Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality,KE 1391,KE
+450,AOP 450, Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality,KE 1392,KE
+450,AOP 450, Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality,KE 1583,AO
+450,AOP 450, Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality,KE 351,AO
+450,AOP 450, Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality,KE 352,KE
+450,AOP 450, Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality,KE 618,KE
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 18,MIE
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 280,KE
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 281,KE
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 295,KE
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 402,AO
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 756,KE
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 758,KE
+458,AOP 458,AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 961,KE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 1392,KE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 18,MIE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 277,KE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 280,KE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 281,KE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 402,AO
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 756,KE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 758,KE
+459,AOP 459,AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals,KE 850,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1392,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1512,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1527,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1547,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1585,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1605,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 177,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1812,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 1825,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 2017,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 2036,MIE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 2037,MIE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 2038,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 2039,MIE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 2187,MIE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 2188,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 388,MIE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 389,KE
+464,AOP 464,Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits,KE 896,AO
+471,AOP 471,Neuron defect induced early behavioral change,KE 10,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1012,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1014,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1015,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1016,AO
+471,AOP 471,Neuron defect induced early behavioral change,KE 1018,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1177,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 12,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1348,AO
+471,AOP 471,Neuron defect induced early behavioral change,KE 1349,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1363,AO
+471,AOP 471,Neuron defect induced early behavioral change,KE 1392,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1582,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1583,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1841,AO
+471,AOP 471,Neuron defect induced early behavioral change,KE 188,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 191,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 1944,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 2078,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 2150,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 2151,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 2195,MIE
+471,AOP 471,Neuron defect induced early behavioral change,KE 2196,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 2197,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 2198,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 350,AO
+471,AOP 471,Neuron defect induced early behavioral change,KE 352,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 388,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 618,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 637,AO
+471,AOP 471,Neuron defect induced early behavioral change,KE 890,KE
+471,AOP 471,Neuron defect induced early behavioral change,KE 896,AO
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 1944,KE
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 2078,KE
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 2242,KE
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 341,AO
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 386,KE
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 388,KE
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 389,KE
+475,AOP 475,Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons,KE 875,MIE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 1392,KE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 1492,KE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 1635,KE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 1686,MIE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 2097,KE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 2098,KE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 2244,KE
+483,AOP 483,Deposition of Energy Leading to Learning and Memory Impairment,KE 341,AO
+486,AOP 486,Binding to the extracellular protein laminin leading to decreased cognitive function,KE 2109,MIE
+486,AOP 486,Binding to the extracellular protein laminin leading to decreased cognitive function,KE 2110,KE
+486,AOP 486,Binding to the extracellular protein laminin leading to decreased cognitive function,KE 2111,KE
+486,AOP 486,Binding to the extracellular protein laminin leading to decreased cognitive function,KE 2112,KE
+486,AOP 486,Binding to the extracellular protein laminin leading to decreased cognitive function,KE 2113,KE
+486,AOP 486,Binding to the extracellular protein laminin leading to decreased cognitive function,KE 2114,KE
+486,AOP 486,Binding to the extracellular protein laminin leading to decreased cognitive function,KE 402,AO
+488,AOP 488,Increased reactive oxygen species production leading to decreased cognitive function,KE 1115,MIE
+488,AOP 488,Increased reactive oxygen species production leading to decreased cognitive function,KE 1392,KE
+488,AOP 488,Increased reactive oxygen species production leading to decreased cognitive function,KE 1869,KE
+488,AOP 488,Increased reactive oxygen species production leading to decreased cognitive function,KE 2107,KE
+488,AOP 488,Increased reactive oxygen species production leading to decreased cognitive function,KE 2108,KE
+488,AOP 488,Increased reactive oxygen species production leading to decreased cognitive function,KE 2116,KE
+488,AOP 488,Increased reactive oxygen species production leading to decreased cognitive function,KE 402,AO
+489,AOP 489,Inhibition of voltage-gated sodium channels leading to decreased cognition,KE 1353,MIE
+489,AOP 489,Inhibition of voltage-gated sodium channels leading to decreased cognition,KE 1977,KE
+489,AOP 489,Inhibition of voltage-gated sodium channels leading to decreased cognition,KE 2107,KE
+489,AOP 489,Inhibition of voltage-gated sodium channels leading to decreased cognition,KE 2108,KE
+489,AOP 489,Inhibition of voltage-gated sodium channels leading to decreased cognition,KE 2116,KE
+489,AOP 489,Inhibition of voltage-gated sodium channels leading to decreased cognition,KE 402,AO
+498,AOP 498,Increased LCN2/iron complex leading to neurological disorders,KE 191,KE
+498,AOP 498,Increased LCN2/iron complex leading to neurological disorders,KE 2148,MIE
+498,AOP 498,Increased LCN2/iron complex leading to neurological disorders,KE 2149,KE
+498,AOP 498,Increased LCN2/iron complex leading to neurological disorders,KE 2150,AO
+499,AOP 499,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via disrupted neurotransmitter release,KE 1339,KE
+499,AOP 499,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via disrupted neurotransmitter release,KE 2146,MIE
+499,AOP 499,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via disrupted neurotransmitter release,KE 2151,KE
+499,AOP 499,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via disrupted neurotransmitter release,KE 341,AO
+500,AOP 500,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis,KE 1115,KE
+500,AOP 500,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis,KE 1262,KE
+500,AOP 500,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis,KE 1339,KE
+500,AOP 500,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis,KE 177,KE
+500,AOP 500,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis,KE 2146,MIE
+500,AOP 500,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis,KE 341,AO
+500,AOP 500,Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis,KE 352,KE
+501,AOP 501,Excessive iron accumulation leading to neurological disorders,KE 1392,KE
+501,AOP 501,Excessive iron accumulation leading to neurological disorders,KE 2149,MIE
+501,AOP 501,Excessive iron accumulation leading to neurological disorders,KE 2150,AO
+501,AOP 501,Excessive iron accumulation leading to neurological disorders,KE 386,KE
+520,AOP 520,Retinoic acid receptor agonism during neurodevelopment leading to impaired learning and memory,KE 2201,MIE
+520,AOP 520,Retinoic acid receptor agonism during neurodevelopment leading to impaired learning and memory,KE 2202,KE
+520,AOP 520,Retinoic acid receptor agonism during neurodevelopment leading to impaired learning and memory,KE 2203,KE
+520,AOP 520,Retinoic acid receptor agonism during neurodevelopment leading to impaired learning and memory,KE 2204,KE
+520,AOP 520,Retinoic acid receptor agonism during neurodevelopment leading to impaired learning and memory,KE 341,AO
+523,AOP 523,Retinoic acid receptor agonism during neurodevelopment leading to microcephaly,KE 1978,AO
+523,AOP 523,Retinoic acid receptor agonism during neurodevelopment leading to microcephaly,KE 2201,MIE
+523,AOP 523,Retinoic acid receptor agonism during neurodevelopment leading to microcephaly,KE 2202,KE
+523,AOP 523,Retinoic acid receptor agonism during neurodevelopment leading to microcephaly,KE 2203,KE
+523,AOP 523,Retinoic acid receptor agonism during neurodevelopment leading to microcephaly,KE 2210,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 1656,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2107,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2108,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2115,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2216,MIE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2217,MIE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2218,MIE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2219,MIE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2220,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2221,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2222,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 2223,KE
+525,AOP 525,Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory,KE 341,AO
+533,AOP 533,Retinoic acid receptor antagonism during neurodevelopment leading to impaired learning and memory,KE 1239,KE
+533,AOP 533,Retinoic acid receptor antagonism during neurodevelopment leading to impaired learning and memory,KE 2232,MIE
+533,AOP 533,Retinoic acid receptor antagonism during neurodevelopment leading to impaired learning and memory,KE 341,AO
+533,AOP 533,Retinoic acid receptor antagonism during neurodevelopment leading to impaired learning and memory,KE 385,KE
+533,AOP 533,Retinoic acid receptor antagonism during neurodevelopment leading to impaired learning and memory,KE 386,KE
+533,AOP 533,Retinoic acid receptor antagonism during neurodevelopment leading to impaired learning and memory,KE 851,KE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 1262,KE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 1392,KE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 188,KE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 2029,MIE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 2151,KE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 2208,KE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 2233,KE
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 341,AO
+535,AOP 535,Binding and activation of GPER leading to learning and memory impairments,KE 389,KE
+543,AOP 543, Inhibition of neuropathy target esterase leading to delayed neuropathy via lysolecithin cell membrane integration,KE 2262,MIE
+543,AOP 543, Inhibition of neuropathy target esterase leading to delayed neuropathy via lysolecithin cell membrane integration,KE 2263,KE
+543,AOP 543, Inhibition of neuropathy target esterase leading to delayed neuropathy via lysolecithin cell membrane integration,KE 2264,KE
+543,AOP 543, Inhibition of neuropathy target esterase leading to delayed neuropathy via lysolecithin cell membrane integration,KE 2265,KE
+543,AOP 543, Inhibition of neuropathy target esterase leading to delayed neuropathy via lysolecithin cell membrane integration,KE 2266,KE
+543,AOP 543, Inhibition of neuropathy target esterase leading to delayed neuropathy via lysolecithin cell membrane integration,KE 2267,AO
+544,AOP 544, Inhibition of neuropathy target esterase leading to delayed neuropathy via increased inflammation,KE 149,KE
+544,AOP 544, Inhibition of neuropathy target esterase leading to delayed neuropathy via increased inflammation,KE 2262,MIE
+544,AOP 544, Inhibition of neuropathy target esterase leading to delayed neuropathy via increased inflammation,KE 2263,KE
+544,AOP 544, Inhibition of neuropathy target esterase leading to delayed neuropathy via increased inflammation,KE 2265,KE
+544,AOP 544, Inhibition of neuropathy target esterase leading to delayed neuropathy via increased inflammation,KE 2266,KE
+544,AOP 544, Inhibition of neuropathy target esterase leading to delayed neuropathy via increased inflammation,KE 2267,AO
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 1541,MIE
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 178,KE
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 2151,KE
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 2299,KE
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 2300,KE
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 2301,KE
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 2302,AO
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 351,AO
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 360,AO
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 40,KE
+564,AOP 564,DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.,KE 566,AO

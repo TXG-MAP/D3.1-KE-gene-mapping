@@ -1,0 +1,6 @@
+organ	kes_in_frame	kes_with_approved_mapping	pct_kes_covered	kes_without	approved_pairs	distinct_pathways	median_pathways_per_mapped_ke
+brain	203	124	61.1	79	160	71	1.0
+kidney	68	39	57.4	29	58	35	1.0
+liver	196	124	63.3	72	200	88	1.0
+lung	134	79	59.0	55	119	63	1.0
+four-organ union	538	314	58.4	224	432	158	1.0

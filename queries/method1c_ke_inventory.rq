@@ -1,0 +1,44 @@
+# Method 1 — the full Key Event inventory of the pinned release.
+#
+# Endpoint : https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+# Release  : AOPWikiRDF @ 97191db, data generated 2026-08-01  (see pinned-release.yaml)
+# Used by  : analysis/method1/m1_01_fetch.py  ->  data/method1/raw/ke_inventory.csv
+#
+# Returns one row per KE whether or not it carries genes — this is the DENOMINATOR for every
+# "% of KEs with gene annotations" figure in the report. Restricting to KEs that have genes is
+# the single easiest way to get that percentage wrong.
+#
+# The biological level of organisation is modelled with the NCI Thesaurus term C25664 and takes
+# the values Molecular / Cellular / Tissue / Organ / Individual / Population. It is OPTIONAL:
+# not every KE declares one.
+#
+# THE DESCRIPTION IS THE POINT OF THIS QUERY, not an extra column. Method 1 reads the KE's
+# free-text description to find gene names, so a KE with no description cannot receive a gene
+# annotation by construction — it is not a miss, it is out of scope. Only 635 of the 1595 KEs
+# in this release carry `dc:description`, and all 488 gene-annotated KEs are inside that 635
+# (verified: zero gene-annotated KEs lack a description). Reporting coverage against 1595
+# therefore measures AOP-Wiki's description completeness at least as much as it measures the
+# method.
+#
+# `dc:description` is OPTIONAL, so KEs without one still return a row with ?description unbound
+# — dropping them here would silently restore the wrong denominator. The length is projected
+# rather than the text itself: the full descriptions run to 27 kB and average 2.4 kB, which
+# would make the cached table unusable, and length is what the analysis needs (it predicts the
+# number of genes found, Spearman rho = 0.67).
+
+PREFIX aopo: <http://aopkb.org/aop_ontology#>
+PREFIX dc:   <http://purl.org/dc/elements/1.1/>
+PREFIX nci:  <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?keid ?ke ?ketitle ?biolevel ?description_length
+WHERE {
+  ?ke a aopo:KeyEvent ;
+      rdfs:label ?keid ;
+      dc:title   ?ketitle .
+  OPTIONAL { ?ke nci:C25664 ?biolevel }
+  OPTIONAL {
+    ?ke dc:description ?description .
+    BIND( STRLEN(?description) AS ?description_length )
+  }
+}

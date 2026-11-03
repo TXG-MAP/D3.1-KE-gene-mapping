@@ -1,0 +1,197 @@
+id	name	type
+KE 334	Promotion, Hepatocelluar carcinoma	AO
+KE 142	Hyperplasia, Hyperplasia	KE
+KE 57	Proliferation, Cell proliferation in the absence of cytotoxicity	KE
+KE 294	N/A, Unknown	MIE
+KE 719	Increase, hepatocellular adenomas and carcinomas	AO
+KE 1214	Altered gene expression specific to CAR activation, Hepatocytes	KE
+KE 716	Increase, cell proliferation (hepatocytes)	KE
+KE 774	Increase, Preneoplastic foci (hepatocytes)	KE
+KE 715	Activation, Constitutive androstane receptor	MIE
+KE 209	Peptide Oxidation	KE
+KE 726	Increased, Induction of pyruvate dehydrogenase (PDH)	KE
+KE 768	Increase, Cytotoxicity	KE
+KE 769	Increase, Oxidative metabolism	KE
+KE 724	Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme	MIE
+KE 25	Agonism, Androgen receptor	MIE
+KE 787	Increase, Regenerative cell proliferation (hepatocytes)	KE
+KE 786	Increase, Cytotoxicity (hepatocytes)	MIE
+KE 840	Formation, Liver fibrosis	AO
+KE 177	Mitochondrial dysfunction	KE
+KE 829	Damage, Lipid bilayer	KE
+KE 831	Disturbance, Lysosomal function	KE
+KE 833	Occurrence, Cytoplasmic vacuolization (hepatocyte)	KE
+KE 835	Occurrence, Ballooning degeneration (hepatocyte)	KE
+KE 836	Occurrence, Cytoplasmic vacuolization (Bile duct cell)	KE
+KE 837	Occurrence, Cytoplasmic vacuolization (kupffer cell)	KE
+KE 838	Induction, Microvesicular fat	KE
+KE 839	Formation, Mallory body	KE
+KE 828	Inhibition, Phospholipase A	MIE
+KE 344	N/A, Liver fibrosis	AO
+KE 1493	Increased Pro-inflammatory mediators	KE
+KE 1494	Leukocyte recruitment/activation	KE
+KE 265	Activation, Stellate cells	KE
+KE 55	Increase, Cell injury/death	KE
+KE 68	Accumulation, Collagen	KE
+KE 898	Disruption, Lysosome	KE
+KE 1539	Endocytotic lysosomal uptake	MIE
+KE 741	Increase, Adenomas/carcinomas (follicular cell)	AO
+KE 1023	Increased, Thyroid-stimulating hormone (TSH)	KE
+KE 281	Thyroxine (T4) in serum, Decreased	KE
+KE 295	Induction, Upregulation of glucuronyltransferase activity	KE
+KE 739	Increase, Hypertrophy and proliferation (follicular cell)	KE
+KE 740	Increase, Hyperplasia (follicular cells)	KE
+KE 961	Increased, Clearance of thyroxine from serum	KE
+KE 1291	Hepatotoxicity	AO
+KE 1284	Up Regulation, SREBF2	KE
+KE 1285	Up Regulation, Unsaturated fatty acid	KE
+KE 1286	Down Regulation, GSS and GSTs gene	KE
+KE 1287	Glutathione synthesis	KE
+KE 1288	Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene	KE
+KE 1289	Perturbation of cholesterol	KE
+KE 1290	Glutathione homeostasis	KE
+KE 1489	N/A, Steatohepatisis	AO
+KE 1115	Increase, Reactive oxygen species	MIE
+KE 1305	Increase, cytosolic fatty acid	KE
+KE 1491	Increased, Oncotic Necrosis	KE
+KE 459	Increased, Liver Steatosis	AO
+KE 1490	Inhibition, Fatty Acid Beta Oxidation	MIE
+KE 1395	Liver Cancer	AO
+KE 1392	Oxidative Stress	KE
+KE 1393	Hepatocytotoxicity	KE
+KE 1394	Induction, persistent proliferation/sustained proliferation	KE
+KE 1391	Activation of Cyp2E1	MIE
+KE 1419	Reduced, FXR activity	KE
+KE 1420	Reduced, SHP activity	KE
+KE 1421	Activated, LXR	KE
+KE 1422	Reduced, PPARalpha	KE
+KE 1423	Reduced, HSD17B4 activity	KE
+KE 1424	Reduced, fatty acid beta oxidation	KE
+KE 1417	NFE2/Nrf2 repression	MIE
+KE 357	Cholestasis, Pathology	AO
+KE 149	Increase, Inflammation	KE
+KE 214	Bile accumulation, Pathological condition	KE
+KE 288	Activation of specific nuclear receptors, Transcriptional change	KE
+KE 87	Release, Cytokine	KE
+KE 41	Inhibition, Bile Salt Export Pump (ABCB11)	MIE
+KE 1548	Necrotic Tissue	AO
+KE 1549	Liver Injury	AO
+KE 1545	Decrease in mitochondrial oxidative phosphorylation	KE
+KE 1547	Mitochondrial Injury	KE
+KE 889	Impaired, Proteostasis	KE
+KE 1542	Increase, Mitochondrial complex III antagonism	MIE
+KE 1543	Mitochondrial Complex IV inhibition	MIE
+KE 1544	Mitochondrial Complex V inhibition	MIE
+KE 1653	Binding of inhibitor to mitochondrial complex III	MIE
+KE 1654	Binding of inhibitor to mitochondrial complex IV	MIE
+KE 1655	Binding of inhibitor to mitochondrial complex V	MIE
+KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	MIE
+KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MIE
+KE 1575	Activation, Caspase 8 pathway	KE
+KE 1576	Activation, Tissue resident cells (Kuppfer cells)	KE
+KE 1579	Increase, proinflammatory mediators (TNFalpha)	KE
+KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	KE
+KE 1574	Inhibition, IKK complex	MIE
+KE 1262	Apoptosis	KE
+KE 1512	Unfolded Protein Response	KE
+KE 1605	Accumulation of misfolded proteins	KE
+KE 1606	Activation of hepatic stellate cells	KE
+KE 1604	Inhibition of N-linked glycosylation	MIE
+KE 1834	Decrease, Acyl-CoA dehydrogenases	KE
+KE 291	Accumulation, Triglyceride	KE
+KE 860	Decreased, Mitochondrial Fatty Acid Beta Oxidation	KE
+KE 122	Activation, Glucocorticoid Receptor	MIE
+KE 345	N/A, Liver Steatosis	AO
+KE 115	Increase, FA Influx	KE
+KE 116	Activation, FAS	KE
+KE 258	Activation, SCD-1	KE
+KE 264	Activation, SREBP-1c	KE
+KE 54	Up Regulation, CD36	KE
+KE 66	Activation, ChREBP	KE
+KE 89	Synthesis, De Novo Fatty Acid (FA)	KE
+KE 167	Activation, LXR	MIE
+KE 228	peroxisome proliferator activated receptor promoter demethylation	MIE
+KE 140	Decreased, HSD17B10 expression	KE
+KE 179	Decrease, Fatty acid beta-oxidation	KE
+KE 327	Accumulation, Fatty acid	KE
+KE 8	Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity	KE
+KE 231	Decreased, PPAR-alpha activation	MIE
+KE 232	Decreased, PPAR-beta activation	MIE
+KE 233	Decreased, PPAR-gamma activation	MIE
+KE 1820	Immune mediated hepatitis	AO
+KE 1633	Increase in inflammation	KE
+KE 1815	Activation of ER stress	KE
+KE 1817	Apoptotic cell death	AO
+KE 1818	Immune cell activation	KE
+KE 1819	IFNγ signaling	KE
+KE 1814	benzoquinone imine and acylglucuronide metabolites	MIE
+KE 1170	Increase, Phenotypic enzyme activity	KE
+KE 1171	Increase, Clonal Expansion of Altered Hepatic Foci	KE
+KE 227	Activation, PPARα	MIE
+KE 1492	Tissue resident cell activation	KE
+KE 244	Alkylation, Protein	MIE
+KE 1501	Increased, extracellular matrix deposition	KE
+KE 1743	Increase plasma Ang II	KE
+KE 1852	Increased Ang II type 1 receptor (AT1R)	KE
+KE 1740	Induced dysregulation of ACE2	MIE
+KE 856	Formation, Hepatocellular and Bile duct tumors	AO
+KE 139	N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects	KE
+KE 853	Changes/Inhibition, Cellular Homeostasis and Apoptosis	KE
+KE 854	Alterations, Cellular proliferation / hyperplasia	KE
+KE 165	Activation, Long term AHR receptor driven direct and indirect gene expression changes	MIE
+KE 1194	Increase, DNA damage	MIE
+KE 2031	Releasing, Apoptosis-Inducing Factor (AIF)	KE
+KE 2030	Activation, PARP1	MIE
+KE 378	Tumorigenesis, Hepatocellular carcinoma	AO
+KE 376	Increased, Induced Mutations in Critical Genes	KE
+KE 409	Metabolism of AFB1, Production of Reactive Electrophiles	KE
+KE 491	Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)	KE
+KE 493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	KE
+KE 373	Formation, Pro-mutagenic DNA Adducts	MIE
+KE 18	Activation, AhR	MIE
+KE 239	Activation, Pregnane-X receptor, NR1l2	MIE
+KE 2199	Increased, Expression of LXR activated genes	KE
+KE 2224	Dysregulation of transcriptional expression within PPAR signaling network	KE
+KE 2225	Disrupted Lipid Storage	KE
+KE 2227	Disrupted PPAR isoform nuclear signaling	KE
+KE 2226	Stressor binding PPAR isoforms	MIE
+KE 216	Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)	KE
+KE 450	Suppression, VLDL secretion	KE
+KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	KE
+KE 462	Up Regulation, SCD-1	KE
+KE 465	Increased, FA Influx	KE
+KE 466	Up Regulation, LDLR (low density lipoprotein receptor)	KE
+KE 467	Increased, LDL uptake	KE
+KE 80	Up Regulation, CYP1A1	KE
+KE 454	Increased, Triglyceride formation	KE
+KE 457	Activation, SREBF1	KE
+KE 458	Increased, De Novo FA synthesis	KE
+KE 463	Up Regulation, FAS	KE
+KE 470	Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)	KE
+KE 456	Suppression, Constitutive androstane receptor, NR1l3	MIE
+KE 468	Inhibition, PPAR alpha	MIE
+KE 2019	Non-alcoholic fatty liver disease	AO
+KE 1293	Activation, FOXO	KE
+KE 1505	Cell cycle, disrupted	KE
+KE 1821	Decrease, Cell proliferation	KE
+KE 2344	Upregulation, growth arrest and DNA-damage-inducible beta a	KE
+KE 2345	Activation, MAPK	KE
+KE 2346	Decrease, Proliferating Cell Nuclear Antigen	KE
+KE 2347	Increase, Lipid degradation	KE
+KE 2348	Inhibition, Liver regeneration	KE
+KE 471	Inhibition, FoxA2	KE
+KE 472	Down Regulation, CPT1A	KE
+KE 474	Down Regulation, HMGCS2	KE
+KE 477	Decreased, Ketogenesis	KE
+KE 245	Activation, PXR/SXR	MIE
+KE 480	Activation, SHP	KE
+KE 482	Decreased, DHB4/HSD17B4	KE
+KE 483	Activation, LXR alpha	KE
+KE 878	Inhibition, SREBP1c	KE
+KE 879	Activation, MTTP	KE
+KE 880	Increased, ApoB100	KE
+KE 881	Increased, Triglyceride	KE
+KE 478	Activation, NRF2	MIE
+KE 479	Activation, NR1H4	MIE
+KE 484	Activation, AKT2	KE
+KE 486	systemic inflammation leading to hepatic steatosis	MIE

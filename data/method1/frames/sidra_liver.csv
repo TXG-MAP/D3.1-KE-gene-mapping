@@ -1,0 +1,279 @@
+aop_number,aopid,aop_title,keid,role
+1,AOP 1,Uncharacterized liver damage leading to hepatocellular carcinoma,KE 142,KE
+1,AOP 1,Uncharacterized liver damage leading to hepatocellular carcinoma,KE 294,MIE
+1,AOP 1,Uncharacterized liver damage leading to hepatocellular carcinoma,KE 334,AO
+1,AOP 1,Uncharacterized liver damage leading to hepatocellular carcinoma,KE 57,KE
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 1115,KE
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 149,KE
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 209,KE
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 214,KE
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 288,KE
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 357,AO
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 41,MIE
+27,AOP 27,Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11),KE 87,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 115,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 116,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 167,MIE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 177,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 228,MIE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 258,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 264,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 291,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 345,AO
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 54,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 66,KE
+34,AOP 34,LXR activation leading to hepatic steatosis,KE 89,KE
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 140,KE
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 179,KE
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 231,MIE
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 232,MIE
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 233,MIE
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 327,KE
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 459,AO
+36,AOP 36,Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis,KE 8,KE
+37,AOP 37,PPARα activation leading to hepatocellular adenomas and carcinomas in rodents,KE 1170,KE
+37,AOP 37,PPARα activation leading to hepatocellular adenomas and carcinomas in rodents,KE 1171,KE
+37,AOP 37,PPARα activation leading to hepatocellular adenomas and carcinomas in rodents,KE 227,MIE
+37,AOP 37,PPARα activation leading to hepatocellular adenomas and carcinomas in rodents,KE 716,KE
+37,AOP 37,PPARα activation leading to hepatocellular adenomas and carcinomas in rodents,KE 719,AO
+38,AOP 38,Protein Alkylation leading to Liver Fibrosis,KE 1492,KE
+38,AOP 38,Protein Alkylation leading to Liver Fibrosis,KE 1493,KE
+38,AOP 38,Protein Alkylation leading to Liver Fibrosis,KE 244,MIE
+38,AOP 38,Protein Alkylation leading to Liver Fibrosis,KE 265,KE
+38,AOP 38,Protein Alkylation leading to Liver Fibrosis,KE 344,AO
+38,AOP 38,Protein Alkylation leading to Liver Fibrosis,KE 55,KE
+38,AOP 38,Protein Alkylation leading to Liver Fibrosis,KE 68,KE
+41,AOP 41,Sustained AhR Activation leading to Rodent Liver Tumours,KE 139,KE
+41,AOP 41,Sustained AhR Activation leading to Rodent Liver Tumours,KE 165,MIE
+41,AOP 41,Sustained AhR Activation leading to Rodent Liver Tumours,KE 853,KE
+41,AOP 41,Sustained AhR Activation leading to Rodent Liver Tumours,KE 854,KE
+41,AOP 41,Sustained AhR Activation leading to Rodent Liver Tumours,KE 856,AO
+46,AOP 46,AFB1: Mutagenic Mode-of-Action leading to Hepatocellular Carcinoma (HCC),KE 373,MIE
+46,AOP 46,AFB1: Mutagenic Mode-of-Action leading to Hepatocellular Carcinoma (HCC),KE 376,KE
+46,AOP 46,AFB1: Mutagenic Mode-of-Action leading to Hepatocellular Carcinoma (HCC),KE 378,AO
+46,AOP 46,AFB1: Mutagenic Mode-of-Action leading to Hepatocellular Carcinoma (HCC),KE 409,KE
+46,AOP 46,AFB1: Mutagenic Mode-of-Action leading to Hepatocellular Carcinoma (HCC),KE 491,KE
+46,AOP 46,AFB1: Mutagenic Mode-of-Action leading to Hepatocellular Carcinoma (HCC),KE 493,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 18,MIE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 216,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 291,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 327,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 450,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 451,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 459,AO
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 462,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 465,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 466,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 467,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 54,KE
+57,AOP 57,AhR activation leading to hepatic steatosis,KE 80,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 167,MIE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 228,MIE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 327,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 451,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 454,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 456,MIE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 457,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 458,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 459,AO
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 462,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 463,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 465,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 468,MIE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 470,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 54,KE
+58,AOP 58,NR1I3 (CAR) suppression leading to hepatic steatosis,KE 66,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 179,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 245,MIE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 327,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 454,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 459,AO
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 462,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 465,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 471,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 472,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 474,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 477,KE
+60,AOP 60,"NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis",KE 54,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 227,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 451,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 458,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 459,AO
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 478,MIE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 479,MIE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 480,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 482,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 483,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 878,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 879,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 880,KE
+61,AOP 61,NFE2L2/FXR activation leading to hepatic steatosis,KE 881,KE
+62,AOP 62,AKT2 activation leading to hepatic steatosis,KE 457,KE
+62,AOP 62,AKT2 activation leading to hepatic steatosis,KE 459,AO
+62,AOP 62,AKT2 activation leading to hepatic steatosis,KE 484,KE
+62,AOP 62,AKT2 activation leading to hepatic steatosis,KE 486,MIE
+107,AOP 107,Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat,KE 1214,KE
+107,AOP 107,Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat,KE 715,MIE
+107,AOP 107,Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat,KE 716,KE
+107,AOP 107,Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat,KE 719,AO
+107,AOP 107,Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat,KE 774,KE
+108,AOP 108,Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 209,KE
+108,AOP 108,Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 719,AO
+108,AOP 108,Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 724,MIE
+108,AOP 108,Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 726,KE
+108,AOP 108,Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 768,KE
+108,AOP 108,Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 769,KE
+117,AOP 117,Androgen receptor activation leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 25,MIE
+117,AOP 117,Androgen receptor activation leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 716,KE
+117,AOP 117,Androgen receptor activation leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 719,AO
+117,AOP 117,Androgen receptor activation leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 774,KE
+118,AOP 118,Chronic cytotoxicity leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 719,AO
+118,AOP 118,Chronic cytotoxicity leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 774,KE
+118,AOP 118,Chronic cytotoxicity leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 786,MIE
+118,AOP 118,Chronic cytotoxicity leading to hepatocellular adenomas and carcinomas (in mouse and rat),KE 787,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 177,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 828,MIE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 829,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 831,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 833,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 835,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 836,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 837,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 838,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 839,KE
+130,AOP 130,Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity,KE 840,AO
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 1493,KE
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 1494,KE
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 1539,MIE
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 177,KE
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 265,KE
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 344,AO
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 55,KE
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 68,KE
+144,AOP 144,Endocytic lysosomal uptake leading to liver fibrosis,KE 898,KE
+162,AOP 162,Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse,KE 1023,KE
+162,AOP 162,Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse,KE 281,KE
+162,AOP 162,Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse,KE 295,KE
+162,AOP 162,Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse,KE 739,KE
+162,AOP 162,Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse,KE 740,KE
+162,AOP 162,Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse,KE 741,AO
+162,AOP 162,Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse,KE 961,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1284,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1285,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1286,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1287,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1288,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1289,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1290,KE
+209,AOP 209,Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP ,KE 1291,AO
+213,AOP 213,Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH),KE 1115,KE
+213,AOP 213,Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH),KE 1305,KE
+213,AOP 213,Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH),KE 1489,AO
+213,AOP 213,Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH),KE 1490,MIE
+213,AOP 213,Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH),KE 1491,KE
+213,AOP 213,Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH),KE 459,KE
+220,AOP 220,Cyp2E1 Activation Leading to Liver Cancer,KE 1391,MIE
+220,AOP 220,Cyp2E1 Activation Leading to Liver Cancer,KE 1392,KE
+220,AOP 220,Cyp2E1 Activation Leading to Liver Cancer,KE 1393,KE
+220,AOP 220,Cyp2E1 Activation Leading to Liver Cancer,KE 1394,KE
+220,AOP 220,Cyp2E1 Activation Leading to Liver Cancer,KE 1395,AO
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 1417,MIE
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 1421,KE
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 1422,KE
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 1423,KE
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 1424,KE
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 2421,KE
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 2423,KE
+232,AOP 232,NFE2/Nrf2 repression to steatosis,KE 459,AO
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1115,KE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1542,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1543,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1544,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1545,KE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1547,KE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1548,AO
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1549,AO
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1653,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1654,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 1655,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 177,KE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 55,KE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 887,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 888,MIE
+273,AOP 273,Mitochondrial complex inhibition leading to liver injury,KE 889,KE
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 1548,AO
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 1549,AO
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 1574,MIE
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 1575,KE
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 1576,KE
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 1579,KE
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 202,KE
+278,AOP 278,IKK complex inhibition leading to liver injury,KE 55,KE
+285,AOP 285,Inhibition of N-linked glycosylation leads to liver injury,KE 1262,KE
+285,AOP 285,Inhibition of N-linked glycosylation leads to liver injury,KE 1512,KE
+285,AOP 285,Inhibition of N-linked glycosylation leads to liver injury,KE 1549,AO
+285,AOP 285,Inhibition of N-linked glycosylation leads to liver injury,KE 1604,MIE
+285,AOP 285,Inhibition of N-linked glycosylation leads to liver injury,KE 1605,KE
+285,AOP 285,Inhibition of N-linked glycosylation leads to liver injury,KE 1606,KE
+285,AOP 285,Inhibition of N-linked glycosylation leads to liver injury,KE 459,KE
+318,AOP 318,Glucocorticoid Receptor activation leading to hepatic steatosis,KE 122,MIE
+318,AOP 318,Glucocorticoid Receptor activation leading to hepatic steatosis,KE 1834,KE
+318,AOP 318,Glucocorticoid Receptor activation leading to hepatic steatosis,KE 291,KE
+318,AOP 318,Glucocorticoid Receptor activation leading to hepatic steatosis,KE 459,AO
+318,AOP 318,Glucocorticoid Receptor activation leading to hepatic steatosis,KE 860,KE
+362,AOP 362,Immune mediated hepatitis,KE 1633,KE
+362,AOP 362,Immune mediated hepatitis,KE 177,KE
+362,AOP 362,Immune mediated hepatitis,KE 1814,MIE
+362,AOP 362,Immune mediated hepatitis,KE 1815,KE
+362,AOP 362,Immune mediated hepatitis,KE 1817,KE
+362,AOP 362,Immune mediated hepatitis,KE 1818,KE
+362,AOP 362,Immune mediated hepatitis,KE 1819,KE
+362,AOP 362,Immune mediated hepatitis,KE 1820,AO
+383,AOP 383,Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis,KE 1115,KE
+383,AOP 383,Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis,KE 1501,KE
+383,AOP 383,Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis,KE 1740,MIE
+383,AOP 383,Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis,KE 1743,KE
+383,AOP 383,Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis,KE 1852,KE
+383,AOP 383,Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis,KE 344,AO
+423,AOP 423, Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway ,KE 1115,MIE
+423,AOP 423, Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway ,KE 1194,KE
+423,AOP 423, Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway ,KE 177,KE
+423,AOP 423, Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway ,KE 1817,AO
+423,AOP 423, Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway ,KE 2030,MIE
+423,AOP 423, Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway ,KE 2031,KE
+494,AOP 494,AhR activation leading to liver fibrosis ,KE 1501,KE
+494,AOP 494,AhR activation leading to liver fibrosis ,KE 18,MIE
+494,AOP 494,AhR activation leading to liver fibrosis ,KE 265,KE
+494,AOP 494,AhR activation leading to liver fibrosis ,KE 344,AO
+494,AOP 494,AhR activation leading to liver fibrosis ,KE 459,KE
+494,AOP 494,AhR activation leading to liver fibrosis ,KE 55,KE
+517,AOP 517,Pregnane X Receptor (PXR) activation leads to liver steatosis,KE 115,KE
+517,AOP 517,Pregnane X Receptor (PXR) activation leads to liver steatosis,KE 239,MIE
+517,AOP 517,Pregnane X Receptor (PXR) activation leads to liver steatosis,KE 291,KE
+517,AOP 517,Pregnane X Receptor (PXR) activation leads to liver steatosis,KE 459,AO
+517,AOP 517,Pregnane X Receptor (PXR) activation leads to liver steatosis,KE 54,KE
+518,AOP 518,Liver X Receptor (LXR) activation leads to liver steatosis,KE 167,MIE
+518,AOP 518,Liver X Receptor (LXR) activation leads to liver steatosis,KE 2199,KE
+518,AOP 518,Liver X Receptor (LXR) activation leads to liver steatosis,KE 291,KE
+518,AOP 518,Liver X Receptor (LXR) activation leads to liver steatosis,KE 459,AO
+518,AOP 518,Liver X Receptor (LXR) activation leads to liver steatosis,KE 89,KE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 179,KE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 2224,KE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 2225,KE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 2226,MIE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 2227,KE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 291,KE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 327,KE
+529,AOP 529,Xenobiotic binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism leading to liver steatosis,KE 459,AO
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 1194,MIE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 1293,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 1505,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 1821,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 2019,AO
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 2344,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 2345,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 2346,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 2347,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 2348,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 291,KE
+591,AOP 591,DBDPE-induced DNA damage increase in liver leading to Non-alcoholic fatty liver disease via liver steatosis and inhibition of regeneration,KE 459,KE

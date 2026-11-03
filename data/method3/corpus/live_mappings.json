@@ -1,0 +1,7686 @@
+{
+ "data": [
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 33"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 9",
+   "ke_name": "Activation, 5HT2c",
+   "pathway_id": "WP732",
+   "pathway_title": "Serotonin receptor 2 and ELK-SRF/GATA4 signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T17:32:16.121667",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "9f80d9ef-808c-4859-8f80-f084fd7e995b"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 16",
+    "AOP 281",
+    "AOP 312",
+    "AOP 405",
+    "AOP 450",
+    "AOP 471",
+    "AOP 559"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 12",
+   "ke_name": "Acetylcholinesterase (AchE) Inhibition",
+   "pathway_id": "WP550",
+   "pathway_title": "Biogenic amine synthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T17:32:12.662914",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c75463d3-2a7c-4000-b542-58cf82da1fc8"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 66"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 654",
+   "ke_name": "Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists",
+   "pathway_id": "WP5393",
+   "pathway_title": "Androgen biosynthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T17:31:28.855312",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "4a500613-39c8-4067-8946-651f568a8c3e"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 130"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 837",
+   "ke_name": "Occurrence, Cytoplasmic vacuolization (kupffer cell)",
+   "pathway_id": "WP4923",
+   "pathway_title": "Autophagy",
+   "provenance": {
+    "approved_at": "2026-07-29T17:31:18.839853",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "fbc66184-224b-4fde-9fab-4132f3eb3f4d"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 580"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2336",
+   "ke_name": "Increase, SREBF1",
+   "pathway_id": "WP1982",
+   "pathway_title": "Sterol regulatory element-binding proteins (SREBP) signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T17:31:14.686628",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "27251b4b-6ea5-46c6-81cf-96a544f25ece"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 57",
+    "AOP 58",
+    "AOP 61"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 451",
+   "ke_name": "Inhibition, Mitochondrial fatty acid beta-oxidation",
+   "pathway_id": "WP368",
+   "pathway_title": "Mitochondrial long chain fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.926471",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5529072e-22cb-4632-b80b-e080b41d4625"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 57",
+    "AOP 58",
+    "AOP 61"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 451",
+   "ke_name": "Inhibition, Mitochondrial fatty acid beta-oxidation",
+   "pathway_id": "WP143",
+   "pathway_title": "Fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930192",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f149001c-5fb1-423a-9411-e5e9e57d1bad"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 57"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 450",
+   "ke_name": "Suppression, VLDL secretion",
+   "pathway_id": "WP5323",
+   "pathway_title": "Fatty acid and lipoprotein transport in hepatocytes",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930398",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5f5f1b9a-adf3-4728-988a-921c11d894a8"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 34"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 345",
+   "ke_name": "N/A, Liver Steatosis",
+   "pathway_id": "WP5323",
+   "pathway_title": "Fatty acid and lipoprotein transport in hepatocytes",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930588",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f4632f88-67a2-47e5-97fb-601bd8456ace"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 34"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 345",
+   "ke_name": "N/A, Liver Steatosis",
+   "pathway_id": "WP4396",
+   "pathway_title": "Nonalcoholic fatty liver disease",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930671",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d52b38c6-4c5d-4727-9dac-127fddfc7ae3"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 38",
+    "AOP 383",
+    "AOP 494",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 344",
+   "ke_name": "N/A, Liver fibrosis",
+   "pathway_id": "WP4786",
+   "pathway_title": "Type I collagen synthesis in the context of osteogenesis imperfecta",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930753",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "1d684103-3b34-4c33-8f75-b8da09746ac1"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 1"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 334",
+   "ke_name": "Promotion, Hepatocelluar carcinoma",
+   "pathway_id": "WP4337",
+   "pathway_title": "ncRNAs involved in STAT3 signaling in hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930830",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ea4eac1c-302d-4950-abe1-35207db42480"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 1"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 334",
+   "ke_name": "Promotion, Hepatocelluar carcinoma",
+   "pathway_id": "WP4336",
+   "pathway_title": "ncRNAs in Wnt signaling in hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930903",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e2f8ad31-eec4-41ac-833a-f61c200b53f1"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 1"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 334",
+   "ke_name": "Promotion, Hepatocelluar carcinoma",
+   "pathway_id": "WP313",
+   "pathway_title": "Hepatocyte growth factor receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.930976",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "35280d2a-0c7f-48c1-8887-e663b7437277"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36",
+    "AOP 529",
+    "AOP 57",
+    "AOP 58",
+    "AOP 60"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 327",
+   "ke_name": "Accumulation, Fatty acid",
+   "pathway_id": "WP5061",
+   "pathway_title": "Fatty acid transporters",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931048",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "08b926ea-a36f-48b8-911e-b868d47c4c9a"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36",
+    "AOP 529",
+    "AOP 57",
+    "AOP 58",
+    "AOP 60"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 327",
+   "ke_name": "Accumulation, Fatty acid",
+   "pathway_id": "WP357",
+   "pathway_title": "Fatty acid biosynthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931128",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e236ffe8-0043-4e83-9d24-9e756aacaf6d"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36",
+    "AOP 529",
+    "AOP 57",
+    "AOP 58",
+    "AOP 60"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 327",
+   "ke_name": "Accumulation, Fatty acid",
+   "pathway_id": "WP143",
+   "pathway_title": "Fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931201",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "8e2c714a-819b-4fa4-81d4-4009b12e6664"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 318",
+    "AOP 34",
+    "AOP 517",
+    "AOP 518",
+    "AOP 529",
+    "AOP 57",
+    "AOP 580",
+    "AOP 591"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 291",
+   "ke_name": "Accumulation, Triglyceride",
+   "pathway_id": "WP5323",
+   "pathway_title": "Fatty acid and lipoprotein transport in hepatocytes",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931274",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "04416c7f-efc8-4457-a610-8b9f11f991d1"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 318",
+    "AOP 34",
+    "AOP 517",
+    "AOP 518",
+    "AOP 529",
+    "AOP 57",
+    "AOP 580",
+    "AOP 591"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 291",
+   "ke_name": "Accumulation, Triglyceride",
+   "pathway_id": "WP325",
+   "pathway_title": "Triacylglyceride synthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931348",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "62bd589e-249a-4985-8405-6f7f7f8e31e5"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 34"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 264",
+   "ke_name": "Activation, SREBP-1c",
+   "pathway_id": "WP1982",
+   "pathway_title": "Sterol regulatory element-binding proteins (SREBP) signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931420",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5529fa4b-ec15-4ad7-bdee-4d2d3473410b"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 11",
+    "AOP 60"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 245",
+   "ke_name": "Activation, PXR/SXR",
+   "pathway_id": "WP2876",
+   "pathway_title": "Pregnane X receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931490",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "75a5d197-39d0-4632-aeab-db0876622a8f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36",
+    "AOP 513"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 233",
+   "ke_name": "Decreased, PPAR-gamma activation",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931560",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5cc6d938-cd92-45fb-b66c-d9478dfa9699"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 232",
+   "ke_name": "Decreased, PPAR-beta activation",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931641",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "df514a68-d0c8-4b08-8523-0d9fce3ac24f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 231",
+   "ke_name": "Decreased, PPAR-alpha activation",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931715",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "b6c2ac14-406f-4115-a3a5-cb3143173753"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 231",
+   "ke_name": "Decreased, PPAR-alpha activation",
+   "pathway_id": "WP2878",
+   "pathway_title": "PPAR-alpha pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931787",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "df81b858-2c52-4950-a128-bd4fefc8885d"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 34",
+    "AOP 510",
+    "AOP 58",
+    "AOP 72"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 228",
+   "ke_name": "peroxisome proliferator activated receptor promoter demethylation",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931857",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c9e640ae-8843-41d9-a641-8b874d084502"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 57"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 216",
+   "ke_name": "Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)",
+   "pathway_id": "WP534",
+   "pathway_title": "Glycolysis and gluconeogenesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931928",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "389e54aa-fc7f-4eb0-9b1c-9fcc99319d01"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 36",
+    "AOP 497",
+    "AOP 529",
+    "AOP 599",
+    "AOP 60",
+    "AOP 600",
+    "AOP 601"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 179",
+   "ke_name": "Decrease, Fatty acid beta-oxidation",
+   "pathway_id": "WP143",
+   "pathway_title": "Fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.931999",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "55054710-eded-4152-ad28-e58627f3138f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 130",
+    "AOP 144",
+    "AOP 178",
+    "AOP 200",
+    "AOP 205",
+    "AOP 207",
+    "AOP 256",
+    "AOP 258",
+    "AOP 273",
+    "AOP 3",
+    "AOP 335",
+    "AOP 34",
+    "AOP 362",
+    "AOP 377",
+    "AOP 423",
+    "AOP 437",
+    "AOP 447",
+    "AOP 464",
+    "AOP 472",
+    "AOP 476",
+    "AOP 479",
+    "AOP 48",
+    "AOP 480",
+    "AOP 481",
+    "AOP 497",
+    "AOP 500",
+    "AOP 509",
+    "AOP 511",
+    "AOP 530",
+    "AOP 587",
+    "AOP 588",
+    "AOP 589",
+    "AOP 595",
+    "AOP 622",
+    "AOP 624",
+    "AOP 627",
+    "AOP 636",
+    "AOP 77",
+    "AOP 78",
+    "AOP 79",
+    "AOP 80",
+    "AOP 87"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 177",
+   "ke_name": "Mitochondrial dysfunction",
+   "pathway_id": "WP111",
+   "pathway_title": "Electron transport chain: OXPHOS system in mitochondria",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932272",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "60478fe8-eebc-4371-8b7d-d84c4ea36037"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 34",
+    "AOP 518",
+    "AOP 58"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 167",
+   "ke_name": "Activation, LXR",
+   "pathway_id": "WP2874",
+   "pathway_title": "Liver X receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932367",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "0e07f67c-dce6-4659-b383-7b183f6b54e9"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 41"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 165",
+   "ke_name": "Activation, Long term AHR receptor driven direct and indirect gene expression changes",
+   "pathway_id": "WP2873",
+   "pathway_title": "Aryl hydrocarbon receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932455",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "3d531c8d-ece1-4c50-bf5e-2e20264c4d12"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 41"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 165",
+   "ke_name": "Activation, Long term AHR receptor driven direct and indirect gene expression changes",
+   "pathway_id": "WP2586",
+   "pathway_title": "Aryl hydrocarbon receptor response to main mediators PAH and TCDD",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932539",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "8ebdf99b-6e06-4328-9696-181cd0994209"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 173",
+    "AOP 241",
+    "AOP 319",
+    "AOP 38",
+    "AOP 382",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 68",
+   "ke_name": "Accumulation, Collagen",
+   "pathway_id": "WP5312",
+   "pathway_title": "Metabolic pathways of fibroblasts",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932618",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "374b033d-63a4-4fbf-9139-a9f3190bf36b"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "loose",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 173",
+    "AOP 241",
+    "AOP 319",
+    "AOP 38",
+    "AOP 382",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 68",
+   "ke_name": "Accumulation, Collagen",
+   "pathway_id": "WP4786",
+   "pathway_title": "Type I collagen synthesis in the context of osteogenesis imperfecta",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932694",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "15f4ca44-0c72-4450-afa8-ac271af3e256"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 1"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 57",
+   "ke_name": "Proliferation, Cell proliferation in the absence of cytotoxicity",
+   "pathway_id": "WP179",
+   "pathway_title": "Cell cycle",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932769",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a5c68378-62e6-4549-9a4e-5c443d3f1cd3"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 12",
+    "AOP 13",
+    "AOP 144",
+    "AOP 17",
+    "AOP 264",
+    "AOP 265",
+    "AOP 266",
+    "AOP 268",
+    "AOP 273",
+    "AOP 278",
+    "AOP 281",
+    "AOP 325",
+    "AOP 331",
+    "AOP 333",
+    "AOP 377",
+    "AOP 38",
+    "AOP 479",
+    "AOP 48",
+    "AOP 490",
+    "AOP 494",
+    "AOP 530",
+    "AOP 596",
+    "AOP 599",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 55",
+   "ke_name": "Increase, Cell injury/death",
+   "pathway_id": "WP1772",
+   "pathway_title": "Apoptosis modulation and signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932844",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "b2d2da42-2a9a-45b0-b5fe-1accf323796f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 378",
+   "ke_name": "Tumorigenesis, Hepatocellular carcinoma",
+   "pathway_id": "WP4337",
+   "pathway_title": "ncRNAs involved in STAT3 signaling in hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932924",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f102739b-644c-409d-bb5a-3cac34aceb12"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 378",
+   "ke_name": "Tumorigenesis, Hepatocellular carcinoma",
+   "pathway_id": "WP4336",
+   "pathway_title": "ncRNAs in Wnt signaling in hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.932998",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "61b17d69-6ecd-4a7c-8952-3041c0a232cb"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "unclear",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 491",
+   "ke_name": "Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)",
+   "pathway_id": "WP313",
+   "pathway_title": "Hepatocyte growth factor receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933071",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "cafe9d03-1b66-4241-8d09-5ec0fc0bbccc"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "unclear",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 491",
+   "ke_name": "Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)",
+   "pathway_id": "WP5475",
+   "pathway_title": "Hallmark of cancer: sustaining proliferative signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933289",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5fd09ce1-9d89-4f2e-b93d-eb4bb48d1bc4"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 493",
+   "ke_name": "Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts",
+   "pathway_id": "WP4946",
+   "pathway_title": "Genes and complexes involved in the DNA repair pathways",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933367",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "42a8d85c-5d7a-4bfb-bbc1-cac7aac22ca0"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 186",
+    "AOP 207",
+    "AOP 213",
+    "AOP 26",
+    "AOP 27",
+    "AOP 273",
+    "AOP 282",
+    "AOP 298",
+    "AOP 299",
+    "AOP 303",
+    "AOP 311",
+    "AOP 319",
+    "AOP 324",
+    "AOP 325",
+    "AOP 326",
+    "AOP 327",
+    "AOP 328",
+    "AOP 329",
+    "AOP 330",
+    "AOP 331",
+    "AOP 332",
+    "AOP 333",
+    "AOP 382",
+    "AOP 383",
+    "AOP 384",
+    "AOP 386",
+    "AOP 387",
+    "AOP 396",
+    "AOP 409",
+    "AOP 413",
+    "AOP 416",
+    "AOP 418",
+    "AOP 423",
+    "AOP 451",
+    "AOP 462",
+    "AOP 472",
+    "AOP 476",
+    "AOP 481",
+    "AOP 488",
+    "AOP 492",
+    "AOP 497",
+    "AOP 500",
+    "AOP 505",
+    "AOP 511",
+    "AOP 513",
+    "AOP 521",
+    "AOP 534",
+    "AOP 540",
+    "AOP 569",
+    "AOP 595",
+    "AOP 596",
+    "AOP 598",
+    "AOP 599",
+    "AOP 600",
+    "AOP 601",
+    "AOP 602",
+    "AOP 603",
+    "AOP 608",
+    "AOP 613",
+    "AOP 622",
+    "AOP 636",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1115",
+   "ke_name": "Increase, Reactive oxygen species",
+   "pathway_id": "WP408",
+   "pathway_title": "Oxidative stress response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933445",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "dd0ff531-228c-4517-9157-3ed8c2611517"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 493",
+   "ke_name": "Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts",
+   "pathway_id": "WP4752",
+   "pathway_title": "Base excision repair",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933518",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e3c8c56d-5490-43a8-8be9-ad7d6cd3b301"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 493",
+   "ke_name": "Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts",
+   "pathway_id": "WP4753",
+   "pathway_title": "Nucleotide excision repair",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933589",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "468e2b24-db43-4348-906c-a9d95dcc8f67"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 376",
+   "ke_name": "Increased, Induced Mutations in Critical Genes",
+   "pathway_id": "WP4946",
+   "pathway_title": "Genes and complexes involved in the DNA repair pathways",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933660",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "56e4bdbc-33e9-46cd-a71a-d71253b8d1b8"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 46",
+    "AOP 472"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 373",
+   "ke_name": "Formation, Pro-mutagenic DNA Adducts",
+   "pathway_id": "WP4753",
+   "pathway_title": "Nucleotide excision repair",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933738",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "9d722c70-9b86-4d16-82ad-1938198c69d9"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "unclear",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 357",
+   "ke_name": "Cholestasis, Pathology",
+   "pathway_id": "WP5176",
+   "pathway_title": "Disorders of bile acid synthesis and biliary transport",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933810",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "b18926cd-899c-4fa9-885e-958475540f0f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 357",
+   "ke_name": "Cholestasis, Pathology",
+   "pathway_id": "WP5238",
+   "pathway_title": "Cholestasis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933883",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d458df4e-9359-43b6-ad37-a598c82ce577"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 288",
+   "ke_name": "Activation of specific nuclear receptors, Transcriptional change",
+   "pathway_id": "WP299",
+   "pathway_title": "Nuclear receptors in lipid metabolism and toxicity",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.933954",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "6f79bc69-d518-4a43-bbf3-7d709729882b"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 288",
+   "ke_name": "Activation of specific nuclear receptors, Transcriptional change",
+   "pathway_id": "WP2882",
+   "pathway_title": "Nuclear receptors meta-pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934025",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "697dbaad-3c66-4939-ba72-e6b9d8209f4c"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 214",
+   "ke_name": "Bile accumulation, Pathological condition",
+   "pathway_id": "WP5396",
+   "pathway_title": "Enterohepatic circulation of bile acids",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934095",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "10e9fcc2-6622-4e8c-8628-a5b4fe59d87c"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 214",
+   "ke_name": "Bile accumulation, Pathological condition",
+   "pathway_id": "WP5176",
+   "pathway_title": "Disorders of bile acid synthesis and biliary transport",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934173",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c46697c2-0a08-4f9b-bd38-d63653c81217"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 214",
+   "ke_name": "Bile accumulation, Pathological condition",
+   "pathway_id": "WP4389",
+   "pathway_title": "Bile acid synthesis and enterohepatic circulation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934246",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e603bbce-6354-40ff-bcd4-672859312be8"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 214",
+   "ke_name": "Bile accumulation, Pathological condition",
+   "pathway_id": "WP2289",
+   "pathway_title": "Drug induction of bile acid pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934317",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f2878706-a7de-4265-98a1-ef6823e2521c"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 108",
+    "AOP 149",
+    "AOP 210",
+    "AOP 27"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 209",
+   "ke_name": "Peptide Oxidation",
+   "pathway_id": "WP5477",
+   "pathway_title": "Molecular pathway for oxidative stress",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934388",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e0539278-f0f4-4ddf-8e88-f7b12c089e9b"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 108",
+    "AOP 149",
+    "AOP 210",
+    "AOP 27"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 209",
+   "ke_name": "Peptide Oxidation",
+   "pathway_id": "WP408",
+   "pathway_title": "Oxidative stress response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934460",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "95e9d3a7-c450-4e69-be30-d828220e93de"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 27",
+    "AOP 303",
+    "AOP 377",
+    "AOP 412",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 87",
+   "ke_name": "Release, Cytokine",
+   "pathway_id": "WP5473",
+   "pathway_title": "Cytokine-cytokine receptor interaction",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934530",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ab8f0b1c-b460-42fd-9f84-87836b2ba7e6"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 41",
+   "ke_name": "Inhibition, Bile Salt Export Pump (ABCB11)",
+   "pathway_id": "WP5396",
+   "pathway_title": "Enterohepatic circulation of bile acids",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934600",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c62826a9-3e1c-49c8-aa9c-1d25e71263c2"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 27"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 41",
+   "ke_name": "Inhibition, Bile Salt Export Pump (ABCB11)",
+   "pathway_id": "WP5176",
+   "pathway_title": "Disorders of bile acid synthesis and biliary transport",
+   "provenance": {
+    "approved_at": "2026-07-29T16:51:24.934670",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "aa362328-b2d1-42f3-9820-2810a4d5fa31"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 58",
+    "AOP 60"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 454",
+   "ke_name": "Increased, Triglyceride formation",
+   "pathway_id": "WP325",
+   "pathway_title": "Triacylglyceride synthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:59.732885",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "4f98ca00-860c-404a-9cea-7e1b0cbae208"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 58"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 456",
+   "ke_name": "Suppression, Constitutive androstane receptor, NR1l3",
+   "pathway_id": "WP2875",
+   "pathway_title": "Constitutive androstane receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:57.938639",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "13a0f780-8710-47ea-bef7-71e377264d4c"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 58",
+    "AOP 62"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 457",
+   "ke_name": "Activation, SREBF1",
+   "pathway_id": "WP1982",
+   "pathway_title": "Sterol regulatory element-binding proteins (SREBP) signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:55.608155",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "dc0c9c08-ea06-4841-83e4-c807f64e5108"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 58",
+    "AOP 61"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 458",
+   "ke_name": "Increased, De Novo FA synthesis",
+   "pathway_id": "WP357",
+   "pathway_title": "Fatty acid biosynthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:52.850414",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "079c9c1b-9a9e-4067-9cc3-dc429ae011e0"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 213",
+    "AOP 232",
+    "AOP 285",
+    "AOP 318",
+    "AOP 36",
+    "AOP 494",
+    "AOP 517",
+    "AOP 518",
+    "AOP 529",
+    "AOP 57",
+    "AOP 58",
+    "AOP 591",
+    "AOP 60",
+    "AOP 61",
+    "AOP 62",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 459",
+   "ke_name": "Increased, Liver Steatosis",
+   "pathway_id": "WP5323",
+   "pathway_title": "Fatty acid and lipoprotein transport in hepatocytes",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:50.246329",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "11062e7c-7b73-46ec-ba4e-e88f74686de5"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 58"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 468",
+   "ke_name": "Inhibition, PPAR alpha",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:47.586125",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e56c4319-04a4-4515-b099-4e804ec94b8f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 61"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 478",
+   "ke_name": "Activation, NRF2",
+   "pathway_id": "WP2884",
+   "pathway_title": "NRF2 pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:45.551751",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "cd182a2c-877b-4566-99e4-cf2927379632"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 61"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 478",
+   "ke_name": "Activation, NRF2",
+   "pathway_id": "WP4357",
+   "pathway_title": "NRF2-ARE regulation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:43.247964",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "6c1ea844-60c6-420f-a2a0-265bdcfa0dac"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 61"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 483",
+   "ke_name": "Activation, LXR alpha",
+   "pathway_id": "WP2874",
+   "pathway_title": "Liver X receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:39.947637",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d68607e9-5b52-4ee7-80c3-a21885bdb06b"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 41"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 853",
+   "ke_name": "Changes/Inhibition, Cellular Homeostasis and Apoptosis",
+   "pathway_id": "WP1772",
+   "pathway_title": "Apoptosis modulation and signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:38.016121",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "eeaafd26-1839-4f8d-ad45-e25d812e16cc"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 41"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 853",
+   "ke_name": "Changes/Inhibition, Cellular Homeostasis and Apoptosis",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:35.553445",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a6129677-ccf8-4044-aa25-b9963dbf7ac3"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 41",
+    "AOP 495"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 854",
+   "ke_name": "Alterations, Cellular proliferation / hyperplasia",
+   "pathway_id": "WP179",
+   "pathway_title": "Cell cycle",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:32.839555",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e5598c00-469a-4fbe-bd65-953a08897484"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 41",
+    "AOP 495"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 854",
+   "ke_name": "Alterations, Cellular proliferation / hyperplasia",
+   "pathway_id": "WP5475",
+   "pathway_title": "Hallmark of cancer: sustaining proliferative signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:29.048159",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "777a19c2-8f05-47bc-9ff7-0436ce390ada"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 41"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 856",
+   "ke_name": "Formation, Hepatocellular and Bile duct tumors",
+   "pathway_id": "WP4336",
+   "pathway_title": "ncRNAs in Wnt signaling in hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:26.601649",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "92a1425c-c8ab-457e-9675-ddab3f0f5155"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 318"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 860",
+   "ke_name": "Decreased, Mitochondrial Fatty Acid Beta Oxidation",
+   "pathway_id": "WP143",
+   "pathway_title": "Fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:23.066160",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "202ac787-d051-4932-96ec-4d48485d9fcf"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 61"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 878",
+   "ke_name": "Inhibition, SREBP1c",
+   "pathway_id": "WP1982",
+   "pathway_title": "Sterol regulatory element-binding proteins (SREBP) signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:20.554930",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "98189a63-5c9c-4b47-835b-dceb0c6e8871"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 61"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 881",
+   "ke_name": "Increased, Triglyceride",
+   "pathway_id": "WP325",
+   "pathway_title": "Triacylglyceride synthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:18.936749",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a73e634e-cfe2-4e67-969a-1d58e21000c9"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 61"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 881",
+   "ke_name": "Increased, Triglyceride",
+   "pathway_id": "WP5323",
+   "pathway_title": "Fatty acid and lipoprotein transport in hepatocytes",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:17.476057",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "8cc61567-5358-4810-a978-fbad69c62320"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 377",
+    "AOP 615",
+    "AOP 642"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 902",
+   "ke_name": "Inflammation, Liver",
+   "pathway_id": "WP4493",
+   "pathway_title": "Cells and molecules involved in local acute inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:14.762343",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "58256fa2-9403-4dc6-9474-0092a4ecc42c"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 377",
+    "AOP 615",
+    "AOP 642"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 902",
+   "ke_name": "Inflammation, Liver",
+   "pathway_id": "WP453",
+   "pathway_title": "Inflammatory response pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:12.423642",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ec62ae9d-98ef-46ac-b724-3d2060916e80"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 377",
+    "AOP 615",
+    "AOP 642"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 902",
+   "ke_name": "Inflammation, Liver",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:10.114823",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "09ecf784-e5e7-40f3-acee-a05f7561f749"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "unclear",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 37"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1171",
+   "ke_name": "Increase, Clonal Expansion of Altered Hepatic Foci",
+   "pathway_id": "WP5475",
+   "pathway_title": "Hallmark of cancer: sustaining proliferative signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:07.143350",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "12700823-f3fb-4e89-abc4-22e268a28b4a"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 107"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1214",
+   "ke_name": "Altered gene expression specific to CAR activation, Hepatocytes",
+   "pathway_id": "WP2875",
+   "pathway_title": "Constitutive androstane receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:50:02.114229",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "8ed559b0-17d9-4538-99f3-8ff91f90beaa"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 205",
+    "AOP 207",
+    "AOP 212",
+    "AOP 285",
+    "AOP 322",
+    "AOP 393",
+    "AOP 419",
+    "AOP 439",
+    "AOP 441",
+    "AOP 452",
+    "AOP 460",
+    "AOP 476",
+    "AOP 491",
+    "AOP 500",
+    "AOP 502",
+    "AOP 535",
+    "AOP 540",
+    "AOP 563",
+    "AOP 595",
+    "AOP 616",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1262",
+   "ke_name": "Apoptosis",
+   "pathway_id": "WP1772",
+   "pathway_title": "Apoptosis modulation and signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:46.805026",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "fd605d6a-deb5-4656-866a-0665634cc36d"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 205",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1263",
+   "ke_name": "Necrosis",
+   "pathway_id": "WP2513",
+   "pathway_title": "Nanoparticle triggered regulated necrosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:44.790635",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "59d15e8b-f7af-4a88-bed3-daca8648e3c7"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 62"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 484",
+   "ke_name": "Activation, AKT2",
+   "pathway_id": "WP4172",
+   "pathway_title": "PI3K-Akt signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:42.259629",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "0ff2fcb5-4140-4242-8b9b-0d3b185065c8"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 62"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 486",
+   "ke_name": "systemic inflammation leading to hepatic steatosis",
+   "pathway_id": "WP4493",
+   "pathway_title": "Cells and molecules involved in local acute inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:40.080981",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "702df415-f531-48f3-94f0-2e64f6e2fc4b"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 62"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 486",
+   "ke_name": "systemic inflammation leading to hepatic steatosis",
+   "pathway_id": "WP453",
+   "pathway_title": "Inflammatory response pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:38.324622",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "4946b5df-38b9-465d-8dc4-0aa3ae021f3b"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 62"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 486",
+   "ke_name": "systemic inflammation leading to hepatic steatosis",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:35.778503",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "24280d84-ecff-46dc-bf6b-36a6d8f0c066"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 107"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 715",
+   "ke_name": "Activation, Constitutive androstane receptor",
+   "pathway_id": "WP2875",
+   "pathway_title": "Constitutive androstane receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:32.969908",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f6802122-ed8f-4f1c-9345-5c31d4571eb7"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 107",
+    "AOP 117",
+    "AOP 37"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 716",
+   "ke_name": "Increase, cell proliferation (hepatocytes)",
+   "pathway_id": "WP179",
+   "pathway_title": "Cell cycle",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:28.773707",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "0a9e95d7-7625-4969-b921-791a3791611b"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 107",
+    "AOP 117",
+    "AOP 37"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 716",
+   "ke_name": "Increase, cell proliferation (hepatocytes)",
+   "pathway_id": "WP313",
+   "pathway_title": "Hepatocyte growth factor receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:26.448273",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "89870f0a-a071-44c3-a8f7-aca76e0f48e4"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 107",
+    "AOP 117",
+    "AOP 37"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 716",
+   "ke_name": "Increase, cell proliferation (hepatocytes)",
+   "pathway_id": "WP5475",
+   "pathway_title": "Hallmark of cancer: sustaining proliferative signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:23.193975",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a9a24f8b-0174-4590-ac72-6321baeeb0df"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "unclear",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 107",
+    "AOP 108",
+    "AOP 117",
+    "AOP 118",
+    "AOP 37"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 719",
+   "ke_name": "Increase, hepatocellular adenomas and carcinomas",
+   "pathway_id": "WP3646",
+   "pathway_title": "Hepatitis C and hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:20.104869",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "3f7129ad-98a5-4699-8b52-0d38d6a90bf5"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 107",
+    "AOP 108",
+    "AOP 117",
+    "AOP 118",
+    "AOP 37"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 719",
+   "ke_name": "Increase, hepatocellular adenomas and carcinomas",
+   "pathway_id": "WP4336",
+   "pathway_title": "ncRNAs in Wnt signaling in hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:16.832404",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d43548d9-7453-4d95-ab88-22c8c3fe9328"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 108"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 769",
+   "ke_name": "Increase, Oxidative metabolism",
+   "pathway_id": "WP623",
+   "pathway_title": "Oxidative phosphorylation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:12.345888",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "b1415e96-09e8-4068-a80b-f7bca1e86da5"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 107",
+    "AOP 117",
+    "AOP 118"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 774",
+   "ke_name": "Increase, Preneoplastic foci (hepatocytes)",
+   "pathway_id": "WP5475",
+   "pathway_title": "Hallmark of cancer: sustaining proliferative signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:09.153652",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "3087be9d-ec92-4601-a82e-1f3ed6899823"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 118"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 787",
+   "ke_name": "Increase, Regenerative cell proliferation (hepatocytes)",
+   "pathway_id": "WP179",
+   "pathway_title": "Cell cycle",
+   "provenance": {
+    "approved_at": "2026-07-29T16:49:00.565018",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "fbf7ceb9-b466-44e6-a7d9-9e2ba2be03b2"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 118"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 787",
+   "ke_name": "Increase, Regenerative cell proliferation (hepatocytes)",
+   "pathway_id": "WP313",
+   "pathway_title": "Hepatocyte growth factor receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:57.515116",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "be0733b8-1452-4f0c-b79f-7bbc4e90e11c"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 130"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 836",
+   "ke_name": "Occurrence, Cytoplasmic vacuolization (Bile duct cell)",
+   "pathway_id": "WP4923",
+   "pathway_title": "Autophagy",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:53.116910",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "01264711-7889-4b3f-b038-6f8432f07ec5"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 130"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 838",
+   "ke_name": "Induction, Microvesicular fat",
+   "pathway_id": "WP5123",
+   "pathway_title": "Mitochondrial fatty acid oxidation disorders",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:46.262962",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "776ec9ad-30ac-469b-9b16-8b451f082237"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 130"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 840",
+   "ke_name": "Formation, Liver fibrosis",
+   "pathway_id": "WP4786",
+   "pathway_title": "Type I collagen synthesis in the context of osteogenesis imperfecta",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:43.332339",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "7495d57d-13cb-4932-b5b4-4ced54d25d0c"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 209",
+    "AOP 401"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1284",
+   "ke_name": "Up Regulation, SREBF2",
+   "pathway_id": "WP1982",
+   "pathway_title": "Sterol regulatory element-binding proteins (SREBP) signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:39.944638",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "2ed421ff-9747-4071-83a3-c15ea6391123"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 209",
+    "AOP 401"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1284",
+   "ke_name": "Up Regulation, SREBF2",
+   "pathway_id": "WP2011",
+   "pathway_title": "SREBF and miR33 in cholesterol and lipid homeostasis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:34.940126",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ac6e7d32-0072-4629-8ab0-704c5841e750"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1285",
+   "ke_name": "Up Regulation, Unsaturated fatty acid",
+   "pathway_id": "WP357",
+   "pathway_title": "Fatty acid biosynthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:32.498671",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "14ca81e5-7454-4927-99e5-333ae3688fc0"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1285",
+   "ke_name": "Up Regulation, Unsaturated fatty acid",
+   "pathway_id": "WP4723",
+   "pathway_title": "Omega-3 / omega-6 fatty acid synthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:30.042117",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d7e9b570-013c-460e-83ae-d47f6eed499f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1285",
+   "ke_name": "Up Regulation, Unsaturated fatty acid",
+   "pathway_id": "WP4724",
+   "pathway_title": "Omega-9 fatty acid synthesis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:28.574685",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "724dcf2c-a9e9-478d-b4fb-a653392fedc6"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1289",
+   "ke_name": "Perturbation of cholesterol",
+   "pathway_id": "WP197",
+   "pathway_title": "Cholesterol biosynthesis pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:25.480093",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "acc43298-853d-4ac5-968b-a08a147a15d4"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1289",
+   "ke_name": "Perturbation of cholesterol",
+   "pathway_id": "WP2011",
+   "pathway_title": "SREBF and miR33 in cholesterol and lipid homeostasis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:22.903700",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "bc61c5f7-1634-4110-80dc-9afa7bb338b8"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "bidirectional",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1289",
+   "ke_name": "Perturbation of cholesterol",
+   "pathway_id": "WP5304",
+   "pathway_title": "Cholesterol metabolism",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:17.810806",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c9869477-7ba5-4ddf-8888-c6b6ed5d9251"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "bidirectional",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1290",
+   "ke_name": "Glutathione homeostasis",
+   "pathway_id": "WP100",
+   "pathway_title": "Glutathione metabolism",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:15.164295",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f3d36837-8f9b-48c0-be57-b89f90a077a2"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 401"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1299",
+   "ke_name": "Activation, AKT",
+   "pathway_id": "WP4172",
+   "pathway_title": "PI3K-Akt signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:12.479948",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "dd25eb43-5329-41a4-aa48-7061f0c2cc45"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 401"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1300",
+   "ke_name": "Activation, mTORC1",
+   "pathway_id": "WP1471",
+   "pathway_title": "Target of rapamycin signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:05.814488",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "466f9241-b03d-48dc-9d48-3e6ce0b4573e"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 401"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1310",
+   "ke_name": "Activation, PI3K",
+   "pathway_id": "WP4172",
+   "pathway_title": "PI3K-Akt signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:48:00.607721",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "4210b35d-db00-4f75-a62a-1aea38254531"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 401"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1310",
+   "ke_name": "Activation, PI3K",
+   "pathway_id": "WP5472",
+   "pathway_title": "Phosphoinositide 3-kinase (PI3K) family",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:57.812667",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "df850130-029c-4f22-9d28-5e288de77448"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "minor",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 138",
+    "AOP 17",
+    "AOP 171",
+    "AOP 177",
+    "AOP 186",
+    "AOP 200",
+    "AOP 220",
+    "AOP 26",
+    "AOP 260",
+    "AOP 284",
+    "AOP 31",
+    "AOP 324",
+    "AOP 325",
+    "AOP 326",
+    "AOP 331",
+    "AOP 332",
+    "AOP 333",
+    "AOP 377",
+    "AOP 396",
+    "AOP 411",
+    "AOP 424",
+    "AOP 425",
+    "AOP 429",
+    "AOP 437",
+    "AOP 444",
+    "AOP 447",
+    "AOP 450",
+    "AOP 452",
+    "AOP 457",
+    "AOP 459",
+    "AOP 462",
+    "AOP 464",
+    "AOP 470",
+    "AOP 471",
+    "AOP 472",
+    "AOP 476",
+    "AOP 478",
+    "AOP 479",
+    "AOP 481",
+    "AOP 482",
+    "AOP 483",
+    "AOP 488",
+    "AOP 497",
+    "AOP 501",
+    "AOP 505",
+    "AOP 507",
+    "AOP 509",
+    "AOP 510",
+    "AOP 511",
+    "AOP 521",
+    "AOP 534",
+    "AOP 535",
+    "AOP 538",
+    "AOP 540",
+    "AOP 595",
+    "AOP 596",
+    "AOP 598",
+    "AOP 599",
+    "AOP 600",
+    "AOP 601",
+    "AOP 602",
+    "AOP 603",
+    "AOP 608",
+    "AOP 616",
+    "AOP 622",
+    "AOP 625",
+    "AOP 628",
+    "AOP 642",
+    "AOP 645",
+    "AOP 646"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1392",
+   "ke_name": "Oxidative Stress",
+   "pathway_id": "WP3941",
+   "pathway_title": "Oxidative damage response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:55.081287",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "923fb92c-75f1-4e41-94a7-b4a9d9474b53"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 220"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1393",
+   "ke_name": "Hepatocytotoxicity",
+   "pathway_id": "WP1772",
+   "pathway_title": "Apoptosis modulation and signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:53.075578",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "fda5c1f7-15f5-4516-84ad-0411df22c532"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 220"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1394",
+   "ke_name": "Induction, persistent proliferation/sustained proliferation",
+   "pathway_id": "WP179",
+   "pathway_title": "Cell cycle",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:48.824448",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "82e0e0d8-0e1e-481a-8542-bc863dc09ee4"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 220"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1394",
+   "ke_name": "Induction, persistent proliferation/sustained proliferation",
+   "pathway_id": "WP313",
+   "pathway_title": "Hepatocyte growth factor receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:46.761093",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d538e92b-1285-4436-a2a3-d973b7b9388a"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 220"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1394",
+   "ke_name": "Induction, persistent proliferation/sustained proliferation",
+   "pathway_id": "WP5475",
+   "pathway_title": "Hallmark of cancer: sustaining proliferative signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:42.779844",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f1709f6c-b259-4f45-8d9b-1e22f35121f8"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 232",
+    "AOP 507",
+    "AOP 508",
+    "AOP 509",
+    "AOP 615"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1417",
+   "ke_name": "NFE2/Nrf2 repression",
+   "pathway_id": "WP2884",
+   "pathway_title": "NRF2 pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:19.775071",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ad0eae30-1335-46c4-a9cd-59eb52118b1e"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 232",
+    "AOP 507",
+    "AOP 508",
+    "AOP 509",
+    "AOP 615"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1417",
+   "ke_name": "NFE2/Nrf2 repression",
+   "pathway_id": "WP4357",
+   "pathway_title": "NRF2-ARE regulation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:18.469001",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a61ac802-bc0f-4067-b6e6-8bca6e94ca4d"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 232"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1421",
+   "ke_name": "Activated, LXR",
+   "pathway_id": "WP2874",
+   "pathway_title": "Liver X receptor pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:16.200327",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c2c3a715-900f-496d-aa4c-722ac0a8ce99"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 232"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1422",
+   "ke_name": "Reduced, PPARalpha",
+   "pathway_id": "WP2878",
+   "pathway_title": "PPAR-alpha pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:14.259794",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "8a951aed-8624-4c37-ad4c-2a192b80e710"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 232"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1422",
+   "ke_name": "Reduced, PPARalpha",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:12.818060",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5a5f44e0-3137-4495-8c05-7771b65e4f76"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 232"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1424",
+   "ke_name": "Reduced, fatty acid beta oxidation",
+   "pathway_id": "WP143",
+   "pathway_title": "Fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:10.799898",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a61817bc-271d-4a92-9f3a-974301a09be7"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 213",
+    "AOP 401",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629",
+    "AOP 642"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 1489",
+   "ke_name": "N/A, Steatohepatisis",
+   "pathway_id": "WP4396",
+   "pathway_title": "Nonalcoholic fatty liver disease",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:07.781262",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5b95718d-edb7-4017-8f2c-d95708da060f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 17",
+    "AOP 293",
+    "AOP 294",
+    "AOP 377",
+    "AOP 38",
+    "AOP 432",
+    "AOP 470"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1493",
+   "ke_name": "Increased Pro-inflammatory mediators",
+   "pathway_id": "WP4493",
+   "pathway_title": "Cells and molecules involved in local acute inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:04.169772",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a20a7421-7dea-47d1-a9b0-8a3ce2b1bcdb"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 17",
+    "AOP 293",
+    "AOP 294",
+    "AOP 377",
+    "AOP 38",
+    "AOP 432",
+    "AOP 470"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1493",
+   "ke_name": "Increased Pro-inflammatory mediators",
+   "pathway_id": "WP5095",
+   "pathway_title": "Overview of proinflammatory and profibrotic mediators",
+   "provenance": {
+    "approved_at": "2026-07-29T16:47:00.457933",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "05781ae1-f9fe-48f9-80df-0c37783f9f6e"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 293",
+    "AOP 294"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1494",
+   "ke_name": "Leukocyte recruitment/activation",
+   "pathway_id": "WP4493",
+   "pathway_title": "Cells and molecules involved in local acute inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:46:58.063923",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "24d0ea58-ba89-4cca-bdb6-2dbe0517f4ec"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 383",
+    "AOP 414",
+    "AOP 415",
+    "AOP 494"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1501",
+   "ke_name": "Increased, extracellular matrix deposition",
+   "pathway_id": "WP129",
+   "pathway_title": "Matrix metalloproteinases",
+   "provenance": {
+    "approved_at": "2026-07-29T16:46:54.162177",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ff0901bc-7781-46ab-9cdd-6585f72f444c"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 260",
+    "AOP 285",
+    "AOP 464"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1512",
+   "ke_name": "Unfolded Protein Response",
+   "pathway_id": "WP4925",
+   "pathway_title": "Unfolded protein response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:45.789875",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c6c9469b-1bcd-4914-8a0f-67fa68432964"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 273",
+    "AOP 278"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1548",
+   "ke_name": "Necrotic Tissue",
+   "pathway_id": "WP2513",
+   "pathway_title": "Nanoparticle triggered regulated necrosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:43.899837",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "3ebc04c0-20b8-4139-8ea9-32ddd36d310c"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 273",
+    "AOP 278"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1548",
+   "ke_name": "Necrotic Tissue",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:39.012014",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "b825a39b-4cd7-4c4c-8359-408d0596bf0d"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 278"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1575",
+   "ke_name": "Activation, Caspase 8 pathway",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:37.015479",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "3bb6873b-b4f4-4346-80a7-52b12bc3a2e9"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 278"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1579",
+   "ke_name": "Increase, proinflammatory mediators (TNFalpha)",
+   "pathway_id": "WP231",
+   "pathway_title": "TNF-alpha signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:33.803448",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c4c66b60-8087-4852-ad28-6cd02bb80c26"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "bidirectional",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 278"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1579",
+   "ke_name": "Increase, proinflammatory mediators (TNFalpha)",
+   "pathway_id": "WP5095",
+   "pathway_title": "Overview of proinflammatory and profibrotic mediators",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:29.555624",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a9336c38-aa97-43b2-a82c-43dad852368b"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 285",
+    "AOP 464"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1605",
+   "ke_name": "Accumulation of misfolded proteins",
+   "pathway_id": "WP4925",
+   "pathway_title": "Unfolded protein response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:23.366688",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "6cece2e6-5541-4155-b77d-46770c526ee1"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 362",
+    "AOP 447",
+    "AOP 493"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1633",
+   "ke_name": "Increase in inflammation",
+   "pathway_id": "WP453",
+   "pathway_title": "Inflammatory response pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:14.598867",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "1f7a1503-18c9-4c5b-8ef4-5baf364aedec"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 362",
+    "AOP 447",
+    "AOP 493"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1633",
+   "ke_name": "Increase in inflammation",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:11.092763",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "8249103b-49f2-44ab-a0b3-3b0582848879"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 362",
+    "AOP 423"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1817",
+   "ke_name": "Apoptotic cell death",
+   "pathway_id": "WP1772",
+   "pathway_title": "Apoptosis modulation and signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:06.561834",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "b0521ec4-05e5-4372-b945-88c6b0aff09e"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "responsive",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 362",
+    "AOP 423"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1817",
+   "ke_name": "Apoptotic cell death",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:04.419930",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "baf27503-2a2d-4d54-a8b6-a564ad005658"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 362"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1818",
+   "ke_name": "Immune cell activation",
+   "pathway_id": "WP69",
+   "pathway_title": "T-cell receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:18:02.122820",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "4967e507-23a7-456c-bd1a-9222418b254e"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 362"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1819",
+   "ke_name": "IFN\u03b3 signaling",
+   "pathway_id": "WP619",
+   "pathway_title": "Type II interferon signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:17:58.036983",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "58039853-ac17-419f-8372-d658072d19c6"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "minor",
+    "relationship": "responsive",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 362"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 1820",
+   "ke_name": "Immune mediated hepatitis",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:17:53.082073",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d1f67cbc-e3f0-40e8-88cf-a2f4865f0717"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 615"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1994",
+   "ke_name": "Increase, Ferroptosis",
+   "pathway_id": "WP4313",
+   "pathway_title": "Ferroptosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:17:48.232378",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "7697cc7e-3423-4ac0-ac9b-6c79e94b6abf"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 401",
+    "AOP 646"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1995",
+   "ke_name": "Abnormal lipid metabolism",
+   "pathway_id": "WP299",
+   "pathway_title": "Nuclear receptors in lipid metabolism and toxicity",
+   "provenance": {
+    "approved_at": "2026-07-29T16:17:45.723826",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "0f36d8b0-30e5-417e-97bc-8fd8e7595262"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 401",
+    "AOP 646"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1995",
+   "ke_name": "Abnormal lipid metabolism",
+   "pathway_id": "WP3965",
+   "pathway_title": "Lipid metabolism pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:17:00.777408",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "d62063c3-549f-4ae7-9337-d3ca2d21a8ff"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 452",
+    "AOP 507",
+    "AOP 511",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 2009",
+   "ke_name": "Activation of inflammation pathway",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:57.805039",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "51fbfd4e-a95e-46a3-8ac4-6a1439782354"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 401",
+    "AOP 535"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2029",
+   "ke_name": "protein-coupled estrogen receptor 1 (GPER) activation",
+   "pathway_id": "WP712",
+   "pathway_title": "Estrogen signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:50.792166",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "2894b6c7-d16b-4edc-bd95-c53bb56a0370"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 423"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2031",
+   "ke_name": "Releasing, Apoptosis-Inducing Factor (AIF)",
+   "pathway_id": "WP1772",
+   "pathway_title": "Apoptosis modulation and signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:47.977610",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5af8a926-c3b0-49a8-8be8-e173a54a4f06"
+  },
+  {
+   "assessment": {
+    "basis": "possible",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 423"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2031",
+   "ke_name": "Releasing, Apoptosis-Inducing Factor (AIF)",
+   "pathway_id": "WP2507",
+   "pathway_title": "Nanomaterial induced apoptosis",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:43.480081",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a8060df8-4dff-437a-9da7-5b5a791c4628"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 529"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2224",
+   "ke_name": "Dysregulation of transcriptional expression within PPAR signaling network",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:39.424626",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ad8e72c7-cab3-42af-8855-4a5c2ab4e1f2"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 529"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 2225",
+   "ke_name": "Disrupted Lipid Storage",
+   "pathway_id": "WP3965",
+   "pathway_title": "Lipid metabolism pathway",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:37.189856",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "5d26d2f4-7640-4e9f-ba6d-af3a4764ae9a"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "bidirectional",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 529"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 2225",
+   "ke_name": "Disrupted Lipid Storage",
+   "pathway_id": "WP5323",
+   "pathway_title": "Fatty acid and lipoprotein transport in hepatocytes",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:35.154467",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "1f886fc4-9dcb-4c24-9e34-435e52bd757e"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 529"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2226",
+   "ke_name": "Stressor binding PPAR isoforms",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:32.432695",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "e48630a6-1691-4cb3-8269-4613a6950df9"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "specific",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 529"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2227",
+   "ke_name": "Disrupted PPAR isoform nuclear signaling",
+   "pathway_id": "WP3942",
+   "pathway_title": "PPAR signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T16:16:29.306513",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "9dcb63b9-afc2-4351-80b5-40750a925c8f"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "minor",
+    "relationship": "unclear",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 46"
+   ],
+   "ke_bio_level": "Individual",
+   "ke_id": "KE 378",
+   "ke_name": "Tumorigenesis, Hepatocellular carcinoma",
+   "pathway_id": "WP3646",
+   "pathway_title": "Hepatitis C and hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-28T13:10:21.631614",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "16ca6fa9-3ae0-4cfc-ba1e-69e5deb03e4f"
+  },
+  {
+   "assessment": {
+    "basis": "known",
+    "coverage": "complete",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 209"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1287",
+   "ke_name": "Glutathione synthesis",
+   "pathway_id": "WP100",
+   "pathway_title": "Glutathione metabolism",
+   "provenance": {
+    "approved_at": "2026-07-24T14:26:32.728605",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "43e4ffdf-68ac-40b0-9321-c04f3f915235"
+  },
+  {
+   "assessment": {
+    "basis": "likely",
+    "coverage": "keysteps",
+    "relationship": "causative",
+    "specificity": "includes",
+    "version": "v2"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 138",
+    "AOP 177",
+    "AOP 186",
+    "AOP 447",
+    "AOP 472"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1097",
+   "ke_name": "Occurrence, renal proximal tubular necrosis",
+   "pathway_id": "WP4313",
+   "pathway_title": "Ferroptosis",
+   "provenance": {
+    "approved_at": "2026-07-29T17:45:01.594063",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "6f493927-5e8e-437d-b246-9909821e759e"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 346",
+    "AOP 376"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1790",
+   "ke_name": "Increased, Differentiation to Testis",
+   "pathway_id": "WP4842",
+   "pathway_title": "Mammalian disorder of sexual development",
+   "provenance": {
+    "approved_at": "2026-07-18T12:18:49.000031",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ed70e647-51c4-48c7-9ea9-132c243bb562"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 130",
+    "AOP 144",
+    "AOP 178",
+    "AOP 200",
+    "AOP 205",
+    "AOP 207",
+    "AOP 256",
+    "AOP 258",
+    "AOP 273",
+    "AOP 3",
+    "AOP 335",
+    "AOP 34",
+    "AOP 362",
+    "AOP 377",
+    "AOP 423",
+    "AOP 437",
+    "AOP 447",
+    "AOP 464",
+    "AOP 472",
+    "AOP 476",
+    "AOP 479",
+    "AOP 48",
+    "AOP 480",
+    "AOP 481",
+    "AOP 497",
+    "AOP 500",
+    "AOP 509",
+    "AOP 511",
+    "AOP 530",
+    "AOP 587",
+    "AOP 588",
+    "AOP 589",
+    "AOP 595",
+    "AOP 622",
+    "AOP 624",
+    "AOP 627",
+    "AOP 636",
+    "AOP 77",
+    "AOP 78",
+    "AOP 79",
+    "AOP 80",
+    "AOP 87"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 177",
+   "ke_name": "Increase, Mitochondrial dysfunction",
+   "pathway_id": "WP5241",
+   "pathway_title": "Mitochondrial beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-05-11T18:35:50.387531",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f5410fcd-5287-4519-b2f0-15d62a8a1544"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 130",
+    "AOP 144",
+    "AOP 178",
+    "AOP 200",
+    "AOP 205",
+    "AOP 207",
+    "AOP 256",
+    "AOP 258",
+    "AOP 273",
+    "AOP 3",
+    "AOP 335",
+    "AOP 34",
+    "AOP 362",
+    "AOP 377",
+    "AOP 423",
+    "AOP 437",
+    "AOP 447",
+    "AOP 464",
+    "AOP 472",
+    "AOP 476",
+    "AOP 479",
+    "AOP 48",
+    "AOP 480",
+    "AOP 481",
+    "AOP 497",
+    "AOP 500",
+    "AOP 509",
+    "AOP 511",
+    "AOP 530",
+    "AOP 587",
+    "AOP 588",
+    "AOP 589",
+    "AOP 595",
+    "AOP 622",
+    "AOP 624",
+    "AOP 627",
+    "AOP 636",
+    "AOP 77",
+    "AOP 78",
+    "AOP 79",
+    "AOP 80",
+    "AOP 87"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 177",
+   "ke_name": "Increase, Mitochondrial dysfunction",
+   "pathway_id": "WP4324",
+   "pathway_title": "Mitochondrial complex I assembly model OXPHOS system",
+   "provenance": {
+    "approved_at": "2026-07-29T17:45:03.200664",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "f6e918fc-193c-423a-8420-182f288a3af8"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 130",
+    "AOP 144",
+    "AOP 178",
+    "AOP 200",
+    "AOP 205",
+    "AOP 207",
+    "AOP 256",
+    "AOP 258",
+    "AOP 273",
+    "AOP 3",
+    "AOP 335",
+    "AOP 34",
+    "AOP 362",
+    "AOP 377",
+    "AOP 423",
+    "AOP 437",
+    "AOP 447",
+    "AOP 464",
+    "AOP 472",
+    "AOP 476",
+    "AOP 479",
+    "AOP 48",
+    "AOP 480",
+    "AOP 481",
+    "AOP 497",
+    "AOP 500",
+    "AOP 509",
+    "AOP 511",
+    "AOP 530",
+    "AOP 587",
+    "AOP 588",
+    "AOP 589",
+    "AOP 595",
+    "AOP 622",
+    "AOP 624",
+    "AOP 627",
+    "AOP 636",
+    "AOP 77",
+    "AOP 78",
+    "AOP 79",
+    "AOP 80",
+    "AOP 87"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 177",
+   "ke_name": "Increase, Mitochondrial dysfunction",
+   "pathway_id": "WP78",
+   "pathway_title": "TCA cycle (aka Krebs or citric acid cycle)",
+   "provenance": {
+    "approved_at": "2026-05-11T18:32:08.534730",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "6bb30d07-942e-45e0-a8be-113b8c4a1ee7"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 287",
+    "AOP 291",
+    "AOP 368",
+    "AOP 377",
+    "AOP 410",
+    "AOP 418",
+    "AOP 464",
+    "AOP 468",
+    "AOP 472",
+    "AOP 482",
+    "AOP 573",
+    "AOP 574"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1825",
+   "ke_name": "Increase, Cell death",
+   "pathway_id": "WP1772",
+   "pathway_title": "Apoptosis modulation and signaling",
+   "provenance": {
+    "approved_at": "2026-05-11T18:16:47.739924",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "6c09bce6-b0a3-4eec-9a3c-cdc29e340a27"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 34",
+    "AOP 518"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 89",
+   "ke_name": "Synthesis, De Novo Fatty Acid (FA)",
+   "pathway_id": "WP357",
+   "pathway_title": "Fatty acid biosynthesis",
+   "provenance": {
+    "approved_at": "2026-05-10T11:13:49.668075",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "dfa95510-459e-4f2c-8ce9-d8183aee3e00"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 34",
+    "AOP 517"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 115",
+   "ke_name": "Increase, FA Influx",
+   "pathway_id": "WP5061",
+   "pathway_title": "Fatty acid transporters",
+   "provenance": {
+    "approved_at": "2026-05-10T11:13:43.598526",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "21deba79-e0c2-4a01-beb0-7680d85e964f"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 60"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 471",
+   "ke_name": "Inhibition, FoxA2",
+   "pathway_id": "WP5066",
+   "pathway_title": "FOXA2 pathway",
+   "provenance": {
+    "approved_at": "2026-05-10T11:13:37.747859",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "adf9941e-23d8-45c9-8044-7fa2a5b7d40c"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 60"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 474",
+   "ke_name": "Down Regulation, HMGCS2",
+   "pathway_id": "WP4718",
+   "pathway_title": "Cholesterol metabolism with Bloch and Kandutsch-Russell pathways",
+   "provenance": {
+    "approved_at": "2026-05-10T11:13:32.167453",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "103f9312-a5db-4d28-b6f1-9c46cf1ac8e8"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 318"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 860",
+   "ke_name": "Decreased, Mitochondrial Fatty Acid Beta Oxidation",
+   "pathway_id": "WP368",
+   "pathway_title": "Mitochondrial long chain fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-05-10T11:13:25.964476",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "ee3080d6-845b-48a6-8348-2f786753a3a6"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 287",
+    "AOP 291",
+    "AOP 368",
+    "AOP 377",
+    "AOP 410",
+    "AOP 418",
+    "AOP 464",
+    "AOP 468",
+    "AOP 472",
+    "AOP 482",
+    "AOP 573",
+    "AOP 574"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1825",
+   "ke_name": "Increase, Cell death",
+   "pathway_id": "WP2513",
+   "pathway_title": "Nanoparticle triggered regulated necrosis",
+   "provenance": {
+    "approved_at": "2026-04-13T08:09:29.271039",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:FloorBoereboom",
+    "suggestion_score": null
+   },
+   "uuid": "f2ecea3e-2881-4389-a0b5-ec5e2ccc5ad8"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 200",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1195",
+   "ke_name": "modulation, Extracellular Matrix Composition",
+   "pathway_id": "WP5382",
+   "pathway_title": "TGFB / Smad signaling",
+   "provenance": {
+    "approved_at": "2026-04-13T08:09:18.273157",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "14929bcf-8df9-4685-a372-f941487abf37"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 220",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 1395",
+   "ke_name": "Liver Cancer",
+   "pathway_id": "WP3646",
+   "pathway_title": "Hepatitis C and hepatocellular carcinoma",
+   "provenance": {
+    "approved_at": "2026-07-29T17:44:56.825418",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "3acb794f-7ca9-43ea-a33d-6523007b0534"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "low",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 2410",
+   "ke_name": "Increase, 11\u03b2-Hydroxysteroid dehydrogenase type 1 activity",
+   "pathway_id": "WP2880",
+   "pathway_title": "Glucocorticoid receptor pathway",
+   "provenance": {
+    "approved_at": "2026-04-13T08:09:11.297665",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "c843f1b7-61d2-4ee6-9e1a-eea2631c6012"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 115",
+    "AOP 206",
+    "AOP 27",
+    "AOP 280",
+    "AOP 439",
+    "AOP 472",
+    "AOP 505",
+    "AOP 544",
+    "AOP 577"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 149",
+   "ke_name": "Increase, Inflammation",
+   "pathway_id": "WP453",
+   "pathway_title": "Inflammatory response pathway",
+   "provenance": {
+    "approved_at": "2026-04-13T08:09:06.437923",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:FloorBoereboom",
+    "suggestion_score": null
+   },
+   "uuid": "ced7c569-aea1-4a72-b06b-223957a874d9"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 2405",
+   "ke_name": "Increase, Hepatocellular lipotoxicity",
+   "pathway_id": "WP5323",
+   "pathway_title": "Fatty acid and lipoprotein transport in hepatocytes",
+   "provenance": {
+    "approved_at": "2026-07-29T17:44:44.603599",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a28dd624-1171-4780-bc8c-1c17fd83004d"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 624",
+    "AOP 625",
+    "AOP 626"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 2408",
+   "ke_name": "Increase, Adipose lipolysis",
+   "pathway_id": "WP236",
+   "pathway_title": "Adipogenesis",
+   "provenance": {
+    "approved_at": "2026-04-13T08:08:39.435051",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "2c6fac33-0002-407a-99e6-2bfc17bd24c4"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 2412",
+   "ke_name": "Increase, Hepatic intracellular active glucocorticoids",
+   "pathway_id": "WP5280",
+   "pathway_title": "Glucocorticoid biosynthesis",
+   "provenance": {
+    "approved_at": "2026-04-13T08:08:25.346790",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "66ff7c41-d4c0-4555-8ac2-6e96f8941d6d"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 362",
+    "AOP 447",
+    "AOP 626",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1815",
+   "ke_name": "Increase, Endoplasmic reticulum stress",
+   "pathway_id": "WP4925",
+   "pathway_title": "Unfolded protein response",
+   "provenance": {
+    "approved_at": "2026-04-13T08:08:22.099238",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "427e6bb4-caa2-450d-ba19-4ea90c85907d"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1306",
+   "ke_name": "Increase, De novo lipogenesis",
+   "pathway_id": "WP3965",
+   "pathway_title": "Lipid metabolism pathway",
+   "provenance": {
+    "approved_at": "2026-04-13T08:08:18.788438",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "4f78f4fb-e5db-43ae-84dc-29ac03b27c14"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 130"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 839",
+   "ke_name": "Formation, Mallory body",
+   "pathway_id": "WP183",
+   "pathway_title": "Proteasome degradation",
+   "provenance": {
+    "approved_at": "2026-04-12T21:40:09.684399",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "97e56fdd-c416-46a5-86bd-02df2ef90cc9"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 134",
+   "ke_name": "Increase, Kupffer cell activation",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-04-12T21:40:05.470862",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "a7f286e7-0afc-49f9-8cc0-50c6c18a0f20"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 454",
+    "AOP 457",
+    "AOP 493",
+    "AOP 497",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 2119",
+   "ke_name": "Increase, Insulin resistance",
+   "pathway_id": "WP481",
+   "pathway_title": "Insulin signaling",
+   "provenance": {
+    "approved_at": "2026-04-12T21:40:01.519442",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "f48d8413-3d7c-4c9f-acf8-1cbcc021a56c"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 57",
+    "AOP 58",
+    "AOP 60",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 465",
+   "ke_name": "Increased, Fatty acid influx",
+   "pathway_id": "WP5061",
+   "pathway_title": "Fatty acid transporters",
+   "provenance": {
+    "approved_at": "2026-04-12T21:39:43.862998",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "0bad2bc9-8022-4a21-943e-60bce8096e80"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 206",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1271",
+   "ke_name": "Activation of TGF-\u03b2 signaling",
+   "pathway_id": "WP5382",
+   "pathway_title": "TGFB / Smad signaling",
+   "provenance": {
+    "approved_at": "2026-04-12T21:39:28.789358",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "ff784cdd-b8a1-4245-84af-6db3decdba23"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 17",
+    "AOP 293",
+    "AOP 294",
+    "AOP 377",
+    "AOP 38",
+    "AOP 432",
+    "AOP 470"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1493",
+   "ke_name": "Increased Pro-inflammatory mediators",
+   "pathway_id": "WP453",
+   "pathway_title": "Inflammatory response pathway",
+   "provenance": {
+    "approved_at": "2026-04-12T21:39:22.801171",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "02aa0594-f1db-49cc-b940-afc5cb08a8bf"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 130"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 835",
+   "ke_name": "Occurrence, Ballooning degeneration (hepatocyte)",
+   "pathway_id": "WP4925",
+   "pathway_title": "Unfolded protein response",
+   "provenance": {
+    "approved_at": "2026-04-12T21:38:58.096891",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "b684145d-c10c-45cd-bcd2-d92eb80479e3"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 130",
+    "AOP 257"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 831",
+   "ke_name": "Disturbance, Lysosomal function",
+   "pathway_id": "WP4923",
+   "pathway_title": "Autophagy",
+   "provenance": {
+    "approved_at": "2026-07-29T17:44:57.665034",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "8e02b782-6c64-4874-afb7-0b955c6f3b53"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 205",
+    "AOP 207",
+    "AOP 212",
+    "AOP 285",
+    "AOP 322",
+    "AOP 393",
+    "AOP 419",
+    "AOP 439",
+    "AOP 441",
+    "AOP 452",
+    "AOP 460",
+    "AOP 476",
+    "AOP 491",
+    "AOP 500",
+    "AOP 502",
+    "AOP 535",
+    "AOP 540",
+    "AOP 563",
+    "AOP 595",
+    "AOP 616",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1262",
+   "ke_name": "Apoptosis",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-04-12T21:38:43.255042",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "40838948-42b5-49ce-acef-8bd45cd08ff6"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 452",
+    "AOP 507",
+    "AOP 511",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 2009",
+   "ke_name": "Activation of inflammation pathway",
+   "pathway_id": "WP453",
+   "pathway_title": "Inflammatory response pathway",
+   "provenance": {
+    "approved_at": "2026-04-12T21:38:34.937295",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "fbbeec70-e0e0-40bb-9534-191f96e0c3dc"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 136",
+    "AOP 272",
+    "AOP 303",
+    "AOP 409",
+    "AOP 420",
+    "AOP 432",
+    "AOP 451",
+    "AOP 478",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 870",
+   "ke_name": "Increase, Cell Proliferation",
+   "pathway_id": "WP179",
+   "pathway_title": "Cell cycle",
+   "provenance": {
+    "approved_at": "2026-04-12T21:38:30.437906",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "8c6b2d57-e547-4573-9f3b-5aa50585b635"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 17",
+    "AOP 293",
+    "AOP 294",
+    "AOP 377",
+    "AOP 38",
+    "AOP 432",
+    "AOP 470"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1493",
+   "ke_name": "Increased Pro-inflammatory mediators",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-04-12T17:00:45.616529",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "4328b6f0-edc4-4d5a-ad46-3e5316b303ad"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 293",
+    "AOP 294"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1494",
+   "ke_name": "Leukocyte recruitment/activation",
+   "pathway_id": "WP4542",
+   "pathway_title": "Leukocyte-intrinsic Hippo pathway functions",
+   "provenance": {
+    "approved_at": "2026-07-29T17:44:55.995086",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "94bdac0c-dbd6-4680-b6ed-f52a9fccad74"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 38",
+    "AOP 494",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 265",
+   "ke_name": "Activation, Stellate cells",
+   "pathway_id": "WP560",
+   "pathway_title": "TGF-beta receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T17:45:02.447433",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "39928d1c-c27c-46e4-baa4-1eaa957848e3"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 144",
+    "AOP 257",
+    "AOP 530"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 898",
+   "ke_name": "Disruption, Lysosome",
+   "pathway_id": "WP4923",
+   "pathway_title": "Autophagy",
+   "provenance": {
+    "approved_at": "2026-04-12T16:59:59.791602",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "01e32369-e81d-487d-b083-6b7d2e2658f3"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 383",
+    "AOP 414",
+    "AOP 415",
+    "AOP 494"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1501",
+   "ke_name": "Increased, extracellular matrix deposition",
+   "pathway_id": "WP560",
+   "pathway_title": "TGF-beta receptor signaling",
+   "provenance": {
+    "approved_at": "2026-07-29T17:45:00.692033",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "c2c192fb-179d-4e1a-b36e-938c134a6cd2"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 383"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1743",
+   "ke_name": "Increase plasma Ang II",
+   "pathway_id": "WP4756",
+   "pathway_title": "Renin-angiotensin-aldosterone system (RAAS)",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:56.163068",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "618c2abc-12a9-4091-ade3-4376740f7836"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 213",
+    "AOP 232",
+    "AOP 285",
+    "AOP 318",
+    "AOP 36",
+    "AOP 494",
+    "AOP 517",
+    "AOP 518",
+    "AOP 529",
+    "AOP 57",
+    "AOP 58",
+    "AOP 591",
+    "AOP 60",
+    "AOP 61",
+    "AOP 62",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 459",
+   "ke_name": "Increased, Liver Steatosis",
+   "pathway_id": "WP143",
+   "pathway_title": "Fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:52.473186",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "affc3bd7-b0e5-4e1c-b94e-927a45f0d5b4"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 319",
+    "AOP 383"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1740",
+   "ke_name": "Induced dysregulation of ACE2",
+   "pathway_id": "WP554",
+   "pathway_title": "ACE inhibitor pathway",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:47.951073",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "4ac6be90-26fe-4789-a7fc-bf1a67ee53fd"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 383",
+    "AOP 384"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1852",
+   "ke_name": "Increased Ang II type 1 receptor (AT1R)",
+   "pathway_id": "WP5036",
+   "pathway_title": "Angiotensin II receptor type 1 pathway",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:42.977046",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "a729c940-c492-4161-a76f-eab6af7d8ce1"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 213",
+    "AOP 232",
+    "AOP 285",
+    "AOP 318",
+    "AOP 36",
+    "AOP 494",
+    "AOP 517",
+    "AOP 518",
+    "AOP 529",
+    "AOP 57",
+    "AOP 58",
+    "AOP 591",
+    "AOP 60",
+    "AOP 61",
+    "AOP 62",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 459",
+   "ke_name": "Increased, Liver Steatosis",
+   "pathway_id": "WP5061",
+   "pathway_title": "Fatty acid transporters",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:33.573911",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "fc3dd7f8-778e-40fb-ae9e-10b4637cef93"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 213",
+    "AOP 232",
+    "AOP 285",
+    "AOP 318",
+    "AOP 36",
+    "AOP 494",
+    "AOP 517",
+    "AOP 518",
+    "AOP 529",
+    "AOP 57",
+    "AOP 58",
+    "AOP 591",
+    "AOP 60",
+    "AOP 61",
+    "AOP 62",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 459",
+   "ke_name": "Increased, Liver Steatosis",
+   "pathway_id": "WP3965",
+   "pathway_title": "Lipid metabolism pathway",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:26.778742",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "21f99235-bf4a-4046-b775-bb98b368157d"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 213",
+    "AOP 401",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629",
+    "AOP 642"
+   ],
+   "ke_bio_level": "Organ",
+   "ke_id": "KE 1489",
+   "ke_name": "N/A, Steatohepatisis",
+   "pathway_id": "WP453",
+   "pathway_title": "Inflammatory response pathway",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:20.827052",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "9e3bc5f4-7243-41fd-afd6-f70cf049e801"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 131",
+    "AOP 150",
+    "AOP 151",
+    "AOP 21",
+    "AOP 310",
+    "AOP 414",
+    "AOP 415",
+    "AOP 416",
+    "AOP 417",
+    "AOP 418",
+    "AOP 419",
+    "AOP 420",
+    "AOP 439",
+    "AOP 455",
+    "AOP 456",
+    "AOP 458",
+    "AOP 459",
+    "AOP 494",
+    "AOP 563",
+    "AOP 57",
+    "AOP 577",
+    "AOP 578"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 18",
+   "ke_name": "Activation, AhR",
+   "pathway_id": "WP2873",
+   "pathway_title": "Aryl hydrocarbon receptor pathway",
+   "provenance": {
+    "approved_at": "2026-04-12T16:58:05.530964",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:SidraAdil",
+    "suggestion_score": null
+   },
+   "uuid": "376fba0c-4479-4239-9935-c76484eb12cd"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 14",
+    "AOP 214",
+    "AOP 318",
+    "AOP 334",
+    "AOP 581",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 122",
+   "ke_name": "Increase, Glucocorticoid receptor activation",
+   "pathway_id": "WP2880",
+   "pathway_title": "Glucocorticoid receptor pathway",
+   "provenance": {
+    "approved_at": "2026-03-16T14:15:29.509837",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:nebulyra",
+    "suggestion_score": null
+   },
+   "uuid": "04ac87f4-63bf-497a-b769-bf30ec13471d"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 206",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1271",
+   "ke_name": "Increase, Transforming growth factor-beta signaling",
+   "pathway_id": "WP560",
+   "pathway_title": "TGF-beta receptor signaling",
+   "provenance": {
+    "approved_at": "2026-03-16T14:15:12.513985",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:nebulyra",
+    "suggestion_score": null
+   },
+   "uuid": "fa9c36da-b698-44e0-8365-e30a7933c243"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 245",
+    "AOP 258",
+    "AOP 26",
+    "AOP 387",
+    "AOP 480",
+    "AOP 564",
+    "AOP 590"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 40",
+   "ke_name": "Mitochondrial ATP production, decreased",
+   "pathway_id": "WP5241",
+   "pathway_title": "Mitochondrial beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-03-16T14:14:55.641134",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:FloorBoereboom",
+    "suggestion_score": null
+   },
+   "uuid": "468515f6-3799-43c3-9cc4-2892ed266990"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 80"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 570",
+   "ke_name": "Accumulation, Damaged mitochondrial DNA",
+   "pathway_id": "WP4946",
+   "pathway_title": "DNA repair pathways, full network",
+   "provenance": {
+    "approved_at": "2026-03-16T14:14:43.096653",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:FloorBoereboom",
+    "suggestion_score": null
+   },
+   "uuid": "fa12d400-ac9c-471c-b344-4ebdb9fe0fcb"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 80"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 664",
+   "ke_name": "Overwhelmed, Mitochondrial DNA repair mechanisms",
+   "pathway_id": "WP4946",
+   "pathway_title": "DNA repair pathways, full network",
+   "provenance": {
+    "approved_at": "2026-03-16T14:14:35.064635",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:FloorBoereboom",
+    "suggestion_score": null
+   },
+   "uuid": "059a1c15-b17b-486a-9a3d-ebd7d2dc55c6"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 287",
+    "AOP 291",
+    "AOP 368",
+    "AOP 377",
+    "AOP 410",
+    "AOP 418",
+    "AOP 464",
+    "AOP 468",
+    "AOP 472",
+    "AOP 482",
+    "AOP 573",
+    "AOP 574"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1825",
+   "ke_name": "Increase, Cell death",
+   "pathway_id": "WP4923",
+   "pathway_title": "Autophagy",
+   "provenance": {
+    "approved_at": "2026-07-23T09:05:48.120759",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "0b2bbce5-21b2-444c-9e0c-f83379970b36"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 26",
+    "AOP 284",
+    "AOP 564",
+    "AOP 590"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 178",
+   "ke_name": "Mitochondrial electron transport chain, disrupted",
+   "pathway_id": "WP111",
+   "pathway_title": "Electron transport chain: OXPHOS system in mitochondria",
+   "provenance": {
+    "approved_at": "2026-03-16T14:13:58.705415",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:FloorBoereboom",
+    "suggestion_score": null
+   },
+   "uuid": "00c68fec-ca92-4eae-87af-e45f5d7fd129"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 12",
+    "AOP 13",
+    "AOP 144",
+    "AOP 17",
+    "AOP 264",
+    "AOP 265",
+    "AOP 266",
+    "AOP 268",
+    "AOP 273",
+    "AOP 278",
+    "AOP 281",
+    "AOP 325",
+    "AOP 331",
+    "AOP 333",
+    "AOP 377",
+    "AOP 38",
+    "AOP 479",
+    "AOP 48",
+    "AOP 490",
+    "AOP 494",
+    "AOP 530",
+    "AOP 596",
+    "AOP 599",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 55",
+   "ke_name": "Increase, Cell injury/death",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-03-04T15:40:06.892136",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "342f57b2-6a1b-4163-8e72-afbfbebf3e2a"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 115",
+    "AOP 206",
+    "AOP 27",
+    "AOP 280",
+    "AOP 439",
+    "AOP 472",
+    "AOP 505",
+    "AOP 544",
+    "AOP 577"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 149",
+   "ke_name": "Increase, Inflammation",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2026-03-03T11:59:13.592007",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "b21ac548-dd63-480b-9199-7f9391587af8"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 287",
+    "AOP 291",
+    "AOP 368",
+    "AOP 377",
+    "AOP 410",
+    "AOP 418",
+    "AOP 464",
+    "AOP 468",
+    "AOP 472",
+    "AOP 482",
+    "AOP 573",
+    "AOP 574"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1825",
+   "ke_name": "Increase, Cell death",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-07-23T09:05:46.678943",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "a5c102fa-7b60-48fa-90e3-b7b811e583af"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 138",
+    "AOP 17",
+    "AOP 171",
+    "AOP 177",
+    "AOP 186",
+    "AOP 200",
+    "AOP 220",
+    "AOP 26",
+    "AOP 260",
+    "AOP 284",
+    "AOP 31",
+    "AOP 324",
+    "AOP 325",
+    "AOP 326",
+    "AOP 331",
+    "AOP 332",
+    "AOP 333",
+    "AOP 377",
+    "AOP 396",
+    "AOP 411",
+    "AOP 424",
+    "AOP 425",
+    "AOP 429",
+    "AOP 437",
+    "AOP 444",
+    "AOP 447",
+    "AOP 450",
+    "AOP 452",
+    "AOP 457",
+    "AOP 459",
+    "AOP 462",
+    "AOP 464",
+    "AOP 470",
+    "AOP 471",
+    "AOP 472",
+    "AOP 476",
+    "AOP 478",
+    "AOP 479",
+    "AOP 481",
+    "AOP 482",
+    "AOP 483",
+    "AOP 488",
+    "AOP 497",
+    "AOP 501",
+    "AOP 505",
+    "AOP 507",
+    "AOP 509",
+    "AOP 510",
+    "AOP 511",
+    "AOP 521",
+    "AOP 534",
+    "AOP 535",
+    "AOP 538",
+    "AOP 540",
+    "AOP 595",
+    "AOP 596",
+    "AOP 598",
+    "AOP 599",
+    "AOP 600",
+    "AOP 601",
+    "AOP 602",
+    "AOP 603",
+    "AOP 608",
+    "AOP 616",
+    "AOP 622",
+    "AOP 625",
+    "AOP 628",
+    "AOP 642",
+    "AOP 645",
+    "AOP 646"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1392",
+   "ke_name": "Oxidative Stress",
+   "pathway_id": "WP408",
+   "pathway_title": "Oxidative stress response",
+   "provenance": {
+    "approved_at": "2026-03-03T11:59:04.831564",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "772e8aa1-85ff-41ba-a3da-ce139f3adc5b"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 200",
+    "AOP 293",
+    "AOP 294",
+    "AOP 388",
+    "AOP 396",
+    "AOP 423",
+    "AOP 432",
+    "AOP 435",
+    "AOP 441",
+    "AOP 444",
+    "AOP 472",
+    "AOP 476",
+    "AOP 591",
+    "AOP 645"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1194",
+   "ke_name": "Increase, DNA damage",
+   "pathway_id": "WP707",
+   "pathway_title": "DNA damage response",
+   "provenance": {
+    "approved_at": "2026-03-03T11:59:00.133709",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "3cbd2aee-253f-4c71-baed-dae19f96ddb2"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 330",
+    "AOP 444",
+    "AOP 447",
+    "AOP 509",
+    "AOP 622"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1365",
+   "ke_name": "Increase, Apoptosis",
+   "pathway_id": "WP254",
+   "pathway_title": "Apoptosis",
+   "provenance": {
+    "approved_at": "2026-03-03T09:38:28.259004",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "142fe8a3-2cd0-48d1-98b9-c3f891a2e0b8"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 130",
+    "AOP 144",
+    "AOP 178",
+    "AOP 200",
+    "AOP 205",
+    "AOP 207",
+    "AOP 256",
+    "AOP 258",
+    "AOP 273",
+    "AOP 3",
+    "AOP 335",
+    "AOP 34",
+    "AOP 362",
+    "AOP 377",
+    "AOP 423",
+    "AOP 437",
+    "AOP 447",
+    "AOP 464",
+    "AOP 472",
+    "AOP 476",
+    "AOP 479",
+    "AOP 48",
+    "AOP 480",
+    "AOP 481",
+    "AOP 497",
+    "AOP 500",
+    "AOP 509",
+    "AOP 511",
+    "AOP 530",
+    "AOP 587",
+    "AOP 588",
+    "AOP 589",
+    "AOP 595",
+    "AOP 622",
+    "AOP 624",
+    "AOP 627",
+    "AOP 636",
+    "AOP 77",
+    "AOP 78",
+    "AOP 79",
+    "AOP 80",
+    "AOP 87"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 177",
+   "ke_name": "Increase, Mitochondrial dysfunction",
+   "pathway_id": "WP623",
+   "pathway_title": "Oxidative phosphorylation",
+   "provenance": {
+    "approved_at": "2026-07-23T09:05:45.158003",
+    "approved_by": "github:marvinm2",
+    "proposed_by": "github:marvinm2",
+    "suggestion_score": null
+   },
+   "uuid": "935eb43f-3226-4cf1-abce-d38cbe9f91c2"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 138",
+    "AOP 17",
+    "AOP 171",
+    "AOP 177",
+    "AOP 186",
+    "AOP 200",
+    "AOP 220",
+    "AOP 26",
+    "AOP 260",
+    "AOP 284",
+    "AOP 31",
+    "AOP 324",
+    "AOP 325",
+    "AOP 326",
+    "AOP 331",
+    "AOP 332",
+    "AOP 333",
+    "AOP 377",
+    "AOP 396",
+    "AOP 411",
+    "AOP 424",
+    "AOP 425",
+    "AOP 429",
+    "AOP 437",
+    "AOP 444",
+    "AOP 447",
+    "AOP 450",
+    "AOP 452",
+    "AOP 457",
+    "AOP 459",
+    "AOP 462",
+    "AOP 464",
+    "AOP 470",
+    "AOP 471",
+    "AOP 472",
+    "AOP 476",
+    "AOP 478",
+    "AOP 479",
+    "AOP 481",
+    "AOP 482",
+    "AOP 483",
+    "AOP 488",
+    "AOP 497",
+    "AOP 501",
+    "AOP 505",
+    "AOP 507",
+    "AOP 509",
+    "AOP 510",
+    "AOP 511",
+    "AOP 521",
+    "AOP 534",
+    "AOP 535",
+    "AOP 538",
+    "AOP 540",
+    "AOP 595",
+    "AOP 596",
+    "AOP 598",
+    "AOP 599",
+    "AOP 600",
+    "AOP 601",
+    "AOP 602",
+    "AOP 603",
+    "AOP 608",
+    "AOP 616",
+    "AOP 622",
+    "AOP 625",
+    "AOP 628",
+    "AOP 642",
+    "AOP 645",
+    "AOP 646"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1392",
+   "ke_name": "Increase, Oxidative Stress",
+   "pathway_id": "WP5477",
+   "pathway_title": "Molecular pathway for oxidative stress",
+   "provenance": {
+    "approved_at": "2026-03-03T08:48:52.213466",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "081fd464-efbf-4a29-8cc8-a250d30996b8"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 186",
+    "AOP 207",
+    "AOP 213",
+    "AOP 26",
+    "AOP 27",
+    "AOP 273",
+    "AOP 282",
+    "AOP 298",
+    "AOP 299",
+    "AOP 303",
+    "AOP 311",
+    "AOP 319",
+    "AOP 324",
+    "AOP 325",
+    "AOP 326",
+    "AOP 327",
+    "AOP 328",
+    "AOP 329",
+    "AOP 330",
+    "AOP 331",
+    "AOP 332",
+    "AOP 333",
+    "AOP 382",
+    "AOP 383",
+    "AOP 384",
+    "AOP 386",
+    "AOP 387",
+    "AOP 396",
+    "AOP 409",
+    "AOP 413",
+    "AOP 416",
+    "AOP 418",
+    "AOP 423",
+    "AOP 451",
+    "AOP 462",
+    "AOP 472",
+    "AOP 476",
+    "AOP 481",
+    "AOP 488",
+    "AOP 492",
+    "AOP 497",
+    "AOP 500",
+    "AOP 505",
+    "AOP 511",
+    "AOP 513",
+    "AOP 521",
+    "AOP 534",
+    "AOP 540",
+    "AOP 569",
+    "AOP 595",
+    "AOP 596",
+    "AOP 598",
+    "AOP 599",
+    "AOP 600",
+    "AOP 601",
+    "AOP 602",
+    "AOP 603",
+    "AOP 608",
+    "AOP 613",
+    "AOP 622",
+    "AOP 636",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1115",
+   "ke_name": "Increase, Reactive oxygen species",
+   "pathway_id": "WP5477",
+   "pathway_title": "Molecular pathway for oxidative stress",
+   "provenance": {
+    "approved_at": "2026-03-03T08:48:46.883531",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "3bd9947e-f807-4d55-9b52-02b9c756b187"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 177"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1103",
+   "ke_name": "Inhibition, Cyclooxygenase 1 activity",
+   "pathway_id": "WP4719",
+   "pathway_title": "Eicosanoid metabolism via cyclooxygenases (COX)",
+   "provenance": {
+    "approved_at": "2026-03-03T08:48:42.278147",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "e762a290-66f0-4db1-8f1a-8380420e9bde"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 110",
+    "AOP 119",
+    "AOP 128",
+    "AOP 134",
+    "AOP 152",
+    "AOP 159",
+    "AOP 162",
+    "AOP 175",
+    "AOP 176",
+    "AOP 188",
+    "AOP 192",
+    "AOP 193",
+    "AOP 194",
+    "AOP 363",
+    "AOP 364",
+    "AOP 365",
+    "AOP 366",
+    "AOP 367",
+    "AOP 42",
+    "AOP 457",
+    "AOP 458",
+    "AOP 459",
+    "AOP 54",
+    "AOP 605",
+    "AOP 65",
+    "AOP 8"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 281",
+   "ke_name": "Thyroxine (T4) in serum, Decreased",
+   "pathway_id": "WP1981",
+   "pathway_title": "Thyroxine (thyroid hormone) production",
+   "provenance": {
+    "approved_at": "2026-03-03T08:48:33.834124",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "d6d3f689-00ab-4f9a-8c49-e3a1e35a1547"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 284",
+    "AOP 413"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 926",
+   "ke_name": "Oxidation, Glutathione (To be considered with MIE)",
+   "pathway_id": "WP100",
+   "pathway_title": "Glutathione metabolism",
+   "provenance": {
+    "approved_at": "2026-03-01T12:25:30.831620",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "93fce828-81cd-4305-b7ba-1b36ca0650f5"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 437",
+    "AOP 447",
+    "AOP 479",
+    "AOP 480"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 105",
+   "ke_name": "Inhibition, Mitochondrial Electron Transport Chain Complexes",
+   "pathway_id": "WP111",
+   "pathway_title": "Electron transport chain: OXPHOS system in mitochondria",
+   "provenance": {
+    "approved_at": "2026-03-01T12:25:21.759903",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "27373650-58e1-4f1a-aaba-c75f4ecf9fdb"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 128"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 819",
+   "ke_name": "Decreased, Glomerular filtration",
+   "pathway_id": "WP2572",
+   "pathway_title": "Primary focal segmental glomerulosclerosis (FSGS)",
+   "provenance": {
+    "approved_at": "2026-03-01T12:25:15.125934",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "58a8c278-8efe-4f81-bf80-1fae402460ce"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 130",
+    "AOP 144",
+    "AOP 178",
+    "AOP 200",
+    "AOP 205",
+    "AOP 207",
+    "AOP 256",
+    "AOP 258",
+    "AOP 273",
+    "AOP 3",
+    "AOP 335",
+    "AOP 34",
+    "AOP 362",
+    "AOP 377",
+    "AOP 423",
+    "AOP 437",
+    "AOP 447",
+    "AOP 464",
+    "AOP 472",
+    "AOP 476",
+    "AOP 479",
+    "AOP 48",
+    "AOP 480",
+    "AOP 481",
+    "AOP 497",
+    "AOP 500",
+    "AOP 509",
+    "AOP 511",
+    "AOP 530",
+    "AOP 587",
+    "AOP 588",
+    "AOP 589",
+    "AOP 595",
+    "AOP 622",
+    "AOP 624",
+    "AOP 627",
+    "AOP 636",
+    "AOP 77",
+    "AOP 78",
+    "AOP 79",
+    "AOP 80",
+    "AOP 87"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 177",
+   "ke_name": "Increase, Mitochondrial dysfunction",
+   "pathway_id": "WP5507",
+   "pathway_title": "Mitochondrial carrier deficiency associated with shuttle disturbances",
+   "provenance": {
+    "approved_at": "2026-03-01T12:25:08.715823",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "4bc9372a-3b46-4fe9-82d3-685e3c05620b"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 177"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 1104",
+   "ke_name": "Decreased, Prostaglandin F2alpha concentration, plasma",
+   "pathway_id": "WP98",
+   "pathway_title": "Prostaglandin synthesis and regulation",
+   "provenance": {
+    "approved_at": "2026-02-25T12:29:38.622413",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "bb7b4563-1c93-4822-a3dc-3f77b1f509e1"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 245",
+    "AOP 258",
+    "AOP 26",
+    "AOP 387",
+    "AOP 480",
+    "AOP 564",
+    "AOP 590"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 40",
+   "ke_name": "Mitochondrial ATP production, decreased",
+   "pathway_id": "WP391",
+   "pathway_title": "Mitochondrial gene expression",
+   "provenance": {
+    "approved_at": "2026-02-25T12:29:33.602913",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "a6638a2b-0e38-4d4f-9e09-89b36b530398"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 105",
+    "AOP 256",
+    "AOP 257",
+    "AOP 258",
+    "AOP 437"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 709",
+   "ke_name": "Increase, Cytotoxicity (renal tubular cell)",
+   "pathway_id": "WP4864",
+   "pathway_title": "Host-pathogen interaction of human coronaviruses - apoptosis",
+   "provenance": {
+    "approved_at": "2026-02-25T12:29:07.474042",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "db828dc6-9737-4e63-ba87-c6d45ad4ae8d"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 208",
+    "AOP 347",
+    "AOP 622"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 1283",
+   "ke_name": "Activation, TGF-beta pathway",
+   "pathway_id": "WP560",
+   "pathway_title": "TGF-beta receptor signaling",
+   "provenance": {
+    "approved_at": "2026-02-24T13:29:57.881637",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "8aba0b0c-1d85-4ba8-8dab-dc1bd303b33a"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 18",
+    "AOP 323",
+    "AOP 37",
+    "AOP 401",
+    "AOP 51",
+    "AOP 61",
+    "AOP 612",
+    "AOP 613",
+    "AOP 614"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 227",
+   "ke_name": "Activation, PPAR\u03b1",
+   "pathway_id": "WP2878",
+   "pathway_title": "PPAR-alpha pathway",
+   "provenance": {
+    "approved_at": "2026-02-23T10:06:21.147901",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "21f40e2d-5f36-4336-a62e-dc2dafdef26a"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 32"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 269",
+   "ke_name": "Induction, Sustained Cell Proliferation",
+   "pathway_id": "WP5475",
+   "pathway_title": "Hallmark of cancer: sustaining proliferative signaling",
+   "provenance": {
+    "approved_at": "2026-02-23T10:05:07.498816",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "535d741b-8f8c-4201-ae06-ea6cd06bdafa"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 293",
+    "AOP 294",
+    "AOP 432",
+    "AOP 444",
+    "AOP 473"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1632",
+   "ke_name": "Increase in reactive oxygen and nitrogen species (RONS)",
+   "pathway_id": "WP5233",
+   "pathway_title": "Arsenic metabolism and reactive oxygen species generation",
+   "provenance": {
+    "approved_at": "2026-02-19T09:44:12",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "ebe94629-c5aa-44a8-86fb-6da0f48ce9b6"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 6"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 1528",
+   "ke_name": "Fatty Acid Beta Oxidation, Decreased",
+   "pathway_id": "WP143",
+   "pathway_title": "Fatty acid beta-oxidation",
+   "provenance": {
+    "approved_at": "2026-02-18T08:08:41",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "dc7b7289-517d-45dc-9f1f-88976fb11f35"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 12",
+    "AOP 17",
+    "AOP 3",
+    "AOP 374",
+    "AOP 429",
+    "AOP 471",
+    "AOP 48",
+    "AOP 490",
+    "AOP 535",
+    "AOP 636"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 188",
+   "ke_name": "Neuroinflammation",
+   "pathway_id": "WP4919",
+   "pathway_title": "Neuroinflammation",
+   "provenance": {
+    "approved_at": "2026-02-12T10:40:08",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "742b5962-500e-405b-ac14-240b7a6f666e"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 12",
+    "AOP 17",
+    "AOP 3",
+    "AOP 374",
+    "AOP 429",
+    "AOP 471",
+    "AOP 48",
+    "AOP 490",
+    "AOP 535",
+    "AOP 636"
+   ],
+   "ke_bio_level": "Tissue",
+   "ke_id": "KE 188",
+   "ke_name": "Neuroinflammation",
+   "pathway_id": "WP5485",
+   "pathway_title": "Post-COVID neuroinflammation",
+   "provenance": {
+    "approved_at": "2026-02-11T11:29:39",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "ed25d939-b504-4377-8a00-a45f061c26ec"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 273",
+    "AOP 3",
+    "AOP 590",
+    "AOP 593"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 889",
+   "ke_name": "Proteostasis, impaired",
+   "pathway_id": "WP4918",
+   "pathway_title": "Cellular proteostasis",
+   "provenance": {
+    "approved_at": "2026-02-07T19:40:47",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "0b8e0188-4a6d-4808-a9a2-9b0d0177f741"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 12",
+    "AOP 13",
+    "AOP 144",
+    "AOP 17",
+    "AOP 264",
+    "AOP 265",
+    "AOP 266",
+    "AOP 268",
+    "AOP 273",
+    "AOP 278",
+    "AOP 281",
+    "AOP 325",
+    "AOP 331",
+    "AOP 333",
+    "AOP 377",
+    "AOP 38",
+    "AOP 479",
+    "AOP 48",
+    "AOP 490",
+    "AOP 494",
+    "AOP 530",
+    "AOP 596",
+    "AOP 599",
+    "AOP 624",
+    "AOP 625",
+    "AOP 626",
+    "AOP 627",
+    "AOP 628",
+    "AOP 629"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 55",
+   "ke_name": "Increase, Cell injury/death",
+   "pathway_id": "WP2507",
+   "pathway_title": "Nanomaterial induced apoptosis",
+   "provenance": {
+    "approved_at": "2026-01-13T13:14:59",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "9f064b32-a4ab-4c50-8f64-4db70aea6f7b"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 112",
+    "AOP 167",
+    "AOP 200",
+    "AOP 29",
+    "AOP 52",
+    "AOP 53",
+    "AOP 536",
+    "AOP 537"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 111",
+   "ke_name": "Agonism, Estrogen receptor",
+   "pathway_id": "WP2881",
+   "pathway_title": "Estrogen receptor pathway",
+   "provenance": {
+    "approved_at": "2025-10-21T06:41:17",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "413c7311-b688-4f3c-ae3a-b1df32a18fc7"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 16",
+    "AOP 281",
+    "AOP 312",
+    "AOP 405",
+    "AOP 471"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 10",
+   "ke_name": "Acetylcholine accumulation in synapses",
+   "pathway_id": "WP528",
+   "pathway_title": "Acetylcholine synthesis",
+   "provenance": {
+    "approved_at": "2025-10-02T11:08:38",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "c11425fd-d781-4f36-815d-d8931a5d5c8c"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "undefined",
+   "ke_aop_context": [
+    "AOP 100",
+    "AOP 101",
+    "AOP 102",
+    "AOP 103",
+    "AOP 28",
+    "AOP 63"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 79",
+   "ke_name": "Inhibition, Cyclooxygenase activity",
+   "pathway_id": "WP4719",
+   "pathway_title": "Eicosanoid metabolism via cyclooxygenases (COX)",
+   "provenance": {
+    "approved_at": "2025-10-01T16:38:58",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "d03eb198-e060-4046-9349-038d809dcaea"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 58"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 468",
+   "ke_name": "Inhibition, PPAR alpha",
+   "pathway_id": "WP2878",
+   "pathway_title": "PPAR-alpha pathway",
+   "provenance": {
+    "approved_at": "2025-09-25T13:19:49",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "0138f004-96d7-40ba-97c7-a1e74eb5cccb"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 27",
+    "AOP 303",
+    "AOP 377",
+    "AOP 412",
+    "AOP 638"
+   ],
+   "ke_bio_level": "Cellular",
+   "ke_id": "KE 87",
+   "ke_name": "Release, Cytokine",
+   "pathway_id": "WP530",
+   "pathway_title": "Cytokines and inflammatory response",
+   "provenance": {
+    "approved_at": "2025-08-25T09:45:55",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "11d306d0-8f83-44e2-a514-afdeb998e65f"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "other",
+   "ke_aop_context": [
+    "AOP 43",
+    "AOP 614"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 28",
+   "ke_name": "Reduction, Angiogenesis",
+   "pathway_id": "WP1539",
+   "pathway_title": "Angiogenesis",
+   "provenance": {
+    "approved_at": "2025-08-14T06:51:54",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "38705c21-ae84-4678-b59e-e6405de3b187"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 417",
+    "AOP 418"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 17",
+   "ke_name": "KE 17 - Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway",
+   "pathway_id": "WP2882",
+   "pathway_title": "Nuclear receptors meta-pathway",
+   "provenance": {
+    "approved_at": "2025-08-13T05:47:13",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "b53d61ea-d3d8-45ea-b44c-309247dc7d28"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "medium",
+   "connection_type": "responsive",
+   "ke_aop_context": [
+    "AOP 117",
+    "AOP 23",
+    "AOP 376",
+    "AOP 495",
+    "AOP 496",
+    "AOP 547"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 25",
+   "ke_name": "KE 25 - Agonism, Androgen receptor",
+   "pathway_id": "WP138",
+   "pathway_title": "Androgen receptor signaling",
+   "provenance": {
+    "approved_at": "2025-08-13T05:42:58",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "79ad02a0-a157-4746-aa8d-070f4db8240e"
+  },
+  {
+   "assessment": {
+    "basis": null,
+    "coverage": null,
+    "relationship": null,
+    "specificity": null,
+    "version": "v1"
+   },
+   "confidence_level": "high",
+   "connection_type": "causative",
+   "ke_aop_context": [
+    "AOP 117",
+    "AOP 23",
+    "AOP 376",
+    "AOP 495",
+    "AOP 496",
+    "AOP 547"
+   ],
+   "ke_bio_level": "Molecular",
+   "ke_id": "KE 25",
+   "ke_name": "KE 25 - Agonism, Androgen receptor",
+   "pathway_id": "WP2263",
+   "pathway_title": "Androgen receptor network in prostate cancer",
+   "provenance": {
+    "approved_at": "2025-08-13T05:42:58",
+    "approved_by": "marvinm2",
+    "proposed_by": null,
+    "suggestion_score": null
+   },
+   "uuid": "b8eeaa97-12cc-466d-b735-2fdfb03d3e22"
+  }
+ ]
+}

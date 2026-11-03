@@ -1,0 +1,6 @@
+organ	kes	method1_kes	method1_pct	method1_genes	method1_attempted	method2_kes	method2_pct	method2_genes	method2_attempted	method3_kes	method3_pct	method3_genes	method3_attempted
+brain	203	97	47.8	610	118	109	53.7	6799	125	124	61.1	2290	203
+kidney	68	14	20.6	148	20	30	44.1	2548	36	39	57.4	984	68
+liver	196	78	39.8	518	91	152	77.6	5793	174	124	63.3	2368	196
+lung	134	58	43.3	623	77	58	43.3	3478	74	79	59.0	2499	134
+four-organ union	538	204	37.9	1138	256	302	56.1	8464	360	314	58.4	3912	538

@@ -1,0 +1,65 @@
+# Method 3 — the Ensembl gene set of every approved WikiPathways pathway.
+#
+# Endpoint : https://sparql.wikipathways.org/sparql
+# Release  : WikiPathways RDF 20260810 (pav:createdOn 2026-08-10T00:49:27Z) — verified by
+#            analysis/method3/m3_13_genesets.py before any row is used.
+# Used by  : analysis/method3/m3_13_genesets.py -> data/method3/derived/method3_pathway_genes.tsv
+#
+# Method 3 assigns pathways to Key Events, not genes. The gene set of a KE is therefore the
+# union of the gene sets of its approved pathways, and this query supplies that membership.
+#
+# Why not take the genes from the builder's own GMT export, which already carries them?
+#
+#   1. The GMT carries HGNC *symbols*. Symbols are ambiguous and drift between releases, so
+#      harmonising them to Ensembl would introduce a mapping loss that belongs to the symbol
+#      round-trip rather than to Method 3. WikiPathways stores the Ensembl cross-reference
+#      directly (wp:bdbEnsembl), so asking the source removes a whole error term.
+#   2. The builder's corpus is an unpinned snapshot (upstream molAOP-builder #263, open). Going
+#      to WikiPathways directly lets the release be pinned and the drift between the two be
+#      measured rather than absorbed silently.
+#
+# The GMT is still fetched and compared — see the drift block in stage 13. The two disagreeing
+# is a reportable fact about Method 3's reproducibility, not an error to paper over.
+#
+# ?wpid is bound by VALUES from the approved set, in batches, rather than by scanning every
+# pathway in the endpoint.
+#
+# Three traps in this query, all of which silently change the numbers rather than erroring:
+#
+#   * The node class must be wp:DataNode, NOT wp:GeneProduct. WikiPathways types a node by how
+#     the author drew it, so the same gene is a GeneProduct on one map and a Protein on another,
+#     and the two classes do not nest predictably. WP4324 (Mitochondrial complex I assembly)
+#     carries 56 Ensembl-bearing nodes, every one of them wp:Protein and NONE wp:GeneProduct —
+#     restricted to GeneProduct it returns an empty gene set and the pathway looks like a
+#     metabolite map. WP3959 splits 9 GeneProduct against 53 Protein. wp:DataNode is the
+#     superclass of both, and wp:bdbEnsembl does the real filtering: a metabolite has no
+#     Ensembl cross-reference, so nothing non-genic enters through the wider class.
+#   * wp:organismName must be constrained to "Homo sapiens". WikiPathways holds orthologous
+#     pathways for other species under their own identifiers, and a pathway can appear more
+#     than once across the loaded graphs; without the constraint a human KE picks up
+#     non-human gene products.
+#   * rdfs:label is NOT unique per Ensembl identifier — ENSG00000129965 carries both "INS" and
+#     "Insulin", ENSG00000113302 both "IL12B" and "IL23B". Counting rows counts labels, not
+#     genes. Always aggregate on ?ensembl; the label is carried only to compare against the
+#     builder's symbol-based GMT.
+
+PREFIX wp:      <http://vocabularies.wikipathways.org/wp#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX dc:      <http://purl.org/dc/elements/1.1/>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?wpid ?title ?ensembl ?symbol
+WHERE {
+  VALUES ?wpid { __WPIDS__ }
+
+  ?pw a wp:Pathway ;
+      dcterms:identifier ?wpid ;
+      dc:title ?title ;
+      wp:organismName "Homo sapiens" .
+
+  ?gp a wp:DataNode ;
+      dcterms:isPartOf ?pw ;
+      wp:bdbEnsembl ?ensembl .
+
+  OPTIONAL { ?gp rdfs:label ?symbol }
+}

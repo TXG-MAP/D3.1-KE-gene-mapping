@@ -1,0 +1,753 @@
+{
+  "denominator": {
+    "kes_total": 1595,
+    "kes_with_description": 635,
+    "kes_without_description": 960,
+    "annotated": 488,
+    "coverage_all_kes": 0.30595611285266455,
+    "coverage_described_kes": 0.768503937007874,
+    "coverage_described_ci": [
+      0.7341414657975739,
+      0.7996371735396265
+    ],
+    "annotated_but_undescribed": [],
+    "table": [
+      {
+        "population": "all Key Events in the release",
+        "KEs": 1595,
+        "annotated": 488,
+        "coverage %": 30.595611285266457,
+        "CI low": 28.38296109745929,
+        "CI high": 32.90150885878903
+      },
+      {
+        "population": "Key Events carrying a description",
+        "KEs": 635,
+        "annotated": 488,
+        "coverage %": 76.85039370078741,
+        "CI low": 73.41414657975739,
+        "CI high": 79.96371735396265
+      },
+      {
+        "population": "Key Events with no description",
+        "KEs": 960,
+        "annotated": 0,
+        "coverage %": 0.0,
+        "CI low": NaN,
+        "CI high": NaN
+      }
+    ]
+  },
+  "description_length": {
+    "spearman_rho": 0.669914984230128,
+    "spearman_p": 6.339358285808424e-84,
+    "median_length_annotated": 1877.0,
+    "median_length_unannotated": 540.0,
+    "mannwhitney_p": 9.689859151787499e-33,
+    "quartiles": [
+      {
+        "description length": "Q1 shortest",
+        "KEs": 160,
+        "annotated": 66,
+        "median_length": 404.5,
+        "median_genes": 0.0,
+        "% annotated": 41.25
+      },
+      {
+        "description length": "Q2",
+        "KEs": 158,
+        "annotated": 129,
+        "median_length": 1067.5,
+        "median_genes": 3.0,
+        "% annotated": 81.64556962025317
+      },
+      {
+        "description length": "Q3",
+        "KEs": 158,
+        "annotated": 141,
+        "median_length": 2078.0,
+        "median_genes": 6.0,
+        "% annotated": 89.24050632911393
+      },
+      {
+        "description length": "Q4 longest",
+        "KEs": 159,
+        "annotated": 152,
+        "median_length": 4616.0,
+        "median_genes": 13.0,
+        "% annotated": 95.59748427672956
+      }
+    ]
+  },
+  "detector_decomposition": [
+    {
+      "counted over": "Key Events",
+      "regex (HGNC)": 384,
+      "BERN2 (NER)": 462,
+      "regex only": 26,
+      "both": 358,
+      "BERN2 only": 104,
+      "union": 488
+    },
+    {
+      "counted over": "unique genes",
+      "regex (HGNC)": 901,
+      "BERN2 (NER)": 1652,
+      "regex only": 262,
+      "both": 639,
+      "BERN2 only": 1013,
+      "union": 1914
+    },
+    {
+      "counted over": "KE-gene pairs",
+      "regex (HGNC)": 1857,
+      "BERN2 (NER)": 3670,
+      "regex only": 696,
+      "both": 1161,
+      "BERN2 only": 2509,
+      "union": 4366
+    }
+  ],
+  "mcnemar_ke_coverage": {
+    "regex_only_kes": 26,
+    "ner_only_kes": 104,
+    "p_value": 3.025786266290503e-12,
+    "test": "McNemar exact (binomial) on paired KE-level coverage"
+  },
+  "wilcoxon_genes_per_ke": {
+    "median_ner": 5.0,
+    "median_regex": 2.0,
+    "statistic": 7043.5,
+    "p_value": 1.3412879981738318e-53
+  },
+  "genes_per_ke": [
+    {
+      "detector": "union (as released)",
+      "n": 488,
+      "total": 4366.0,
+      "mean": 8.94672131147541,
+      "sd": 9.911374706419078,
+      "median": 6.0,
+      "q1": 2.0,
+      "q3": 11.25,
+      "min": 1.0,
+      "max": 60.0
+    },
+    {
+      "detector": "BERN2",
+      "n": 488,
+      "total": 3670.0,
+      "mean": 7.520491803278689,
+      "sd": 8.528222873724411,
+      "median": 5.0,
+      "q1": 2.0,
+      "q3": 10.0,
+      "min": 0.0,
+      "max": 56.0
+    },
+    {
+      "detector": "regex",
+      "n": 488,
+      "total": 1857.0,
+      "mean": 3.805327868852459,
+      "sd": 4.956174699714314,
+      "median": 2.0,
+      "q1": 1.0,
+      "q3": 5.0,
+      "min": 0.0,
+      "max": 29.0
+    }
+  ],
+  "coverage_by_biolevel": {
+    "table": [
+      {
+        "biological level": "Molecular",
+        "KEs": 448,
+        "described": 191,
+        "annotated": 171,
+        "% described": 42.63392857142857,
+        "% annotated of all": 38.169642857142854,
+        "% annotated of described": 89.52879581151832,
+        "median genes / annotated KE": 6.0
+      },
+      {
+        "biological level": "Cellular",
+        "KEs": 539,
+        "described": 213,
+        "annotated": 175,
+        "% described": 39.51762523191095,
+        "% annotated of all": 32.467532467532465,
+        "% annotated of described": 82.15962441314554,
+        "median genes / annotated KE": 7.0
+      },
+      {
+        "biological level": "Tissue",
+        "KEs": 221,
+        "described": 85,
+        "annotated": 63,
+        "% described": 38.46153846153846,
+        "% annotated of all": 28.506787330316744,
+        "% annotated of described": 74.11764705882354,
+        "median genes / annotated KE": 6.0
+      },
+      {
+        "biological level": "Organ",
+        "KEs": 195,
+        "described": 88,
+        "annotated": 49,
+        "% described": 45.12820512820513,
+        "% annotated of all": 25.128205128205128,
+        "% annotated of described": 55.68181818181818,
+        "median genes / annotated KE": 2.0
+      },
+      {
+        "biological level": "Individual",
+        "KEs": 156,
+        "described": 48,
+        "annotated": 25,
+        "% described": 30.76923076923077,
+        "% annotated of all": 16.025641025641026,
+        "% annotated of described": 52.083333333333336,
+        "median genes / annotated KE": 3.0
+      },
+      {
+        "biological level": "Population",
+        "KEs": 36,
+        "described": 10,
+        "annotated": 5,
+        "% described": 27.77777777777778,
+        "% annotated of all": 13.88888888888889,
+        "% annotated of described": 50.0,
+        "median genes / annotated KE": 1.0
+      }
+    ],
+    "chi2": 36.51871872085437,
+    "dof": 5,
+    "p_value": 7.478584242018362e-07,
+    "described_chi2": 11.475820647740075,
+    "described_p_value": 0.04272072492525849,
+    "conditional_chi2": 63.75685704737485,
+    "conditional_dof": 5,
+    "conditional_p_value": 2.0288687670258643e-12
+  },
+  "coverage_by_role": {
+    "table": [
+      {
+        "role": "MIE",
+        "KEs": 283,
+        "described": 138,
+        "annotated": 123,
+        "% described": 48.763250883392224,
+        "% annotated": 43.46289752650177,
+        "% annotated of described": 89.1304347826087
+      },
+      {
+        "role": "KE",
+        "KEs": 1188,
+        "described": 462,
+        "annotated": 357,
+        "% described": 38.888888888888886,
+        "% annotated": 30.050505050505052,
+        "% annotated of described": 77.27272727272727
+      },
+      {
+        "role": "AO",
+        "KEs": 238,
+        "described": 109,
+        "annotated": 61,
+        "% described": 45.79831932773109,
+        "% annotated": 25.630252100840337,
+        "% annotated of described": 55.96330275229358
+      }
+    ],
+    "chi2": 23.64456109774101,
+    "dof": 2,
+    "p_value": 7.339201205338916e-06,
+    "conditional_chi2": 37.73926659481211,
+    "conditional_p_value": 6.382963829342147e-09,
+    "note": "roles overlap \u2014 a KE may be an MIE in one AOP and an intermediate KE in another, so the role rows are not a partition of the 1595 KEs"
+  },
+  "concentration": {
+    "top_genes": [
+      {
+        "symbol": "ROS1",
+        "hgnc": "10261",
+        "KEs": 32,
+        "% of annotated KEs": 6.557377049180328
+      },
+      {
+        "symbol": "TNF",
+        "hgnc": "11892",
+        "KEs": 29,
+        "% of annotated KEs": 5.942622950819672
+      },
+      {
+        "symbol": "ESR1",
+        "hgnc": "3467",
+        "KEs": 24,
+        "% of annotated KEs": 4.918032786885246
+      },
+      {
+        "symbol": "PPARA",
+        "hgnc": "9232",
+        "KEs": 24,
+        "% of annotated KEs": 4.918032786885246
+      },
+      {
+        "symbol": "CD4",
+        "hgnc": "1678",
+        "KEs": 22,
+        "% of annotated KEs": 4.508196721311475
+      },
+      {
+        "symbol": "COL2A1",
+        "hgnc": "2200",
+        "KEs": 21,
+        "% of annotated KEs": 4.30327868852459
+      },
+      {
+        "symbol": "IL6",
+        "hgnc": "6018",
+        "KEs": 20,
+        "% of annotated KEs": 4.098360655737705
+      },
+      {
+        "symbol": "IL1B",
+        "hgnc": "5992",
+        "KEs": 19,
+        "% of annotated KEs": 3.8934426229508197
+      },
+      {
+        "symbol": "NFKB1",
+        "hgnc": "7794",
+        "KEs": 18,
+        "% of annotated KEs": 3.6885245901639343
+      },
+      {
+        "symbol": "TGFB1",
+        "hgnc": "11766",
+        "KEs": 17,
+        "% of annotated KEs": 3.4836065573770494
+      },
+      {
+        "symbol": "MAPK1",
+        "hgnc": "6871",
+        "KEs": 17,
+        "% of annotated KEs": 3.4836065573770494
+      },
+      {
+        "symbol": "TP53",
+        "hgnc": "11998",
+        "KEs": 16,
+        "% of annotated KEs": 3.278688524590164
+      },
+      {
+        "symbol": "MMRN1",
+        "hgnc": "7178",
+        "KEs": 16,
+        "% of annotated KEs": 3.278688524590164
+      },
+      {
+        "symbol": "IFNA1",
+        "hgnc": "5417",
+        "KEs": 16,
+        "% of annotated KEs": 3.278688524590164
+      },
+      {
+        "symbol": "PLOD1",
+        "hgnc": "9081",
+        "KEs": 16,
+        "% of annotated KEs": 3.278688524590164
+      }
+    ],
+    "share_of_pairs_from_top10_genes": 5.176362803481448,
+    "pct_genes_on_a_single_ke": 56.58307210031348
+  },
+  "known_collisions": {
+    "source": "marvinm2/AOPWikiRDF PR #107 (open at commit 97191db \u2014 fix NOT in this data)",
+    "table": [
+      {
+        "symbol": "ROS1",
+        "text probably means": "reactive oxygen species",
+        "KEs": 32,
+        "found by dictionary": 32,
+        "found by BERN2": 0
+      },
+      {
+        "symbol": "MMRN1",
+        "text probably means": "extracellular matrix (ECM)",
+        "KEs": 16,
+        "found by dictionary": 15,
+        "found by BERN2": 1
+      },
+      {
+        "symbol": "TH",
+        "text probably means": "thyroid hormone",
+        "KEs": 14,
+        "found by dictionary": 8,
+        "found by BERN2": 8
+      },
+      {
+        "symbol": "AR",
+        "text probably means": "androgen receptor / 'AR' abbreviation",
+        "KEs": 14,
+        "found by dictionary": 6,
+        "found by BERN2": 14
+      },
+      {
+        "symbol": "TBATA",
+        "text probably means": "the adjective 'spatial'",
+        "KEs": 7,
+        "found by dictionary": 7,
+        "found by BERN2": 0
+      },
+      {
+        "symbol": "AREG",
+        "text probably means": "co-asserted with AR",
+        "KEs": 5,
+        "found by dictionary": 5,
+        "found by BERN2": 1
+      },
+      {
+        "symbol": "FDXR",
+        "text probably means": "co-asserted with AR",
+        "KEs": 5,
+        "found by dictionary": 4,
+        "found by BERN2": 1
+      }
+    ]
+  },
+  "ker_layer": {
+    "kers_with_genes": 703,
+    "ker_gene_pairs": 7752,
+    "unique_genes_on_kers": 2368,
+    "additional_kes_if_propagated": 111,
+    "coverage_if_propagated": 0.3755485893416928
+  },
+  "per_organ": [
+    {
+      "frame": "sidra",
+      "organ": "Brain",
+      "AOPs": 48,
+      "KEs": 203,
+      "described KEs": 118,
+      "% KEs described": 58.12807881773399,
+      "KEs with genes": 97,
+      "% KEs with genes": 47.783251231527096,
+      "% of described KEs with genes": 82.20338983050847,
+      "CI low": 41.0169193196575,
+      "CI high": 54.631925013397364,
+      "unique genes": 611,
+      "KE-gene pairs": 986,
+      "median genes / annotated KE": 7.0,
+      "max genes on one KE": 54,
+      "genes via regex": 267,
+      "genes via BERN2": 490
+    },
+    {
+      "frame": "sidra",
+      "organ": "Kidney",
+      "AOPs": 16,
+      "KEs": 68,
+      "described KEs": 20,
+      "% KEs described": 29.41176470588235,
+      "KEs with genes": 14,
+      "% KEs with genes": 20.58823529411765,
+      "% of described KEs with genes": 70.0,
+      "CI low": 12.67944614096761,
+      "CI high": 31.642506599505875,
+      "unique genes": 148,
+      "KE-gene pairs": 184,
+      "median genes / annotated KE": 11.5,
+      "max genes on one KE": 29,
+      "genes via regex": 62,
+      "genes via BERN2": 124
+    },
+    {
+      "frame": "sidra",
+      "organ": "Liver",
+      "AOPs": 36,
+      "KEs": 196,
+      "described KEs": 91,
+      "% KEs described": 46.42857142857143,
+      "KEs with genes": 78,
+      "% KEs with genes": 39.795918367346935,
+      "% of described KEs with genes": 85.71428571428571,
+      "CI low": 33.20274727178339,
+      "CI high": 46.78140017299287,
+      "unique genes": 519,
+      "KE-gene pairs": 811,
+      "median genes / annotated KE": 6.0,
+      "max genes on one KE": 54,
+      "genes via regex": 243,
+      "genes via BERN2": 415
+    },
+    {
+      "frame": "sidra",
+      "organ": "Lung",
+      "AOPs": 27,
+      "KEs": 134,
+      "described KEs": 77,
+      "% KEs described": 57.46268656716418,
+      "KEs with genes": 58,
+      "% KEs with genes": 43.28358208955224,
+      "% of described KEs with genes": 75.32467532467533,
+      "CI low": 35.19719367608789,
+      "CI high": 51.74433921383794,
+      "unique genes": 626,
+      "KE-gene pairs": 918,
+      "median genes / annotated KE": 11.0,
+      "max genes on one KE": 60,
+      "genes via regex": 290,
+      "genes via BERN2": 537
+    }
+  ],
+  "organ_detector_split": [
+    {
+      "frame": "sidra",
+      "organ": "Brain",
+      "regex only": 121,
+      "both": 146,
+      "BERN2 only": 344,
+      "total genes": 611,
+      "% genes BERN2 would have missed": 19.803600654664486,
+      "% genes regex would have missed": 56.30114566284779
+    },
+    {
+      "frame": "sidra",
+      "organ": "Kidney",
+      "regex only": 24,
+      "both": 38,
+      "BERN2 only": 86,
+      "total genes": 148,
+      "% genes BERN2 would have missed": 16.216216216216218,
+      "% genes regex would have missed": 58.108108108108105
+    },
+    {
+      "frame": "sidra",
+      "organ": "Liver",
+      "regex only": 104,
+      "both": 139,
+      "BERN2 only": 276,
+      "total genes": 519,
+      "% genes BERN2 would have missed": 20.038535645472063,
+      "% genes regex would have missed": 53.179190751445084
+    },
+    {
+      "frame": "sidra",
+      "organ": "Lung",
+      "regex only": 89,
+      "both": 201,
+      "BERN2 only": 336,
+      "total genes": 626,
+      "% genes BERN2 would have missed": 14.217252396166135,
+      "% genes regex would have missed": 53.674121405750796
+    }
+  ],
+  "organ_overlap": {
+    "regions": {
+      "Brain": 221,
+      "Kidney": 17,
+      "Liver": 141,
+      "Lung": 307,
+      "Brain & Kidney": 14,
+      "Brain & Liver": 92,
+      "Brain & Lung": 53,
+      "Kidney & Liver": 11,
+      "Kidney & Lung": 9,
+      "Liver & Lung": 36,
+      "Brain & Kidney & Liver": 19,
+      "Brain & Kidney & Lung": 1,
+      "Brain & Liver & Lung": 143,
+      "Kidney & Liver & Lung": 9,
+      "Brain & Kidney & Liver & Lung": 68
+    },
+    "shared_by_all_four": [
+      "10261",
+      "1050",
+      "10809",
+      "10908",
+      "11179",
+      "11632",
+      "11892",
+      "11916",
+      "11920",
+      "11936",
+      "11998",
+      "12435",
+      "12805",
+      "13280",
+      "13743",
+      "14922",
+      "1499",
+      "1504",
+      "1511",
+      "1516",
+      "1678",
+      "19986",
+      "23177",
+      "2527",
+      "26359",
+      "2646",
+      "29175",
+      "2934",
+      "29866",
+      "30041",
+      "3062",
+      "333",
+      "3346",
+      "3382",
+      "3796",
+      "3797",
+      "399",
+      "4035",
+      "4455",
+      "4553",
+      "4555",
+      "4623",
+      "576",
+      "6182",
+      "6204",
+      "6205",
+      "6206",
+      "6833",
+      "7660",
+      "7661",
+      "7716",
+      "7782",
+      "7794",
+      "7872",
+      "7889",
+      "811",
+      "8768",
+      "8806",
+      "9030",
+      "9031",
+      "9279",
+      "9352",
+      "949",
+      "9495",
+      "959",
+      "9604",
+      "990",
+      "9958"
+    ],
+    "jaccard": {
+      "Brain": {
+        "Brain": 1.0,
+        "Kidney": 0.1553,
+        "Liver": 0.3985,
+        "Lung": 0.2726
+      },
+      "Kidney": {
+        "Brain": 0.1553,
+        "Kidney": 1.0,
+        "Liver": 0.1911,
+        "Lung": 0.1266
+      },
+      "Liver": {
+        "Brain": 0.3985,
+        "Kidney": 0.1911,
+        "Liver": 1.0,
+        "Lung": 0.288
+      },
+      "Lung": {
+        "Brain": 0.2726,
+        "Kidney": 0.1266,
+        "Liver": 0.288,
+        "Lung": 1.0
+      }
+    },
+    "exclusivity": [
+      {
+        "organ": "Brain",
+        "unique genes": 611,
+        "shared with >=1 other": 390,
+        "% shared": 63.829787234042556,
+        "organ-exclusive": 221
+      },
+      {
+        "organ": "Kidney",
+        "unique genes": 148,
+        "shared with >=1 other": 131,
+        "% shared": 88.51351351351352,
+        "organ-exclusive": 17
+      },
+      {
+        "organ": "Liver",
+        "unique genes": 519,
+        "shared with >=1 other": 378,
+        "% shared": 72.83236994219654,
+        "organ-exclusive": 141
+      },
+      {
+        "organ": "Lung",
+        "unique genes": 626,
+        "shared with >=1 other": 319,
+        "% shared": 50.95846645367412,
+        "organ-exclusive": 307
+      }
+    ]
+  },
+  "organ_tests": {
+    "coverage_chi2": {
+      "chi2": 15.96575247388969,
+      "dof": 3,
+      "p_value": 0.001152465647944245
+    },
+    "genes_per_ke_kruskal": {
+      "H": 7.7828239542872915,
+      "p_value": 0.050719926900223276
+    },
+    "pairwise_mannwhitney_holm": [
+      {
+        "comparison": "Brain vs Kidney",
+        "median A": 7.0,
+        "median B": 11.5,
+        "U": 469.0,
+        "p": 0.06203950175647039,
+        "p (Holm)": 0.28401758076746036
+      },
+      {
+        "comparison": "Brain vs Liver",
+        "median A": 7.0,
+        "median B": 6.0,
+        "U": 3750.5,
+        "p": 0.9232686116503823,
+        "p (Holm)": 1.0
+      },
+      {
+        "comparison": "Brain vs Lung",
+        "median A": 7.0,
+        "median B": 11.0,
+        "U": 2229.0,
+        "p": 0.03054057553130313,
+        "p (Holm)": 0.1832434531878188
+      },
+      {
+        "comparison": "Kidney vs Liver",
+        "median A": 11.5,
+        "median B": 6.0,
+        "U": 713.0,
+        "p": 0.0696803478337864,
+        "p (Holm)": 0.28401758076746036
+      },
+      {
+        "comparison": "Kidney vs Lung",
+        "median A": 11.5,
+        "median B": 11.0,
+        "U": 426.5,
+        "p": 0.7756050529920056,
+        "p (Holm)": 1.0
+      },
+      {
+        "comparison": "Liver vs Lung",
+        "median A": 6.0,
+        "median B": 11.0,
+        "U": 1829.5,
+        "p": 0.05680351615349207,
+        "p (Holm)": 0.28401758076746036
+      }
+    ]
+  }
+}

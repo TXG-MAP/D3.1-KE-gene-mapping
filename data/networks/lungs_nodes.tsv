@@ -1,0 +1,135 @@
+id	name	type
+KE 736	Increase, Adenomas/carcinomas (bronchioloalveolar)	AO
+KE 733	Increase, Necrosis (terminal bronchiolar cells)	KE
+KE 734	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	KE
+KE 735	Increase, Hyperplasia (terminal bronchiolar cells)	KE
+KE 770	Increase, Cytotoxicity (club cells)	MIE
+KE 1250	Decrease, Lung function	AO
+KE 2117	Increase, goblet cell number	KE
+KE 962	Increase, Mucin production	KE
+KE 941	Activation, EGFR	MIE
+KE 1458	Pulmonary fibrosis	AO
+KE 1496	Increased, secretion of proinflammatory mediators	KE
+KE 1497	Increased, recruitment of inflammatory cells	KE
+KE 1498	Loss of alveolar capillary membrane integrity	KE
+KE 1499	Increased, activation of T (T) helper (h) type 2 cells	KE
+KE 1500	Increased, fibroblast proliferation and myofibroblast differentiation	KE
+KE 68	Increase, Collagen accumulation	KE
+KE 1495	Substance interaction with the lung resident cell membrane components	MIE
+KE 1223	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	AO
+KE 1226	Increased Respiratory irritability and Chronic Cough,	AO
+KE 1434	Irritation of nasal mucosa inducing sneeze reflex	AO
+KE 1218	Opening of calcium channel, Calcium influx	KE
+KE 1220	Trigeminal nerve activation	KE
+KE 1222	SP (Substance P) release, Local increase of SP	KE
+KE 1433	Increased CGRP, neuronal release of CGRP	KE
+KE 1435	Increased neurokinin A (NKA) by neuronal cells	KE
+KE 1215	TRPA1 activation, TRPA1 Receptor	MIE
+KE 1276	Lung fibrosis	AO
+KE 1271	Increase, Transforming growth factor-beta signaling	KE
+KE 1275	Collagen Deposition	KE
+KE 1457	Epithelial Mesenchymal Transition	KE
+KE 149	Increase, Inflammation	KE
+KE 1270	Inactivation of PPARγ	MIE
+KE 1443	Atherosclerosis	AO
+KE 1438	Transcription of genes encoding acute phase proteins, Increased	KE
+KE 1439	Systemic acute phase response	KE
+KE 1456	Increase, Differentiation of fibroblasts	KE
+KE 1469	Activation, Transforming Growth Factor beta pathway	KE
+KE 1468	Activation, Latent Transforming Growth Factor Beta 1	MIE
+KE 1556	Increase, lung cancer	AO
+KE 155	Inadequate DNA repair	KE
+KE 1635	Increase, DNA strand breaks	KE
+KE 1636	Increase, Chromosomal aberrations	KE
+KE 185	Increase, Mutations	KE
+KE 870	Increase, Cell Proliferation	KE
+KE 1686	Deposition of Energy	MIE
+KE 1588	Bronchiolitis obliterans	AO
+KE 1585	Proteasomal dysfunction	KE
+KE 1586	Airway epithelial injury	KE
+KE 1587	Fibroproliferative airway lesions	KE
+KE 1584	Interaction of α-diketones with arginine residues	MIE
+KE 1673	Alveolar collapse	KE
+KE 1677	Reduced tidal volume	KE
+KE 1672	Inhibition of lung surfactant function	MIE
+KE 1670	Lung cancer	AO
+KE 1115	Increase, Reactive oxygen species	MIE
+KE 1669	Increased, DNA damage and mutation	KE
+KE 87	Release, Cytokine	KE
+KE 1668	Frustrated phagocytosis	MIE
+KE 1172	Increased activation, Nuclear factor kappa B (NF-kB)	KE
+KE 1752	Increased Angiotensin II	KE
+KE 1851	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	MIE
+KE 1854	Dysregulation, ACE2 expression and activity	KE
+KE 1740	Induced dysregulation of ACE2	MIE
+KE 351	Increased Mortality	AO
+KE 1738	SARS-CoV-2 cell entry	KE
+KE 1748	Increase, the risk of acute respiratory failure	KE
+KE 1750	Increased inflammatory immune responses	KE
+KE 1847	Increased SARS-CoV-2 production	KE
+KE 1848	Toll Like Receptor (TLR) Dysregulation	KE
+KE 1901	Interferon-I antiviral response, antagonized by SARS-CoV-2	KE
+KE 1739	Binding to ACE2	MIE
+KE 1283	Activation, TGF-beta pathway	KE
+KE 1292	Activation, JNK	KE
+KE 1793	Activator protein 1 activation	KE
+KE 1794	Pin-1 activation	KE
+KE 1795	Latent Transforming growth Factor beta expression	KE
+KE 1792	Toll-like receptor 4 activation	MIE
+KE 1843	Multi Organ Failure involving Acute Respiratory Distress Syndrome	AO
+KE 1392	Increase, Oxidative Stress	MIE
+KE 1493	Increased Pro-inflammatory mediators	KE
+KE 1535	Heart failure	KE
+KE 1708	Th17 cell migration and inflammation induction	KE
+KE 177	Increase, Mitochondrial dysfunction	KE
+KE 1809	Increase, Tissue/organ damage	KE
+KE 1825	Increase, Cell death	KE
+KE 1844	systemic inflammatory response syndrome	KE
+KE 1846	Thrombosis and Disseminated Intravascular Coagulation	KE
+KE 1857	Platelet-neutrophil interactions, Increased	KE
+KE 1868	Hyperinflammation	KE
+KE 1869	Diminished protective oxidative stress response	KE
+KE 1895	NLRP3 inflammasome activity, increased	KE
+KE 1897	increased MyD88 activation	KE
+KE 1898	Increase, Damage-associated molecular pattern release	KE
+KE 1899	formation of neutrophil extracellular traps (NETs)	KE
+KE 1900	increased platelet surface TLR9 expression	KE
+KE 55	Increase, Cell injury/death	KE
+KE 759	Increased, Kidney Failure	KE
+KE 814	Occurrence, Kidney toxicity	KE
+KE 902	Inflammation, Liver	KE
+KE 1842	Prolonged TLR9 activation	MIE
+KE 313	Increase, Allergic Respiratory Hypersensitivity Response	AO
+KE 272	Activation/Proliferation, T-cells	KE
+KE 398	Activation, Dendritic Cells	KE
+KE 396	Covalent Binding, Protein	MIE
+KE 1908	Cilia Beat Frequency, Decreased	KE
+KE 1909	Mucociliary Clearance, Decreased	KE
+KE 1501	Increase, Extracellular matrix deposition	KE
+KE 1921	Altered gene expression, NF-kB dependent Interleukin-6 pathway	KE
+KE 18	Activation, AhR	MIE
+KE 1933	Increased, Interleukin-6 production	KE
+KE 17	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	KE
+KE 1922	Increased, Reactive metabolites production	KE
+KE 1262	Apoptosis	KE
+KE 1923	Altered gene expression, P53 dependent apoptosis pathway	KE
+KE 1906	Cystic Fibrosis Transmembrane Regulator Function, Decreased	KE
+KE 1907	Airway Surface Liquid Height, Decreased	KE
+KE 1911	FOXJ1 Protein, Decreased	KE
+KE 1912	Motile Cilia Number/Length, Decreased	KE
+KE 2006	Secondary genotoxicity	KE
+KE 780	Increase, Cytotoxicity (epithelial cells)	KE
+KE 2008	Chronic obstructive pulmonary disease	AO
+KE 1945	Dysfunctional Autophagy	KE
+KE 2009	Activation of inflammation pathway	KE
+KE 2010	Pulmonary inflammation	KE
+KE 2011	Emphysema	KE
+KE 2012	Fibroblast proliferation and differentiation	KE
+KE 2013	Airway remodeling	KE
+KE 2007	Non-coding RNA expression profile alteration	MIE
+KE 2087	Increased incidence of respiratory disease	AO
+KE 2088	Dysfunction of respiratory system	AO
+KE 1197	Activation, Fibroblasts	KE
+KE 1198	Activation, Macrophages	KE
+KE 2085	Pulmonary epithelial injury	KE
+KE 2086	Airway inflammation	KE

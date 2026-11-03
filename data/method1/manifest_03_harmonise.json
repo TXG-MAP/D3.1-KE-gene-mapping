@@ -1,0 +1,56 @@
+{
+  "genes_in": 1914,
+  "route_rdf": {
+    "ensembl": {
+      "genes_in": 1914,
+      "genes_mapped": 1909,
+      "genes_unmapped": 5,
+      "mapping_rate": 0.9973876698014629,
+      "target_ids": 1916,
+      "genes_with_multiple_targets": 7,
+      "max_targets_for_one_gene": 2
+    },
+    "ncbigene": {
+      "genes_in": 1914,
+      "genes_mapped": 1886,
+      "genes_unmapped": 28,
+      "mapping_rate": 0.9853709508881923,
+      "target_ids": 1915,
+      "genes_with_multiple_targets": 17,
+      "max_targets_for_one_gene": 9
+    }
+  },
+  "route_bridgedb": {
+    "service": {
+      "ensembl_datasource_version": "111",
+      "ensembl_build_date": "20241022",
+      "queried_on": "2026-08-06T19:39:27.328619+00:00"
+    },
+    "ensembl": {
+      "genes_in": 1914,
+      "genes_mapped": 1913,
+      "genes_unmapped": 1,
+      "mapping_rate": 0.9994775339602926,
+      "target_ids": 1920
+    },
+    "ncbigene": {
+      "genes_in": 1914,
+      "genes_mapped": 1889,
+      "genes_unmapped": 25,
+      "mapping_rate": 0.9869383490073145,
+      "target_ids": 1918
+    }
+  },
+  "quoted_route": "rdf",
+  "quoted_route_rationale": "the only route the release pin covers; BridgeDb is live and therefore not reproducible from the pin alone",
+  "ke_gene_pairs_without_ensembl": 6,
+  "kes_losing_entire_gene_set": [],
+  "mapping_rate_floor": 0.8,
+  "stage": "03_harmonise",
+  "generated_at": "2026-08-06T19:39:32+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "endpoint": "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/",
+  "d31_repo_revision": "b8d4407",
+  "python": "3.12.2"
+}

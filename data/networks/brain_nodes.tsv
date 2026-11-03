@@ -1,0 +1,204 @@
+id	name	type
+KE 613	Occurrence, Epileptic seizure	AO
+KE 616	Occurrence, A paroxysmal depolarizing shift	KE
+KE 64	Reduction, Ionotropic GABA receptor chloride channel conductance	KE
+KE 669	Reduction, Neuronal synaptic inhibition	KE
+KE 682	Generation, Amplified excitatory postsynaptic potential (EPSP)	KE
+KE 667	Binding at picrotoxin site, iGABAR chloride channel	MIE
+KE 341	Impairment, Learning and memory	AO
+KE 352	N/A, Neurodegeneration	AO
+KE 188	Neuroinflammation	KE
+KE 195	Inhibition, NMDARs	KE
+KE 381	Reduced levels of BDNF	KE
+KE 52	Decreased, Calcium influx	KE
+KE 55	Increase, Cell injury/death	KE
+KE 201	Binding of antagonist, NMDA receptors	MIE
+KE 382	Aberrant, Dendritic morphology	KE
+KE 383	Reduced, Presynaptic release of glutamate	KE
+KE 385	Decrease of synaptogenesis	KE
+KE 386	Decrease of neuronal network function	KE
+KE 402	Cognitive function, decreased	AO
+KE 277	Thyroid hormone synthesis, Decreased	KE
+KE 280	Thyroxine (T4) in neuronal tissue, Decreased	KE
+KE 281	Thyroxine (T4) in serum, Decreased	KE
+KE 425	Decrease of Thyroidal iodide	KE
+KE 756	Hippocampal gene expression, Altered	KE
+KE 757	Hippocampal anatomy, Altered	KE
+KE 758	Hippocampal Physiology, Altered	KE
+KE 424	Inhibition, Na+/I- symporter (NIS)	MIE
+KE 958	Displacement, Serum thyroxine (T4) from transthyretin	KE
+KE 959	Increased, Free serum thyroxine (T4)	KE
+KE 960	Increased, Uptake of thyroxine into tissue	KE
+KE 961	Increased, Clearance of thyroxine from serum	KE
+KE 957	Binding, Transthyretin in serum	MIE
+KE 351	Increased Mortality	AO
+KE 1012	Increased, Inhibitory postsynaptic potential	KE
+KE 1014	Induction, Somatic muscle paralysis	KE
+KE 1015	Increased, Neuronal synaptic inhibition	KE
+KE 1016	Inhibition, Feeding	AO
+KE 761	Increased, Chloride conductance	KE
+KE 762	Activation, ionotropic GABA Receptor chloride channel	MIE
+KE 1019	Induction, pharyngeal muscle paralysis	KE
+KE 1018	Activation, Glutamate-gated chloride channels	MIE
+KE 1392	Increase, Oxidative Stress	AO
+KE 1488	Glutamate dyshomeostasis	KE
+KE 1492	Tissue resident cell activation	KE
+KE 1493	Increased Pro-inflammatory mediators	KE
+KE 1538	Decreased protection against oxidative stress	KE
+KE 1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	MIE
+KE 1363	Increased, epilepsy	AO
+KE 1321	Increased, intracellular sodium (Na+)	KE
+KE 1344	Increased, seizure	KE
+KE 1350	Increased, glutamate	KE
+KE 1351	Activated, NMDA receptor	KE
+KE 1352	Activated, voltage-gated sodium channel	KE
+KE 1353	Binding to voltage-gated sodium channel	MIE
+KE 1354	Treat, carbamazepine	KE
+KE 1355	Activated, membrane depolarization	KE
+KE 1362	Increased, hippocampal hyperdepolarization	KE
+KE 1349	Activated, presynaptic neuron 1	MIE
+KE 1357	Increased, RDX dose	KE
+KE 1414	Decreased, GABA	KE
+KE 1415	Reduced, GABA-A receptor activation	KE
+KE 1416	Decreased, intracellular chloride	KE
+KE 1413	Reduced, presynaptic neuron 2 activity	MIE
+KE 1115	Increase, Reactive oxygen species	MIE
+KE 166	Decreased, Long-term potentiation (LTP)	KE
+KE 178	Mitochondrial electron transport chain, disrupted	KE
+KE 193	Decreased, Nitric Oxide	KE
+KE 40	Mitochondrial ATP production, decreased	KE
+KE 50	Increase, Ca++ (intracellular)	KE
+KE 51	Inhibition, Ca++ ATPase	MIE
+KE 1514	Neurodegeneration	AO
+KE 1511	Lipid Peroxidation	KE
+KE 1512	Unfolded Protein Response	KE
+KE 1513	General Apoptosis	KE
+KE 1508	CYP2E1 Activation	MIE
+KE 1509	Protein Adduct Formation	MIE
+KE 1583	Sensory axonal peripheral neuropathy	AO
+KE 1581	Disturbance in microtubule dynamic instability	KE
+KE 1582	Impaired axonial transport	KE
+KE 1580	Binding of microtubule stabilizing agents (MSA) to microtubules	MIE
+KE 10	Acetylcholine accumulation in synapses	KE
+KE 1602	Increased Muscarinic Acetylcholine Receptors	KE
+KE 1623	Occurrence, Focal Seizure	KE
+KE 1788	Status epilepticus	KE
+KE 388	Overactivation, NMDARs	MIE
+KE 389	Increased, Intracellular Calcium overload	KE
+KE 12	Acetylcholinesterase (AchE) Inhibition	MIE
+KE 896	Parkinsonian motor deficits	AO
+KE 177	Increase, Mitochondrial dysfunction	KE
+KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	KE
+KE 889	Proteostasis, impaired	KE
+KE 890	Degeneration of dopaminergic neurons of the nigrostriatal pathway	KE
+KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MIE
+KE 1656	Antagonism, Thyroid Receptor	MIE
+KE 1841	Encephalitis	AO
+KE 1739	Binding to ACE2	MIE
+KE 1348	Increase, seizure	AO
+KE 2095	Periventricular heterotopia formation	AO
+KE 1829	Altered, Thyroid hormone-dependent gene expression	KE
+KE 2093	Brain thyroid hormone (T4/T3) decreased	KE
+KE 2094	Abnormal, neuroblast migration	KE
+KE 771	Decrease, Serum thyroid hormone (T4/T3)	KE
+KE 279	Thyroperoxidase, Inhibition	MIE
+KE 39	Increased Cholinergic Signaling	KE
+KE 1941	Memory Loss	AO
+KE 1816	Mitochondrial dysfunction EMPTY	KE
+KE 1942	Accumulation, Cytosolic toxic Tau oligomers	KE
+KE 1943	Hyperphosphorylation of Tau	KE
+KE 1944	Synaptic dysfunction	KE
+KE 1945	Dysfunctional Autophagy	KE
+KE 1977	Disruption of sodium channel gating kinetics	KE
+KE 1983	Disruption, action potential generation	KE
+KE 2005	Altered neurotransmission in development	KE
+KE 1391	Activation of Cyp2E1	KE
+KE 618	Decreased, Neuronal network function in adult brain	KE
+KE 295	Induction, Upregulation of glucuronyltransferase activity	KE
+KE 18	Activation, AhR	MIE
+KE 850	Induction, CYP1A2/CYP1A5	KE
+KE 1527	Increase, Cell membrane depolarization	KE
+KE 1547	Mitochondrial Injury	KE
+KE 1585	Proteasomal dysfunction	KE
+KE 1605	Accumulation of misfolded proteins	KE
+KE 1812	Increase, Cytochrome c release	KE
+KE 1825	Increase, Cell death	KE
+KE 2017	Endoplasmic reticulum stress	KE
+KE 2038	Activation of calpain signalling	KE
+KE 2188	Activation, caspases	KE
+KE 2036	Activation of metabotropic glutamate receptor	MIE
+KE 2037	Inositol triphosphate receptor activation	MIE
+KE 2039	Inhibition GABAA receptor	MIE
+KE 2187	Opening, voltage-gated calcium channels	MIE
+KE 350	Increase, Mortality	AO
+KE 637	impaired, Learning and memory	AO
+KE 1177	Decreased, Ionotropic GABA receptor chloride channel conductance	KE
+KE 191	Neuronal dysfunction	KE
+KE 2078	Loss of drebrin	KE
+KE 2150	Neurological disorder	AO
+KE 2151	Disruption, neurotransmitter release	KE
+KE 2196	Decrease, elavl3	KE
+KE 2197	Decrease, sox10	KE
+KE 2198	Decrease, mbp	KE
+KE 2195	Increase, CNS Neural cell death	MIE
+KE 2242	Abnormality, dendritic spine morphology	KE
+KE 875	Binding of agonist, Ionotropic glutamate receptors	MIE
+KE 1635	Increase, DNA strand breaks	KE
+KE 2097	Increase, Pro-Inflammatory Mediators	KE
+KE 2098	Increase, Abnormal Neural Remodeling	KE
+KE 2244	Altered Stress Response Signaling	KE
+KE 1686	Deposition of Energy	MIE
+KE 2110	Disrupted binding, laminin-beta1-integrin receptors with laminin	KE
+KE 2111	Decreased, neural progenitor cell adhesion to laminin	KE
+KE 2112	Disturbed, radial glia cell alignment and migration	KE
+KE 2113	Decreased, radial glia cell density	KE
+KE 2114	Disturbed, cortical architecture	KE
+KE 2109	Binding, extracellular matrix protein laminin	MIE
+KE 1869	Diminished protective oxidative stress response	KE
+KE 2107	Hypomyelination	KE
+KE 2108	Altered, white brain matter	KE
+KE 2116	Decreased, oligodendrocyte differentiation	KE
+KE 2149	Increased intracelluar Iron accumulation	MIE
+KE 2148	Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron	MIE
+KE 1339	Increase, intracellular calcium	KE
+KE 2146	Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2	MIE
+KE 1262	Apoptosis	KE
+KE 2202	Altered expression of cell cycle genes	KE
+KE 2203	Decreased proliferation of cortical neural progenitor cells	KE
+KE 2204	Altered brain morphology	KE
+KE 2201	Agonism, Retinoic acid receptor	MIE
+KE 1978	Increase risk, microcephaly	AO
+KE 2210	Reduced cortical thickness	KE
+KE 2115	Altered, cholesterol metabolism	KE
+KE 2220	Antagonism, Glucocorticoid hormone receptor	KE
+KE 2221	Altered Liver X receptor activity	KE
+KE 2222	Altered peroxisome proliferator–activated receptor alpha activity	KE
+KE 2223	Reduced number of oligodendrocytes	KE
+KE 2216	Binding of antagonist to thyroid hormone receptor	MIE
+KE 2217	Binding of antagonist to glucocorticoid hormone receptor	MIE
+KE 2218	Binding of (ant)agonist to liver X receptor	MIE
+KE 2219	Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha	MIE
+KE 1239	Altered, Gene Expression	KE
+KE 851	Decrease of GABAergic interneurons	KE
+KE 2232	Antagonism, Retinoic acid receptors	MIE
+KE 2208	Aberrant, synaptic formation and plasticity	KE
+KE 2233	Decreased, ERαβ heterodimers	KE
+KE 2029	protein-coupled estrogen receptor 1 (GPER) activation	MIE
+KE 2267	Delayed neuropathy, increased	AO
+KE 2263	Lysolecithin, increased	KE
+KE 2264	Lysolecithin cell membrane integration, increased	KE
+KE 2265	Oligodendrocyte death, increased	KE
+KE 2266	Demyelination, increased	KE
+KE 2262	Neuropathy target esterase, inhibited	MIE
+KE 149	Increase, Inflammation	KE
+KE 2302	Increase, Malformations	AO
+KE 360	Decrease, Population growth rate	AO
+KE 566	impaired, Larval development	AO
+KE 2299	Altered, Redox Homeostasis	KE
+KE 2300	Disruption, Glucolipid metabolism	KE
+KE 2301	Abnormal, Behavior	KE
+KE 1541	Mitochondrial Complex I inhibition	MIE
+KE 186	Altered, Neuroanatomy	KE
+KE 192	Altered, Neurophysiology	KE
+KE 319	Loss, Cochlear function	AO
+KE 239	Activation, Pregnane-X receptor, NR1l2	MIE

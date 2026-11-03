@@ -1,0 +1,279 @@
+aopNumber	ke	keLabel	keTitle	type
+AOP 1	https://identifiers.org/aop.events/334	KE 334	Promotion, Hepatocelluar carcinoma	AO
+AOP 1	https://identifiers.org/aop.events/142	KE 142	Hyperplasia, Hyperplasia	KE
+AOP 1	https://identifiers.org/aop.events/57	KE 57	Proliferation, Cell proliferation in the absence of cytotoxicity	KE
+AOP 1	https://identifiers.org/aop.events/294	KE 294	N/A, Unknown	MIE
+AOP 107	https://identifiers.org/aop.events/719	KE 719	Increase, hepatocellular adenomas and carcinomas	AO
+AOP 107	https://identifiers.org/aop.events/1214	KE 1214	Altered gene expression specific to CAR activation, Hepatocytes	KE
+AOP 107	https://identifiers.org/aop.events/716	KE 716	Increase, cell proliferation (hepatocytes)	KE
+AOP 107	https://identifiers.org/aop.events/774	KE 774	Increase, Preneoplastic foci (hepatocytes)	KE
+AOP 107	https://identifiers.org/aop.events/715	KE 715	Activation, Constitutive androstane receptor	MIE
+AOP 108	https://identifiers.org/aop.events/719	KE 719	Increase, hepatocellular adenomas and carcinomas	AO
+AOP 108	https://identifiers.org/aop.events/209	KE 209	Peptide Oxidation	KE
+AOP 108	https://identifiers.org/aop.events/726	KE 726	Increased, Induction of pyruvate dehydrogenase (PDH)	KE
+AOP 108	https://identifiers.org/aop.events/768	KE 768	Increase, Cytotoxicity	KE
+AOP 108	https://identifiers.org/aop.events/769	KE 769	Increase, Oxidative metabolism	KE
+AOP 108	https://identifiers.org/aop.events/724	KE 724	Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme	MIE
+AOP 117	https://identifiers.org/aop.events/719	KE 719	Increase, hepatocellular adenomas and carcinomas	AO
+AOP 117	https://identifiers.org/aop.events/716	KE 716	Increase, cell proliferation (hepatocytes)	KE
+AOP 117	https://identifiers.org/aop.events/774	KE 774	Increase, Preneoplastic foci (hepatocytes)	KE
+AOP 117	https://identifiers.org/aop.events/25	KE 25	Agonism, Androgen receptor	MIE
+AOP 118	https://identifiers.org/aop.events/719	KE 719	Increase, hepatocellular adenomas and carcinomas	AO
+AOP 118	https://identifiers.org/aop.events/774	KE 774	Increase, Preneoplastic foci (hepatocytes)	KE
+AOP 118	https://identifiers.org/aop.events/787	KE 787	Increase, Regenerative cell proliferation (hepatocytes)	KE
+AOP 118	https://identifiers.org/aop.events/786	KE 786	Increase, Cytotoxicity (hepatocytes)	MIE
+AOP 130	https://identifiers.org/aop.events/840	KE 840	Formation, Liver fibrosis	AO
+AOP 130	https://identifiers.org/aop.events/177	KE 177	Mitochondrial dysfunction	KE
+AOP 130	https://identifiers.org/aop.events/829	KE 829	Damage, Lipid bilayer	KE
+AOP 130	https://identifiers.org/aop.events/831	KE 831	Disturbance, Lysosomal function	KE
+AOP 130	https://identifiers.org/aop.events/833	KE 833	Occurrence, Cytoplasmic vacuolization (hepatocyte)	KE
+AOP 130	https://identifiers.org/aop.events/835	KE 835	Occurrence, Ballooning degeneration (hepatocyte)	KE
+AOP 130	https://identifiers.org/aop.events/836	KE 836	Occurrence, Cytoplasmic vacuolization (Bile duct cell)	KE
+AOP 130	https://identifiers.org/aop.events/837	KE 837	Occurrence, Cytoplasmic vacuolization (kupffer cell)	KE
+AOP 130	https://identifiers.org/aop.events/838	KE 838	Induction, Microvesicular fat	KE
+AOP 130	https://identifiers.org/aop.events/839	KE 839	Formation, Mallory body	KE
+AOP 130	https://identifiers.org/aop.events/828	KE 828	Inhibition, Phospholipase A	MIE
+AOP 144	https://identifiers.org/aop.events/344	KE 344	N/A, Liver fibrosis	AO
+AOP 144	https://identifiers.org/aop.events/1493	KE 1493	Increased Pro-inflammatory mediators	KE
+AOP 144	https://identifiers.org/aop.events/1494	KE 1494	Leukocyte recruitment/activation	KE
+AOP 144	https://identifiers.org/aop.events/177	KE 177	Mitochondrial dysfunction	KE
+AOP 144	https://identifiers.org/aop.events/265	KE 265	Activation, Stellate cells	KE
+AOP 144	https://identifiers.org/aop.events/55	KE 55	Increase, Cell injury/death	KE
+AOP 144	https://identifiers.org/aop.events/68	KE 68	Accumulation, Collagen	KE
+AOP 144	https://identifiers.org/aop.events/898	KE 898	Disruption, Lysosome	KE
+AOP 144	https://identifiers.org/aop.events/1539	KE 1539	Endocytotic lysosomal uptake	MIE
+AOP 162	https://identifiers.org/aop.events/741	KE 741	Increase, Adenomas/carcinomas (follicular cell)	AO
+AOP 162	https://identifiers.org/aop.events/1023	KE 1023	Increased, Thyroid-stimulating hormone (TSH)	KE
+AOP 162	https://identifiers.org/aop.events/281	KE 281	 Thyroxine (T4) in serum, Decreased	KE
+AOP 162	https://identifiers.org/aop.events/295	KE 295	Induction, Upregulation of glucuronyltransferase activity	KE
+AOP 162	https://identifiers.org/aop.events/739	KE 739	Increase, Hypertrophy and proliferation (follicular cell)	KE
+AOP 162	https://identifiers.org/aop.events/740	KE 740	Increase, Hyperplasia (follicular cells)	KE
+AOP 162	https://identifiers.org/aop.events/961	KE 961	Increased, Clearance of thyroxine from serum	KE
+AOP 209	https://identifiers.org/aop.events/1291	KE 1291	Hepatotoxicity	AO
+AOP 209	https://identifiers.org/aop.events/1284	KE 1284	Up Regulation, SREBF2	KE
+AOP 209	https://identifiers.org/aop.events/1285	KE 1285	Up Regulation, Unsaturated fatty acid	KE
+AOP 209	https://identifiers.org/aop.events/1286	KE 1286	Down Regulation, GSS and GSTs gene	KE
+AOP 209	https://identifiers.org/aop.events/1287	KE 1287	Glutathione synthesis	KE
+AOP 209	https://identifiers.org/aop.events/1288	KE 1288	Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene	KE
+AOP 209	https://identifiers.org/aop.events/1289	KE 1289	Perturbation of cholesterol	KE
+AOP 209	https://identifiers.org/aop.events/1290	KE 1290	Glutathione homeostasis	KE
+AOP 213	https://identifiers.org/aop.events/1489	KE 1489	N/A, Steatohepatisis	AO
+AOP 213	https://identifiers.org/aop.events/1115	KE 1115	Increase, Reactive oxygen species	KE
+AOP 213	https://identifiers.org/aop.events/1305	KE 1305	Increase, cytosolic fatty acid	KE
+AOP 213	https://identifiers.org/aop.events/1491	KE 1491	Increased, Oncotic Necrosis	KE
+AOP 213	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	KE
+AOP 213	https://identifiers.org/aop.events/1490	KE 1490	Inhibition, Fatty Acid Beta Oxidation	MIE
+AOP 220	https://identifiers.org/aop.events/1395	KE 1395	Liver Cancer	AO
+AOP 220	https://identifiers.org/aop.events/1392	KE 1392	Oxidative Stress 	KE
+AOP 220	https://identifiers.org/aop.events/1393	KE 1393	Hepatocytotoxicity	KE
+AOP 220	https://identifiers.org/aop.events/1394	KE 1394	Induction, persistent proliferation/sustained proliferation	KE
+AOP 220	https://identifiers.org/aop.events/1391	KE 1391	Activation of Cyp2E1	MIE
+AOP 232	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 232	https://identifiers.org/aop.events/1419	KE 1419	Reduced, FXR activity	KE
+AOP 232	https://identifiers.org/aop.events/1420	KE 1420	Reduced, SHP activity	KE
+AOP 232	https://identifiers.org/aop.events/1421	KE 1421	Activated, LXR	KE
+AOP 232	https://identifiers.org/aop.events/1422	KE 1422	Reduced, PPARalpha	KE
+AOP 232	https://identifiers.org/aop.events/1423	KE 1423	Reduced, HSD17B4 activity	KE
+AOP 232	https://identifiers.org/aop.events/1424	KE 1424	Reduced, fatty acid beta oxidation	KE
+AOP 232	https://identifiers.org/aop.events/1417	KE 1417	NFE2/Nrf2 repression	MIE
+AOP 27	https://identifiers.org/aop.events/357	KE 357	Cholestasis, Pathology	AO
+AOP 27	https://identifiers.org/aop.events/1115	KE 1115	Increase, Reactive oxygen species	KE
+AOP 27	https://identifiers.org/aop.events/149	KE 149	Increase, Inflammation	KE
+AOP 27	https://identifiers.org/aop.events/209	KE 209	Peptide Oxidation	KE
+AOP 27	https://identifiers.org/aop.events/214	KE 214	Bile accumulation, Pathological condition	KE
+AOP 27	https://identifiers.org/aop.events/288	KE 288	Activation of specific nuclear receptors, Transcriptional change	KE
+AOP 27	https://identifiers.org/aop.events/87	KE 87	Release, Cytokine	KE
+AOP 27	https://identifiers.org/aop.events/41	KE 41	Inhibition, Bile Salt Export Pump (ABCB11)	MIE
+AOP 273	https://identifiers.org/aop.events/1548	KE 1548	Necrotic Tissue	AO
+AOP 273	https://identifiers.org/aop.events/1549	KE 1549	Liver Injury	AO
+AOP 273	https://identifiers.org/aop.events/1115	KE 1115	Increase, Reactive oxygen species	KE
+AOP 273	https://identifiers.org/aop.events/1545	KE 1545	Decrease in mitochondrial oxidative phosphorylation	KE
+AOP 273	https://identifiers.org/aop.events/1547	KE 1547	Mitochondrial Injury	KE
+AOP 273	https://identifiers.org/aop.events/177	KE 177	Mitochondrial dysfunction	KE
+AOP 273	https://identifiers.org/aop.events/55	KE 55	Increase, Cell injury/death	KE
+AOP 273	https://identifiers.org/aop.events/889	KE 889	Impaired, Proteostasis	KE
+AOP 273	https://identifiers.org/aop.events/1542	KE 1542	Increase, Mitochondrial complex III antagonism	MIE
+AOP 273	https://identifiers.org/aop.events/1543	KE 1543	Mitochondrial Complex IV inhibition	MIE
+AOP 273	https://identifiers.org/aop.events/1544	KE 1544	Mitochondrial Complex V inhibition	MIE
+AOP 273	https://identifiers.org/aop.events/1653	KE 1653	Binding of inhibitor to mitochondrial complex III	MIE
+AOP 273	https://identifiers.org/aop.events/1654	KE 1654	Binding of inhibitor to mitochondrial complex IV	MIE
+AOP 273	https://identifiers.org/aop.events/1655	KE 1655	Binding of inhibitor to mitochondrial complex V	MIE
+AOP 273	https://identifiers.org/aop.events/887	KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	MIE
+AOP 273	https://identifiers.org/aop.events/888	KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MIE
+AOP 278	https://identifiers.org/aop.events/1548	KE 1548	Necrotic Tissue	AO
+AOP 278	https://identifiers.org/aop.events/1549	KE 1549	Liver Injury	AO
+AOP 278	https://identifiers.org/aop.events/1575	KE 1575	Activation, Caspase 8 pathway	KE
+AOP 278	https://identifiers.org/aop.events/1576	KE 1576	Activation, Tissue resident cells (Kuppfer cells)	KE
+AOP 278	https://identifiers.org/aop.events/1579	KE 1579	Increase, proinflammatory mediators (TNFalpha)	KE
+AOP 278	https://identifiers.org/aop.events/202	KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	KE
+AOP 278	https://identifiers.org/aop.events/55	KE 55	Increase, Cell injury/death	KE
+AOP 278	https://identifiers.org/aop.events/1574	KE 1574	Inhibition, IKK complex	MIE
+AOP 285	https://identifiers.org/aop.events/1549	KE 1549	Liver Injury	AO
+AOP 285	https://identifiers.org/aop.events/1262	KE 1262	Apoptosis	KE
+AOP 285	https://identifiers.org/aop.events/1512	KE 1512	Unfolded Protein Response	KE
+AOP 285	https://identifiers.org/aop.events/1605	KE 1605	Accumulation of misfolded proteins	KE
+AOP 285	https://identifiers.org/aop.events/1606	KE 1606	Activation of hepatic stellate cells	KE
+AOP 285	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	KE
+AOP 285	https://identifiers.org/aop.events/1604	KE 1604	Inhibition of N-linked glycosylation	MIE
+AOP 318	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 318	https://identifiers.org/aop.events/1834	KE 1834	Decrease, Acyl-CoA dehydrogenases	KE
+AOP 318	https://identifiers.org/aop.events/291	KE 291	Accumulation, Triglyceride	KE
+AOP 318	https://identifiers.org/aop.events/860	KE 860	Decreased, Mitochondrial Fatty Acid Beta Oxidation	KE
+AOP 318	https://identifiers.org/aop.events/122	KE 122	Activation, Glucocorticoid Receptor	MIE
+AOP 34	https://identifiers.org/aop.events/345	KE 345	N/A, Liver Steatosis	AO
+AOP 34	https://identifiers.org/aop.events/115	KE 115	Increase, FA Influx	KE
+AOP 34	https://identifiers.org/aop.events/116	KE 116	Activation, FAS	KE
+AOP 34	https://identifiers.org/aop.events/177	KE 177	Mitochondrial dysfunction	KE
+AOP 34	https://identifiers.org/aop.events/258	KE 258	Activation, SCD-1	KE
+AOP 34	https://identifiers.org/aop.events/264	KE 264	Activation, SREBP-1c	KE
+AOP 34	https://identifiers.org/aop.events/291	KE 291	Accumulation, Triglyceride	KE
+AOP 34	https://identifiers.org/aop.events/54	KE 54	Up Regulation, CD36	KE
+AOP 34	https://identifiers.org/aop.events/66	KE 66	Activation, ChREBP	KE
+AOP 34	https://identifiers.org/aop.events/89	KE 89	Synthesis, De Novo Fatty Acid (FA)	KE
+AOP 34	https://identifiers.org/aop.events/167	KE 167	Activation, LXR	MIE
+AOP 34	https://identifiers.org/aop.events/228	KE 228	peroxisome proliferator activated receptor promoter demethylation	MIE
+AOP 36	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 36	https://identifiers.org/aop.events/140	KE 140	Decreased, HSD17B10 expression	KE
+AOP 36	https://identifiers.org/aop.events/179	KE 179	Decrease, Fatty acid beta-oxidation	KE
+AOP 36	https://identifiers.org/aop.events/327	KE 327	Accumulation, Fatty acid	KE
+AOP 36	https://identifiers.org/aop.events/8	KE 8	Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity	KE
+AOP 36	https://identifiers.org/aop.events/231	KE 231	Decreased, PPAR-alpha activation	MIE
+AOP 36	https://identifiers.org/aop.events/232	KE 232	Decreased, PPAR-beta activation	MIE
+AOP 36	https://identifiers.org/aop.events/233	KE 233	Decreased, PPAR-gamma activation	MIE
+AOP 362	https://identifiers.org/aop.events/1820	KE 1820	Immune mediated hepatitis	AO
+AOP 362	https://identifiers.org/aop.events/1633	KE 1633	Increase in inflammation	KE
+AOP 362	https://identifiers.org/aop.events/177	KE 177	Mitochondrial dysfunction	KE
+AOP 362	https://identifiers.org/aop.events/1815	KE 1815	Activation of ER stress	KE
+AOP 362	https://identifiers.org/aop.events/1817	KE 1817	Apoptotic cell death	KE
+AOP 362	https://identifiers.org/aop.events/1818	KE 1818	Immune cell activation	KE
+AOP 362	https://identifiers.org/aop.events/1819	KE 1819	IFNγ signaling	KE
+AOP 362	https://identifiers.org/aop.events/1814	KE 1814	benzoquinone imine and acylglucuronide metabolites	MIE
+AOP 37	https://identifiers.org/aop.events/719	KE 719	Increase, hepatocellular adenomas and carcinomas	AO
+AOP 37	https://identifiers.org/aop.events/1170	KE 1170	Increase, Phenotypic enzyme activity	KE
+AOP 37	https://identifiers.org/aop.events/1171	KE 1171	Increase, Clonal Expansion of Altered Hepatic Foci	KE
+AOP 37	https://identifiers.org/aop.events/716	KE 716	Increase, cell proliferation (hepatocytes)	KE
+AOP 37	https://identifiers.org/aop.events/227	KE 227	Activation, PPARα	MIE
+AOP 38	https://identifiers.org/aop.events/344	KE 344	N/A, Liver fibrosis	AO
+AOP 38	https://identifiers.org/aop.events/1492	KE 1492	Tissue resident cell activation	KE
+AOP 38	https://identifiers.org/aop.events/1493	KE 1493	Increased Pro-inflammatory mediators	KE
+AOP 38	https://identifiers.org/aop.events/265	KE 265	Activation, Stellate cells	KE
+AOP 38	https://identifiers.org/aop.events/55	KE 55	Increase, Cell injury/death	KE
+AOP 38	https://identifiers.org/aop.events/68	KE 68	Accumulation, Collagen	KE
+AOP 38	https://identifiers.org/aop.events/244	KE 244	Alkylation, Protein	MIE
+AOP 383	https://identifiers.org/aop.events/344	KE 344	N/A, Liver fibrosis	AO
+AOP 383	https://identifiers.org/aop.events/1115	KE 1115	Increase, Reactive oxygen species	KE
+AOP 383	https://identifiers.org/aop.events/1501	KE 1501	Increased, extracellular matrix deposition	KE
+AOP 383	https://identifiers.org/aop.events/1743	KE 1743	Increase plasma Ang II	KE
+AOP 383	https://identifiers.org/aop.events/1852	KE 1852	Increased Ang II type 1 receptor (AT1R)	KE
+AOP 383	https://identifiers.org/aop.events/1740	KE 1740	Induced dysregulation of ACE2 	MIE
+AOP 41	https://identifiers.org/aop.events/856	KE 856	Formation, Hepatocellular and Bile duct tumors	AO
+AOP 41	https://identifiers.org/aop.events/139	KE 139	N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects	KE
+AOP 41	https://identifiers.org/aop.events/853	KE 853	Changes/Inhibition, Cellular Homeostasis and Apoptosis	KE
+AOP 41	https://identifiers.org/aop.events/854	KE 854	Alterations, Cellular proliferation / hyperplasia	KE
+AOP 41	https://identifiers.org/aop.events/165	KE 165	Activation, Long term AHR receptor driven direct and indirect gene expression changes	MIE
+AOP 423	https://identifiers.org/aop.events/1817	KE 1817	Apoptotic cell death	AO
+AOP 423	https://identifiers.org/aop.events/1194	KE 1194	Increase, DNA damage	KE
+AOP 423	https://identifiers.org/aop.events/177	KE 177	Mitochondrial dysfunction	KE
+AOP 423	https://identifiers.org/aop.events/2031	KE 2031	Releasing, Apoptosis-Inducing Factor (AIF)	KE
+AOP 423	https://identifiers.org/aop.events/1115	KE 1115	Increase, Reactive oxygen species	MIE
+AOP 423	https://identifiers.org/aop.events/2030	KE 2030	Activation, PARP1	MIE
+AOP 46	https://identifiers.org/aop.events/378	KE 378	Tumorigenesis, Hepatocellular carcinoma	AO
+AOP 46	https://identifiers.org/aop.events/376	KE 376	Increased, Induced Mutations in Critical Genes	KE
+AOP 46	https://identifiers.org/aop.events/409	KE 409	Metabolism of AFB1, Production of Reactive Electrophiles	KE
+AOP 46	https://identifiers.org/aop.events/491	KE 491	Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)	KE
+AOP 46	https://identifiers.org/aop.events/493	KE 493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	KE
+AOP 46	https://identifiers.org/aop.events/373	KE 373	Formation, Pro-mutagenic DNA Adducts	MIE
+AOP 494	https://identifiers.org/aop.events/344	KE 344	N/A, Liver fibrosis	AO
+AOP 494	https://identifiers.org/aop.events/1501	KE 1501	Increased, extracellular matrix deposition	KE
+AOP 494	https://identifiers.org/aop.events/265	KE 265	Activation, Stellate cells	KE
+AOP 494	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	KE
+AOP 494	https://identifiers.org/aop.events/55	KE 55	Increase, Cell injury/death	KE
+AOP 494	https://identifiers.org/aop.events/18	KE 18	Activation, AhR	MIE
+AOP 517	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 517	https://identifiers.org/aop.events/115	KE 115	Increase, FA Influx	KE
+AOP 517	https://identifiers.org/aop.events/291	KE 291	Accumulation, Triglyceride	KE
+AOP 517	https://identifiers.org/aop.events/54	KE 54	Up Regulation, CD36	KE
+AOP 517	https://identifiers.org/aop.events/239	KE 239	Activation, Pregnane-X receptor, NR1l2	MIE
+AOP 518	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 518	https://identifiers.org/aop.events/2199	KE 2199	Increased, Expression of LXR activated genes	KE
+AOP 518	https://identifiers.org/aop.events/291	KE 291	Accumulation, Triglyceride	KE
+AOP 518	https://identifiers.org/aop.events/89	KE 89	Synthesis, De Novo Fatty Acid (FA)	KE
+AOP 518	https://identifiers.org/aop.events/167	KE 167	Activation, LXR	MIE
+AOP 529	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 529	https://identifiers.org/aop.events/179	KE 179	Decrease, Fatty acid beta-oxidation	KE
+AOP 529	https://identifiers.org/aop.events/2224	KE 2224	Dysregulation of transcriptional expression within PPAR signaling network	KE
+AOP 529	https://identifiers.org/aop.events/2225	KE 2225	Disrupted Lipid Storage	KE
+AOP 529	https://identifiers.org/aop.events/2227	KE 2227	Disrupted PPAR isoform nuclear signaling	KE
+AOP 529	https://identifiers.org/aop.events/291	KE 291	Accumulation, Triglyceride	KE
+AOP 529	https://identifiers.org/aop.events/327	KE 327	Accumulation, Fatty acid	KE
+AOP 529	https://identifiers.org/aop.events/2226	KE 2226	Stressor binding PPAR isoforms 	MIE
+AOP 57	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 57	https://identifiers.org/aop.events/216	KE 216	Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)	KE
+AOP 57	https://identifiers.org/aop.events/291	KE 291	Accumulation, Triglyceride	KE
+AOP 57	https://identifiers.org/aop.events/327	KE 327	Accumulation, Fatty acid	KE
+AOP 57	https://identifiers.org/aop.events/450	KE 450	Suppression, VLDL secretion	KE
+AOP 57	https://identifiers.org/aop.events/451	KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	KE
+AOP 57	https://identifiers.org/aop.events/462	KE 462	Up Regulation, SCD-1	KE
+AOP 57	https://identifiers.org/aop.events/465	KE 465	Increased, FA Influx	KE
+AOP 57	https://identifiers.org/aop.events/466	KE 466	Up Regulation, LDLR (low density lipoprotein receptor)	KE
+AOP 57	https://identifiers.org/aop.events/467	KE 467	Increased, LDL uptake	KE
+AOP 57	https://identifiers.org/aop.events/54	KE 54	Up Regulation, CD36	KE
+AOP 57	https://identifiers.org/aop.events/80	KE 80	Up Regulation, CYP1A1	KE
+AOP 57	https://identifiers.org/aop.events/18	KE 18	Activation, AhR	MIE
+AOP 58	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 58	https://identifiers.org/aop.events/327	KE 327	Accumulation, Fatty acid	KE
+AOP 58	https://identifiers.org/aop.events/451	KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	KE
+AOP 58	https://identifiers.org/aop.events/454	KE 454	Increased, Triglyceride formation	KE
+AOP 58	https://identifiers.org/aop.events/457	KE 457	Activation, SREBF1	KE
+AOP 58	https://identifiers.org/aop.events/458	KE 458	Increased, De Novo FA synthesis	KE
+AOP 58	https://identifiers.org/aop.events/462	KE 462	Up Regulation, SCD-1	KE
+AOP 58	https://identifiers.org/aop.events/463	KE 463	Up Regulation, FAS	KE
+AOP 58	https://identifiers.org/aop.events/465	KE 465	Increased, FA Influx	KE
+AOP 58	https://identifiers.org/aop.events/470	KE 470	Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)	KE
+AOP 58	https://identifiers.org/aop.events/54	KE 54	Up Regulation, CD36	KE
+AOP 58	https://identifiers.org/aop.events/66	KE 66	Activation, ChREBP	KE
+AOP 58	https://identifiers.org/aop.events/167	KE 167	Activation, LXR	MIE
+AOP 58	https://identifiers.org/aop.events/228	KE 228	peroxisome proliferator activated receptor promoter demethylation	MIE
+AOP 58	https://identifiers.org/aop.events/456	KE 456	Suppression, Constitutive androstane receptor, NR1l3	MIE
+AOP 58	https://identifiers.org/aop.events/468	KE 468	Inhibition, PPAR alpha	MIE
+AOP 591	https://identifiers.org/aop.events/2019	KE 2019	Non-alcoholic fatty liver disease	AO
+AOP 591	https://identifiers.org/aop.events/1293	KE 1293	Activation, FOXO	KE
+AOP 591	https://identifiers.org/aop.events/1505	KE 1505	Cell cycle, disrupted	KE
+AOP 591	https://identifiers.org/aop.events/1821	KE 1821	Decrease, Cell proliferation	KE
+AOP 591	https://identifiers.org/aop.events/2344	KE 2344	Upregulation, growth arrest and DNA-damage-inducible beta a	KE
+AOP 591	https://identifiers.org/aop.events/2345	KE 2345	Activation, MAPK	KE
+AOP 591	https://identifiers.org/aop.events/2346	KE 2346	Decrease, Proliferating Cell Nuclear Antigen	KE
+AOP 591	https://identifiers.org/aop.events/2347	KE 2347	Increase, Lipid degradation	KE
+AOP 591	https://identifiers.org/aop.events/2348	KE 2348	Inhibition, Liver regeneration	KE
+AOP 591	https://identifiers.org/aop.events/291	KE 291	Accumulation, Triglyceride	KE
+AOP 591	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	KE
+AOP 591	https://identifiers.org/aop.events/1194	KE 1194	Increase, DNA damage	MIE
+AOP 60	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 60	https://identifiers.org/aop.events/179	KE 179	Decrease, Fatty acid beta-oxidation	KE
+AOP 60	https://identifiers.org/aop.events/327	KE 327	Accumulation, Fatty acid	KE
+AOP 60	https://identifiers.org/aop.events/454	KE 454	Increased, Triglyceride formation	KE
+AOP 60	https://identifiers.org/aop.events/462	KE 462	Up Regulation, SCD-1	KE
+AOP 60	https://identifiers.org/aop.events/465	KE 465	Increased, FA Influx	KE
+AOP 60	https://identifiers.org/aop.events/471	KE 471	Inhibition, FoxA2	KE
+AOP 60	https://identifiers.org/aop.events/472	KE 472	Down Regulation, CPT1A	KE
+AOP 60	https://identifiers.org/aop.events/474	KE 474	Down Regulation, HMGCS2	KE
+AOP 60	https://identifiers.org/aop.events/477	KE 477	Decreased, Ketogenesis	KE
+AOP 60	https://identifiers.org/aop.events/54	KE 54	Up Regulation, CD36	KE
+AOP 60	https://identifiers.org/aop.events/245	KE 245	Activation, PXR/SXR	MIE
+AOP 61	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 61	https://identifiers.org/aop.events/227	KE 227	Activation, PPARα	KE
+AOP 61	https://identifiers.org/aop.events/451	KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	KE
+AOP 61	https://identifiers.org/aop.events/458	KE 458	Increased, De Novo FA synthesis	KE
+AOP 61	https://identifiers.org/aop.events/480	KE 480	Activation, SHP	KE
+AOP 61	https://identifiers.org/aop.events/482	KE 482	Decreased, DHB4/HSD17B4	KE
+AOP 61	https://identifiers.org/aop.events/483	KE 483	Activation, LXR alpha	KE
+AOP 61	https://identifiers.org/aop.events/878	KE 878	Inhibition, SREBP1c	KE
+AOP 61	https://identifiers.org/aop.events/879	KE 879	Activation, MTTP	KE
+AOP 61	https://identifiers.org/aop.events/880	KE 880	Increased, ApoB100	KE
+AOP 61	https://identifiers.org/aop.events/881	KE 881	Increased, Triglyceride	KE
+AOP 61	https://identifiers.org/aop.events/478	KE 478	Activation, NRF2	MIE
+AOP 61	https://identifiers.org/aop.events/479	KE 479	Activation, NR1H4	MIE
+AOP 62	https://identifiers.org/aop.events/459	KE 459	Increased, Liver Steatosis	AO
+AOP 62	https://identifiers.org/aop.events/457	KE 457	Activation, SREBF1	KE
+AOP 62	https://identifiers.org/aop.events/484	KE 484	Activation, AKT2	KE
+AOP 62	https://identifiers.org/aop.events/486	KE 486	systemic inflammation leading to hepatic steatosis	MIE

@@ -1,0 +1,84 @@
+keid	title	biolevel
+KE 1016	Inhibition, Feeding	Individual
+KE 1018	Activation, Glutamate-gated chloride channels	Molecular
+KE 1019	Induction, pharyngeal muscle paralysis	Tissue
+KE 1023	Increased, Thyroid-stimulating hormone (TSH)	Tissue
+KE 1102	Occurrence, tophi (urate) deposition	Tissue
+KE 1105	Occurrence, renal ischemia	Tissue
+KE 1114	Unknown, MIE	Molecular
+KE 1170	Increase, Phenotypic enzyme activity	Cellular
+KE 1215	TRPA1 activation, TRPA1 Receptor	Molecular
+KE 1220	Trigeminal nerve activation	Tissue
+KE 1222	SP (Substance P) release, Local increase of SP	Cellular
+KE 1226	Increased Respiratory irritability and Chronic Cough,	Organ
+KE 1291	Hepatotoxicity	Cellular
+KE 1293	Activation, FOXO	Cellular
+KE 1344	Increased, seizure	Individual
+KE 1348	Increase, seizure	Individual
+KE 1354	Treat, carbamazepine	Molecular
+KE 1357	Increased, RDX dose	Molecular
+KE 139	N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects	Tissue
+KE 1433	Increased CGRP, neuronal release of CGRP	Cellular
+KE 1434	Irritation of nasal mucosa inducing sneeze reflex	Tissue
+KE 1435	Increased neurokinin A (NKA) by neuronal cells	Cellular
+KE 1535	Heart failure	Organ
+KE 1583	Sensory axonal peripheral neuropathy	Individual
+KE 1588	Bronchiolitis obliterans	Individual
+KE 1603	Chronic kidney disease	Organ
+KE 1636	Increase, Chromosomal aberrations	Cellular
+KE 166	Decreased, Long-term potentiation (LTP)	Organ
+KE 1673	Alveolar collapse	Cellular
+KE 1748	Increase, the risk of acute respiratory failure	Organ
+KE 1793	Activator protein 1 activation	Cellular
+KE 1809	Increase, Tissue/organ damage	Organ
+KE 1821	Decrease, Cell proliferation	Cellular
+KE 185	Increase, Mutations	Molecular
+KE 1898	Increase, Damage-associated molecular pattern release	Tissue
+KE 191	Neuronal dysfunction	Cellular
+KE 2006	Secondary genotoxicity	Cellular
+KE 2008	Chronic obstructive pulmonary disease	Individual
+KE 2011	Emphysema	Organ
+KE 2019	Non-alcoholic fatty liver disease	Individual
+KE 2087	Increased incidence of respiratory disease	Individual
+KE 2095	Periventricular heterotopia formation	Individual
+KE 2150	Neurological disorder	Individual
+KE 2196	Decrease, elavl3	Molecular
+KE 2197	Decrease, sox10	Molecular
+KE 2198	Decrease, mbp	Molecular
+KE 2266	Demyelination, increased	Cellular
+KE 2267	Delayed neuropathy, increased	Individual
+KE 2301	Abnormal, Behavior	Individual
+KE 2302	Increase, Malformations	Population
+KE 2344	Upregulation, growth arrest and DNA-damage-inducible beta a	Molecular
+KE 2345	Activation, MAPK	Molecular
+KE 2346	Decrease, Proliferating Cell Nuclear Antigen	Molecular
+KE 2347	Increase, Lipid degradation	Cellular
+KE 2348	Inhibition, Liver regeneration	Organ
+KE 294	N/A, Unknown	Molecular
+KE 313	Increase, Allergic Respiratory Hypersensitivity Response	Organ
+KE 319	Loss, Cochlear function	Organ
+KE 341	Impairment, Learning and memory	Individual
+KE 350	Increase, Mortality	Individual
+KE 351	Increased Mortality	Population
+KE 360	Decrease, Population growth rate	Population
+KE 477	Decreased, Ketogenesis	Cellular
+KE 566	impaired, Larval development	Population
+KE 713	Increase, Adenomas/carcinomas (renal tubular)	Tissue
+KE 714	Increased, Binding of chemicals to 2u (serum)	Molecular
+KE 733	Increase, Necrosis (terminal bronchiolar cells)	Cellular
+KE 734	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	Cellular
+KE 735	Increase, Hyperplasia (terminal bronchiolar cells)	Cellular
+KE 736	Increase, Adenomas/carcinomas (bronchioloalveolar)	Tissue
+KE 740	Increase, Hyperplasia (follicular cells)	Cellular
+KE 741	Increase, Adenomas/carcinomas (follicular cell)	Tissue
+KE 759	Increased, Kidney Failure	Population
+KE 793	Increase, Urinary bladder calculi	Organ
+KE 796	Increase, Hyperplasia (urothelial)	Cellular
+KE 797	Increase, Adenomas/carcinomas (urothelial)	Tissue
+KE 813	Increased, Serum creatinine	Organ
+KE 818	Occurrence, Cytoplasmic vacuolization (Renal tubule)	Organ
+KE 820	Decreased, Renal plasma flow	Tissue
+KE 823	Occurrence, Cystic dilatation (renal tubule)	Organ
+KE 824	Occurrence, Cytoplasmic vacuolization (podocyte)	Organ
+KE 825	Decreased, Renal ability to dilute urine	Organ
+KE 833	Occurrence, Cytoplasmic vacuolization (hepatocyte)	Cellular

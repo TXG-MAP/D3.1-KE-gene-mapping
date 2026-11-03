@@ -1,0 +1,32 @@
+# Method 1 (supplementary) — gene annotations attached to Key Event RELATIONSHIPS.
+#
+# Endpoint : https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+# Release  : AOPWikiRDF @ 97191db, data generated 2026-08-01  (see pinned-release.yaml)
+# Used by  : analysis/method1/m1_01_fetch.py  ->  data/method1/raw/ker_gene_long.csv
+#
+# WHY THIS EXISTS. The Method 1 text-mining pass runs over four free-text fields: KE
+# descriptions, KER descriptions, and the biological-plausibility and empirical-support
+# sections of KERs. Three of those four belong to KERs, so a substantial share of what the
+# method detects lands on a KER rather than on a KE — and the report currently counts only the
+# KE-level hits.
+#
+# This query recovers the KER-level layer so the loss can be quantified: how many additional
+# KEs would carry genes if KER annotations were propagated to their upstream and downstream
+# KEs. That propagation is NOT part of Method 1 as defined; the number is reported as a
+# coverage headroom estimate and clearly labelled as such.
+
+PREFIX aopo: <http://aopkb.org/aop_ontology#>
+PREFIX edam: <http://edamontology.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX aopw: <https://aopwiki.rdf.bigcat-bioinformatics.org/>
+
+SELECT DISTINCT ?kerid ?upstream ?downstream ?gene ?byRegex ?byNer
+WHERE {
+  ?ker a aopo:KeyEventRelationship ;
+       rdfs:label ?kerid ;
+       edam:data_1025 ?gene .
+  OPTIONAL { ?ker aopo:has_upstream_key_event   ?up . ?up rdfs:label ?upstream }
+  OPTIONAL { ?ker aopo:has_downstream_key_event ?dn . ?dn rdfs:label ?downstream }
+  BIND( EXISTS { ?ker aopw:geneDetectedByRegex ?gene } AS ?byRegex )
+  BIND( EXISTS { ?ker aopw:geneDetectedByNER   ?gene } AS ?byNer )
+}

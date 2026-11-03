@@ -1,0 +1,91 @@
+{
+  "purpose": "KE -> Ensembl gene sets for Method 3, from the approved pathway mappings",
+  "wikipathways_release": {
+    "title": "WikiPathways RDF 20260810",
+    "created_on": "2026-08-10",
+    "matches_pin": true
+  },
+  "wikipathways_pin": {
+    "title": "WikiPathways RDF 20260810",
+    "created_on": "2026-08-10"
+  },
+  "wikipathways_endpoint": "https://sparql.wikipathways.org/sparql",
+  "query": "queries/method3a_pathway_genes.rq",
+  "approved_pairs_used": 432,
+  "distinct_pathways": 158,
+  "pathways_without_human_gene_products": [],
+  "distinct_ensembl_genes": 4349,
+  "kes_with_a_gene_set": 314,
+  "kes_mapped_but_empty": 0,
+  "ke_gene_pairs": 26868,
+  "by_organ": [
+    {
+      "organ": "brain",
+      "kes_in_frame": 203,
+      "kes_with_genes": 124,
+      "pct_kes_with_genes": 61.1,
+      "unique_genes": 2528,
+      "ke_gene_pairs": 9949,
+      "median_genes_per_annotated_ke": 64.5
+    },
+    {
+      "organ": "kidney",
+      "kes_in_frame": 68,
+      "kes_with_genes": 39,
+      "pct_kes_with_genes": 57.4,
+      "unique_genes": 1219,
+      "ke_gene_pairs": 3421,
+      "median_genes_per_annotated_ke": 73.0
+    },
+    {
+      "organ": "liver",
+      "kes_in_frame": 196,
+      "kes_with_genes": 124,
+      "pct_kes_with_genes": 63.3,
+      "unique_genes": 2655,
+      "ke_gene_pairs": 10721,
+      "median_genes_per_annotated_ke": 59.5
+    },
+    {
+      "organ": "lung",
+      "kes_in_frame": 134,
+      "kes_with_genes": 79,
+      "pct_kes_with_genes": 59.0,
+      "unique_genes": 2788,
+      "ke_gene_pairs": 7835,
+      "median_genes_per_annotated_ke": 64.0
+    },
+    {
+      "organ": "four-organ union",
+      "kes_in_frame": 538,
+      "kes_with_genes": 314,
+      "pct_kes_with_genes": 58.4,
+      "unique_genes": 4349,
+      "ke_gene_pairs": 26868,
+      "median_genes_per_annotated_ke": 64.0
+    }
+  ],
+  "corpus_drift": {
+    "pathways_same_gene_count": 109,
+    "median_size_delta": 0.0,
+    "pathways_with_unfindable_builder_symbols": 88,
+    "unfindable_builder_symbols": 342,
+    "note": "Sizes compared on distinct Ensembl, not on labels: WikiPathways' rdfs:label is not unique per gene and comparing label counts reports drift on almost every pathway. A builder symbol absent from every WikiPathways label for its pathway is the stale-corpus signal."
+  },
+  "circularity_caveat": "Method 3's gene sets are the OUTPUT of the pathway mapping, not evidence for it: pathways were selected partly on their genes. Legitimate for the cross-method comparison, illegitimate as corroboration of Method 3 itself (limitation 4).",
+  "identifier_note": "No BridgeDb round-trip is involved. WikiPathways holds the Ensembl cross-reference directly, so Method 3 has no symbol-to-Ensembl mapping loss to report, unlike Methods 1 and 2.",
+  "outputs": [
+    "data/method3/derived/method3_pathway_genes.tsv",
+    "data/method3/derived/method3_ke_ensembl_sets.tsv",
+    "data/method3/derived/method3_genes_by_organ.tsv",
+    "data/method3/derived/method3_corpus_drift.tsv"
+  ],
+  "stage": "13_genesets",
+  "generated_at": "2026-08-13T14:10:15+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "molaop_builder_base": "https://molaop-builder.vhp4safety.nl",
+  "d31_repo_revision": "12ca8ca",
+  "python": "3.12.2",
+  "requests_issued": 1
+}

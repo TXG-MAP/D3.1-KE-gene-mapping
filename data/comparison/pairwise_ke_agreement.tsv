@@ -1,0 +1,16 @@
+pair	organ	kes_both	kes_with_any_shared_gene	pct_with_any_shared_gene	median_jaccard	mean_jaccard	median_shared_genes	median_pct_of_method1_in_method2	median_pct_of_method2_in_method1	median_set_size_a	median_set_size_b	median_pct_of_method1_in_method3	median_pct_of_method3_in_method1	median_pct_of_method2_in_method3	median_pct_of_method3_in_method2
+method1 vs method2	brain	42	34	81.0	0.0167	0.0418	2.0	37.9	1.8	8.5	85.5				
+method1 vs method2	kidney	7	7	100.0	0.0221	0.032	4.0	36.4	2.3	18.0	151.0				
+method1 vs method2	liver	64	53	82.8	0.02	0.0583	1.0	25.0	2.2	6.5	62.0				
+method1 vs method2	lung	23	18	78.3	0.02	0.0387	2.0	27.3	2.0	16.0	51.0				
+method1 vs method2	four-organ union	103	79	76.7	0.0154	0.0521	1.0	22.2	1.6	7.0	53.0				
+method1 vs method3	brain	67	53	79.1	0.0345	0.0463	2.0			8.0	73.0	30.8	3.7		
+method1 vs method3	kidney	12	10	83.3	0.05	0.0608	3.0			14.5	85.0	36.6	5.8		
+method1 vs method3	liver	60	45	75.0	0.032	0.0498	1.5			7.0	69.5	33.3	3.3		
+method1 vs method3	lung	39	31	79.5	0.0483	0.0655	4.0			16.0	90.0	33.3	4.9		
+method1 vs method3	four-organ union	139	102	73.4	0.0323	0.0475	1.0			7.0	70.0	27.3	3.5		
+method2 vs method3	brain	72	65	90.3	0.0741	0.1084	10.5			66.0	62.0			11.2	18.5
+method2 vs method3	kidney	22	20	90.9	0.0772	0.1079	13.0			103.0	67.0			11.6	23.3
+method2 vs method3	liver	100	96	96.0	0.0574	0.0927	8.0			53.0	58.0			20.0	12.1
+method2 vs method3	lung	44	42	95.5	0.05	0.0772	7.5			78.0	64.0			10.3	15.6
+method2 vs method3	four-organ union	194	180	92.8	0.0546	0.0943	7.5			53.0	60.5			16.9	13.6

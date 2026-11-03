@@ -1,0 +1,22 @@
+{
+  "kes": 375,
+  "per_organ": {
+    "brain": 203,
+    "kidney": 68,
+    "lung": 134
+  },
+  "shared_across_networks": 26,
+  "described": 190,
+  "earning_biolevel_bonus": 298,
+  "already_mapped": 43,
+  "absent_from_builder": 0,
+  "builder_title_drift": 0,
+  "stage": "02_frame",
+  "generated_at": "2026-08-06T20:28:19+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "molaop_builder_base": "https://molaop-builder.vhp4safety.nl",
+  "d31_repo_revision": "8f6991b",
+  "python": "3.12.2",
+  "requests_issued": 0
+}

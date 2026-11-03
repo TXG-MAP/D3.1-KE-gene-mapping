@@ -1,0 +1,3 @@
+target,genes mapped by RDF,genes mapped by BridgeDb,mapped by both,RDF only,BridgeDb only,mapped by neither,identical pairs,pair agreement
+ensembl,1909,1913,1909,0,4,1,1916,0.9979166666666667
+ncbigene,1886,1889,1886,0,3,25,1916,0.9984366857738406

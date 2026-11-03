@@ -1,0 +1,106 @@
+# The AOP-Wiki RDF releases D3.1 is pinned to.
+#
+# Two endpoints, split by purpose — not one with an exception:
+#
+#   canonical     -> every content number in the report: the KE inventory, all gene mappings
+#                    (Method 1), all KE-component counts. One release.
+#   multi-version -> temporal / trend analyses only, which need many releases by definition.
+#                    Currently just Method 2's Figure 2 panels C, D and E.
+#
+# Nothing gene-related may come from the multi-version endpoint: it carries no BERN2
+# enrichment. Scripts should read this file rather than hard-coding an endpoint or a date.
+# Pinned 2026-08-03.
+
+aopwiki_rdf:
+  role: canonical — all content numbers, all gene mappings
+  # The pin is the git commit, not the endpoint. The endpoint is rolling and will move.
+  repo: https://github.com/marvinm2/AOPWikiRDF
+  branch: master
+  commit: 97191db
+  data_generated: "2026-08-01"        # "Weekly RDF update (Python script generation)"
+  verified_live: "2026-08-03"          # endpoint served exactly this commit on this date
+
+  endpoint: https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+  endpoint_cadence: weekly             # WILL roll off this commit — see caveats below
+
+  # Immutable copies of the exact data, addressable by SHA.
+  data_dumps:
+    main: https://raw.githubusercontent.com/marvinm2/AOPWikiRDF/97191db/data/AOPWikiRDF.ttl
+    genes: https://raw.githubusercontent.com/marvinm2/AOPWikiRDF/97191db/data/AOPWikiRDF-Genes.ttl
+    enriched: https://raw.githubusercontent.com/marvinm2/AOPWikiRDF/97191db/data/AOPWikiRDF-Enriched.ttl
+    void: https://raw.githubusercontent.com/marvinm2/AOPWikiRDF/97191db/data/AOPWikiRDF-Void.ttl
+
+  # Cheap liveness check: the endpoint answers pav:createdOn with the generation date, and
+  # pav:createdWith names the upstream XML dump.
+  pav_created_on: "2026-08-01"
+  pav_created_with: aop-wiki-xml-2026-08-01
+
+  # Finer-grained check, and how the commit was identified: these counts are declared in
+  # AOPWikiRDF-Void.ttl and matched the live endpoint exactly and uniquely among recent
+  # weekly commits on 2026-08-03.
+  void_triples:
+    AOPWikiRDF.ttl: 138968
+    AOPWikiRDF-Enriched.ttl: 8360
+    AOPWikiRDF-Genes.ttl: 214561
+
+  # Content manifest, queried from the live endpoint 2026-08-03.
+  manifest:
+    aops: 595
+    key_events: 1595
+    key_event_relationships: 2359
+    kes_with_genes: 488              # union of both detectors
+    kes_gene_by_ner: 462             # BERN2
+    kes_gene_by_regex: 384           # HGNC dictionary
+    # Corrected 2026-08-03 from 1915 after the Method 1 re-run: COUNT(DISTINCT ?gene) over
+    # edam:data_1025 on Key Events returns 1914 on this release, and the union of the two
+    # provenance predicates returns the same 1914. m1_01_fetch.py re-checks every count in
+    # this manifest against the live endpoint on each run and reports any disagreement.
+    unique_genes_on_kes: 1914
+    kes_with_biological_event: 886   # aopo:hasBiologicalEvent
+    kes_without_biological_event: 709
+    kes_with_bp_term: 764            # obo:GO_0008150
+    # Added 2026-08-03. The 595 AOPs are not all populated: 55 declare no Key Event at all,
+    # so any per-AOP denominator should say which of the two numbers it uses.
+    aops_with_at_least_one_key_event: 540
+    aops_with_no_key_event: 55
+    kers_with_genes: 703             # Method 1 also annotates KERs; the report counts only KEs
+    unique_genes_on_kers: 2368
+
+  # Do NOT cite this. It is stale: the repository's latest release tag is v2.2, and v2.1
+  # (2026-06-01) was the BERN2 release, but the version string in the data was never bumped.
+  # Cite the commit SHA and the generation date instead.
+  declared_pav_version_DO_NOT_CITE: "1.3"
+
+  # Identifier spaces available on a Key Event, relevant to the BridgeDb harmonisation (Q2):
+  #   edam:data_1025      -> HGNC IRIs directly (https://identifiers.org/hgnc/NNNN)
+  #   ... skos:exactMatch -> NCBI Gene, via edam:data_1027
+  gene_identifier_spaces: [HGNC, NCBI Gene]
+
+aopwiki_rdf_multiversion:
+  role: temporal / trend analyses ONLY
+  endpoint: https://aopwiki-multirdf.vhp4safety.nl/sparql
+  frontend: https://aopwiki-dashboard.vhp4safety.nl/
+  graph_pattern: http://aopwiki.org/graph/YYYY-MM-DD
+  cadence: quarterly
+  graphs: 34
+  earliest: "2018-04-01"
+  latest: "2026-07-01"
+  queried: "2026-08-03"
+
+  used_for:
+    - Method 2, Figure 2 panels C and D — ontology source usage over time
+    - Method 2, Figure 2 panel E — growth in the proportion of KEs carrying a KE Component
+
+  # HARD CONSTRAINT. This endpoint is built by a different converter that does not run the
+  # gene-mapping step: zero geneDetectedByNER / geneDetectedByRegex predicates. Its 2026-07-01
+  # graph has 382 KEs with genes and 895 unique genes, against 488 and 1915 on the canonical
+  # release. Method 1 must never source from here.
+  must_not_be_used_for: [any gene mapping, Method 1, KE inventory, any headline content count]
+
+  # The current draft says the series runs "from April 2018 to April 2026", but 2026-07-01 is
+  # available. Regenerate the figure to the latest quarter, or say why it stops earlier.
+  figure_currently_ends: "2026-04-01"
+
+# Captured artefacts from the pinned release, in this repository:
+artefacts:
+  ke_inventory: data/networks/ke-inventory_aopwiki-rdf_97191db_2026-08-01.csv  # 1595 KEs

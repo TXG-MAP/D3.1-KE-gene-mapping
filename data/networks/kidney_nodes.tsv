@@ -1,0 +1,69 @@
+id	name	type
+KE 713	Increase, Adenomas/carcinomas (renal tubular)	AO
+KE 708	Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)	KE
+KE 709	Increase, Cytotoxicity (renal tubular cell)	KE
+KE 710	Increase, Regenerative cell proliferation (tubular epithelial cells)	KE
+KE 767	Increase, Hyperplasia (renal tubular cells)	KE
+KE 714	Increased, Binding of chemicals to 2u (serum)	MIE
+KE 784	Increase, Hyperplasia (tubular epithelial cells)	KE
+KE 783	Increase, Cytotoxicity (tubular epithelial cells)	MIE
+KE 797	Increase, Adenomas/carcinomas (urothelial)	AO
+KE 794	Increase, Cytotoxicity (urothelial cells)	KE
+KE 795	Increase, Regenerative cell proliferation (urothelial cells)	KE
+KE 796	Increase, Hyperplasia (urothelial)	KE
+KE 793	Increase, Urinary bladder calculi	MIE
+KE 814	Occurrence, Kidney toxicity	AO
+KE 281	Thyroxine (T4) in serum, Decreased	KE
+KE 813	Increased, Serum creatinine	KE
+KE 818	Occurrence, Cytoplasmic vacuolization (Renal tubule)	KE
+KE 819	Decreased, Glomerular filtration	KE
+KE 820	Decreased, Renal plasma flow	KE
+KE 821	Decreased, Sodium reabsorption	KE
+KE 823	Occurrence, Cystic dilatation (renal tubule)	KE
+KE 824	Occurrence, Cytoplasmic vacuolization (podocyte)	KE
+KE 825	Decreased, Renal ability to dilute urine	KE
+KE 277	Thyroid hormone synthesis, Decreased	MIE
+KE 351	Increased Mortality	AO
+KE 360	Decrease, Population growth rate	AO
+KE 1096	Increased, blood uric acid concentration	KE
+KE 1097	Occurrence, renal proximal tubular necrosis	KE
+KE 1098	Increased, blood potassium concentration	KE
+KE 1102	Occurrence, tophi (urate) deposition	KE
+KE 1106	Occurrence, cardiac arrhythmia	KE
+KE 1392	Increase, Oxidative Stress	KE
+KE 877	Inhibition, organic anion transporter 1 (OAT1)	MIE
+KE 1104	Decreased, Prostaglandin F2alpha concentration, plasma	KE
+KE 1105	Occurrence, renal ischemia	KE
+KE 1103	Inhibition, Cyclooxygenase 1 activity	MIE
+KE 1115	Increase, Reactive oxygen species	KE
+KE 1114	Unknown, MIE	MIE
+KE 1482	Depletion, mtDNA	KE
+KE 177	Increase, Mitochondrial dysfunction	KE
+KE 1481	Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	MIE
+KE 831	Disturbance, Lysosomal function	KE
+KE 898	Disruption, Lysosome	KE
+KE 1486	Binding of substrate, endocytic receptor	MIE
+KE 40	Mitochondrial ATP production, decreased	KE
+KE 244	Alkylation, Protein	MIE
+KE 1603	Chronic kidney disease	AO
+KE 1538	Decreased protection against oxidative stress	KE
+KE 178	Mitochondrial electron transport chain, disrupted	KE
+KE 768	Increase, Cytotoxicity	KE
+KE 926	Oxidation, Glutathione (To be considered with MIE)	MIE
+KE 1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	MIE
+KE 759	Increased, Kidney Failure	AO
+KE 294	N/A, Unknown	KE
+KE 9	Activation, 5HT2c	MIE
+KE 1752	Increased Angiotensin II	KE
+KE 1852	Increased Ang II type 1 receptor (AT1R)	KE
+KE 1855	Increased Sodium-sensitive hypertension	KE
+KE 1853	Hyperactivation of ACE/Ang-II/AT1R axis	MIE
+KE 1445	Increase, Lipid peroxidation	KE
+KE 1607	Increase, Necrosis	KE
+KE 105	Inhibition, Mitochondrial Electron Transport Chain Complexes	MIE
+KE 1365	Increase, Apoptosis	KE
+KE 1633	Increase in inflammation	KE
+KE 1770	Decrease, Mitochondrial membrane potential	KE
+KE 1815	Increase, Endoplasmic reticulum stress	KE
+KE 1917	Altered gene expression, NRF2 dependent antioxidant pathway	KE
+KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	KE

@@ -1,0 +1,60 @@
+{
+  "sidra": {
+    "per_organ": {
+      "Brain": {
+        "status": "frozen \u2014 Sidra's committed AOP list",
+        "source": "data/networks/sidra_aops_brain.tsv",
+        "aops": 48,
+        "kes": 203,
+        "aops_absent_from_release": []
+      },
+      "Kidney": {
+        "status": "frozen \u2014 Sidra's committed AOP list",
+        "source": "data/networks/sidra_aops_kidney.tsv",
+        "aops": 16,
+        "kes": 68,
+        "aops_absent_from_release": []
+      },
+      "Liver": {
+        "status": "frozen \u2014 Sidra's committed AOP list",
+        "source": "data/networks/sidra_aops_liver.tsv",
+        "aops": 36,
+        "kes": 196,
+        "aops_absent_from_release": []
+      },
+      "Lung": {
+        "status": "frozen \u2014 Sidra's committed AOP list",
+        "source": "data/networks/sidra_aops_lungs.tsv",
+        "aops": 27,
+        "kes": 134,
+        "aops_absent_from_release": []
+      }
+    }
+  },
+  "aop232_ke_drift": {
+    "method2_only": [
+      "KE 1419",
+      "KE 1420"
+    ],
+    "frame_only": [
+      "KE 2421",
+      "KE 2423"
+    ],
+    "aop": "AOP 232",
+    "note": "AOP-Wiki replaced these KEs after Sidra's run; the frame follows the pinned release, so 2 of 196 liver KEs differ from Method 2's set."
+  },
+  "frames_written": [
+    "data/method1/frames/sidra_brain.csv",
+    "data/method1/frames/sidra_kidney.csv",
+    "data/method1/frames/sidra_liver.csv",
+    "data/method1/frames/sidra_lung.csv"
+  ],
+  "legacy2024": "removed 2026-08-06 \u2014 the February 2024 classification and the frame-sensitivity analysis were dropped from scope",
+  "stage": "02_frames",
+  "generated_at": "2026-08-06T19:39:26+00:00",
+  "aopwiki_rdf_commit": "97191db",
+  "aopwiki_rdf_data_generated": "2026-08-01",
+  "endpoint": "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/",
+  "d31_repo_revision": "b8d4407",
+  "python": "3.12.2"
+}

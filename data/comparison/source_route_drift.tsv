@@ -1,0 +1,3 @@
+method	builder_pin	upstream_pin	kes_in_both_arms	kes_with_identical_gene_sets	pct_identical	builder_genes	upstream_genes	genes_only_in_builder	genes_only_upstream	median_builder_set	median_upstream_set	median_pct_of_builder_set_still_upstream
+method2	builder GO snapshot 2026-06-15	GOA human 2026-05-21 + GO releases/2026-07-26	297	78	26.3	8508	9163	684	1339	50.0	49.0	98.7
+method3	builder WikiPathways snapshot 2026-07-10	WikiPathways RDF 20260810	314	182	58.0	3991	4349	82	440	63.0	64.0	100.0

@@ -1,0 +1,36 @@
+# Method 1 — identifier cross-references for every gene the method annotates onto a KE.
+#
+# Endpoint : https://aopwiki.rdf.bigcat-bioinformatics.org/sparql/
+# Release  : AOPWikiRDF @ 97191db, data generated 2026-08-01  (see pinned-release.yaml)
+# Used by  : analysis/method1/m1_01_fetch.py     ->  data/method1/raw/gene_xrefs.csv
+#            analysis/method1/m1_03_harmonise.py (route A of the Ensembl harmonisation)
+#
+# The comparison in Section 07 harmonises all three methods to Ensembl gene IDs via BridgeDb
+# . Method 1 natively carries HGNC, and the RDF already ships
+# owl:sameAs cross-references that were themselves produced with BridgeDb upstream. So there
+# are two routes to Ensembl and they are not guaranteed to agree:
+#
+#   route A  the owl:sameAs links in this release      (frozen with the pin, offline)
+#   route B  a live call to the BridgeDb webservice    (current mappings, but unpinned)
+#
+# m1_03_harmonise.py runs both and reports the per-route loss and the disagreement, because
+# the loss is a reportable result rather than bookkeeping. Route A is what the report quotes,
+# since it is the only one the pin covers.
+#
+# One HGNC ID can carry several Ensembl IDs (and many UniProt accessions); the consuming
+# script keeps the multiplicity rather than silently taking the first.
+
+PREFIX aopo: <http://aopkb.org/aop_ontology#>
+PREFIX edam: <http://edamontology.org/>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?gene ?symbol ?xref
+WHERE {
+  ?ke a aopo:KeyEvent ;
+      edam:data_1025 ?gene .
+  OPTIONAL { ?gene rdfs:label ?symbol }
+  ?gene owl:sameAs ?xref .
+  FILTER( STRSTARTS(STR(?xref), "https://identifiers.org/ensembl/")
+       || STRSTARTS(STR(?xref), "https://identifiers.org/ncbigene/") )
+}

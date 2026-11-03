@@ -1,0 +1,6 @@
+band	kes	reached	pct_reached	mean_methods
+isolated	45	40	88.9	1.49
+degree 1	90	74	82.2	1.38
+degree 2-3	276	230	83.3	1.49
+degree 4-7	101	86	85.1	1.61
+degree 8+	26	24	92.3	2.08

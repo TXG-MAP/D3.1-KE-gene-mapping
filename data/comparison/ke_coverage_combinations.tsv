@@ -1,0 +1,6 @@
+organ	kes	none	method1_only	method2_only	method3_only	m1_m2	m1_m3	m2_m3	all_three	any
+brain	203	25	17	24	14	13	38	43	29	178
+kidney	68	19	2	8	12	0	5	15	7	49
+liver	196	18	2	36	12	16	12	52	48	178
+lung	134	27	14	9	14	5	21	26	18	107
+four-organ union	538	84	32	75	51	33	69	124	70	454

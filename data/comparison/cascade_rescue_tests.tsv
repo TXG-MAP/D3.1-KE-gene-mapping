@@ -1,0 +1,7 @@
+n_previous_covered	n_previous_missed	b_rate_where_previous_covered	b_rate_where_previous_missed	rescue_difference_pp	odds_ratio_rescue_vs_not	fisher_p	universe	previous	next
+204	334	50.5	59.6	9.1	1.445	0.0401	all 538 KEs	method1	method2
+204	334	68.1	52.4	-15.7	0.515	0.000318	all 538 KEs	method1	method3
+403	135	65.3	37.8	-27.5	0.323	3.61e-08	all 538 KEs	method1 or method2	method3
+116	26	88.8	69.2	-19.6	0.284	0.0271	KEs all three attempted	method1	method2
+116	26	68.1	46.2	-21.9	0.401	0.043	KEs all three attempted	method1	method3
+134	8	66.4	25.0	-41.4	0.169	0.0253	KEs all three attempted	method1 or method2	method3

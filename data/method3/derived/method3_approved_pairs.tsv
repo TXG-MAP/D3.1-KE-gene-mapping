@@ -1,0 +1,460 @@
+ke_id	ke_name	ke_bio_level	wp_id	wp_title	confidence	approved_at
+KE 40	Mitochondrial ATP production, decreased	Cellular	WP1403	AMP-activated protein kinase signaling	medium	2026-08-13T12:32:00.095228
+KE 388	Overactivation, NMDARs	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	high	2026-08-13T12:31:54.223415
+KE 616	Occurrence, A paroxysmal depolarizing shift	Tissue	WP5600	GABA and glutamate signalling in epileptogenesis	high	2026-08-13T12:29:23.909048
+KE 667	Binding at picrotoxin site, iGABAR chloride channel	Molecular	WP4159	GABA receptor signaling	high	2026-08-13T12:28:18.665829
+KE 682	Generation, Amplified excitatory postsynaptic potential (EPSP)	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	medium	2026-08-13T12:28:01.514598
+KE 761	Increased, Chloride conductance	Cellular	WP4159	GABA receptor signaling	high	2026-08-13T12:26:13.128082
+KE 783	Increase, Cytotoxicity (tubular epithelial cells)	Cellular	WP4838	Regucalcin in proximal tubule epithelial kidney cells	medium	2026-08-13T12:25:01.826515
+KE 850	Induction, CYP1A2/CYP1A5	Molecular	WP2586	Aryl hydrocarbon receptor response to main mediators PAH and TCDD	high	2026-08-13T12:24:08.186131
+KE 890	Degeneration of dopaminergic neurons of the nigrostriatal pathway	Organ	WP5372	Involvement of δ-secretase in neurodegenerative diseases	medium	2026-08-13T12:21:56.355673
+KE 1012	Increased, Inhibitory postsynaptic potential	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	medium	2026-08-13T12:20:13.657748
+KE 1015	Increased, Neuronal synaptic inhibition	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	medium	2026-08-13T12:20:05.691252
+KE 1177	Decreased, Ionotropic GABA receptor chloride channel conductance	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	high	2026-08-13T12:19:26.048390
+KE 1197	Activation, Fibroblasts	Cellular	WP3624	Lung fibrosis	medium	2026-08-13T12:19:00.783521
+KE 1355	Activated, membrane depolarization	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	medium	2026-08-13T12:18:28.513835
+KE 1362	Increased, hippocampal hyperdepolarization	Molecular	WP5600	GABA and glutamate signalling in epileptogenesis	high	2026-08-13T12:17:44.650586
+KE 1445	Increase, Lipid peroxidation	Molecular	WP4313	Ferroptosis	low	2026-08-13T12:17:41.043424
+KE 1501	Increase, Extracellular matrix deposition	Tissue	WP5312	Metabolic pathways of fibroblasts	low	2026-08-13T12:11:39.101173
+KE 1511	Lipid Peroxidation	Molecular	WP4313	Ferroptosis	low	2026-08-13T12:10:01.056225
+KE 1527	Increase, Cell membrane depolarization	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	medium	2026-08-13T12:08:47.565841
+KE 2012	Fibroblast proliferation and differentiation	Cellular	WP3624	Lung fibrosis	low	2026-08-13T12:07:08.781628
+KE 2036	Activation of metabotropic glutamate receptor	Molecular	WP501	GPCRs, class C metabotropic glutamate, pheromone	high	2026-08-13T12:05:51.757481
+KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	Molecular	WP231	TNF-alpha signaling	high	2026-08-11T12:47:01.110088
+KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	Molecular	WP3656	Interleukin-1 induced activation of NF-kB	medium	2026-08-11T12:45:06.004097
+KE 239	Activation, Pregnane-X receptor, NR1I2	Molecular	WP2876	Pregnane X receptor pathway	high	2026-08-11T12:44:35.715675
+KE 352	N/A, Neurodegeneration	Tissue	WP5372	Involvement of δ-secretase in neurodegenerative diseases	medium	2026-08-11T12:42:38.002069
+KE 385	Decrease of synaptogenesis	Cellular	WP4875	Disruption of postsynaptic signaling by CNV	medium	2026-08-11T12:39:52.772623
+KE 618	Decreased, Neuronal network function in adult brain	Organ	WP5083	Neuroinflammation and glutamatergic signaling	medium	2026-08-11T12:39:10.445157
+KE 669	Reduction, Neuronal synaptic inhibition	Cellular	WP5600	GABA and glutamate signalling in epileptogenesis	high	2026-08-11T12:37:45.039604
+KE 762	Activation, ionotropic GABA Receptor chloride channel	Molecular	WP4159	GABA receptor signaling	high	2026-08-11T12:36:04.540248
+KE 767	Increase, Hyperplasia (renal tubular cells)	Cellular	WP4838	Regucalcin in proximal tubule epithelial kidney cells	medium	2026-08-11T12:35:22.894943
+KE 767	Increase, Hyperplasia (renal tubular cells)	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-08-11T12:31:06.694475
+KE 768	Increase, Cytotoxicity	Cellular	WP254	Apoptosis	high	2026-08-11T12:29:45.949817
+KE 770	Increase, Cytotoxicity (club cells)	Cellular	WP1772	Apoptosis modulation and signaling	medium	2026-08-11T12:29:34.337080
+KE 771	Decrease, Serum thyroid hormone (T4/T3)	Tissue	WP1981	Thyroxine (thyroid hormone) production	high	2026-08-11T12:29:22.993863
+KE 780	Increase, Cytotoxicity (epithelial cells)	Cellular	WP1772	Apoptosis modulation and signaling	medium	2026-08-11T12:29:09.047459
+KE 783	Increase, Cytotoxicity (tubular epithelial cells)	Cellular	WP1772	Apoptosis modulation and signaling	medium	2026-08-11T12:28:23.053930
+KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	Cellular	WP111	Electron transport chain: OXPHOS system in mitochondria	high	2026-08-11T12:27:33.625261
+KE 959	Increased, Free serum thyroxine (T4)	Tissue	WP4746	Thyroid hormones production and peripheral downstream signaling effects	medium	2026-08-11T12:26:09.564728
+KE 1096	Increased, blood uric acid concentration	Tissue	WP4224	Purine metabolism and related disorders	high	2026-08-11T12:25:30.139947
+KE 1172	Increased activation, Nuclear factor kappa B (NF-kB)	Cellular	WP3656	Interleukin-1 induced activation of NF-kB	medium	2026-08-11T12:23:51.674075
+KE 1177	Decreased, Ionotropic GABA receptor chloride channel conductance	Cellular	WP4159	GABA receptor signaling	high	2026-08-11T12:21:59.543518
+KE 1198	Activation, Macrophages	Cellular	WP4493	Cells and molecules involved in local acute inflammatory response	medium	2026-08-11T12:21:15.270508
+KE 1223	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	Tissue	WP4962	Airway smooth muscle cell contraction	medium	2026-08-11T12:19:01.029791
+KE 1439	Systemic acute phase response	Organ	WP4493	Cells and molecules involved in local acute inflammatory response	medium	2026-08-11T12:16:53.062229
+KE 1496	Increased, secretion of proinflammatory mediators	Cellular	WP5095	Overview of proinflammatory and profibrotic mediators	high	2026-08-11T12:15:52.003925
+KE 1339	Increase, intracellular calcium	Cellular	WP536	Calcium regulation in cardiac cells	high	2026-08-11T12:15:13.496068
+KE 1350	Increased, glutamate	Molecular	WP5083	Neuroinflammation and glutamatergic signaling	high	2026-08-11T12:15:08.624514
+KE 1352	Activated, voltage-gated sodium channel	Molecular	WP5598	Sodium channel in epilepsy	medium	2026-08-11T12:15:02.233571
+KE 1353	Binding to voltage-gated sodium channel	Molecular	WP5598	Sodium channel in epilepsy	medium	2026-08-11T12:14:55.429969
+KE 1977	Disruption of sodium channel gating kinetics	Cellular	WP5598	Sodium channel in epilepsy	high	2026-08-11T12:14:21.402913
+KE 1848	Toll Like Receptor (TLR) Dysregulation	Molecular	WP3858	Toll-like receptor signaling related to MyD88	high	2026-08-11T12:13:49.097393
+KE 1851	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	Molecular	WP4756	Renin-angiotensin-aldosterone system (RAAS)	high	2026-08-11T12:13:42.926537
+KE 1854	Dysregulation, ACE2 expression and activity	Molecular	WP4969	Renin Angiotensin System and Bradykinin pathways in COVID-19	medium	2026-08-11T12:13:37.994033
+KE 1854	Dysregulation, ACE2 expression and activity	Molecular	WP5036	Angiotensin II receptor type 1 pathway	medium	2026-08-11T12:13:26.543744
+KE 1922	Increased, Reactive metabolites production	Cellular	WP702	Metapathway biotransformation Phase I and II	medium	2026-08-11T12:13:20.421714
+KE 2107	Hypomyelination	Tissue	WP4304	Oligodendrocyte specification and differentiation, leading to myelin components for CNS	medium	2026-08-11T11:58:07.654049
+KE 2111	Decreased, neural progenitor cell adhesion to laminin	Cellular	WP185	Integrin-mediated cell adhesion	high	2026-08-11T11:58:01.538397
+KE 2115	Altered, cholesterol metabolism	Molecular	WP197	Cholesterol biosynthesis pathway	high	2026-08-11T11:57:52.310443
+KE 2115	Altered, cholesterol metabolism	Molecular	WP4545	Oxysterols derived from cholesterol	medium	2026-08-11T11:57:49.638772
+KE 2116	Decreased, oligodendrocyte differentiation	Cellular	WP4304	Oligodendrocyte specification and differentiation, leading to myelin components for CNS	high	2026-08-11T11:57:43.963745
+KE 2195	Increase, CNS Neural cell death	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-08-11T11:57:39.221787
+KE 2265	Oligodendrocyte death, increased	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-08-11T11:56:54.234886
+KE 1623	Occurrence, Focal Seizure	Tissue	WP5598	Sodium channel in epilepsy	medium	2026-08-11T11:51:13.301114
+KE 1456	Increase, Differentiation of fibroblasts	Cellular	WP3624	Lung fibrosis	low	2026-08-11T11:51:00.958734
+KE 1488	Glutamate dyshomeostasis	Cellular	WP5083	Neuroinflammation and glutamatergic signaling	high	2026-08-11T11:50:43.638936
+KE 1218	Opening of calcium channel, Calcium influx	Cellular	WP536	Calcium regulation in cardiac cells	medium	2026-08-11T11:50:22.522470
+KE 1275	Collagen Deposition	Tissue	WP4786	Type I collagen synthesis in the context of osteogenesis imperfecta	medium	2026-08-11T11:50:12.516922
+KE 1275	Collagen Deposition	Tissue	WP5312	Metabolic pathways of fibroblasts	medium	2026-08-11T11:50:07.359975
+KE 1014	Induction, Somatic muscle paralysis	Tissue	WP383	Striated muscle contraction pathway	medium	2026-08-11T11:49:53.740842
+KE 784	Increase, Hyperplasia (tubular epithelial cells)	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-08-11T11:49:31.969712
+KE 794	Increase, Cytotoxicity (urothelial cells)	Cellular	WP1772	Apoptosis modulation and signaling	medium	2026-08-11T11:49:25.408278
+KE 795	Increase, Regenerative cell proliferation (urothelial cells)	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-08-11T11:49:20.921762
+KE 821	Decreased, Sodium reabsorption	Organ	WP4917	Proximal tubule transport	medium	2026-08-11T11:48:40.749628
+KE 850	Induction, CYP1A2/CYP1A5	Molecular	WP43	Oxidation by cytochrome P450	medium	2026-08-11T11:48:23.927708
+KE 851	Decrease of GABAergic interneurons	Cellular	WP4159	GABA receptor signaling	medium	2026-08-11T11:48:10.130628
+KE 875	Binding of agonist, Ionotropic glutamate receptors	Molecular	WP5083	Neuroinflammation and glutamatergic signaling	medium	2026-08-11T11:48:03.932535
+KE 709	Increase, Cytotoxicity (renal tubular cell)	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-08-11T11:47:32.632106
+KE 710	Increase, Regenerative cell proliferation (tubular epithelial cells)	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-08-11T11:47:26.954980
+KE 756	Hippocampal gene expression, Altered	Tissue	WP5231	Hippocampal synaptogenesis and neurogenesis	high	2026-08-11T11:47:17.464664
+KE 757	Hippocampal anatomy, Altered	Tissue	WP5231	Hippocampal synaptogenesis and neurogenesis	high	2026-08-11T11:47:13.295827
+KE 757	Hippocampal anatomy, Altered	Tissue	WP5536	Wnt signaling in adult hippocampal neurogenesis	medium	2026-08-11T11:47:11.296475
+KE 758	Hippocampal Physiology, Altered	Tissue	WP5090	Complement system in neuronal development and plasticity	medium	2026-08-11T11:47:07.271097
+KE 758	Hippocampal Physiology, Altered	Tissue	WP5231	Hippocampal synaptogenesis and neurogenesis	high	2026-08-11T11:46:57.939346
+KE 383	Reduced, Presynaptic release of glutamate	Molecular	WP2267	Synaptic vesicle pathway	high	2026-08-11T11:46:38.938392
+KE 398	Activation, Dendritic Cells	Cellular	WP5187	mRNA vaccine activation of dendritic cell and induction of IFN-1	medium	2026-08-11T11:46:09.931706
+KE 425	Decrease of Thyroidal iodide	Cellular	WP1981	Thyroxine (thyroid hormone) production	high	2026-08-11T11:45:59.439565
+KE 613	Occurrence, Epileptic seizure	Individual	WP5600	GABA and glutamate signalling in epileptogenesis	medium	2026-08-11T11:45:48.772175
+KE 68	Increase, Collagen accumulation	Tissue	WP3624	Lung fibrosis	low	2026-08-11T11:45:08.475288
+KE 155	Inadequate DNA repair	Cellular	WP4946	Genes and complexes involved in the DNA repair pathways	high	2026-08-11T11:44:54.722810
+KE 178	Mitochondrial electron transport chain, disrupted	Cellular	WP4324	Mitochondrial complex I assembly model OXPHOS system	high	2026-08-11T11:44:49.558899
+KE 186	Altered, Neuroanatomy	Organ	WP5231	Hippocampal synaptogenesis and neurogenesis	medium	2026-08-11T11:44:43.390981
+KE 188	Neuroinflammation	Tissue	WP5083	Neuroinflammation and glutamatergic signaling	medium	2026-08-11T11:44:36.620106
+KE 192	Altered, Neurophysiology	Organ	WP5231	Hippocampal synaptogenesis and neurogenesis	medium	2026-08-11T11:44:31.953027
+KE 193	Decreased, Nitric Oxide	Cellular	WP1995	Effects of nitric oxide	high	2026-08-11T11:44:20.320141
+KE 64	Reduction, Ionotropic GABA receptor chloride channel conductance	Cellular	WP4159	GABA receptor signaling	high	2026-08-11T11:44:05.523675
+KE 52	Decreased, Calcium influx	Cellular	WP536	Calcium regulation in cardiac cells	medium	2026-08-11T11:43:58.490916
+KE 50	Increase, Ca++ (intracellular)	Cellular	WP536	Calcium regulation in cardiac cells	medium	2026-08-11T11:43:46.733175
+KE 272	Activation/Proliferation, T-cells	Organ	WP69	T-cell receptor signaling	high	2026-08-10T12:05:03.378804
+KE 277	Thyroid hormone synthesis, Decreased	Cellular	WP1981	Thyroxine (thyroid hormone) production	high	2026-08-10T12:03:55.616057
+KE 295	Induction, Upregulation of glucuronyltransferase activity	Molecular	WP698	Glucuronidation	high	2026-08-10T12:03:40.763986
+KE 381	Reduced levels of BDNF	Molecular	WP2380	Brain-derived neurotrophic factor (BDNF) signaling	high	2026-08-10T12:00:44.769587
+KE 383	Reduced, Presynaptic release of glutamate	Molecular	WP5083	Neuroinflammation and glutamatergic signaling	high	2026-08-10T11:59:59.917675
+KE 385	Decrease of synaptogenesis	Cellular	WP5231	Hippocampal synaptogenesis and neurogenesis	high	2026-08-10T11:58:37.834680
+KE 386	Decrease of neuronal network function	Organ	WP4875	Disruption of postsynaptic signaling by CNV	medium	2026-08-10T11:57:54.039192
+KE 17	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	Molecular	WP2873	Aryl hydrocarbon receptor pathway	high	2026-08-10T11:49:57.676354
+KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	Molecular	WP4324	Mitochondrial complex I assembly model OXPHOS system	high	2026-08-10T11:46:15.999985
+KE 889	Proteostasis, impaired	Cellular	WP183	Proteasome degradation	high	2026-08-10T11:46:03.615649
+KE 896	Parkinsonian motor deficits	Individual	WP2371	Parkinson's disease pathway	medium	2026-08-10T11:45:32.068658
+KE 941	Activation, EGFR	Molecular	WP437	EGF/EGFR signaling	high	2026-08-10T11:45:24.583890
+KE 960	Increased, Uptake of thyroxine into tissue	Cellular	WP4746	Thyroid hormones production and peripheral downstream signaling effects	high	2026-08-10T11:44:54.590083
+KE 961	Increased, Clearance of thyroxine from serum	Tissue	WP4746	Thyroid hormones production and peripheral downstream signaling effects	medium	2026-08-10T11:30:12.944455
+KE 1270	Inactivation of PPARγ	Molecular	WP3942	PPAR signaling	high	2026-08-10T11:16:41.021312
+KE 1276	Lung fibrosis	Organ	WP3624	Lung fibrosis	high	2026-08-10T11:16:07.981379
+KE 1283	Activation, TGF-beta pathway	Cellular	WP3874	Canonical and non-canonical TGF-B signaling	high	2026-08-10T11:15:59.657895
+KE 1292	Activation, JNK	Cellular	WP382	MAPK signaling	high	2026-08-10T11:15:04.566101
+KE 1349	Activated, presynaptic neuron 1	Molecular	WP2267	Synaptic vesicle pathway	high	2026-08-10T11:11:13.817206
+KE 1363	Increased, epilepsy	Individual	WP5600	GABA and glutamate signalling in epileptogenesis	high	2026-08-10T10:42:07.273800
+KE 1365	Increase, Apoptosis	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-08-10T10:40:54.781322
+KE 1391	Activation of Cyp2E1	Molecular	WP43	Oxidation by cytochrome P450	high	2026-08-10T10:40:47.735462
+KE 1413	Reduced, presynaptic neuron 2 activity	Cellular	WP2267	Synaptic vesicle pathway	high	2026-08-10T10:39:32.322990
+KE 1414	Decreased, GABA	Cellular	WP4157	GABA metabolism (aka GHB)	high	2026-08-10T10:39:01.003333
+KE 1415	Reduced, GABA-A receptor activation	Molecular	WP4159	GABA receptor signaling	high	2026-08-10T10:38:41.106045
+KE 1457	Epithelial Mesenchymal Transition	Cellular	WP5469	Hallmark of cancer: metastasis and epithelial-to-mesenchymal transition	high	2026-08-10T10:38:13.632138
+KE 1458	Pulmonary fibrosis	Organ	WP3624	Lung fibrosis	high	2026-08-10T10:37:44.713444
+KE 1468	Activation, Latent Transforming Growth Factor Beta 1	Molecular	WP560	TGF-beta receptor signaling	medium	2026-08-10T10:37:37.298801
+KE 1469	Activation, Transforming Growth Factor beta pathway	Molecular	WP560	TGF-beta receptor signaling	high	2026-08-10T10:36:43.726994
+KE 1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Molecular	WP408	Oxidative stress response	medium	2026-08-10T10:36:31.991467
+KE 1497	Increased, recruitment of inflammatory cells	Tissue	WP4493	Cells and molecules involved in local acute inflammatory response	medium	2026-08-10T10:33:34.038349
+KE 1508	CYP2E1 Activation	Molecular	WP43	Oxidation by cytochrome P450	high	2026-08-10T10:32:43.293298
+KE 1513	General Apoptosis	Cellular	WP254	Apoptosis	high	2026-08-10T10:21:14.400803
+KE 1908	Cilia Beat Frequency, Decreased	Cellular	WP4803	Ciliopathies	high	2026-08-10T10:19:07.867217
+KE 2086	Airway inflammation	Organ	WP4493	Cells and molecules involved in local acute inflammatory response	medium	2026-08-10T10:16:24.528047
+KE 2094	Abnormal, neuroblast migration	Cellular	WP5289	Axon guidance	medium	2026-08-10T10:16:10.450811
+KE 2097	Increase, Pro-Inflammatory Mediators	Tissue	WP5095	Overview of proinflammatory and profibrotic mediators	high	2026-08-10T10:13:29.017146
+KE 2098	Increase, Abnormal Neural Remodeling	Tissue	WP5090	Complement system in neuronal development and plasticity	medium	2026-08-10T10:12:52.743382
+KE 2110	Disrupted binding, laminin-beta1-integrin receptors with laminin	Molecular	WP185	Integrin-mediated cell adhesion	high	2026-08-10T10:08:53.178135
+KE 2116	Decreased, oligodendrocyte differentiation	Cellular	WP5574	Oligodendrocyte development	high	2026-08-10T10:05:54.841741
+KE 2151	Disruption, neurotransmitter release	Molecular	WP2267	Synaptic vesicle pathway	high	2026-08-10T10:05:48.415608
+KE 2188	Activation, caspases	Cellular	WP254	Apoptosis	high	2026-08-10T10:05:38.206990
+KE 2202	Altered expression of cell cycle genes	Molecular	WP179	Cell cycle	high	2026-08-10T10:04:01.238390
+KE 2208	Aberrant, synaptic formation and plasticity	Organ	WP4875	Disruption of postsynaptic signaling by CNV	high	2026-08-10T10:03:53.576286
+KE 2208	Aberrant, synaptic formation and plasticity	Organ	WP5231	Hippocampal synaptogenesis and neurogenesis	high	2026-08-10T10:03:37.057878
+KE 2216	Binding of antagonist to thyroid hormone receptor	Molecular	WP4746	Thyroid hormones production and peripheral downstream signaling effects	high	2026-08-10T10:02:26.929147
+KE 2217	Binding of antagonist to glucocorticoid hormone receptor	Molecular	WP2880	Glucocorticoid receptor pathway	high	2026-08-10T10:02:16.562950
+KE 2218	Binding of (ant)agonist to liver X receptor	Molecular	WP2874	Liver X receptor pathway	high	2026-08-10T10:02:04.526182
+KE 2220	Antagonism, Glucocorticoid hormone receptor	Molecular	WP2880	Glucocorticoid receptor pathway	high	2026-08-10T10:01:56.663113
+KE 2221	Altered Liver X receptor activity	Molecular	WP2874	Liver X receptor pathway	high	2026-08-10T10:01:34.293621
+KE 2223	Reduced number of oligodendrocytes	Cellular	WP5574	Oligodendrocyte development	high	2026-08-10T10:00:53.580018
+KE 2232	Antagonism, Retinoic acid receptors	Molecular	WP5397	Vitamin A1 and A5/X pathways	high	2026-08-10T10:00:25.668859
+KE 2232	Antagonism, Retinoic acid receptors	Molecular	WP716	Vitamin A and carotenoid metabolism	medium	2026-08-10T10:00:10.334832
+KE 2233	Decreased, ERαβ heterodimers	Molecular	WP2881	Estrogen receptor pathway	medium	2026-08-10T09:59:57.259678
+KE 2299	Altered, Redox Homeostasis	Molecular	WP408	Oxidative stress response	high	2026-08-10T09:54:04.974852
+KE 2300	Disruption, Glucolipid metabolism	Cellular	WP3965	Lipid metabolism pathway	high	2026-08-10T09:52:56.192650
+KE 2300	Disruption, Glucolipid metabolism	Cellular	WP534	Glycolysis and gluconeogenesis	high	2026-08-10T09:52:29.550927
+KE 1538	Decreased protection against oxidative stress	Cellular	WP408	Oxidative stress response	high	2026-08-10T08:22:13.332232
+KE 1541	Mitochondrial Complex I inhibition	Molecular	WP4324	Mitochondrial complex I assembly model OXPHOS system	high	2026-08-10T08:22:03.113130
+KE 1556	Increase, lung cancer	Organ	WP4255	Non-small cell lung cancer	medium	2026-08-10T08:21:49.280027
+KE 1556	Increase, lung cancer	Organ	WP4658	Small cell lung cancer	medium	2026-08-10T08:21:40.879516
+KE 1581	Disturbance in microtubule dynamic instability	Cellular	WP2038	Microtubule cytoskeleton regulation	high	2026-08-10T08:21:28.787404
+KE 1585	Proteasomal dysfunction	Molecular	WP183	Proteasome degradation	high	2026-08-10T08:21:16.601463
+KE 1587	Fibroproliferative airway lesions	Tissue	WP3624	Lung fibrosis	high	2026-08-10T08:21:09.518185
+KE 1607	Increase, Necrosis	Tissue	WP2513	Nanoparticle triggered regulated necrosis	medium	2026-08-10T08:20:50.170293
+KE 1607	Increase, Necrosis	Tissue	WP4313	Ferroptosis	high	2026-08-10T08:20:18.697620
+KE 1635	Increase, DNA strand breaks	Molecular	WP3959	DNA IR-double strand breaks and cellular response via ATM	high	2026-08-10T08:19:20.121306
+KE 1635	Increase, DNA strand breaks	Molecular	WP4946	Genes and complexes involved in the DNA repair pathways	high	2026-08-10T08:18:13.240214
+KE 1656	Antagonism, Thyroid Receptor	Molecular	WP4746	Thyroid hormones production and peripheral downstream signaling effects	medium	2026-08-10T08:17:59.989171
+KE 1668	Frustrated phagocytosis	Cellular	WP3937	Microglia pathogen phagocytosis pathway	medium	2026-08-10T08:16:51.251377
+KE 1669	Increased, DNA damage and mutation	Cellular	WP4946	Genes and complexes involved in the DNA repair pathways	high	2026-08-10T08:16:36.889327
+KE 1669	Increased, DNA damage and mutation	Cellular	WP707	DNA damage response	high	2026-08-10T08:16:07.101413
+KE 1670	Lung cancer	Organ	WP4255	Non-small cell lung cancer	medium	2026-08-10T08:16:00.110167
+KE 1670	Lung cancer	Organ	WP4658	Small cell lung cancer	medium	2026-08-10T08:15:49.703426
+KE 1708	Th17 cell migration and inflammation induction	Cellular	WP2112	IL17 signaling	high	2026-08-10T08:15:40.449802
+KE 1708	Th17 cell migration and inflammation induction	Cellular	WP5130	Th17 cell differentiation pathway	high	2026-08-10T08:13:59.804422
+KE 1738	SARS-CoV-2 cell entry	Cellular	WP4846	SARS-CoV-2 and COVID-19 pathway	high	2026-08-10T08:13:30.259267
+KE 1750	Increased inflammatory immune responses	Tissue	WP4493	Cells and molecules involved in local acute inflammatory response	high	2026-08-10T08:13:10.743040
+KE 1750	Increased inflammatory immune responses	Tissue	WP453	Inflammatory response pathway	high	2026-08-10T08:11:54.058691
+KE 1752	Increased Angiotensin II	Cellular	WP4756	Renin-angiotensin-aldosterone system (RAAS)	high	2026-08-10T08:11:46.376605
+KE 1770	Decrease, Mitochondrial membrane potential	Cellular	WP111	Electron transport chain: OXPHOS system in mitochondria	high	2026-08-10T08:10:30.877493
+KE 1788	Status epilepticus	Individual	WP5600	GABA and glutamate signalling in epileptogenesis	high	2026-08-10T08:09:38.887353
+KE 1792	Toll-like receptor 4 activation	Molecular	WP75	Toll-like receptor signaling	high	2026-08-10T08:08:42.382885
+KE 1795	Latent Transforming growth Factor beta expression	Cellular	WP560	TGF-beta receptor signaling	medium	2026-08-10T08:08:34.345927
+KE 1812	Increase, Cytochrome c release	Cellular	WP254	Apoptosis	high	2026-08-10T08:08:25.675370
+KE 1816	Mitochondrial dysfunction EMPTY	Cellular	WP5504	Disorders of mitochondrial homeostatis, dynamics, protein import, and quality control	high	2026-08-10T08:06:10.130286
+KE 1829	Altered, Thyroid hormone-dependent gene expression	Molecular	WP4746	Thyroid hormones production and peripheral downstream signaling effects	high	2026-08-10T08:05:52.754548
+KE 1841	Encephalitis	Organ	WP4919	Neuroinflammation	medium	2026-08-10T08:05:34.673262
+KE 1842	Prolonged TLR9 activation	Molecular	WP1449	Regulation of toll-like receptor signaling	high	2026-08-10T08:04:20.252728
+KE 1844	systemic inflammatory response syndrome	Individual	WP4493	Cells and molecules involved in local acute inflammatory response	medium	2026-08-10T08:02:48.910256
+KE 1846	Thrombosis and Disseminated Intravascular Coagulation	Individual	WP272	Blood clotting cascade	high	2026-08-10T08:02:34.455060
+KE 1847	Increased SARS-CoV-2 production	Cellular	WP4846	SARS-CoV-2 and COVID-19 pathway	high	2026-08-10T08:01:21.620080
+KE 1851	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	Molecular	WP5036	Angiotensin II receptor type 1 pathway	high	2026-08-10T07:58:01.316290
+KE 1853	Hyperactivation of ACE/Ang-II/AT1R axis	Molecular	WP4756	Renin-angiotensin-aldosterone system (RAAS)	high	2026-08-10T07:57:41.693388
+KE 1853	Hyperactivation of ACE/Ang-II/AT1R axis	Molecular	WP5036	Angiotensin II receptor type 1 pathway	high	2026-08-10T07:57:31.655455
+KE 1857	Platelet-neutrophil interactions, Increased	Cellular	WP4462	Platelet-mediated interactions with vascular and circulating cells	high	2026-08-10T07:55:16.417677
+KE 1868	Hyperinflammation	Tissue	WP5095	Overview of proinflammatory and profibrotic mediators	high	2026-08-10T07:54:48.034822
+KE 1869	Diminished protective oxidative stress response	Cellular	WP408	Oxidative stress response	high	2026-08-10T07:54:30.445856
+KE 1897	increased MyD88 activation	Molecular	WP3877	MYD88 distinct input-output pathway	high	2026-08-10T07:54:20.351116
+KE 1900	increased platelet surface TLR9 expression	Cellular	WP1449	Regulation of toll-like receptor signaling	medium	2026-08-10T07:54:06.535521
+KE 1901	Interferon-I antiviral response, antagonized by SARS-CoV-2	Cellular	WP4868	Type I interferon induction and signaling during SARS-CoV-2 infection	high	2026-08-10T07:53:48.933013
+KE 1909	Mucociliary Clearance, Decreased	Individual	WP4803	Ciliopathies	medium	2026-08-10T07:53:24.151374
+KE 1912	Motile Cilia Number/Length, Decreased	Cellular	WP4536	Genes related to primary cilium development (based on CRISPR)	medium	2026-08-10T07:51:59.922267
+KE 1912	Motile Cilia Number/Length, Decreased	Cellular	WP4803	Ciliopathies	high	2026-08-10T07:51:40.024913
+KE 1917	Altered gene expression, NRF2 dependent antioxidant pathway	Molecular	WP3	Transcriptional activation by NRF2 in response to phytochemicals	high	2026-08-10T07:50:18.094850
+KE 1923	Altered gene expression, P53 dependent apoptosis pathway	Molecular	WP4963	p53 transcriptional gene network	high	2026-08-10T07:48:33.092613
+KE 1933	Increased, Interleukin-6 production	Cellular	WP4493	Cells and molecules involved in local acute inflammatory response	high	2026-08-10T07:48:16.183092
+KE 1944	Synaptic dysfunction	Organ	WP2267	Synaptic vesicle pathway	high	2026-08-10T07:48:02.388119
+KE 1945	Dysfunctional Autophagy	Cellular	WP4923	Autophagy	high	2026-08-10T07:47:39.937104
+KE 2005	Altered neurotransmission in development	Cellular	WP2267	Synaptic vesicle pathway	high	2026-08-10T07:47:15.016463
+KE 2010	Pulmonary inflammation	Organ	WP453	Inflammatory response pathway	medium	2026-08-10T07:46:55.724107
+KE 2013	Airway remodeling	Organ	WP3624	Lung fibrosis	medium	2026-08-10T07:45:32.620329
+KE 2017	Endoplasmic reticulum stress	Cellular	WP4925	Unfolded protein response	high	2026-08-10T07:44:50.242977
+KE 2039	Inhibition GABAA receptor	Molecular	WP4159	GABA receptor signaling	high	2026-08-10T07:43:03.435437
+KE 2086	Airway inflammation	Organ	WP3624	Lung fibrosis	medium	2026-08-10T07:42:46.884445
+KE 2093	Brain thyroid hormone (T4/T3) decreased	Organ	WP4746	Thyroid hormones production and peripheral downstream signaling effects	medium	2026-08-10T07:40:44.407153
+KE 9	Activation, 5HT2c	Molecular	WP732	Serotonin receptor 2 and ELK-SRF/GATA4 signaling	high	2026-07-29T17:32:16.121667
+KE 12	Acetylcholinesterase (AchE) Inhibition	Cellular	WP550	Biogenic amine synthesis	high	2026-07-29T17:32:12.662914
+KE 654	Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists	Cellular	WP5393	Androgen biosynthesis	high	2026-07-29T17:31:28.855312
+KE 837	Occurrence, Cytoplasmic vacuolization (kupffer cell)	Cellular	WP4923	Autophagy	medium	2026-07-29T17:31:18.839853
+KE 2336	Increase, SREBF1	Molecular	WP1982	Sterol regulatory element-binding proteins (SREBP) signaling	high	2026-07-29T17:31:14.686628
+KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	Molecular	WP368	Mitochondrial long chain fatty acid beta-oxidation	high	2026-07-29T16:51:24.926471
+KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	Molecular	WP143	Fatty acid beta-oxidation	high	2026-07-29T16:51:24.930192
+KE 450	Suppression, VLDL secretion	Cellular	WP5323	Fatty acid and lipoprotein transport in hepatocytes	high	2026-07-29T16:51:24.930398
+KE 345	N/A, Liver Steatosis	Organ	WP5323	Fatty acid and lipoprotein transport in hepatocytes	medium	2026-07-29T16:51:24.930588
+KE 345	N/A, Liver Steatosis	Organ	WP4396	Nonalcoholic fatty liver disease	medium	2026-07-29T16:51:24.930671
+KE 344	N/A, Liver fibrosis	Organ	WP4786	Type I collagen synthesis in the context of osteogenesis imperfecta	medium	2026-07-29T16:51:24.930753
+KE 334	Promotion, Hepatocelluar carcinoma	Individual	WP4337	ncRNAs involved in STAT3 signaling in hepatocellular carcinoma	medium	2026-07-29T16:51:24.930830
+KE 334	Promotion, Hepatocelluar carcinoma	Individual	WP4336	ncRNAs in Wnt signaling in hepatocellular carcinoma	medium	2026-07-29T16:51:24.930903
+KE 334	Promotion, Hepatocelluar carcinoma	Individual	WP313	Hepatocyte growth factor receptor signaling	medium	2026-07-29T16:51:24.930976
+KE 327	Accumulation, Fatty acid	Organ	WP5061	Fatty acid transporters	medium	2026-07-29T16:51:24.931048
+KE 327	Accumulation, Fatty acid	Organ	WP357	Fatty acid biosynthesis	medium	2026-07-29T16:51:24.931128
+KE 327	Accumulation, Fatty acid	Organ	WP143	Fatty acid beta-oxidation	high	2026-07-29T16:51:24.931201
+KE 291	Accumulation, Triglyceride	Cellular	WP5323	Fatty acid and lipoprotein transport in hepatocytes	high	2026-07-29T16:51:24.931274
+KE 291	Accumulation, Triglyceride	Cellular	WP325	Triacylglyceride synthesis	high	2026-07-29T16:51:24.931348
+KE 264	Activation, SREBP-1c	Molecular	WP1982	Sterol regulatory element-binding proteins (SREBP) signaling	high	2026-07-29T16:51:24.931420
+KE 245	Activation, PXR/SXR	Molecular	WP2876	Pregnane X receptor pathway	high	2026-07-29T16:51:24.931490
+KE 233	Decreased, PPAR-gamma activation	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:51:24.931560
+KE 232	Decreased, PPAR-beta activation	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:51:24.931641
+KE 231	Decreased, PPAR-alpha activation	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:51:24.931715
+KE 231	Decreased, PPAR-alpha activation	Molecular	WP2878	PPAR-alpha pathway	high	2026-07-29T16:51:24.931787
+KE 228	peroxisome proliferator activated receptor promoter demethylation	Molecular	WP3942	PPAR signaling	medium	2026-07-29T16:51:24.931857
+KE 216	Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)	Cellular	WP534	Glycolysis and gluconeogenesis	high	2026-07-29T16:51:24.931928
+KE 179	Decrease, Fatty acid beta-oxidation	Cellular	WP143	Fatty acid beta-oxidation	high	2026-07-29T16:51:24.931999
+KE 177	Mitochondrial dysfunction	Cellular	WP111	Electron transport chain: OXPHOS system in mitochondria	high	2026-07-29T16:51:24.932272
+KE 167	Activation, LXR	Molecular	WP2874	Liver X receptor pathway	high	2026-07-29T16:51:24.932367
+KE 165	Activation, Long term AHR receptor driven direct and indirect gene expression changes	Cellular	WP2873	Aryl hydrocarbon receptor pathway	high	2026-07-29T16:51:24.932455
+KE 165	Activation, Long term AHR receptor driven direct and indirect gene expression changes	Cellular	WP2586	Aryl hydrocarbon receptor response to main mediators PAH and TCDD	high	2026-07-29T16:51:24.932539
+KE 68	Accumulation, Collagen	Tissue	WP5312	Metabolic pathways of fibroblasts	medium	2026-07-29T16:51:24.932618
+KE 68	Accumulation, Collagen	Tissue	WP4786	Type I collagen synthesis in the context of osteogenesis imperfecta	medium	2026-07-29T16:51:24.932694
+KE 57	Proliferation, Cell proliferation in the absence of cytotoxicity	Cellular	WP179	Cell cycle	medium	2026-07-29T16:51:24.932769
+KE 55	Increase, Cell injury/death	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-07-29T16:51:24.932844
+KE 378	Tumorigenesis, Hepatocellular carcinoma	Individual	WP4337	ncRNAs involved in STAT3 signaling in hepatocellular carcinoma	medium	2026-07-29T16:51:24.932924
+KE 378	Tumorigenesis, Hepatocellular carcinoma	Individual	WP4336	ncRNAs in Wnt signaling in hepatocellular carcinoma	medium	2026-07-29T16:51:24.932998
+KE 491	Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)	Organ	WP313	Hepatocyte growth factor receptor signaling	medium	2026-07-29T16:51:24.933071
+KE 491	Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)	Organ	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-07-29T16:51:24.933289
+KE 493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	Molecular	WP4946	Genes and complexes involved in the DNA repair pathways	medium	2026-07-29T16:51:24.933367
+KE 1115	Increase, Reactive oxygen species	Cellular	WP408	Oxidative stress response	high	2026-07-29T16:51:24.933445
+KE 493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	Molecular	WP4752	Base excision repair	high	2026-07-29T16:51:24.933518
+KE 493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	Molecular	WP4753	Nucleotide excision repair	high	2026-07-29T16:51:24.933589
+KE 376	Increased, Induced Mutations in Critical Genes	Cellular	WP4946	Genes and complexes involved in the DNA repair pathways	high	2026-07-29T16:51:24.933660
+KE 373	Formation, Pro-mutagenic DNA Adducts	Molecular	WP4753	Nucleotide excision repair	medium	2026-07-29T16:51:24.933738
+KE 357	Cholestasis, Pathology	Individual	WP5176	Disorders of bile acid synthesis and biliary transport	medium	2026-07-29T16:51:24.933810
+KE 357	Cholestasis, Pathology	Individual	WP5238	Cholestasis	high	2026-07-29T16:51:24.933883
+KE 288	Activation of specific nuclear receptors, Transcriptional change	Cellular	WP299	Nuclear receptors in lipid metabolism and toxicity	high	2026-07-29T16:51:24.933954
+KE 288	Activation of specific nuclear receptors, Transcriptional change	Cellular	WP2882	Nuclear receptors meta-pathway	high	2026-07-29T16:51:24.934025
+KE 214	Bile accumulation, Pathological condition	Cellular	WP5396	Enterohepatic circulation of bile acids	high	2026-07-29T16:51:24.934095
+KE 214	Bile accumulation, Pathological condition	Cellular	WP5176	Disorders of bile acid synthesis and biliary transport	high	2026-07-29T16:51:24.934173
+KE 214	Bile accumulation, Pathological condition	Cellular	WP4389	Bile acid synthesis and enterohepatic circulation	high	2026-07-29T16:51:24.934246
+KE 214	Bile accumulation, Pathological condition	Cellular	WP2289	Drug induction of bile acid pathway	high	2026-07-29T16:51:24.934317
+KE 209	Peptide Oxidation	Molecular	WP5477	Molecular pathway for oxidative stress	high	2026-07-29T16:51:24.934388
+KE 209	Peptide Oxidation	Molecular	WP408	Oxidative stress response	high	2026-07-29T16:51:24.934460
+KE 87	Release, Cytokine	Cellular	WP5473	Cytokine-cytokine receptor interaction	high	2026-07-29T16:51:24.934530
+KE 41	Inhibition, Bile Salt Export Pump (ABCB11)	Molecular	WP5396	Enterohepatic circulation of bile acids	high	2026-07-29T16:51:24.934600
+KE 41	Inhibition, Bile Salt Export Pump (ABCB11)	Molecular	WP5176	Disorders of bile acid synthesis and biliary transport	high	2026-07-29T16:51:24.934670
+KE 454	Increased, Triglyceride formation	Cellular	WP325	Triacylglyceride synthesis	high	2026-07-29T16:50:59.732885
+KE 456	Suppression, Constitutive androstane receptor, NR1l3	Molecular	WP2875	Constitutive androstane receptor pathway	high	2026-07-29T16:50:57.938639
+KE 457	Activation, SREBF1	Molecular	WP1982	Sterol regulatory element-binding proteins (SREBP) signaling	high	2026-07-29T16:50:55.608155
+KE 458	Increased, De Novo FA synthesis	Cellular	WP357	Fatty acid biosynthesis	high	2026-07-29T16:50:52.850414
+KE 459	Increased, Liver Steatosis	Organ	WP5323	Fatty acid and lipoprotein transport in hepatocytes	medium	2026-07-29T16:50:50.246329
+KE 468	Inhibition, PPAR alpha	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:50:47.586125
+KE 478	Activation, NRF2	Molecular	WP2884	NRF2 pathway	high	2026-07-29T16:50:45.551751
+KE 478	Activation, NRF2	Molecular	WP4357	NRF2-ARE regulation	high	2026-07-29T16:50:43.247964
+KE 483	Activation, LXR alpha	Molecular	WP2874	Liver X receptor pathway	high	2026-07-29T16:50:39.947637
+KE 853	Changes/Inhibition, Cellular Homeostasis and Apoptosis	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-07-29T16:50:38.016121
+KE 853	Changes/Inhibition, Cellular Homeostasis and Apoptosis	Cellular	WP254	Apoptosis	high	2026-07-29T16:50:35.553445
+KE 854	Alterations, Cellular proliferation / hyperplasia	Tissue	WP179	Cell cycle	medium	2026-07-29T16:50:32.839555
+KE 854	Alterations, Cellular proliferation / hyperplasia	Tissue	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-07-29T16:50:29.048159
+KE 856	Formation, Hepatocellular and Bile duct tumors	Organ	WP4336	ncRNAs in Wnt signaling in hepatocellular carcinoma	medium	2026-07-29T16:50:26.601649
+KE 860	Decreased, Mitochondrial Fatty Acid Beta Oxidation	Molecular	WP143	Fatty acid beta-oxidation	high	2026-07-29T16:50:23.066160
+KE 878	Inhibition, SREBP1c	Molecular	WP1982	Sterol regulatory element-binding proteins (SREBP) signaling	high	2026-07-29T16:50:20.554930
+KE 881	Increased, Triglyceride	Cellular	WP325	Triacylglyceride synthesis	high	2026-07-29T16:50:18.936749
+KE 881	Increased, Triglyceride	Cellular	WP5323	Fatty acid and lipoprotein transport in hepatocytes	medium	2026-07-29T16:50:17.476057
+KE 902	Inflammation, Liver	Organ	WP4493	Cells and molecules involved in local acute inflammatory response	medium	2026-07-29T16:50:14.762343
+KE 902	Inflammation, Liver	Organ	WP453	Inflammatory response pathway	medium	2026-07-29T16:50:12.423642
+KE 902	Inflammation, Liver	Organ	WP530	Cytokines and inflammatory response	medium	2026-07-29T16:50:10.114823
+KE 1171	Increase, Clonal Expansion of Altered Hepatic Foci	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-07-29T16:50:07.143350
+KE 1214	Altered gene expression specific to CAR activation, Hepatocytes	Cellular	WP2875	Constitutive androstane receptor pathway	high	2026-07-29T16:50:02.114229
+KE 1262	Apoptosis	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-07-29T16:49:46.805026
+KE 1263	Necrosis	Tissue	WP2513	Nanoparticle triggered regulated necrosis	high	2026-07-29T16:49:44.790635
+KE 484	Activation, AKT2	Molecular	WP4172	PI3K-Akt signaling	high	2026-07-29T16:49:42.259629
+KE 486	systemic inflammation leading to hepatic steatosis	Organ	WP4493	Cells and molecules involved in local acute inflammatory response	medium	2026-07-29T16:49:40.080981
+KE 486	systemic inflammation leading to hepatic steatosis	Organ	WP453	Inflammatory response pathway	medium	2026-07-29T16:49:38.324622
+KE 486	systemic inflammation leading to hepatic steatosis	Organ	WP530	Cytokines and inflammatory response	medium	2026-07-29T16:49:35.778503
+KE 715	Activation, Constitutive androstane receptor	Molecular	WP2875	Constitutive androstane receptor pathway	high	2026-07-29T16:49:32.969908
+KE 716	Increase, cell proliferation (hepatocytes)	Cellular	WP179	Cell cycle	medium	2026-07-29T16:49:28.773707
+KE 716	Increase, cell proliferation (hepatocytes)	Cellular	WP313	Hepatocyte growth factor receptor signaling	medium	2026-07-29T16:49:26.448273
+KE 716	Increase, cell proliferation (hepatocytes)	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-07-29T16:49:23.193975
+KE 719	Increase, hepatocellular adenomas and carcinomas	Tissue	WP3646	Hepatitis C and hepatocellular carcinoma	medium	2026-07-29T16:49:20.104869
+KE 719	Increase, hepatocellular adenomas and carcinomas	Tissue	WP4336	ncRNAs in Wnt signaling in hepatocellular carcinoma	medium	2026-07-29T16:49:16.832404
+KE 769	Increase, Oxidative metabolism	Cellular	WP623	Oxidative phosphorylation	high	2026-07-29T16:49:12.345888
+KE 774	Increase, Preneoplastic foci (hepatocytes)	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	medium	2026-07-29T16:49:09.153652
+KE 787	Increase, Regenerative cell proliferation (hepatocytes)	Cellular	WP179	Cell cycle	medium	2026-07-29T16:49:00.565018
+KE 787	Increase, Regenerative cell proliferation (hepatocytes)	Cellular	WP313	Hepatocyte growth factor receptor signaling	high	2026-07-29T16:48:57.515116
+KE 836	Occurrence, Cytoplasmic vacuolization (Bile duct cell)	Cellular	WP4923	Autophagy	medium	2026-07-29T16:48:53.116910
+KE 838	Induction, Microvesicular fat	Tissue	WP5123	Mitochondrial fatty acid oxidation disorders	high	2026-07-29T16:48:46.262962
+KE 840	Formation, Liver fibrosis	Tissue	WP4786	Type I collagen synthesis in the context of osteogenesis imperfecta	high	2026-07-29T16:48:43.332339
+KE 1284	Up Regulation, SREBF2	Cellular	WP1982	Sterol regulatory element-binding proteins (SREBP) signaling	high	2026-07-29T16:48:39.944638
+KE 1284	Up Regulation, SREBF2	Cellular	WP2011	SREBF and miR33 in cholesterol and lipid homeostasis	high	2026-07-29T16:48:34.940126
+KE 1285	Up Regulation, Unsaturated fatty acid	Cellular	WP357	Fatty acid biosynthesis	high	2026-07-29T16:48:32.498671
+KE 1285	Up Regulation, Unsaturated fatty acid	Cellular	WP4723	Omega-3 / omega-6 fatty acid synthesis	high	2026-07-29T16:48:30.042117
+KE 1285	Up Regulation, Unsaturated fatty acid	Cellular	WP4724	Omega-9 fatty acid synthesis	high	2026-07-29T16:48:28.574685
+KE 1289	Perturbation of cholesterol	Cellular	WP197	Cholesterol biosynthesis pathway	high	2026-07-29T16:48:25.480093
+KE 1289	Perturbation of cholesterol	Cellular	WP2011	SREBF and miR33 in cholesterol and lipid homeostasis	medium	2026-07-29T16:48:22.903700
+KE 1289	Perturbation of cholesterol	Cellular	WP5304	Cholesterol metabolism	high	2026-07-29T16:48:17.810806
+KE 1290	Glutathione homeostasis	Cellular	WP100	Glutathione metabolism	high	2026-07-29T16:48:15.164295
+KE 1299	Activation, AKT	Molecular	WP4172	PI3K-Akt signaling	high	2026-07-29T16:48:12.479948
+KE 1300	Activation, mTORC1	Molecular	WP1471	Target of rapamycin signaling	high	2026-07-29T16:48:05.814488
+KE 1310	Activation, PI3K	Molecular	WP4172	PI3K-Akt signaling	high	2026-07-29T16:48:00.607721
+KE 1310	Activation, PI3K	Molecular	WP5472	Phosphoinositide 3-kinase (PI3K) family	high	2026-07-29T16:47:57.812667
+KE 1392	Oxidative Stress	Molecular	WP3941	Oxidative damage response	high	2026-07-29T16:47:55.081287
+KE 1393	Hepatocytotoxicity	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-07-29T16:47:53.075578
+KE 1394	Induction, persistent proliferation/sustained proliferation	Cellular	WP179	Cell cycle	medium	2026-07-29T16:47:48.824448
+KE 1394	Induction, persistent proliferation/sustained proliferation	Cellular	WP313	Hepatocyte growth factor receptor signaling	high	2026-07-29T16:47:46.761093
+KE 1394	Induction, persistent proliferation/sustained proliferation	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	high	2026-07-29T16:47:42.779844
+KE 1417	NFE2/Nrf2 repression	Molecular	WP2884	NRF2 pathway	high	2026-07-29T16:47:19.775071
+KE 1417	NFE2/Nrf2 repression	Molecular	WP4357	NRF2-ARE regulation	high	2026-07-29T16:47:18.469001
+KE 1421	Activated, LXR	Molecular	WP2874	Liver X receptor pathway	high	2026-07-29T16:47:16.200327
+KE 1422	Reduced, PPARalpha	Molecular	WP2878	PPAR-alpha pathway	high	2026-07-29T16:47:14.259794
+KE 1422	Reduced, PPARalpha	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:47:12.818060
+KE 1424	Reduced, fatty acid beta oxidation	Molecular	WP143	Fatty acid beta-oxidation	high	2026-07-29T16:47:10.799898
+KE 1489	N/A, Steatohepatisis	Organ	WP4396	Nonalcoholic fatty liver disease	high	2026-07-29T16:47:07.781262
+KE 1493	Increased Pro-inflammatory mediators	Tissue	WP4493	Cells and molecules involved in local acute inflammatory response	high	2026-07-29T16:47:04.169772
+KE 1493	Increased Pro-inflammatory mediators	Tissue	WP5095	Overview of proinflammatory and profibrotic mediators	high	2026-07-29T16:47:00.457933
+KE 1494	Leukocyte recruitment/activation	Cellular	WP4493	Cells and molecules involved in local acute inflammatory response	high	2026-07-29T16:46:58.063923
+KE 1501	Increased, extracellular matrix deposition	Tissue	WP129	Matrix metalloproteinases	medium	2026-07-29T16:46:54.162177
+KE 1512	Unfolded Protein Response	Molecular	WP4925	Unfolded protein response	high	2026-07-29T16:18:45.789875
+KE 1548	Necrotic Tissue	Tissue	WP2513	Nanoparticle triggered regulated necrosis	medium	2026-07-29T16:18:43.899837
+KE 1548	Necrotic Tissue	Tissue	WP254	Apoptosis	medium	2026-07-29T16:18:39.012014
+KE 1575	Activation, Caspase 8 pathway	Molecular	WP254	Apoptosis	high	2026-07-29T16:18:37.015479
+KE 1579	Increase, proinflammatory mediators (TNFalpha)	Molecular	WP231	TNF-alpha signaling	high	2026-07-29T16:18:33.803448
+KE 1579	Increase, proinflammatory mediators (TNFalpha)	Molecular	WP5095	Overview of proinflammatory and profibrotic mediators	high	2026-07-29T16:18:29.555624
+KE 1605	Accumulation of misfolded proteins	Cellular	WP4925	Unfolded protein response	high	2026-07-29T16:18:23.366688
+KE 1633	Increase in inflammation	Tissue	WP453	Inflammatory response pathway	high	2026-07-29T16:18:14.598867
+KE 1633	Increase in inflammation	Tissue	WP530	Cytokines and inflammatory response	medium	2026-07-29T16:18:11.092763
+KE 1817	Apoptotic cell death	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-07-29T16:18:06.561834
+KE 1817	Apoptotic cell death	Cellular	WP254	Apoptosis	high	2026-07-29T16:18:04.419930
+KE 1818	Immune cell activation	Cellular	WP69	T-cell receptor signaling	high	2026-07-29T16:18:02.122820
+KE 1819	IFNγ signaling	Cellular	WP619	Type II interferon signaling	high	2026-07-29T16:17:58.036983
+KE 1820	Immune mediated hepatitis	Organ	WP530	Cytokines and inflammatory response	medium	2026-07-29T16:17:53.082073
+KE 1994	Increase, Ferroptosis	Cellular	WP4313	Ferroptosis	high	2026-07-29T16:17:48.232378
+KE 1995	Abnormal lipid metabolism	Cellular	WP299	Nuclear receptors in lipid metabolism and toxicity	high	2026-07-29T16:17:45.723826
+KE 1995	Abnormal lipid metabolism	Cellular	WP3965	Lipid metabolism pathway	high	2026-07-29T16:17:00.777408
+KE 2009	Activation of inflammation pathway	Cellular	WP530	Cytokines and inflammatory response	medium	2026-07-29T16:16:57.805039
+KE 2029	protein-coupled estrogen receptor 1 (GPER) activation	Molecular	WP712	Estrogen signaling	high	2026-07-29T16:16:50.792166
+KE 2031	Releasing, Apoptosis-Inducing Factor (AIF)	Molecular	WP1772	Apoptosis modulation and signaling	high	2026-07-29T16:16:47.977610
+KE 2031	Releasing, Apoptosis-Inducing Factor (AIF)	Molecular	WP2507	Nanomaterial induced apoptosis	medium	2026-07-29T16:16:43.480081
+KE 2224	Dysregulation of transcriptional expression within PPAR signaling network	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:16:39.424626
+KE 2225	Disrupted Lipid Storage	Cellular	WP3965	Lipid metabolism pathway	high	2026-07-29T16:16:37.189856
+KE 2225	Disrupted Lipid Storage	Cellular	WP5323	Fatty acid and lipoprotein transport in hepatocytes	high	2026-07-29T16:16:35.154467
+KE 2226	Stressor binding PPAR isoforms	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:16:32.432695
+KE 2227	Disrupted PPAR isoform nuclear signaling	Molecular	WP3942	PPAR signaling	high	2026-07-29T16:16:29.306513
+KE 378	Tumorigenesis, Hepatocellular carcinoma	Individual	WP3646	Hepatitis C and hepatocellular carcinoma	medium	2026-07-28T13:10:21.631614
+KE 1287	Glutathione synthesis	Cellular	WP100	Glutathione metabolism	high	2026-07-24T14:26:32.728605
+KE 1097	Occurrence, renal proximal tubular necrosis	Tissue	WP4313	Ferroptosis	high	2026-07-29T17:45:01.594063
+KE 1790	Increased, Differentiation to Testis	Tissue	WP4842	Mammalian disorder of sexual development	high	2026-07-18T12:18:49.000031
+KE 177	Increase, Mitochondrial dysfunction	Cellular	WP5241	Mitochondrial beta-oxidation	medium	2026-05-11T18:35:50.387531
+KE 177	Increase, Mitochondrial dysfunction	Cellular	WP4324	Mitochondrial complex I assembly model OXPHOS system	high	2026-07-29T17:45:03.200664
+KE 177	Increase, Mitochondrial dysfunction	Cellular	WP78	TCA cycle (aka Krebs or citric acid cycle)	medium	2026-05-11T18:32:08.534730
+KE 1825	Increase, Cell death	Cellular	WP1772	Apoptosis modulation and signaling	high	2026-05-11T18:16:47.739924
+KE 89	Synthesis, De Novo Fatty Acid (FA)	Cellular	WP357	Fatty acid biosynthesis	high	2026-05-10T11:13:49.668075
+KE 115	Increase, FA Influx	Cellular	WP5061	Fatty acid transporters	high	2026-05-10T11:13:43.598526
+KE 471	Inhibition, FoxA2	Molecular	WP5066	FOXA2 pathway	high	2026-05-10T11:13:37.747859
+KE 474	Down Regulation, HMGCS2	Molecular	WP4718	Cholesterol metabolism with Bloch and Kandutsch-Russell pathways	medium	2026-05-10T11:13:32.167453
+KE 860	Decreased, Mitochondrial Fatty Acid Beta Oxidation	Molecular	WP368	Mitochondrial long chain fatty acid beta-oxidation	high	2026-05-10T11:13:25.964476
+KE 1825	Increase, Cell death	Cellular	WP2513	Nanoparticle triggered regulated necrosis	high	2026-04-13T08:09:29.271039
+KE 1195	modulation, Extracellular Matrix Composition	Cellular	WP5382	TGFB / Smad signaling	high	2026-04-13T08:09:18.273157
+KE 1395	Liver Cancer	Organ	WP3646	Hepatitis C and hepatocellular carcinoma	medium	2026-07-29T17:44:56.825418
+KE 2410	Increase, 11β-Hydroxysteroid dehydrogenase type 1 activity	Molecular	WP2880	Glucocorticoid receptor pathway	low	2026-04-13T08:09:11.297665
+KE 149	Increase, Inflammation	Cellular	WP453	Inflammatory response pathway	high	2026-04-13T08:09:06.437923
+KE 2405	Increase, Hepatocellular lipotoxicity	Cellular	WP5323	Fatty acid and lipoprotein transport in hepatocytes	medium	2026-07-29T17:44:44.603599
+KE 2408	Increase, Adipose lipolysis	Tissue	WP236	Adipogenesis	medium	2026-04-13T08:08:39.435051
+KE 2412	Increase, Hepatic intracellular active glucocorticoids	Cellular	WP5280	Glucocorticoid biosynthesis	high	2026-04-13T08:08:25.346790
+KE 1815	Increase, Endoplasmic reticulum stress	Cellular	WP4925	Unfolded protein response	high	2026-04-13T08:08:22.099238
+KE 1306	Increase, De novo lipogenesis	Cellular	WP3965	Lipid metabolism pathway	high	2026-04-13T08:08:18.788438
+KE 839	Formation, Mallory body	Cellular	WP183	Proteasome degradation	medium	2026-04-12T21:40:09.684399
+KE 134	Increase, Kupffer cell activation	Cellular	WP530	Cytokines and inflammatory response	medium	2026-04-12T21:40:05.470862
+KE 2119	Increase, Insulin resistance	Organ	WP481	Insulin signaling	high	2026-04-12T21:40:01.519442
+KE 465	Increased, Fatty acid influx	Cellular	WP5061	Fatty acid transporters	high	2026-04-12T21:39:43.862998
+KE 1271	Activation of TGF-β signaling	Molecular	WP5382	TGFB / Smad signaling	high	2026-04-12T21:39:28.789358
+KE 1493	Increased Pro-inflammatory mediators	Tissue	WP453	Inflammatory response pathway	high	2026-04-12T21:39:22.801171
+KE 835	Occurrence, Ballooning degeneration (hepatocyte)	Cellular	WP4925	Unfolded protein response	high	2026-04-12T21:38:58.096891
+KE 831	Disturbance, Lysosomal function	Cellular	WP4923	Autophagy	medium	2026-07-29T17:44:57.665034
+KE 1262	Apoptosis	Cellular	WP254	Apoptosis	high	2026-04-12T21:38:43.255042
+KE 2009	Activation of inflammation pathway	Cellular	WP453	Inflammatory response pathway	high	2026-04-12T21:38:34.937295
+KE 870	Increase, Cell Proliferation	Cellular	WP179	Cell cycle	high	2026-04-12T21:38:30.437906
+KE 1493	Increased Pro-inflammatory mediators	Tissue	WP530	Cytokines and inflammatory response	high	2026-04-12T17:00:45.616529
+KE 1494	Leukocyte recruitment/activation	Cellular	WP4542	Leukocyte-intrinsic Hippo pathway functions	medium	2026-07-29T17:44:55.995086
+KE 265	Activation, Stellate cells	Cellular	WP560	TGF-beta receptor signaling	high	2026-07-29T17:45:02.447433
+KE 898	Disruption, Lysosome	Cellular	WP4923	Autophagy	medium	2026-04-12T16:59:59.791602
+KE 1501	Increased, extracellular matrix deposition	Tissue	WP560	TGF-beta receptor signaling	high	2026-07-29T17:45:00.692033
+KE 1743	Increase plasma Ang II	Tissue	WP4756	Renin-angiotensin-aldosterone system (RAAS)	high	2026-04-12T16:58:56.163068
+KE 459	Increased, Liver Steatosis	Organ	WP143	Fatty acid beta-oxidation	medium	2026-04-12T16:58:52.473186
+KE 1740	Induced dysregulation of ACE2	Molecular	WP554	ACE inhibitor pathway	medium	2026-04-12T16:58:47.951073
+KE 1852	Increased Ang II type 1 receptor (AT1R)	Tissue	WP5036	Angiotensin II receptor type 1 pathway	high	2026-04-12T16:58:42.977046
+KE 459	Increased, Liver Steatosis	Organ	WP5061	Fatty acid transporters	medium	2026-04-12T16:58:33.573911
+KE 459	Increased, Liver Steatosis	Organ	WP3965	Lipid metabolism pathway	high	2026-04-12T16:58:26.778742
+KE 1489	N/A, Steatohepatisis	Organ	WP453	Inflammatory response pathway	medium	2026-04-12T16:58:20.827052
+KE 18	Activation, AhR	Molecular	WP2873	Aryl hydrocarbon receptor pathway	high	2026-04-12T16:58:05.530964
+KE 122	Increase, Glucocorticoid receptor activation	Molecular	WP2880	Glucocorticoid receptor pathway	medium	2026-03-16T14:15:29.509837
+KE 1271	Increase, Transforming growth factor-beta signaling	Molecular	WP560	TGF-beta receptor signaling	high	2026-03-16T14:15:12.513985
+KE 40	Mitochondrial ATP production, decreased	Cellular	WP5241	Mitochondrial beta-oxidation	high	2026-03-16T14:14:55.641134
+KE 570	Accumulation, Damaged mitochondrial DNA	Cellular	WP4946	DNA repair pathways, full network	high	2026-03-16T14:14:43.096653
+KE 664	Overwhelmed, Mitochondrial DNA repair mechanisms	Cellular	WP4946	DNA repair pathways, full network	high	2026-03-16T14:14:35.064635
+KE 1825	Increase, Cell death	Cellular	WP4923	Autophagy	medium	2026-07-23T09:05:48.120759
+KE 178	Mitochondrial electron transport chain, disrupted	Cellular	WP111	Electron transport chain: OXPHOS system in mitochondria	high	2026-03-16T14:13:58.705415
+KE 55	Increase, Cell injury/death	Cellular	WP254	Apoptosis	high	2026-03-04T15:40:06.892136
+KE 149	Increase, Inflammation	Cellular	WP530	Cytokines and inflammatory response	high	2026-03-03T11:59:13.592007
+KE 1825	Increase, Cell death	Cellular	WP254	Apoptosis	high	2026-07-23T09:05:46.678943
+KE 1392	Oxidative Stress	Molecular	WP408	Oxidative stress response	high	2026-03-03T11:59:04.831564
+KE 1194	Increase, DNA damage	Molecular	WP707	DNA damage response	high	2026-03-03T11:59:00.133709
+KE 1365	Increase, Apoptosis	Cellular	WP254	Apoptosis	high	2026-03-03T09:38:28.259004
+KE 177	Increase, Mitochondrial dysfunction	Cellular	WP623	Oxidative phosphorylation	high	2026-07-23T09:05:45.158003
+KE 1392	Increase, Oxidative Stress	Molecular	WP5477	Molecular pathway for oxidative stress	high	2026-03-03T08:48:52.213466
+KE 1115	Increase, Reactive oxygen species	Cellular	WP5477	Molecular pathway for oxidative stress	high	2026-03-03T08:48:46.883531
+KE 1103	Inhibition, Cyclooxygenase 1 activity	Molecular	WP4719	Eicosanoid metabolism via cyclooxygenases (COX)	medium	2026-03-03T08:48:42.278147
+KE 281	Thyroxine (T4) in serum, Decreased	Tissue	WP1981	Thyroxine (thyroid hormone) production	high	2026-03-03T08:48:33.834124
+KE 926	Oxidation, Glutathione (To be considered with MIE)	Molecular	WP100	Glutathione metabolism	high	2026-03-01T12:25:30.831620
+KE 105	Inhibition, Mitochondrial Electron Transport Chain Complexes	Molecular	WP111	Electron transport chain: OXPHOS system in mitochondria	high	2026-03-01T12:25:21.759903
+KE 819	Decreased, Glomerular filtration	Tissue	WP2572	Primary focal segmental glomerulosclerosis (FSGS)	medium	2026-03-01T12:25:15.125934
+KE 177	Increase, Mitochondrial dysfunction	Cellular	WP5507	Mitochondrial carrier deficiency associated with shuttle disturbances	medium	2026-03-01T12:25:08.715823
+KE 1104	Decreased, Prostaglandin F2alpha concentration, plasma	Tissue	WP98	Prostaglandin synthesis and regulation	high	2026-02-25T12:29:38.622413
+KE 40	Mitochondrial ATP production, decreased	Cellular	WP391	Mitochondrial gene expression	high	2026-02-25T12:29:33.602913
+KE 709	Increase, Cytotoxicity (renal tubular cell)	Cellular	WP4864	Host-pathogen interaction of human coronaviruses - apoptosis	medium	2026-02-25T12:29:07.474042
+KE 1283	Activation, TGF-beta pathway	Cellular	WP560	TGF-beta receptor signaling	high	2026-02-24T13:29:57.881637
+KE 227	Activation, PPARα	Molecular	WP2878	PPAR-alpha pathway	high	2026-02-23T10:06:21.147901
+KE 269	Induction, Sustained Cell Proliferation	Cellular	WP5475	Hallmark of cancer: sustaining proliferative signaling	high	2026-02-23T10:05:07.498816
+KE 1632	Increase in reactive oxygen and nitrogen species (RONS)	Molecular	WP5233	Arsenic metabolism and reactive oxygen species generation	medium	2026-02-19T09:44:12
+KE 1528	Fatty Acid Beta Oxidation, Decreased	Molecular	WP143	Fatty acid beta-oxidation	high	2026-02-18T08:08:41
+KE 188	Neuroinflammation	Tissue	WP4919	Neuroinflammation	high	2026-02-12T10:40:08
+KE 188	Neuroinflammation	Tissue	WP5485	Post-COVID neuroinflammation	high	2026-02-11T11:29:39
+KE 889	Proteostasis, impaired	Cellular	WP4918	Cellular proteostasis	high	2026-02-07T19:40:47
+KE 55	Increase, Cell injury/death	Cellular	WP2507	Nanomaterial induced apoptosis	high	2026-01-13T13:14:59
+KE 111	Agonism, Estrogen receptor	Molecular	WP2881	Estrogen receptor pathway	high	2025-10-21T06:41:17
+KE 10	Acetylcholine accumulation in synapses	Cellular	WP528	Acetylcholine synthesis	medium	2025-10-02T11:08:38
+KE 79	Inhibition, Cyclooxygenase activity	Molecular	WP4719	Eicosanoid metabolism via cyclooxygenases (COX)	medium	2025-10-01T16:38:58
+KE 468	Inhibition, PPAR alpha	Molecular	WP2878	PPAR-alpha pathway	high	2025-09-25T13:19:49
+KE 87	Release, Cytokine	Cellular	WP530	Cytokines and inflammatory response	high	2025-08-25T09:45:55
+KE 28	Reduction, Angiogenesis	Molecular	WP1539	Angiogenesis	high	2025-08-14T06:51:54
+KE 17	KE 17 - Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	Molecular	WP2882	Nuclear receptors meta-pathway	high	2025-08-13T05:47:13
+KE 25	KE 25 - Agonism, Androgen receptor	Molecular	WP138	Androgen receptor signaling	medium	2025-08-13T05:42:58
+KE 25	KE 25 - Agonism, Androgen receptor	Molecular	WP2263	Androgen receptor network in prostate cancer	high	2025-08-13T05:42:58

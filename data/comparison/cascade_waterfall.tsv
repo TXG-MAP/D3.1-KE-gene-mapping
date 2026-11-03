@@ -1,0 +1,4 @@
+step	method	kes_covered_by_this_method	new_kes_added	cumulative	cumulative_pct	residual_after
+1	method1	204	204	204	37.9	334
+2	method2	302	199	403	74.9	135
+3	method3	314	51	454	84.4	84

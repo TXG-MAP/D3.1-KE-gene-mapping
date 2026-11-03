@@ -1,0 +1,1596 @@
+"keid","title","bp_terms","n_genes","n_ner","n_regex"
+"KE 10","Acetylcholine accumulation in synapses","",2,2,0
+"KE 1000","stabilization, PPAR alpha co-repressor","http://purl.obolibrary.org/obo/GO_0003714",3,3,2
+"KE 1001","Increased, Developmental Defects","http://purl.obolibrary.org/obo/GO_0009653",0,0,0
+"KE 1002","Inhibition, Deiodinase 2","http://purl.obolibrary.org/obo/GO_0003824",9,6,8
+"KE 1003","Decreased, Triiodothyronine (T3)","http://purl.obolibrary.org/obo/MP_0005473",29,20,17
+"KE 1004","Reduced, Posterior swim bladder inflation","http://purl.obolibrary.org/obo/GO_0048798",0,0,0
+"KE 1005","Reduced, Swimming performance","http://purl.obolibrary.org/obo/NBO_0000371",0,0,0
+"KE 1007","Reduced, Anterior swim bladder inflation","http://purl.obolibrary.org/obo/GO_0048798",0,0,0
+"KE 1008","Reduced, Hearing","http://purl.obolibrary.org/obo/GO_0007605",0,0,0
+"KE 1009","Inhibition, Deiodinase 1","http://purl.obolibrary.org/obo/GO_0003824",9,6,8
+"KE 1012","Increased, Inhibitory postsynaptic potential","http://purl.obolibrary.org/obo/GO_0060080",0,0,0
+"KE 1014","Induction, Somatic muscle paralysis","http://purl.obolibrary.org/obo/MP_0000753",0,0,0
+"KE 1015","Increased, Neuronal synaptic inhibition","http://purl.obolibrary.org/obo/GO_0050805",0,0,0
+"KE 1016","Inhibition, Feeding","http://purl.obolibrary.org/obo/NBO_0000079",0,0,0
+"KE 1018","Activation, Glutamate-gated chloride channels","http://purl.obolibrary.org/obo/GO_0005254",0,0,0
+"KE 1019","Induction, pharyngeal muscle paralysis","http://purl.obolibrary.org/obo/MP_0000753",0,0,0
+"KE 1023","Increased, Thyroid-stimulating hormone (TSH)","",0,0,0
+"KE 1028","Activation of specific nuclear receptors, PPAR-gamma activation","http://purl.obolibrary.org/obo/GO_0035357",0,0,0
+"KE 1029","Increased, adipogenesis","http://purl.obolibrary.org/obo/GO_0045444",0,0,0
+"KE 103","Increase, Ecdysone receptor hyperactivation","http://purl.obolibrary.org/obo/GO_0035076",0,0,0
+"KE 1032","Increased, secretion of local growth factors","http://purl.obolibrary.org/obo/GO_0046903",0,0,0
+"KE 1033","Increased, proliferation of mesenchymal cells","http://purl.obolibrary.org/obo/GO_0010463",0,0,0
+"KE 1034","Increased, IGF-1 (mouse)","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 1035","Increased, Firbrosarcoma","",0,0,0
+"KE 1036","Increased, liposarcoma","",0,0,0
+"KE 1037","Increased, hemagiosarcoma","",0,0,0
+"KE 1038","Activation, beta-2 adrenergic receptor","http://purl.obolibrary.org/obo/GO_0031698",0,0,0
+"KE 1039","Increased activity, beta-2 adrenergic receptor","http://purl.obolibrary.org/obo/GO_0004941",0,0,0
+"KE 1040","relaxation, smooth muscle","http://purl.obolibrary.org/obo/GO_0044557",0,0,0
+"KE 1042","Proliferation/Clonal Expansion, smooth muscle","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 1043","Hypertrophy/hyperplasia, smooth muscle","http://purl.org/commons/record/mesh/D006984",0,0,0
+"KE 1044","Promotion, mesovarian leiomyomas","",0,0,0
+"KE 1045","Decreased, Ovarian E2","",0,0,0
+"KE 1046","Suppression, Estrogen receptor (ER) activity","http://purl.obolibrary.org/obo/GO_0030284",2,0,2
+"KE 1047","Increased, secretion of GnRH from hypothalamus","http://purl.obolibrary.org/obo/GO_0046879",1,1,0
+"KE 1049","Increased, secrection of FSH from anterior pituitary","http://purl.obolibrary.org/obo/GO_0046884",0,0,0
+"KE 105","Inhibition, Mitochondrial Electron Transport Chain Complexes","",9,8,2
+"KE 1050","Increased, secretion of LH from anterior pituitary","http://purl.obolibrary.org/obo/GO_0032275",0,0,0
+"KE 1051","Hyperplasia, ovarian stromal cells","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 1052","Hyperplasia, ovarian epithelium","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 1053","Promotion, ovarian adenomas","",0,0,0
+"KE 1054","Promotion, ovarian granular cell tumors","",0,0,0
+"KE 1056","Decrease, E2 blood concentrations at hypothalamus","",0,0,0
+"KE 1057","Increased, PPAR-alpha activation","http://purl.obolibrary.org/obo/GO_0035357",0,0,0
+"KE 1058","Decreased, bile flow","",0,0,0
+"KE 1059","Increased, cholestasis","",0,0,0
+"KE 106","Reduction, Eggshell thickness","",0,0,0
+"KE 1060","Alteration, lipid metabolism","http://purl.obolibrary.org/obo/GO_0006629",0,0,0
+"KE 1061","prolonged, elevation of serun CCK","",0,0,0
+"KE 1062","Increased, Cellular proliferation / hyperplasia of acinar cells","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 1063","Increased, Pancreatic acinar tumors","",0,0,0
+"KE 1065","Activation, estrogen receptor alpha","http://purl.obolibrary.org/obo/GO_0030284|http://purl.obolibrary.org/obo/GO_0030520",19,18,7
+"KE 1066","Promotion, Sine oculis homeobox 1 positive progenitor cells in endometrium","http://purl.obolibrary.org/obo/GO_0008283",1,1,1
+"KE 1068","Endometrial squamous metaplasia, Increase","http://purl.org/commons/record/mesh/D008679",0,0,0
+"KE 1070","Increased, adenosquamous carcinomas of endometrium","http://purl.obolibrary.org/obo/HP_0012114",0,0,0
+"KE 1071","Decreased, GnRH pulsatility/release in hypothalamus","http://purl.obolibrary.org/obo/GO_0046879",0,0,0
+"KE 1072","Decreased, LH Surge from anterior pituitary","http://purl.obolibrary.org/obo/GO_0046879",0,0,0
+"KE 1074","interruption, Ovulation","http://purl.obolibrary.org/obo/MP_0001928",0,0,0
+"KE 1075","prolonged, estrus cycle","http://purl.obolibrary.org/obo/MP_0009006|http://purl.obolibrary.org/obo/MP_0009017",2,2,0
+"KE 1076","Increased, circulating estrogen levels","",0,0,0
+"KE 1077","Increased, prolactin exposure","",0,0,0
+"KE 1078","Hyperplasia, Mammary gland","http://purl.obolibrary.org/obo/MP_0000630",0,0,0
+"KE 1079","Increased, Adenomas/carcinomas (mammary)","",0,0,0
+"KE 1080","Increased, latency period","http://purl.obolibrary.org/obo/MP_0010307",0,0,0
+"KE 1081","Increased, lactotroph hyperplasia and hypertrophy","http://purl.org/commons/record/mesh/D006965|http://purl.org/commons/record/mesh/D006984",0,0,0
+"KE 1082","Increased, adenomas (pituitary)","http://purl.obolibrary.org/obo/HP_0002893",0,0,0
+"KE 1083","Decreased, Dopaminergic activity","http://purl.obolibrary.org/obo/GO_0001963",0,0,0
+"KE 1084","Increased, prolactin secretion","http://purl.obolibrary.org/obo/GO_0070459",0,0,0
+"KE 1085","Increased, hyperplasia (mammary gland)","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 1086","persistent, cytotoxicity (pleura or peritoneum)","http://purl.obolibrary.org/obo/GO_0008219",0,0,0
+"KE 1087","Increased, inflammation","http://purl.obolibrary.org/obo/GO_0006954",0,0,0
+"KE 1089","Increased, Cell Proliferation (mesothelium)","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 1090","Increased, mesotheliomas","http://purl.obolibrary.org/obo/HP_0100001",0,0,0
+"KE 1096","Increased, blood uric acid concentration","",0,0,0
+"KE 1097","Occurrence, renal proximal tubular necrosis","http://purl.obolibrary.org/obo/MP_0004154",0,0,0
+"KE 1098","Increased, blood potassium concentration","",0,0,0
+"KE 110","Impairment, Endothelial network","http://purl.obolibrary.org/obo/GO_0003158",11,11,2
+"KE 1101","Altered, Amphibian metamorphosis","http://purl.obolibrary.org/obo/GO_0007552",5,4,1
+"KE 1102","Occurrence, tophi (urate) deposition","",0,0,0
+"KE 1103","Inhibition, Cyclooxygenase 1 activity","http://purl.obolibrary.org/obo/GO_0004666",0,0,0
+"KE 1104","Decreased, Prostaglandin F2alpha concentration, plasma ","",0,0,0
+"KE 1105","Occurrence, renal ischemia","http://purl.org/commons/record/mesh/D007511",0,0,0
+"KE 1106","Occurrence, cardiac arrhythmia","",0,0,0
+"KE 1107","Weakened, Colony","http://purl.org/commons/record/mesh/D056631",1,1,0
+"KE 1108","Abnormal, Role change within caste","http://purl.org/commons/record/mesh/D012380",3,3,1
+"KE 1109","Increased, Deformed Wing Virus levels","",0,0,0
+"KE 111","Agonism, Estrogen receptor","http://purl.obolibrary.org/obo/GO_0030284|http://purl.obolibrary.org/obo/GO_0048018",8,7,1
+"KE 1110","Increased, Energetic demands and therefore metabolic stress","http://purl.obolibrary.org/obo/MP_0004889|http://purl.org/commons/record/mesh/D013312",0,0,0
+"KE 1114","Unknown, MIE","",0,0,0
+"KE 1115","Increase, Reactive oxygen species","http://purl.obolibrary.org/obo/GO_1903409",11,10,3
+"KE 1116","Decreased, Triiodothyronine (T3) in tissues","",4,3,3
+"KE 112","Antagonism, Estrogen receptor","http://purl.obolibrary.org/obo/GO_0030284",2,1,2
+"KE 1122","Under carboxylated clotting factors will not assemble on cell surfaces to form clot, Failure of secondary hemostasis  ","http://purl.obolibrary.org/obo/GO_0007599",0,0,0
+"KE 1130","Failure in vascular repair mechanisms, Unresolved blood loss (hemorrhage)","http://purl.obolibrary.org/obo/GO_0042060|http://purl.obolibrary.org/obo/MP_0001914",0,0,0
+"KE 1131","Failure in gamma-glutamyl carboxylation of  clotting factors II, VII, IX and X, Under carboxylation of clotting factors (e.g., des-gamma-carboxy prothrombin) ","http://purl.obolibrary.org/obo/MI_MI:1139",0,0,0
+"KE 1132","Blood loss and development of anemia, Impaired oxygen delivery and nutrient delivery to tissue, impaired carbon dioxide and waste product removal","http://purl.obolibrary.org/obo/GO_0006810|http://purl.obolibrary.org/obo/GO_1990748|http://purl.obolibrary.org/obo/MP_0001577",0,0,0
+"KE 1133","Hemostasis, Depletion from blood of fully functional carboxylated clotting factors","http://purl.obolibrary.org/obo/GO_0007599",0,0,0
+"KE 1134","Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone","http://purl.obolibrary.org/obo/GO_0003824|http://purl.obolibrary.org/obo/GO_0023052|http://purl.obolibrary.org/obo/GO_0042373",0,0,0
+"KE 1135","Reduced fitness or even mortality, Acidosis, hypovolemic shock and organ dysfunction","http://purl.obolibrary.org/obo/MP_0003031|http://purl.obolibrary.org/obo/MP_0010128|http://purl.obolibrary.org/obo/VT_1000152|http://purl.org/commons/record/mesh/D009026",0,0,0
+"KE 1136","Impaired recruitment , Population trajectory","http://purl.obolibrary.org/obo/PCO_0000008",0,0,0
+"KE 1138","Uncoupling of oxidative phosphorylation, Reduced ability to generate ATP","http://purl.obolibrary.org/obo/GO_0006754|http://purl.obolibrary.org/obo/GO_0017077",0,0,0
+"KE 1139","Increased, water retention in foot","",0,0,0
+"KE 1141","Decreased, Reproductive Success","",0,0,0
+"KE 1142","Increased, valve movement","http://purl.obolibrary.org/obo/GO_0050881",0,0,0
+"KE 1143","Depletion, energy reserves","",0,0,0
+"KE 115","Increase, Fatty acid influx","http://purl.obolibrary.org/obo/GO_2000193",1,1,0
+"KE 1151","Osteoporosis and vascular calcification, Bone deterioration","http://purl.obolibrary.org/obo/MP_0000066|http://purl.org/commons/record/mesh/D061205",0,0,0
+"KE 1152","Inhibition, Iodotyrosine deiodinase (IYD)","http://purl.obolibrary.org/obo/GO_0003824",0,0,0
+"KE 1153","Inhibition, Deiodinase 3","http://purl.obolibrary.org/obo/GO_0003824",0,0,0
+"KE 1154","Increased, Triiodothyronine (T3) in tissues","",0,0,0
+"KE 1155","Inhibition, Pendrin","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1156","Inhibition, Dual oxidase","http://purl.obolibrary.org/obo/GO_0003824",0,0,0
+"KE 1157","Activation, Hepatic nuclear receptor(s)","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1158","Increased, Hepatic thyroid hormone uptake/transport","http://purl.obolibrary.org/obo/GO_0006810",0,0,0
+"KE 116","Activation, FAS","http://purl.obolibrary.org/obo/GO_0004312",5,5,3
+"KE 1161","Increased, oocyte maturation","http://purl.obolibrary.org/obo/GO_0048469",0,0,0
+"KE 1163","Increased, Reproductive Success","http://purl.obolibrary.org/obo/GO_0022414",0,0,0
+"KE 1164","Increased, Population","",0,0,0
+"KE 1169","Anticoagulant rodenticide interferes with carboxylation of Gla proteins in bone, Impairment of post-translational modification (carboxylation) of osteocalcin","http://purl.obolibrary.org/obo/GO_0043687|http://purl.obolibrary.org/obo/MI_MI:1139",0,0,0
+"KE 1170","Increase, Phenotypic enzyme activity","",0,0,0
+"KE 1171","Increase, Clonal Expansion of Altered Hepatic Foci","",7,5,2
+"KE 1172","Increased activation, Nuclear factor kappa B (NF-kB)","http://purl.obolibrary.org/obo/GO_0043122",6,5,1
+"KE 1174","Activation, NADPH Oxidase","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1176","Decreased, sodium conductance 2","http://purl.obolibrary.org/obo/GO_0006810",0,0,0
+"KE 1177","Decreased, Ionotropic GABA receptor chloride channel conductance","",0,0,0
+"KE 1179","Decreased, GABA release","http://purl.obolibrary.org/obo/GO_0006810",0,0,0
+"KE 118","Formation, Formation of hemoglobin adducts","http://purl.obolibrary.org/obo/GO_0030492|http://purl.obolibrary.org/obo/GO_0042541",0,0,0
+"KE 1182","Increase, Cell Proliferation (Epithelial Cells)","http://purl.obolibrary.org/obo/GO_0008283",1,1,0
+"KE 1183","Decreased, Apoptosis (Epithelial Cells)","http://purl.obolibrary.org/obo/GO_0006915",0,0,0
+"KE 1187","Increased, ER binding to DNA (classical pathway) ","http://purl.obolibrary.org/obo/GO_0030331",0,0,0
+"KE 1188","Increased, ER binding to T.F. to DNA (non-classical pathway)","http://purl.obolibrary.org/obo/GO_0030331",0,0,0
+"KE 1189","Increased, Proliferation (Endothelial cells) ","http://purl.obolibrary.org/obo/GO_0001935",0,0,0
+"KE 119","N/A, Gap","",1,0,1
+"KE 1190","Increased, Migration (Endothelial Cells)","http://purl.obolibrary.org/obo/GO_0043542",4,4,1
+"KE 1191","Increased, Non-genomic signaling","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1192","Increased, Ductal Hyperplasia ","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 1193","N/A, Breast Cancer","",18,15,16
+"KE 1194","Increase, DNA damage","",1,1,0
+"KE 1195","modulation, Extracellular Matrix Composition ","",4,3,2
+"KE 1196","Increased, Invasion","",6,5,2
+"KE 1197","Activation, Fibroblasts","http://purl.obolibrary.org/obo/GO_0001775",0,0,0
+"KE 1198","Activation, Macrophages","http://purl.obolibrary.org/obo/GO_0042116",0,0,0
+"KE 12","Acetylcholinesterase (AchE) Inhibition","http://purl.obolibrary.org/obo/GO_0003990",4,4,0
+"KE 1202","Suppression, IL-2 and IL-4 production","http://purl.obolibrary.org/obo/GO_0032623|http://purl.obolibrary.org/obo/GO_0032633",23,17,12
+"KE 1205","Activation, Juvenile hormone receptor","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1206","Induction, Doublesex1 gene","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 1208","Increased, Male offspring","http://purl.obolibrary.org/obo/VT_1000189",0,0,0
+"KE 1209","Induction, Male reproductive tract","",0,0,0
+"KE 1210","Alteration, Food-web structures","",0,0,0
+"KE 1213","Increased, Angiogenesis","http://purl.obolibrary.org/obo/GO_0001525",0,0,0
+"KE 1214","Altered gene expression specific to CAR activation, Hepatocytes","http://purl.obolibrary.org/obo/GO_0010468",22,16,16
+"KE 1215","TRPA1 activation, TRPA1 Receptor","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1218","Opening of calcium channel, Calcium influx","http://purl.obolibrary.org/obo/GO_0006816",0,0,0
+"KE 122","Increase, Glucocorticoid receptor activation","http://purl.obolibrary.org/obo/GO_0004883",2,2,1
+"KE 1220","Trigeminal nerve activation","http://purl.obolibrary.org/obo/GO_0043179",0,0,0
+"KE 1222","SP (Substance P) release, Local increase of SP","http://purl.obolibrary.org/obo/GO_0005184",0,0,0
+"KE 1223","Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea","http://purl.obolibrary.org/obo/GO_0060004",0,0,0
+"KE 1226","Increased Respiratory irritability and Chronic Cough, ","http://purl.obolibrary.org/obo/GO_0006954",0,0,0
+"KE 1238","Activation of oxidative stress pathway","http://purl.obolibrary.org/obo/GO_0055114",1,1,1
+"KE 1239","Altered, Gene Expression","http://purl.obolibrary.org/obo/GO_0010467",1,1,0
+"KE 1240","Altered, Protein Production","http://purl.obolibrary.org/obo/GO_0006412",0,0,0
+"KE 1241","Increased, Motility","http://purl.obolibrary.org/obo/GO_0048870",9,6,3
+"KE 1242","Increased, Second Messenger Production","http://purl.obolibrary.org/obo/GO_0019932",0,0,0
+"KE 1243","Altered, Ca2+-calmodulin activated signal transduction","http://purl.obolibrary.org/obo/GO_0005488|http://purl.obolibrary.org/obo/GO_0005516|http://purl.obolibrary.org/obo/GO_0023052",12,12,0
+"KE 1250","Decrease, Lung function","http://purl.obolibrary.org/obo/VT_0002327",1,0,1
+"KE 1252","Binding to (interferes with) topoisomerase II enzyme","http://purl.obolibrary.org/obo/GO_0061505",6,6,2
+"KE 1253"," MLL chromosomal translocation","http://purl.org/commons/record/mesh/D014178",9,9,1
+"KE 1254","Infant leukaemia","",4,2,4
+"KE 1255","induced spawning","",0,0,0
+"KE 1256","increased mantel display","",0,0,0
+"KE 1257","Induced parturition","",0,0,0
+"KE 1258","Decompartmentalization","http://purl.obolibrary.org/obo/GO_0016043",0,0,0
+"KE 1259","narcosis","http://purl.obolibrary.org/obo/GO_0007009",0,0,0
+"KE 1260","Direct mitochondrial inhibition","http://purl.obolibrary.org/obo/MI_MI:0613",0,0,0
+"KE 1262","Apoptosis","http://purl.obolibrary.org/obo/GO_0006915",18,14,8
+"KE 1263","Necrosis","http://purl.obolibrary.org/obo/GO_0070265",0,0,0
+"KE 1264","Increase, Nuclear receptor E75b gene expression","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 1265","Decrease, Fushi tarazu factor-1 gene expression","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 1266","Decrease, Circulating crustacean cardioactive peptide","http://purl.obolibrary.org/obo/GO_0002790",0,0,0
+"KE 1267","Decrease, Ecdysis motor program activity","http://purl.obolibrary.org/obo/GO_0019226",0,0,0
+"KE 1269","Increase, COX-2 expression","http://purl.obolibrary.org/obo/GO_0010467",6,5,2
+"KE 1270","Inactivation of PPARγ","",1,1,0
+"KE 1271","Increase, Transforming growth factor-beta signaling","",0,0,0
+"KE 1275","Collagen Deposition","",0,0,0
+"KE 1276","Lung fibrosis","",0,0,0
+"KE 1277","Reproductive failure","http://purl.obolibrary.org/obo/GO_0000003",0,0,0
+"KE 1279","Increase, Oxidative Stress / Activation, PMK-1 P38 MAPK","http://purl.obolibrary.org/obo/GO_0023052|http://purl.obolibrary.org/obo/MP_0003674",0,0,0
+"KE 1280","Activation, HIF-1","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1281","Increased, DNA Damage-Repair","http://purl.obolibrary.org/obo/GO_0006281",0,0,0
+"KE 1282","Activation, JAK/STAT pathway","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1283","Activation, TGF-beta pathway","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1284","Up Regulation, SREBF2","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 1285","Up Regulation, Unsaturated fatty acid","http://purl.obolibrary.org/obo/GO_0006636",0,0,0
+"KE 1286","Down Regulation, GSS and GSTs gene","http://purl.obolibrary.org/obo/GO_0004363|http://purl.obolibrary.org/obo/GO_0004364",0,0,0
+"KE 1287","Glutathione synthesis","http://purl.obolibrary.org/obo/GO_0006750",0,0,0
+"KE 1288","Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene","http://purl.obolibrary.org/obo/GO_0003857",0,0,0
+"KE 1289","Perturbation of cholesterol","",0,0,0
+"KE 129","Reduction, Gonadotropins, circulating concentrations","",2,0,2
+"KE 1290","Glutathione homeostasis","",0,0,0
+"KE 1291","Hepatotoxicity","",0,0,0
+"KE 1292","Activation, JNK","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1293","Activation, FOXO","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1294","Inhibition, Wnt pathway","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 1295","Defect of Embryogenesis","http://purl.obolibrary.org/obo/GO_0009790",0,0,0
+"KE 1299","Activation, AKT","",0,0,0
+"KE 130","Depletion, GSH","http://purl.obolibrary.org/obo/MP_0012603",0,0,0
+"KE 1300","Activation, mTORC1","",0,0,0
+"KE 1305","Increase, cytosolic fatty acid","",0,0,0
+"KE 1306","Increase, De novo lipogenesis","",0,0,0
+"KE 131","Down Regulation, Gulcose-6-phosphate dehydrogenase","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 1310","Activation, PI3K","",0,0,0
+"KE 1312","Increase, Fatty acid beta-oxidation","",0,0,0
+"KE 1316","Inhibit, serotonin transporter activity","",0,0,0
+"KE 1317","Decreased, serotonin transporter activity","",0,0,0
+"KE 1318","Decreased, extracellular sodium (Na+) ","",0,0,0
+"KE 1319","Decreased, extracellular chloride (Cl-)","",0,0,0
+"KE 1320","Increased, extracellular serotonin","http://purl.obolibrary.org/obo/MP_0010069",1,1,1
+"KE 1321","Increased, intracellular sodium (Na+)","",0,0,0
+"KE 1322","Increased, intracellular chloride (Cl-)","",0,0,0
+"KE 1323","Decreased, intracellular serotonin","",0,0,0
+"KE 1324","Decreased, packaged serotonin","",0,0,0
+"KE 1325","Decreased, synaptic release","",0,0,0
+"KE 1326","Increased, 5-HT3 (5-hydroxytryptamine)","",0,0,0
+"KE 1328","Inactivated, 5-HTR (serotonin receptors)","",0,0,0
+"KE 1329","Reduce expression, BDNF (Brain-derived neurotrophic factor)","",0,0,0
+"KE 1330","Decreased, neuroplasticity","",1,0,1
+"KE 1334","Increase, cortisone","",0,0,0
+"KE 1335","Reduced, BDNF (Brain-derived neurotrophic factor)","",7,7,1
+"KE 1336","Activation, 5-HT2A (Serotonin 2A)","",0,0,0
+"KE 1337","Activate, PLC (Phospholipase C)","",0,0,0
+"KE 1338","Increase, inositol triphosphate","",0,0,0
+"KE 1339","Increase, intracellular calcium","http://purl.obolibrary.org/obo/VT_0010499",12,11,2
+"KE 134","Increase, Kupffer cell activation","http://purl.obolibrary.org/obo/GO_0042116",18,16,6
+"KE 1340","Activate, calmodulin","",0,0,0
+"KE 1341","Increase, myosin light chain phosphorylation","",0,0,0
+"KE 1342","Increase, vascular smooth muscle contraction","",0,0,0
+"KE 1343","Increase, hypertension","",0,0,0
+"KE 1344","Increased, seizure","",0,0,0
+"KE 1345","Increased, agitation","",0,0,0
+"KE 1346","Increased, depression","",1,1,1
+"KE 1347","Decreased, extracellular serotonin","",0,0,0
+"KE 1348","Increase, seizure","",0,0,0
+"KE 1349","Activated, presynaptic neuron 1","",0,0,0
+"KE 1350","Increased, glutamate","http://purl.obolibrary.org/obo/GO_0035249",1,1,0
+"KE 1351","Activated, NMDA receptor","",0,0,0
+"KE 1352","Activated, voltage-gated sodium channel","",0,0,0
+"KE 1353","Binding to voltage-gated sodium channel","http://purl.obolibrary.org/obo/GO_0005248",5,4,1
+"KE 1354","Treat, carbamazepine","",0,0,0
+"KE 1355","Activated, membrane depolarization","",0,0,0
+"KE 1356","Inactive, membrane depolarization","",0,0,0
+"KE 1357","Increased, RDX dose","",0,0,0
+"KE 1358","Repress, GABA-A receptor","",0,0,0
+"KE 1359","Activate, GABA-A receptor","",0,0,0
+"KE 1360","Activate, presynaptic neuron 2","",0,0,0
+"KE 1361","Increase, GABA","",0,0,0
+"KE 1362","Increased, hippocampal hyperdepolarization","",0,0,0
+"KE 1363","Increased, epilepsy","",0,0,0
+"KE 1365","Increase, Apoptosis","",0,0,0
+"KE 1366","Decrease, Oogenesis","",0,0,0
+"KE 1367","Inhibit, gastric ulcer formation","",0,0,0
+"KE 1368","Inhibition, PTGS-1 (Prostaglandin-endoperoxide synthase 1)","",0,0,0
+"KE 1369","Activation, PTGS-1 (Prostaglandin-endoperoxide synthase 1)","",0,0,0
+"KE 1370","Activation, PTGS-2 (Prostaglandin-endoperoxide synthase 2)","",0,0,0
+"KE 1371","Inhibition, PTGS-2 (Prostaglandin-endoperoxide synthase 2)","",0,0,0
+"KE 1372","Increase, bicarbonate ","",0,0,0
+"KE 1373","Increase, mucous","",0,0,0
+"KE 1374","Increase, mucosal blood flow","",0,0,0
+"KE 1375","Increase, platelet aggregation","",0,0,0
+"KE 1376","Increase, angiogenesis","http://purl.obolibrary.org/obo/HP_0003002",2,2,1
+"KE 1377","Decrease, leukocyte adherence","",0,0,0
+"KE 1378","Increase, leukocyte adherence","",0,0,0
+"KE 1379","Activate, leukocyte ","",0,0,0
+"KE 1380","Activate, mucosal defense","",0,0,0
+"KE 1381","Increase, surfactant","",0,0,0
+"KE 1382","Decrease, surfactant","",0,0,0
+"KE 1383","Activate, phospholipase","",0,0,0
+"KE 1384","Increase, ammonium (NH4+)","",0,0,0
+"KE 1385","Activated, gastric ulcer formation","",0,0,0
+"KE 1386","CYP7B activity, inhibition","",2,2,0
+"KE 1387","7α-hydroxypregnenolone synthesis in the brain, decreased","",3,3,2
+"KE 1388","Dopamine release in the brain, decreased","",2,2,0
+"KE 1389","Locomotor activity, decreased","",0,0,0
+"KE 139","N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects","",0,0,0
+"KE 1390","Sexual behavior, decreased","",0,0,0
+"KE 1391","Activation of Cyp2E1","",3,3,1
+"KE 1392","Increase, Oxidative Stress ","http://purl.obolibrary.org/obo/MP_0003674",19,16,4
+"KE 1393","Hepatocytotoxicity","",14,11,5
+"KE 1394","Induction, persistent proliferation/sustained proliferation","http://purl.obolibrary.org/obo/GO_0002281|http://purl.obolibrary.org/obo/GO_0034599|http://purl.obolibrary.org/obo/MP_0005039",40,34,29
+"KE 1395","Liver Cancer","",1,0,1
+"KE 1396","Increased, glucocorticoid receptor activity","",0,0,0
+"KE 1397","Increased, serotonin transporter activity","",0,0,0
+"KE 1398","Increased, intracellular serotonin","",0,0,0
+"KE 1399","Increased, packaged serotonin","",0,0,0
+"KE 140","Decreased, HSD17B10 expression","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 1400","Increased, synaptic release","",0,0,0
+"KE 1401","Decreased, 5-HT3","",0,0,0
+"KE 1402","Reduced, PTGS1 function","",0,0,0
+"KE 1403","Reduced, platelet aggregation","",0,0,0
+"KE 1404","Decreased, mucosal blood flow","",0,0,0
+"KE 1405","Reduced, mucosal defense","",0,0,0
+"KE 1406","Decreased, mucous","",0,0,0
+"KE 1407","Decreased, bicarbonate","",0,0,0
+"KE 1408","Reduced, PTGS2 function","",0,0,0
+"KE 1409","Decreased, angiogenesis","",0,0,0
+"KE 1410","Increased, leukocyte adherence","",0,0,0
+"KE 1411","Increased, leukocyte activation","",0,0,0
+"KE 1412","Helicobacter pylori infection","",0,0,0
+"KE 1413","Reduced, presynaptic neuron 2 activity","",0,0,0
+"KE 1414","Decreased, GABA","",0,0,0
+"KE 1415","Reduced, GABA-A receptor activation","",0,0,0
+"KE 1416","Decreased, intracellular chloride","",0,0,0
+"KE 1417","NFE2/Nrf2 repression","",0,0,0
+"KE 142","Hyperplasia, Hyperplasia","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 1421","Activated, LXR","",0,0,0
+"KE 1422","Reduced, PPARalpha","",0,0,0
+"KE 1423","Reduced, HSD17B4 activity","",0,0,0
+"KE 1424","Reduced, fatty acid beta oxidation","",0,0,0
+"KE 1425","Mu Opioid Receptor Agonism","",0,0,0
+"KE 1426","Release of G Proteins","",0,0,0
+"KE 1427","Opening of G protein gated inward rectifying K channels","",0,0,0
+"KE 1428","Analgesia","",0,0,0
+"KE 1429","Inhibition of N-type Ca ion channels","",0,0,0
+"KE 1430","Inhibition of neurotransmitter vesicle release","",0,0,0
+"KE 1431","Serotonin 1A Receptor Agonism","",0,0,0
+"KE 1432","Anti-depressant Activity","",0,0,0
+"KE 1433","Increased CGRP, neuronal release of CGRP","http://purl.obolibrary.org/obo/GO_0005184",0,0,0
+"KE 1434","Irritation of nasal mucosa inducing sneeze reflex","http://purl.obolibrary.org/obo/GO_0060004",0,0,0
+"KE 1435","Increased neurokinin A (NKA) by neuronal cells","http://purl.obolibrary.org/obo/GO_0005184",0,0,0
+"KE 1438","Transcription of genes encoding acute phase proteins, Increased","http://purl.obolibrary.org/obo/GO_0006953",10,9,5
+"KE 1439","Systemic acute phase response","http://purl.obolibrary.org/obo/GO_0006953",9,5,7
+"KE 1442","Foam cell formation","",0,0,0
+"KE 1443","Atherosclerosis","http://purl.obolibrary.org/obo/HP_0002621",2,2,0
+"KE 1444","Increase, Follicular atresia","",0,0,0
+"KE 1445","Increase, Lipid peroxidation","http://purl.obolibrary.org/obo/GO_0034440",0,0,0
+"KE 1446","Decrease, Coupling of oxidative phosphorylation","http://purl.obolibrary.org/obo/GO_0017077|http://purl.obolibrary.org/obo/GO_0051881|http://purl.obolibrary.org/obo/GO_1901691",2,0,2
+"KE 1447","obesity","",0,0,0
+"KE 1448","activation of CCAAT/enhancer-binding protein alpha","",0,0,0
+"KE 1449","increased adipogenesis","",0,0,0
+"KE 145","Induction, IKB inhibitory protein","http://purl.obolibrary.org/obo/GO_0007252",0,0,0
+"KE 1450","decreased dopamine","",0,0,0
+"KE 1451","decreased reward","",0,0,0
+"KE 1452","decreased DNA methylation of tyrosine hydroxylase","",0,0,0
+"KE 1453","decreased methylation of dopamine transporter promoter","",0,0,0
+"KE 1454","chronic high fat diet","",0,0,0
+"KE 1456","Increase, Differentiation of fibroblasts","",0,0,0
+"KE 1457","Epithelial Mesenchymal Transition","http://purl.obolibrary.org/obo/GO_0001837",45,37,21
+"KE 1458","Pulmonary fibrosis","",2,2,1
+"KE 1461","Increase, DNA double-strand breaks","",4,0,4
+"KE 1462","Thiol group of chemicals interact with sulfuhydryl groups of proteins to form thiol adducts","",0,0,0
+"KE 1463","Inhibition of lysyl oxidase","",0,0,0
+"KE 1464","Reduction of collagen crosslinking","",0,0,0
+"KE 1465","Weak collagen matrix","",0,0,0
+"KE 1466","Notochord distortion or malformations","",0,0,0
+"KE 1467","Growth, reduction","",0,0,0
+"KE 1468","Activation, Latent Transforming Growth Factor Beta 1","",0,0,0
+"KE 1469","Activation, Transforming Growth Factor beta pathway","",0,0,0
+"KE 147","Inhibition, Inducible Nitric Oxide Synthase by Metabolite CGA 265307","http://purl.obolibrary.org/obo/GO_0004517",0,0,0
+"KE 1471","Increase, Uncoupling of photophosphorylation","",0,0,0
+"KE 1472","Decrease, ATP production","http://purl.obolibrary.org/obo/GO_0006754",0,0,0
+"KE 1473","Decrease, Chlorophyll synthesis","",0,0,0
+"KE 1474","Decrease, Light harvest capacity","",0,0,0
+"KE 1475","Decrease, Photosynthesis","",2,2,0
+"KE 1476","Decrease, Glycolysis","",0,0,0
+"KE 1477","Oxidative phosphorylation, decreased","",2,1,1
+"KE 1478","Decrease, Leaf cell mitosis","",0,0,0
+"KE 1479","Decrease, Leaf development","",0,0,0
+"KE 1481","Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)","",0,0,0
+"KE 1482","Depletion, mtDNA ","",0,0,0
+"KE 1486","Binding of substrate, endocytic receptor","",0,0,0
+"KE 1487","Binding, Thiol/seleno-proteins involved in protection against oxidative stress","",5,5,1
+"KE 1488","Glutamate dyshomeostasis","",23,19,13
+"KE 1489","Increase, Steatohepatitis","",0,0,0
+"KE 149","Increase, Inflammation","http://purl.obolibrary.org/obo/GO_0006954",16,11,11
+"KE 1490","Inhibition, Fatty Acid Beta Oxidation","",0,0,0
+"KE 1491","Increased, Oncotic Necrosis","",0,0,0
+"KE 1492","Tissue resident cell activation","http://purl.obolibrary.org/obo/GO_0002263",38,35,13
+"KE 1493","Increased Pro-inflammatory mediators","http://purl.obolibrary.org/obo/GO_0002526",54,41,20
+"KE 1494","Leukocyte recruitment/activation","http://purl.obolibrary.org/obo/GO_0002263",4,3,1
+"KE 1495","Substance interaction with the lung resident cell membrane components","http://purl.obolibrary.org/obo/GO_0002221|http://purl.obolibrary.org/obo/GO_0002224|http://purl.obolibrary.org/obo/GO_0034142",9,7,5
+"KE 1496","Increased, secretion of proinflammatory mediators","http://purl.obolibrary.org/obo/GO_0002534|http://purl.obolibrary.org/obo/GO_0006956|http://purl.obolibrary.org/obo/GO_0090195",35,29,20
+"KE 1497","Increased, recruitment of inflammatory cells","http://purl.obolibrary.org/obo/GO_0006954|http://purl.obolibrary.org/obo/GO_0042116",0,0,0
+"KE 1498","Loss of alveolar capillary membrane integrity","",9,5,4
+"KE 1499","Increased, activation of T (T) helper (h) type 2 cells","",19,17,9
+"KE 1500","Increased, fibroblast proliferation and myofibroblast differentiation","",18,15,9
+"KE 1501","Increase, Extracellular matrix deposition","",11,9,4
+"KE 1502","Histone deacetylase inhibition","http://purl.obolibrary.org/obo/GO_0004857",16,14,7
+"KE 1503","Histone acetylation, increase","http://purl.obolibrary.org/obo/GO_0031399",10,9,4
+"KE 1505","Increase, Cell cycle disruption","http://purl.obolibrary.org/obo/GO_0051726",4,1,3
+"KE 1506","Testicular atrophy","http://purl.obolibrary.org/obo/HP_0000029",0,0,0
+"KE 1507","Activation of PPARγ","",0,0,0
+"KE 1508","CYP2E1 Activation","",3,3,1
+"KE 1509","Protein Adduct Formation","",0,0,0
+"KE 1511","Lipid Peroxidation","",0,0,0
+"KE 1512","Unfolded Protein Response","",8,8,5
+"KE 1513","General Apoptosis","http://purl.obolibrary.org/obo/MP_0006042",4,4,3
+"KE 1514","Neurodegeneration","",0,0,0
+"KE 1515","Spermatocyte depletion","",5,4,4
+"KE 152","Suppression, Inflammatory cytokines","http://purl.obolibrary.org/obo/GO_0002534",0,0,0
+"KE 1521","Decrease, Growth","http://purl.obolibrary.org/obo/GO_0040007",0,0,0
+"KE 1522","Inhibition, Chitin synthase 1","http://purl.obolibrary.org/obo/GO_0004100",4,3,2
+"KE 1523","Decrease, Cuticular chitin content","http://purl.obolibrary.org/obo/GO_0042335",5,5,1
+"KE 1524","Increase, Premature molting","http://purl.obolibrary.org/obo/GO_0018990",0,0,0
+"KE 1525","Increase, Sulfonylurea receptor binding","",0,0,0
+"KE 1526","Increase, Opening of voltage-dependent calcium channel","",0,0,0
+"KE 1527","Increase, Cell membrane depolarization","",0,0,0
+"KE 1528","Fatty Acid Beta Oxidation, Decreased","http://purl.obolibrary.org/obo/GO_0006635",33,33,1
+"KE 1529","Blockade, L-Type Calcium Channels ","",0,0,0
+"KE 1530","Decrease, Calcium currents","",0,0,0
+"KE 1531","Decrease, Calcium binding to Troponin C","",0,0,0
+"KE 1532","Decrease, Cardiac contractility ","",0,0,0
+"KE 1533","Decrease, Cardiac ejection fraction ","",0,0,0
+"KE 1535","Heart failure ","http://purl.obolibrary.org/obo/HP_0001695",0,0,0
+"KE 1536","Disruption, Intracellular calcium mobilization","",0,0,0
+"KE 1537","Disruption, Sarcomere assembly","",0,0,0
+"KE 1538","Decreased protection against oxidative stress","",9,8,3
+"KE 1539","Endocytotic lysosomal uptake","http://purl.obolibrary.org/obo/GO_0006897",7,7,0
+"KE 1541","Mitochondrial Complex I inhibition","",0,0,0
+"KE 1542","Inhibition, Mitochondrial complex III","http://purl.obolibrary.org/obo/HP_0011924",13,12,2
+"KE 1543","Mitochondrial Complex IV inhibition","",6,4,2
+"KE 1544","Mitochondrial Complex V inhibition","",4,3,1
+"KE 1545","Decreased, mitochondrial oxidative phosphorylation","",1,1,0
+"KE 1547","Mitochondrial Injury","",0,0,0
+"KE 1548","Necrotic Tissue","",0,0,0
+"KE 1549","Liver Injury","",8,3,5
+"KE 155","Inadequate DNA repair","http://purl.obolibrary.org/obo/GO_0006281",35,30,19
+"KE 1550","Deposition of Ionizing Energy","",0,0,0
+"KE 1554","Increase Chromosomal Aberrations","",0,0,0
+"KE 1555","Increase cell proliferation","",0,0,0
+"KE 1556","Increase, lung cancer","",0,0,0
+"KE 1557","Neural crest cell migration, reduced","",8,6,3
+"KE 1558","Collagen production, reduced","",1,1,0
+"KE 1559","Facial cartilage structures are reduced in size and morphologically distorted","",2,1,1
+"KE 1560","Cell differentiation, altered","http://purl.obolibrary.org/obo/GO_0030154",0,0,0
+"KE 1561","Neural tube defects","",0,0,0
+"KE 1562","Decreased Na/K ATPase activity","http://purl.obolibrary.org/obo/GO_0005391",1,1,0
+"KE 1563","Decreased proximal tubular vectorial transport","",0,0,0
+"KE 1564","Chemical induced Fanconi syndrome","",0,0,0
+"KE 1574","Inhibition, IKK complex","",5,5,1
+"KE 1575","Activation, Caspase 8 pathway","",10,10,3
+"KE 1576","Activation, Tissue resident cells (Kuppfer cells)","",0,0,0
+"KE 1579","Increase, proinflammatory mediators (TNFalpha)","",0,0,0
+"KE 1580","Binding of microtubule stabilizing agents (MSA) to microtubules","",2,2,0
+"KE 1581","Disturbance in microtubule dynamic instability","",7,7,0
+"KE 1582","Impaired axonial transport","",2,2,0
+"KE 1583","Sensory axonal peripheral neuropathy","",0,0,0
+"KE 1584","Interaction of α-diketones with arginine residues","",0,0,0
+"KE 1585","Proteasomal dysfunction","",0,0,0
+"KE 1586","Airway epithelial injury","",0,0,0
+"KE 1587","Fibroproliferative airway lesions","",1,1,0
+"KE 1588","Bronchiolitis obliterans","",0,0,0
+"KE 1594","Oxidation of membrane lipids","",0,0,0
+"KE 1595","Oxidation/denatuation of membrane proteins","",0,0,0
+"KE 1599","Inflamatory events in light-exposed tissues","",0,0,0
+"KE 1602","Increased Muscarinic Acetylcholine Receptors","http://purl.obolibrary.org/obo/GO_0031789",13,12,1
+"KE 1603","Chronic kidney disease","",0,0,0
+"KE 1604","Inhibition of N-linked glycosylation","",3,1,2
+"KE 1605","Accumulation of misfolded proteins","",0,0,0
+"KE 1606","Activation, Stellate cell","",1,1,0
+"KE 1607","Increase, Necrosis","",0,0,0
+"KE 1609","Inhibition, Cytochrome P450 enzyme (CYP17A1) activity","",6,3,4
+"KE 161","Increase, Liver and splenic hemosiderosis","",0,0,0
+"KE 1610","Reduction, dehydroepiandrosterone","",5,5,1
+"KE 1611","Reduction, androstenedione","",5,5,2
+"KE 1613","Decrease, dihydrotestosterone (DHT) levels","http://purl.obolibrary.org/obo/GO_0042446",9,8,2
+"KE 1614","Decrease, androgen receptor activation","http://purl.obolibrary.org/obo/GO_0004882",9,6,5
+"KE 1615","Impaired inguinoscrotal testicular descent phase","http://purl.obolibrary.org/obo/GO_0048513",1,1,0
+"KE 1616","Malformation, cryptorchidism - maldescended testis","http://purl.obolibrary.org/obo/GO_0048513",1,0,1
+"KE 1617","Inhibition, 5α-reductase","",3,3,0
+"KE 1619","Increase, DNA methyltransferase inhibition","",0,0,0
+"KE 1623","Occurrence, Focal Seizure","http://purl.obolibrary.org/obo/HP_0011185",1,1,0
+"KE 1627","Inhibition of tyrosinase ","",0,0,0
+"KE 1628","Reduction of L-Dopaquinone","",0,0,0
+"KE 1629","Reduction in melanin level","",0,0,0
+"KE 1630","Reduction of melanosome level","",0,0,0
+"KE 1631","Reduction fo Pigmentation pattern ","",0,0,0
+"KE 1632","Increase in reactive oxygen and nitrogen species (RONS)","",6,3,3
+"KE 1633","Increase in inflammation","",0,0,0
+"KE 1634","Increase, Oxidative DNA damage","http://purl.obolibrary.org/obo/GO_1901031",4,0,4
+"KE 1635","Increase, DNA strand breaks","http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25830",1,1,1
+"KE 1636","Increase, Chromosomal aberrations","http://purl.obolibrary.org/obo/GO_0031052",0,0,0
+"KE 1637","Retinaldehyde dehydrogenase inhibition","",0,0,0
+"KE 164","Induction, Liver “Dysfunctional” Changes by CGA 330050","http://purl.obolibrary.org/obo/HP_0001410",0,0,0
+"KE 1640","Altered, Photoreceptor patterning","",5,4,2
+"KE 1641","Decreased retinoic acid (RA) synthesis","",0,0,0
+"KE 1642","Decreased plasma RA level","",0,0,0
+"KE 1643","Altered, Visual function","http://purl.obolibrary.org/obo/VT_0002090",2,1,1
+"KE 1647","GSK3beta inactivation","",17,17,3
+"KE 165","Activation, Long term AHR receptor driven direct and indirect gene expression changes","http://purl.obolibrary.org/obo/GO_0023052",4,3,3
+"KE 1651","Treatment-resistant gastric cancer","http://purl.obolibrary.org/obo/GO_2001038",2,0,2
+"KE 1653","Binding of inhibitor to mitochondrial complex III","",0,0,0
+"KE 1654","Binding of inhibitor to mitochondrial complex IV","",0,0,0
+"KE 1655","Binding of inhibitor to mitochondrial complex V","",0,0,0
+"KE 1656","Antagonism, Thyroid Receptor ","",12,11,2
+"KE 1657","Inhibition of cystathionine beta-synthase","",0,0,0
+"KE 166","Decreased, Long-term potentiation (LTP)","http://purl.obolibrary.org/obo/GO_0060291",0,0,0
+"KE 1661","Increased Homocysteine level ","",0,0,0
+"KE 1665","Increased, Plasma HCY level","",0,0,0
+"KE 1666","Induced, dysfunction of microcirculation","",0,0,0
+"KE 1667","Impaired,anterior-posterior axis development","",0,0,0
+"KE 1668","Frustrated phagocytosis","http://purl.obolibrary.org/obo/GO_0006909",0,0,0
+"KE 1669","Increased, DNA damage and mutation","http://purl.obolibrary.org/obo/GO_0031052|http://purl.obolibrary.org/obo/GO_0042769|http://purl.obolibrary.org/obo/MP_0008058|http://purl.obolibrary.org/obo/MP_0008866|http://purl.org/commons/record/mesh/D009154",0,0,0
+"KE 167","Activation, LXR","http://purl.obolibrary.org/obo/GO_0023052",33,29,9
+"KE 1670","Lung cancer","http://purl.obolibrary.org/obo/HP_0100526|http://purl.obolibrary.org/obo/MP_0008014",0,0,0
+"KE 1672","Inhibition of lung surfactant function","",1,1,1
+"KE 1673","Alveolar collapse","",0,0,0
+"KE 1677","Reduced tidal volume ","",0,0,0
+"KE 168","Decreased, Lymphocytes","",0,0,0
+"KE 1680","Inhibition, TBX1","",0,0,0
+"KE 1681","Disruption, Neural crest cell migration","",0,0,0
+"KE 1682","Disruption, Progenitor cells of second heart field","",4,3,1
+"KE 1683","Impairment, Fourth pharyngeal arch development","",0,0,0
+"KE 1684","Abnormalities, Cardiac outflow tract formation","",0,0,0
+"KE 1685","Anomalies, Congenital cardiac conotruncal","",0,0,0
+"KE 1686","Deposition of Energy","http://purl.obolibrary.org/obo/RBO_00015021",1,0,1
+"KE 1688","anogenital distance (AGD), decreased","http://purl.obolibrary.org/obo/GO_0030521",1,1,0
+"KE 169","Disruption, Membrane integrity","",0,0,0
+"KE 1690","Decrease, circulating testosterone levels ","http://purl.obolibrary.org/obo/GO_0042446|http://purl.obolibrary.org/obo/GO_0061370",10,10,3
+"KE 1691","Antagonism,LH receptor","",0,0,0
+"KE 1692","Reduction, Progesterone synthesis","",0,0,0
+"KE 1693","Decreased, Progesterone levels","",5,5,3
+"KE 1694","Reduction, progesterone uptake, decresed maturation ","",0,0,0
+"KE 1695","Impaired ovulation","http://purl.obolibrary.org/obo/GO_0030728",0,0,0
+"KE 1696","Decrease of egg production and cummulative fecundity","",0,0,0
+"KE 1697","Increase, DNA methyltransferase expression","",0,0,0
+"KE 1698","Increase, hypermethylation of the promotor region of gonadotropin releasing hormone receptor","",0,0,0
+"KE 1699","Decrease, expression of gonadotropin releasing hormone receptor","",0,0,0
+"KE 17","Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway","",5,4,3
+"KE 1700","Impaired IL-1R1 signaling in T cell","http://purl.obolibrary.org/obo/GO_0004908",36,32,19
+"KE 1702","Suppression of  T cell activation","http://purl.obolibrary.org/obo/GO_0002286",8,8,2
+"KE 1703","Dysregulation of heart rate and vascular tone","",2,2,0
+"KE 1705","Impaired coordination and movement","",0,0,0
+"KE 1706","Stimulation, TLR7/8","",24,24,11
+"KE 1707","Increase, IL-23 from matured dendritic cells","",27,17,14
+"KE 1708","Th17 cell migration and inflammation induction","",19,16,10
+"KE 1709","Psoriatic skin disease","",22,21,8
+"KE 1710","Binding to estrogen receptor (ER)-α in immune cells","",3,3,0
+"KE 1711","Induction of GATA3 expression","",6,6,6
+"KE 1712","Increase of Th2 cells producing IL-4","",11,11,6
+"KE 1713","Increase of anti-DNA antibody from autoreactive B cell","",3,3,2
+"KE 1714","Exacerbation of systemic lupus erythematosus (SLE)","",6,6,1
+"KE 1715","Inhibition of JAK3","http://purl.obolibrary.org/obo/GO_0051098",8,8,5
+"KE 1716","Blockade of STAT5 phosphorylation","http://purl.obolibrary.org/obo/GO_0006470",4,4,3
+"KE 1717","Suppression of STAT5 binding to cytokine gene promoters","http://purl.obolibrary.org/obo/GO_0043392",11,9,8
+"KE 1718","Suppression of IL-4 production","http://purl.obolibrary.org/obo/GO_0032633",8,8,6
+"KE 1719","Impairment of T-cell dependent antibody response","http://purl.obolibrary.org/obo/GO_0002286",9,9,3
+"KE 1720","Trypsin inhibition","",8,8,2
+"KE 1721","Increased intestinal monitor peptide level","",6,6,1
+"KE 1722","Increased blood CCK level","",7,6,3
+"KE 1723","Increased exocrine secretion from pancreatic acinar cells","",13,13,4
+"KE 1724","Acinar cell proliferation","",13,13,4
+"KE 1725","Pancreatic acinar cell tumors","",4,3,2
+"KE 173","N/A, Methemoglobinemia, decreased hemoglobin, hematocrit, red blood cell number","",0,0,0
+"KE 1738","SARS-CoV-2 cell entry ","http://purl.obolibrary.org/obo/GO_0046718|http://purl.obolibrary.org/obo/GO_0061025|http://purl.obolibrary.org/obo/GO_0075509",57,52,15
+"KE 1739","Binding to ACE2","http://purl.obolibrary.org/obo/GO_0005102",8,6,4
+"KE 1740","Induced dysregulation of ACE2 ","",0,0,0
+"KE 1741","Induced, Angiotensin (Ang) II accumulation","",0,0,0
+"KE 1743","Increase plasma Ang II","",0,0,0
+"KE 1748","Increase, the risk of acute respiratory failure","",0,0,0
+"KE 1750","Increased inflammatory immune responses","",0,0,0
+"KE 1752","Increased Angiotensin II ","",0,0,0
+"KE 1754","Increase, porcupine-induced Wnt secretion and Wnt signaling activation","http://purl.obolibrary.org/obo/GO_0061355",21,20,15
+"KE 1755","beta-catenin activation","http://purl.obolibrary.org/obo/GO_1904863",8,8,2
+"KE 1756","Decreased,  plasma 11-ketotestosterone level","http://purl.obolibrary.org/obo/GO_0006702",10,6,4
+"KE 1757","Decrease, Sperm count","",0,0,0
+"KE 1758","Impaired, Spermatogenesis","http://purl.obolibrary.org/obo/HP_0008669",0,0,0
+"KE 1761","Inhibition, Fin regeneration","http://purl.obolibrary.org/obo/GO_0031101",9,9,1
+"KE 1762","Urothelial cell injury/death","",0,0,0
+"KE 1763","Urothelial Tumor","",0,0,0
+"KE 1767","Increase, Protein oxidation","http://purl.obolibrary.org/obo/GO_0018158",1,0,1
+"KE 1768","Increase, Abnormal osmoregulation","",0,0,0
+"KE 1769","Increase, Body fluid overload","",0,0,0
+"KE 177","Increase, Mitochondrial dysfunction","",21,18,9
+"KE 1770","Decrease, Mitochondrial membrane potential","",0,0,0
+"KE 1771","Decrease, Adenosine triphosphate pool","http://purl.obolibrary.org/obo/GO_0006754",0,0,0
+"KE 1772","Decrease, Triglyceride","",0,0,0
+"KE 1773","Decrease, Global DNA methylation","",0,0,0
+"KE 1774","Increase, Caspase transcription","",0,0,0
+"KE 1775","Increase, Oocyte apoptosis","",0,0,0
+"KE 1776","Increase, Ovarian somatic cell apoptosis","",0,0,0
+"KE 1777","Increase, Ovarian follicle breakdown","",0,0,0
+"KE 1778","Decrease, Heritable DNA methylation (F3)","",0,0,0
+"KE 1779","Increase, Caspase transcription (F3)","",0,0,0
+"KE 178","Mitochondrial electron transport chain, disrupted","",0,0,0
+"KE 1780","Increase, Oocyte apoptosis (F3)","",0,0,0
+"KE 1781","Decrease, Fecundity (F3)","",0,0,0
+"KE 1782","Decrease, Oogenesis (F3)","",0,0,0
+"KE 1783","Increase, Ovarian somatic cell apoptosis (F3)","",0,0,0
+"KE 1784","Increase, Ovarian follicle breakdown (F3)","",0,0,0
+"KE 1785","Increase, Mitochondrial ATP synthase antagonism","",0,0,0
+"KE 1786","Nipple retention (NR), increased","",0,0,0
+"KE 1787","Downregulation, ACE2","",0,0,0
+"KE 1788","Status epilepticus","http://purl.obolibrary.org/obo/NBO_0000703",3,3,0
+"KE 1789","Reduction, 17beta-estradiol synthesis by the undifferentiated gonad ","http://purl.obolibrary.org/obo/GO_0006703",1,1,0
+"KE 179","Decrease, Fatty acid beta-oxidation","http://purl.obolibrary.org/obo/GO_0006635",1,1,0
+"KE 1790","Increased, Differentiation to Testis ","http://purl.obolibrary.org/obo/GO_0008584",0,0,0
+"KE 1791","Increased, Male Biased Sex Ratio","http://purl.obolibrary.org/obo/GO_0046661",3,2,3
+"KE 1792","Toll-like receptor 4 activation","",0,0,0
+"KE 1793","Activator protein 1 activation","",0,0,0
+"KE 1794","Pin-1 activation","",0,0,0
+"KE 1795","Latent Transforming growth Factor beta expression","",0,0,0
+"KE 1796","11β-hydroxylase inhibition","",0,0,0
+"KE 1798","Decreased spermatogenesis ","",0,0,0
+"KE 1799","Inhibition of 11β-HSD ","",0,0,0
+"KE 18","Activation, AhR","http://purl.obolibrary.org/obo/GO_0004874|http://purl.obolibrary.org/obo/GO_0017162",38,27,18
+"KE 1800","Granulosa cell proliferation of gonadotropin-independent follicles, Reduced","http://purl.obolibrary.org/obo/GO_0001541",4,4,2
+"KE 1806","Inhibition, Chitinase ","",0,0,0
+"KE 1807","Inhibition, Chitobiase","",0,0,0
+"KE 1809","Increase, Tissue/organ damage","",0,0,0
+"KE 1812","Increase, Cytochrome c release","",0,0,0
+"KE 1814","benzoquinone imine and acylglucuronide metabolites","",0,0,0
+"KE 1815","Increase, Endoplasmic reticulum stress","",0,0,0
+"KE 1816","Mitochondrial dysfunction EMPTY","",0,0,0
+"KE 1817","Apoptotic cell death","",0,0,0
+"KE 1818","Immune cell activation","",0,0,0
+"KE 1819","IFNγ signaling","",0,0,0
+"KE 1820","Immune mediated hepatitis","",0,0,0
+"KE 1821","Decrease, Cell proliferation","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 1822","Maturation of TNF/iNOS-Producing Dendritic Cells","",33,29,18
+"KE 1824","Decrease, Fatty acid β-oxidation","",0,0,0
+"KE 1825","Increase, Cell death","http://purl.obolibrary.org/obo/GO_0008219",31,28,12
+"KE 1828","Increased, Thyroxine (T4) in serum","",0,0,0
+"KE 1829","Altered, Thyroid hormone-dependent gene expression","",0,0,0
+"KE 1830","Displacement, Serum thyroxine (T4) from carrier protein","",0,0,0
+"KE 1831","Binding, Thyroid binding globulin in serum","",0,0,0
+"KE 1834","Decrease, Acyl-CoA dehydrogenases","",0,0,0
+"KE 1835","Cortisol and 11β-(OH) testosterone decreased","",0,0,0
+"KE 1836","Decreased plasma Cortisol level","",0,0,0
+"KE 1837","decreased oocyte maturation","",0,0,0
+"KE 1839","Testicular Cancer","",0,0,0
+"KE 1840","Inhibition, cytochrome oxidase","http://purl.obolibrary.org/obo/GO_0004129",0,0,0
+"KE 1841","Encephalitis","",6,3,3
+"KE 1842","Prolonged TLR9 activation","",0,0,0
+"KE 1843","Multi Organ Failure involving Acute Respiratory Distress Syndrome","",1,1,0
+"KE 1844","systemic inflammatory response syndrome","",0,0,0
+"KE 1845","Coagulation","http://purl.obolibrary.org/obo/MP_0002551",24,23,6
+"KE 1846","Thrombosis and Disseminated Intravascular Coagulation","http://purl.obolibrary.org/obo/GO_0042730|http://purl.obolibrary.org/obo/GO_0072378|http://purl.obolibrary.org/obo/HP_0004936",3,2,1
+"KE 1847","Increased SARS-CoV-2 production","http://purl.obolibrary.org/obo/GO_0009299|http://purl.obolibrary.org/obo/GO_0019074|http://purl.obolibrary.org/obo/GO_0019081|http://purl.obolibrary.org/obo/GO_0039690|http://purl.obolibrary.org/obo/GO_0039694",52,43,15
+"KE 1848","Toll Like Receptor (TLR) Dysregulation","",23,19,17
+"KE 1849","Impaired gustatory nerve","",0,0,0
+"KE 185","Increase, Mutations","http://purl.org/commons/record/mesh/D009154",0,0,0
+"KE 1850","dysgeusia","",0,0,0
+"KE 1851","Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)","",0,0,0
+"KE 1852","Increased Ang II type 1 receptor (AT1R)","",0,0,0
+"KE 1853","Hyperactivation of ACE/Ang-II/AT1R axis","",0,0,0
+"KE 1854","Dysregulation, ACE2 expression and activity","http://purl.obolibrary.org/obo/GO_0004180|http://purl.obolibrary.org/obo/GO_0009299|http://purl.obolibrary.org/obo/GO_0034394",42,37,14
+"KE 1855","Increased Sodium-sensitive hypertension","",0,0,0
+"KE 1856","Imbalanced salty and sweet taste responses","",0,0,0
+"KE 1857","Platelet-neutrophil interactions, Increased ","",15,13,8
+"KE 186","Altered, Neuroanatomy","http://purl.obolibrary.org/obo/GO_0048856",1,1,1
+"KE 1861","Increase, D1 protein deactivation","",0,0,0
+"KE 1862","Decrease, Photosystem II efficiency","",3,3,0
+"KE 1863","Decrease, Reproduction","",0,0,0
+"KE 1864","Increase, Programmed cell death","",0,0,0
+"KE 1865","Increase, Oxygen-evolving complex damage","",0,0,0
+"KE 1866","Fibrinolysis, decreased","http://purl.obolibrary.org/obo/GO_0030195|http://purl.obolibrary.org/obo/GO_0051918",18,16,11
+"KE 1867","Bradykinin system, hyperactivated","http://purl.obolibrary.org/obo/GO_0042311|http://purl.obolibrary.org/obo/MP_0001863|http://purl.obolibrary.org/obo/MP_0003070",20,19,7
+"KE 1868","Hyperinflammation","http://purl.obolibrary.org/obo/GO_0002544|http://purl.obolibrary.org/obo/GO_0002676|http://purl.obolibrary.org/obo/GO_0004457|http://purl.obolibrary.org/obo/GO_0032611|http://purl.obolibrary.org/obo/GO_0032635|http://purl.obolibrary.org/obo/GO_1990774|http://purl.obolibrary.org/obo/HP_0001888|http://purl.obolibrary.org/obo/HP_0003281|http://purl.obolibrary.org/obo/HP_0011227|http://purl.obolibrary.org/obo/HP_0012649",15,12,6
+"KE 1869","Diminished protective oxidative stress response","http://purl.obolibrary.org/obo/GO_0000302|http://purl.obolibrary.org/obo/GO_0034599",13,12,2
+"KE 1870","Sustentacular cells, decrease ","",2,2,0
+"KE 1871","olfactory sensory neurons, decrease ","",0,0,0
+"KE 1872","Olfactory epithelium degeneration","",0,0,0
+"KE 1873","impaired olfactory function (anosmia) ","",0,0,0
+"KE 1874","blood brain barrier disruption ","",0,0,0
+"KE 1875","Cerebrovascular disease (stroke)","",1,0,1
+"KE 1877","Altered, retinal layer structure","http://purl.obolibrary.org/obo/GO_0010842",2,1,1
+"KE 1878","Decreased, Eye size","http://purl.obolibrary.org/obo/MP_0001297",0,0,0
+"KE 1879","Bulky DNA adducts, increase","",0,0,0
+"KE 188","Neuroinflammation","http://purl.obolibrary.org/obo/MP_0001847",15,14,8
+"KE 1880","Decreased, ALDH1A (RALDH) enzyme activity","http://purl.obolibrary.org/obo/GO_0002138",3,3,3
+"KE 1881","Decreased, all-trans retinoic acid (atRA) concentration","http://purl.obolibrary.org/obo/GO_0002138",13,12,7
+"KE 1882","Disrupted, initiation of meiosis of oogonia in the ovary","http://purl.obolibrary.org/obo/GO_0007127",6,6,1
+"KE 1883","Decreased, size of the ovarian reserve","http://purl.obolibrary.org/obo/GO_0001541",0,0,0
+"KE 1884","Inhibition of Fyna","http://purl.obolibrary.org/obo/GO_0004713",22,22,2
+"KE 1885","Inhibition of Plxna2","",11,11,3
+"KE 1886","Overexpression of rasl11b","",11,10,2
+"KE 1887","Inhibition of CYP26B1 activity","",4,4,3
+"KE 1888","Increased all-trans retinoic acid concentration","",8,8,1
+"KE 1889","Increased premature meiotic initiation in fetal male germ cells","",2,2,1
+"KE 1890","Decrease (loss of) fetal male germ cells","",0,0,0
+"KE 1891","abnormal, placental vasculature morphology","",0,0,0
+"KE 1892","increase, placental insufficiency","",0,0,0
+"KE 1893","increase, Preeclampsia","",0,0,0
+"KE 1895","NLRP3 inflammasome activity, increased","http://purl.obolibrary.org/obo/GO_0044546",5,5,5
+"KE 1896","Genomic instability","http://purl.obolibrary.org/obo/MP_0008866",13,12,5
+"KE 1897","increased MyD88 activation","",0,0,0
+"KE 1898","Increase, Damage-associated molecular pattern release","",0,0,0
+"KE 1899","formation of neutrophil extracellular traps (NETs)","",0,0,0
+"KE 1900","increased platelet surface TLR9 expression","",0,0,0
+"KE 1901","Interferon-I antiviral response, antagonized by SARS-CoV-2","http://purl.obolibrary.org/obo/GO_0060337|http://purl.obolibrary.org/obo/GO_0071360",60,56,27
+"KE 1902","Repression of Gbx2 expression","",6,6,1
+"KE 1903","foxi1 expression, increased","",5,5,1
+"KE 1904","six1b expression, increased","",10,10,2
+"KE 1905","eya1 expression, inhibited","",4,3,2
+"KE 1906","Cystic Fibrosis Transmembrane Regulator Function, Decreased","http://purl.obolibrary.org/obo/GO_0005254",2,1,2
+"KE 1907","Airway Surface Liquid Height, Decreased ","",6,3,4
+"KE 1908","Cilia Beat Frequency, Decreased","http://purl.obolibrary.org/obo/HP_0012262",15,12,11
+"KE 1909","Mucociliary Clearance, Decreased","http://purl.obolibrary.org/obo/VT_0001947",2,0,2
+"KE 191","Neuronal dysfunction","http://purl.obolibrary.org/obo/GO_0036475",0,0,0
+"KE 1911","FOXJ1 Protein, Decreased","",10,10,7
+"KE 1912","Motile Cilia Number/Length, Decreased","",0,0,0
+"KE 1913","Endothelial cell dysfunction ","",0,0,0
+"KE 1914","Platelet activation, Increased","",0,0,0
+"KE 1915","Neutrophil activation, Increased ","",0,0,0
+"KE 1916","Thromboinflammation, Increased ","",0,0,0
+"KE 1917","Altered gene expression, NRF2 dependent antioxidant pathway","",0,0,0
+"KE 192","Altered, Neurophysiology","http://purl.obolibrary.org/obo/MP_0003633",2,0,2
+"KE 1920","Altered gene expression, TGF-β dependent fibrosis pathway","",0,0,0
+"KE 1921","Altered gene expression, NF-kB dependent Interleukin-6 pathway","",0,0,0
+"KE 1922","Increased, Reactive metabolites production","",0,0,0
+"KE 1923","Altered gene expression, P53 dependent apoptosis pathway","",0,0,0
+"KE 1924","Increased，Cardiac fibrosis","",0,0,0
+"KE 1928","increased，Vascular endothelial dysfunction","",0,0,0
+"KE 1929","Increased incidence of cardiovascular morbidity and mortality in the general population","",0,0,0
+"KE 193","Decreased, Nitric Oxide","",0,0,0
+"KE 1930","altered, inner ear development","http://purl.obolibrary.org/obo/GO_0030916",0,0,0
+"KE 1931","Intestinal barrier, disruption","",3,3,0
+"KE 1933","Increased, Interleukin-6 production","",0,0,0
+"KE 1934","Myocardial Infarction","",0,0,0
+"KE 1935","Angiotensin (1-7) levels diminished","",0,0,0
+"KE 1936","Angiotensin II degradation reduced","",0,0,0
+"KE 1937","ADAM17 expression induction","",0,0,0
+"KE 1938","ACE2 increased shedding","",0,0,0
+"KE 1939","Viral infection and host-to-host transmission, proliferated","http://purl.obolibrary.org/obo/GO_0019076",5,4,3
+"KE 1941","Memory Loss","",0,0,0
+"KE 1942","Accumulation, Cytosolic toxic Tau oligomers","",0,0,0
+"KE 1943","Hyperphosphorylation of Tau","",0,0,0
+"KE 1944","Synaptic dysfunction","http://purl.obolibrary.org/obo/MP_0002916|http://purl.obolibrary.org/obo/MP_0003990",0,0,0
+"KE 1945","Dysfunctional Autophagy","",0,0,0
+"KE 1946","Impaired mechanotransduction of pericytes","",0,0,0
+"KE 1947","Pericyte dysfunction","",0,0,0
+"KE 1948","Increased ACE2 expression","",0,0,0
+"KE 1949","Decrease, GLUT4","",0,0,0
+"KE 195","Inhibition, NMDARs","http://purl.obolibrary.org/obo/GO_0004972",12,11,6
+"KE 1950","Increase, TNF","",0,0,0
+"KE 1951","Decrease, Glucose uptake","",0,0,0
+"KE 1952","Abnormal, Glucose homeostasis","",0,0,0
+"KE 1953","Gestational diabetes mellitus","",0,0,0
+"KE 1954","Gut microbiota, alteration","",0,0,0
+"KE 1955","Acute Myeloid Leukemia","",0,0,0
+"KE 1961","Prolongation of Action Potential Duration","",0,0,0
+"KE 1962","Prolongation of QT interval","",0,0,0
+"KE 1963","Torsades de Pointes","",0,0,0
+"KE 1964","Sudden cardiac death","",0,0,0
+"KE 1965","Increase, Pollen abnormal","",0,0,0
+"KE 1967","Pyroptosis","",6,6,6
+"KE 1970","transposition of the great arteries","",1,0,1
+"KE 1971","Increased, tumor growth","http://purl.obolibrary.org/obo/HP_0003002",30,23,19
+"KE 1972","Increased, Steroidogenic acute regulatory protein (StAR) ","http://purl.obolibrary.org/obo/MP_0005133",5,4,1
+"KE 1973","Increased, estrogens ","http://purl.obolibrary.org/obo/GO_0035937",6,2,4
+"KE 1974","Activation of Tumor Protein 53","",3,3,3
+"KE 1977","Disruption of sodium channel gating kinetics","http://purl.obolibrary.org/obo/GO_0005272",0,0,0
+"KE 1978","Increase risk, microcephaly","",0,0,0
+"KE 1979","Premature cell differentiation","",0,0,0
+"KE 1980","Increased microRNA expression","",46,45,13
+"KE 1981","Decreased SIRT1 expression","",36,30,18
+"KE 1982","metastatic breast cancer","",2,2,0
+"KE 1983","Disruption, action potential generation","http://purl.obolibrary.org/obo/GO_0001508",1,1,0
+"KE 1985","Increased Kisspeptin levels in anteroventral periventricular nucleus (AVPV)","http://purl.obolibrary.org/obo/GO_0007269",3,3,2
+"KE 1986","Decreased, Gonadotropins","http://purl.obolibrary.org/obo/HP_0030339",3,3,0
+"KE 1987","Decreased, Androgen and Progestin ","",0,0,0
+"KE 1988","Decreased, Maturation Inducing Steroid Surge by Granulosa cells","",0,0,0
+"KE 1989","Impaired, Oocyte maturation and ovulation","",0,0,0
+"KE 1990","Increased, Oocyte Atresia","",0,0,0
+"KE 1991","Impaired, Reproduction","",0,0,0
+"KE 1994","Increase, Ferroptosis","",0,0,0
+"KE 1995","Abnormal lipid metabolism","",0,0,0
+"KE 1998","Activation, Microglia","",0,0,0
+"KE 2005","Altered neurotransmission in development","",1,1,0
+"KE 2006","Secondary genotoxicity","http://purl.obolibrary.org/obo/GO_0042769",0,0,0
+"KE 2007","Non-coding RNA expression profile alteration","",0,0,0
+"KE 2008","Chronic obstructive pulmonary disease","",0,0,0
+"KE 2009","Activation of inflammation pathway","",0,0,0
+"KE 201","Binding of antagonist, NMDA receptors","",12,11,6
+"KE 2010","Pulmonary inflammation","",0,0,0
+"KE 2011","Emphysema","",0,0,0
+"KE 2012","Fibroblast proliferation and differentiation","",0,0,0
+"KE 2013","Airway remodeling","",0,0,0
+"KE 2017","Endoplasmic reticulum stress","",0,0,0
+"KE 2019","Non-alcoholic fatty liver disease","",0,0,0
+"KE 202","Inhibition, Nuclear factor kappa B (NF-kB)","http://purl.obolibrary.org/obo/GO_0007249",18,12,9
+"KE 2020","Decrease, sox9 expression","http://purl.obolibrary.org/obo/GO_0010467",7,7,0
+"KE 2021","Increase, slincR expression","http://purl.obolibrary.org/obo/GO_0010467",8,8,0
+"KE 2023","Inhibition of Ceramide Synthase ","",5,5,0
+"KE 2024","Reduced complex sphingolipids","",0,0,0
+"KE 2025","Affected folate transporter","",0,0,0
+"KE 2026","decreased folate uptake","",0,0,0
+"KE 2027","Antagonism, Smoothened receptor","http://purl.obolibrary.org/obo/GO_0010469",13,7,11
+"KE 2028","Decrease, GLI1/2 translocation to nucleus ","http://purl.obolibrary.org/obo/GO_0000060",15,14,4
+"KE 2029","protein-coupled estrogen receptor 1 (GPER) activation","",0,0,0
+"KE 2030","Activation, PARP1","",0,0,0
+"KE 2031","Releasing, Apoptosis-Inducing Factor (AIF)","",0,0,0
+"KE 2033","Increased sphingolipid-1-phosphate","",0,0,0
+"KE 2034","liver dysfunction","",0,0,0
+"KE 2036","Activation of metabotropic glutamate receptor","",0,0,0
+"KE 2037","Inositol triphosphate receptor activation","",5,3,2
+"KE 2038","Activation of calpain signalling","",0,0,0
+"KE 2039","Inhibition GABAA receptor","",0,0,0
+"KE 2040","Decrease, GLI1/2 target gene expression","http://purl.obolibrary.org/obo/GO_0010467",38,35,26
+"KE 2041","Decrease, facial prominence outgrowth","http://purl.obolibrary.org/obo/MP_0009888",0,0,0
+"KE 2042","Increase, Orofacial clefting","http://purl.obolibrary.org/obo/HP_0000175|http://purl.obolibrary.org/obo/MP_0005170",13,9,4
+"KE 2043","Decrease, Sonic Hedgehog second messenger production","http://purl.obolibrary.org/obo/GO_0019932",10,10,9
+"KE 2044","Decrease, Smoothend relocation and activation ","http://purl.obolibrary.org/obo/GO_0061512",10,4,9
+"KE 2045","Increase, Alcohol dehydrogenase","",0,0,0
+"KE 2046","Increase, Vitellogenin mRNA","",0,0,0
+"KE 2047","Delay, Ovarian maturation","",0,0,0
+"KE 2048","Increase, Body volume of female adults","",0,0,0
+"KE 2049","Increase, sex ratio (F/M)","",0,0,0
+"KE 2050","Increase, developmental abnormalities","",0,0,0
+"KE 2051","Decrease, Tyrosine","",0,0,0
+"KE 2052","Decrease, dopa decarboxylase","",0,0,0
+"KE 2053","Increase, Defects in tanning of new cuticle","",0,0,0
+"KE 2054","Increase,  impairment of cuticle sclerotization","",0,0,0
+"KE 2055","Increase,  pigmentation","",0,0,0
+"KE 2056","Increase,  delay in oviposition","",0,0,0
+"KE 2057","Decrease,  hatching of egg","",0,0,0
+"KE 2058","Decrease, 20-hydroxyecdysone","",0,0,0
+"KE 2059","Decrease, knickkopf gene","",0,0,0
+"KE 2060","Decrease, Chitin laminar organization","",0,0,0
+"KE 2061","Decrease, Prevent chitin degradation by chitinases","",0,0,0
+"KE 2062","Weak, Procuticle protection","",0,0,0
+"KE 2063","Decrease, New cuticle secretion","",0,0,0
+"KE 2064","Increase, Cytosolic calcium","",0,0,0
+"KE 2065","Inhibition, Fatty acid oxidation ","",0,0,0
+"KE 2066","Altered Signaling Pathways","",3,3,0
+"KE 2067","Altered, Nitric Oxide Levels","http://purl.obolibrary.org/obo/GO_0033484",4,4,3
+"KE 2068","Increase, Endothelial Dysfunction","http://purl.obolibrary.org/obo/GO_0072577",1,1,0
+"KE 2069","Occurrence, Abnormal Vascular Remodeling ","http://purl.obolibrary.org/obo/GO_0001974",5,4,2
+"KE 2070","Increase, Glycolysis","",0,0,0
+"KE 2071","Decrease, Glucose pool","",0,0,0
+"KE 2072","Increase, Mitochondrial swelling","",0,0,0
+"KE 2073","increase oxidation of the di-copper moiety of the hemocyanin active site ","",0,0,0
+"KE 2074","Decreased, oxygen binding capacity by hemocyanin","",0,0,0
+"KE 2075","Cognitive, sensed as hypoxic/low oxygen environment","",0,0,0
+"KE 2076","Increase, hemocyanin mRNA","",0,0,0
+"KE 2077","Increase, pulmonate breathing","",0,0,0
+"KE 2078","Loss of drebrin","http://purl.obolibrary.org/obo/GO_0060997|http://purl.obolibrary.org/obo/GO_0098974|http://purl.obolibrary.org/obo/GO_1904621",5,5,0
+"KE 2079","Increased, glycolipid levels","",0,0,0
+"KE 2080","Impaired, blood testis barrier","",0,0,0
+"KE 2081","Increased Modified Proteins","http://purl.obolibrary.org/obo/GO_0036211",1,1,0
+"KE 2082","Hypospadias, increased","http://purl.obolibrary.org/obo/GO_0048568",0,0,0
+"KE 2083","Occurrence of Cataracts","http://purl.obolibrary.org/obo/MP_0009859",1,1,0
+"KE 2084","Increase, Cardiac remodelling","",0,0,0
+"KE 2085","Pulmonary epithelial injury","",0,0,0
+"KE 2086","Airway inflammation","",0,0,0
+"KE 2087","Increased incidence of respiratory disease","",0,0,0
+"KE 2088","Dysfunction of respiratory system","",0,0,0
+"KE 2089","Altered Bone Cell Homeostasis","http://purl.obolibrary.org/obo/GO_0001649|http://purl.obolibrary.org/obo/GO_0030316",20,12,12
+"KE 209","Peptide Oxidation","http://purl.obolibrary.org/obo/MP_0003674",15,9,7
+"KE 2090","Increase, Bone Remodeling","http://purl.obolibrary.org/obo/GO_0030282|http://purl.obolibrary.org/obo/GO_0045780|http://purl.obolibrary.org/obo/MP_0002998",18,12,12
+"KE 2091","Occurrence, Bone Loss","http://purl.obolibrary.org/obo/MP_0000063|http://purl.obolibrary.org/obo/MP_0010879",0,0,0
+"KE 2092","Promotion, Ovarian Cancer ","http://purl.obolibrary.org/obo/GO_0038002",13,12,3
+"KE 2093","Brain thyroid hormone (T4/T3) decreased","",0,0,0
+"KE 2094","Abnormal, neuroblast migration","",0,0,0
+"KE 2095","Periventricular heterotopia formation","",0,0,0
+"KE 2096","Occurrence, (Micro)vascular dysfunction","http://purl.obolibrary.org/obo/GO_0010496",52,45,20
+"KE 2097","Increase, Pro-Inflammatory Mediators","http://purl.obolibrary.org/obo/GO_0006954",16,12,7
+"KE 2098","Increase, Abnormal Neural Remodeling","http://purl.obolibrary.org/obo/GO_0022008|http://purl.obolibrary.org/obo/GO_0070997|http://purl.obolibrary.org/obo/MP_0000921",0,0,0
+"KE 2099","hERG channel blockade","",0,0,0
+"KE 21","Altered regulation, Alpha hemoglobin","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 2100","Inhibition of rapid delayed rectifying potassium current ","",0,0,0
+"KE 2104","Decreased, thyroid hormone binding to thyroid hormone receptor","",0,0,0
+"KE 2105","Decreased, myelin basic protein expression in oligodendrocytes","",0,0,0
+"KE 2106","Impaired, oligodendrocyte maturation","",0,0,0
+"KE 2107","Hypomyelination","",0,0,0
+"KE 2108","Altered, white brain matter","",0,0,0
+"KE 2109","Binding, extracellular matrix protein laminin","",0,0,0
+"KE 2110","Disrupted binding, laminin-beta1-integrin receptors with laminin","",0,0,0
+"KE 2111","Decreased, neural progenitor cell adhesion to laminin","",0,0,0
+"KE 2112","Disturbed, radial glia cell alignment and migration","",0,0,0
+"KE 2113","Decreased, radial glia cell density","",0,0,0
+"KE 2114","Disturbed, cortical architecture","",0,0,0
+"KE 2115","Altered, cholesterol metabolism","",0,0,0
+"KE 2116","Decreased, oligodendrocyte differentiation","",0,0,0
+"KE 2117","Increase, goblet cell number","",4,2,3
+"KE 2118","Succinate dehydrogenase, inhibited","http://purl.obolibrary.org/obo/GO_0000104|http://purl.obolibrary.org/obo/GO_0006105|http://purl.obolibrary.org/obo/GO_0046443",13,7,10
+"KE 2119","Increase, Insulin resistance","http://purl.obolibrary.org/obo/HP_0000855",2,2,1
+"KE 2120","Superoxide generation, increased","http://purl.obolibrary.org/obo/GO_0022904",0,0,0
+"KE 2121","decreased, Intellectual Quotient","",0,0,0
+"KE 2122","increased, socio-economic burden","",1,0,1
+"KE 2123","decreased, Bcl-2 expression","",5,5,1
+"KE 2124","increased, Bax expression","",5,5,1
+"KE 2125","Increased fat mass","",0,0,0
+"KE 2126","Estrogen receptor alpha inactivation","",0,0,0
+"KE 2127","Increased adipocyte size","",0,0,0
+"KE 2128","Increased adipocyte numbers","",0,0,0
+"KE 2129","Metabolically unhealthy Obesity","",0,0,0
+"KE 213","N/A, Parent compound is converted to the reactive metabolite and forms free radicals leading to oxidation of heme iron(II) in hemoglobin to iron(III)","http://purl.obolibrary.org/obo/GO_0006788",0,0,0
+"KE 2130","increased lipid accumulation","",0,0,0
+"KE 2131","Conjugation, GSH","http://purl.obolibrary.org/obo/GO_0043295",8,8,0
+"KE 2132","Increased pro-inflammatory cytokine expression","",0,0,0
+"KE 2134","Increase, Androgen receptor protein expression/abundance","",0,0,0
+"KE 2135","Prostate cancer","",0,0,0
+"KE 2136","prostatic intraepithelial neoplasia","",0,0,0
+"KE 2137","Increase, Gonadotropins concentration in plasma","http://purl.obolibrary.org/obo/GO_0046879",3,3,0
+"KE 2139","Reduction, the ratio of 17beta-estradiol/11-Keto Testosterone in plasma ","",0,0,0
+"KE 214","Bile accumulation, Pathological condition","",0,0,0
+"KE 2141","Disruption, Estrogen receptor","",0,0,0
+"KE 2142","Depletion, Ectoplasmic specialization (ES)","",0,0,0
+"KE 2144","Impaired insulin signaling","",0,0,0
+"KE 2145","Metabolic syndrome","",0,0,0
+"KE 2146","Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2","http://purl.obolibrary.org/obo/GO_0016301",4,4,2
+"KE 2147","Decreased, Viable Offspring","http://purl.obolibrary.org/obo/GO_0019953|http://purl.obolibrary.org/obo/VT_1000181",0,0,0
+"KE 2148","Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron ","",0,0,0
+"KE 2149","Increased intracelluar Iron accumulation","",0,0,0
+"KE 2150","Neurological disorder","",0,0,0
+"KE 2151","Disruption, neurotransmitter release","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 2152","Epigenetic modification process","",16,16,5
+"KE 2153","Expression of factors ruling proliferation, modified","",14,14,1
+"KE 2154","Uterine adenocarcinoma (endometrioid adenocarcinoma Type I)","",2,2,1
+"KE 2155","Inhibition of Sulfotransferase E1 (SULT1E1)","http://purl.obolibrary.org/obo/GO_0008146",17,9,11
+"KE 2157"," Abnormal Cardiac Structure and Function","",0,0,0
+"KE 2158","Influenza A Virus (IAV) binds sialic acid glycan receptor","http://purl.obolibrary.org/obo/GO_0005102",7,6,2
+"KE 2159","Influenza A virus (IAV) cell entry","http://purl.obolibrary.org/obo/GO_0006898|http://purl.obolibrary.org/obo/GO_0036010|http://purl.obolibrary.org/obo/GO_0061025",5,5,0
+"KE 216","Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 2161","Increase, Vascular disrupting effects","",0,0,0
+"KE 2162","Activation, HIF1α","",0,0,0
+"KE 2163","Activation Sema6A","",0,0,0
+"KE 2164","Activation, Dll4-Notch pathway","",0,0,0
+"KE 2165","Activation of PPAR","",0,0,0
+"KE 2166","Abnormal expression of NO","",0,0,0
+"KE 2167","Activation of MMP-2 MMP-9","",0,0,0
+"KE 2168","Activation of angiopoietin like protein 4","",0,0,0
+"KE 2169","Activation of Angiogenic cytokines","",0,0,0
+"KE 2170","Activated ANG/Tie2 pathway","",0,0,0
+"KE 2171","Activated BMP/TGF-beta pathway","",0,0,0
+"KE 2172","Activated Wnt/Frizzled pathway","",0,0,0
+"KE 2173","Activated AKT/ERK/PI3K pathway","",0,0,0
+"KE 2174","Inhibition VEGF/VEGFR pathway","",0,0,0
+"KE 2178","Vascular barrier disruption","",0,0,0
+"KE 2179","Impaired Platelet Aggregation","",0,0,0
+"KE 2180","Immune mechanisms antagonized by viral proteins","http://purl.obolibrary.org/obo/GO_0009616|http://purl.obolibrary.org/obo/GO_0034138|http://purl.obolibrary.org/obo/GO_0034154|http://purl.obolibrary.org/obo/GO_0046775|http://purl.obolibrary.org/obo/GO_0075528",23,23,11
+"KE 2181","Angiogenesis dysfunction","",0,0,0
+"KE 2186","Ryanodine receptor activation","",3,3,0
+"KE 2187","Opening, voltage-gated calcium channels","",0,0,0
+"KE 2188","Activation, caspases","",0,0,0
+"KE 219","Reduction, Plasma 17beta-estradiol concentrations","",0,0,0
+"KE 2192","Influenza A Virus production increased","http://purl.obolibrary.org/obo/GO_0001172|http://purl.obolibrary.org/obo/GO_0006606|http://purl.obolibrary.org/obo/GO_0019075|http://purl.obolibrary.org/obo/GO_0046784",26,22,7
+"KE 2193","Influenza A Virus (IAV) budding","http://purl.obolibrary.org/obo/GO_0046761",6,5,2
+"KE 2194","Influenza A Virus (IAV) shedding and transmission","http://purl.obolibrary.org/obo/GO_0019089",0,0,0
+"KE 2195","Increase, CNS Neural cell death","",0,0,0
+"KE 2196","Decrease, elavl3 ","",0,0,0
+"KE 2197","Decrease, sox10","",0,0,0
+"KE 2198","Decrease, mbp","",0,0,0
+"KE 2199","Increased, Expression of LXR activated genes","http://purl.obolibrary.org/obo/GO_0010467",8,8,3
+"KE 220","Increase, Plasma vitellogenin concentrations","",1,1,0
+"KE 2200","decline, neural progenitor cells","",0,0,0
+"KE 2201","Agonism, Retinoic acid receptor","",9,9,1
+"KE 2202","Altered expression of cell cycle genes","",3,3,0
+"KE 2203","Decreased proliferation of cortical neural progenitor cells","",8,7,4
+"KE 2204","Altered brain morphology","",0,0,0
+"KE 2205","Increased, essential element imbalance","",0,0,0
+"KE 2206","Increased, histomorphological alteration of testis","http://purl.obolibrary.org/obo/HP_0000035",0,0,0
+"KE 2207","inhibition, EKR1/2 signaling pathway","",0,0,0
+"KE 2208","Aberrant, synaptic formation and plasticity","",0,0,0
+"KE 2209","autism-like behavior","",0,0,0
+"KE 221","Reduction, Plasma vitellogenin concentrations","",1,1,0
+"KE 2210","Reduced cortical thickness","",0,0,0
+"KE 2211","Microcephaly","",0,0,0
+"KE 2212","Epididymal agenesis ","http://purl.obolibrary.org/obo/GO_0048645",0,0,0
+"KE 2213","Impaired, urethral tube closure ","http://purl.obolibrary.org/obo/GO_0048645",0,0,0
+"KE 2214","Decreased, Insulin-like peptide 3 (INSL3)","http://purl.obolibrary.org/obo/GO_0010467",2,2,2
+"KE 2215","Decrease Left Ventricular function","",0,0,0
+"KE 2216","Binding of antagonist to thyroid hormone receptor","",0,0,0
+"KE 2217","Binding of antagonist to glucocorticoid hormone receptor","",0,0,0
+"KE 2218","Binding of (ant)agonist to liver X receptor","",0,0,0
+"KE 2219","Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha","",0,0,0
+"KE 2220","Antagonism, Glucocorticoid hormone receptor","",0,0,0
+"KE 2221","Altered Liver X receptor activity","",0,0,0
+"KE 2222","Altered peroxisome proliferator–activated receptor alpha activity","",0,0,0
+"KE 2223","Reduced number of oligodendrocytes","",0,0,0
+"KE 2224","Dysregulation of transcriptional expression within PPAR signaling network","http://purl.obolibrary.org/obo/GO_0010468",2,1,2
+"KE 2225","Disrupted Lipid Storage","http://purl.obolibrary.org/obo/GO_0019915",4,3,2
+"KE 2226","Stressor binding PPAR isoforms ","http://purl.obolibrary.org/obo/GO_0005102",1,1,1
+"KE 2227","Disrupted PPAR isoform nuclear signaling","http://purl.obolibrary.org/obo/GO_0035357",3,3,1
+"KE 2228","Cerebellar gene expression. Altered","",0,0,0
+"KE 2229","Cerebellar neuronal differentiation. Decreased","",0,0,0
+"KE 2230","Cerebellar hypoplasia","",0,0,0
+"KE 2231","Locomotor function. Impaired","",0,0,0
+"KE 2232","Antagonism, Retinoic acid receptors","",0,0,0
+"KE 2233","Decreased, ERαβ heterodimers","",0,0,0
+"KE 2236","Decreased, Sodium uptake in gills","http://purl.obolibrary.org/obo/GO_0097369",0,0,0
+"KE 2237","Decreased, Plasma sodium concentrations","http://purl.obolibrary.org/obo/MP_0005634",0,0,0
+"KE 2238","Increased, Blood viscosity","http://purl.obolibrary.org/obo/VT_3000004",0,0,0
+"KE 2239","Increased, Cardiac stress","http://purl.org/commons/record/mesh/D013312",0,0,0
+"KE 2240","The NO synthase pathway activation","",0,0,0
+"KE 2241","Ferroptosis related pathways activation","",0,0,0
+"KE 2242","Abnormality, dendritic spine morphology","http://purl.obolibrary.org/obo/GO_0031914|http://purl.obolibrary.org/obo/GO_0060292|http://purl.obolibrary.org/obo/HP_0000726|http://purl.obolibrary.org/obo/MP_0002207",1,0,1
+"KE 2243","Succinate Accumulation","",0,0,0
+"KE 2244","Altered Stress Response Signaling","http://purl.obolibrary.org/obo/GO_0007166",43,30,24
+"KE 2245","Altered Cell Differentiation Signaling","http://purl.obolibrary.org/obo/GO_0007166|http://purl.obolibrary.org/obo/GO_0030154",45,40,13
+"KE 2250","17β-Hydroxysteroid dehydrogenase 2, inhibition","",19,17,7
+"KE 2251","Estradiol availability, increased","http://purl.obolibrary.org/obo/GO_0035938",16,13,7
+"KE 2252","Human leukocyte antigen DQ2/8-gluten complexes, formation","http://purl.obolibrary.org/obo/VT_0001835",6,6,1
+"KE 2253","Gluten-reactive T cell receptors, generation","http://purl.obolibrary.org/obo/GO_0035822",2,2,0
+"KE 2254","Gluten-reactive and transglutaminase 2 reactive B cell receptors, generation","http://purl.obolibrary.org/obo/GO_0002206",5,5,1
+"KE 2255","Innate immune response, activation","http://purl.obolibrary.org/obo/GO_0002376",3,3,1
+"KE 2256","Gluten-reactive B cells and transglutaminase 2-reactive B cells, activation","http://purl.obolibrary.org/obo/GO_0002312",7,7,1
+"KE 2257","Celiac disease","http://purl.obolibrary.org/obo/HP_0002608",0,0,0
+"KE 2258","Inhibition, monocarboxylate transporter 8 (MCT8)","http://purl.obolibrary.org/obo/GO_0070327",21,16,11
+"KE 2260","Gluten-reactive CD4+ T cells, activation","http://purl.obolibrary.org/obo/GO_0002286",10,10,1
+"KE 2261","Decreased, blood plasma volume","http://purl.obolibrary.org/obo/GO_0008015",0,0,0
+"KE 2262"," Neuropathy target esterase, inhibited","",4,4,1
+"KE 2263"," Lysolecithin, increased","",5,4,1
+"KE 2264"," Lysolecithin cell membrane integration, increased","",1,0,1
+"KE 2265"," Oligodendrocyte death, increased","http://purl.obolibrary.org/obo/GO_0008219",1,1,0
+"KE 2266","Demyelination, increased","http://purl.obolibrary.org/obo/HP_0007305|http://purl.obolibrary.org/obo/MP_0000921",0,0,0
+"KE 2267","Delayed neuropathy, increased","",0,0,0
+"KE 2268","Decreased, insulin-induced gene 1 (INSIG1) protein activity","http://purl.obolibrary.org/obo/MP_0005567",8,8,5
+"KE 2269","Increased, Sterol Regulatory Element Binding Protein 2 (SREBP2) protein expression ","http://purl.obolibrary.org/obo/MP_0005568",19,19,9
+"KE 227","Activation, PPARα","http://purl.obolibrary.org/obo/GO_0035357",6,6,0
+"KE 2270","Increased, cholesterol synthesis enzymes ","http://purl.obolibrary.org/obo/GO_0006695",15,15,0
+"KE 2271","Increased, plasma low-density lipoprotein (LDL) cholesterol ","http://purl.obolibrary.org/obo/MP_0000182",3,3,1
+"KE 2274","Androgen receptor activation, increased","http://purl.obolibrary.org/obo/GO_0060765",5,2,4
+"KE 2275","Gluten reactive adaptive T-cells with antigen presenting cells, co-localization","http://purl.obolibrary.org/obo/GO_0036336|http://purl.obolibrary.org/obo/GO_0072678",5,5,0
+"KE 2276","Increased, protein expression of proprotein convertase subtilisin/kexin type 9 (PCSK9)","http://purl.obolibrary.org/obo/MP_0005568",7,7,2
+"KE 2277","Inhibition, aromatase activity in plasma","",0,0,0
+"KE 2278","Increased LMNA Mutation","",5,4,3
+"KE 2279","Structural changes in lamin A/C","",0,0,0
+"KE 228","peroxisome proliferator activated receptor promoter demethylation","http://purl.obolibrary.org/obo/GO_0035357",4,4,1
+"KE 2280","Increased delay in heart electrical conduction","",0,0,0
+"KE 2281","Increased uncoordinated cardiac contraction","",0,0,0
+"KE 2282","Cardiac ion channels blockade ","",0,0,0
+"KE 2283","Increased the early premature depolarizations during repolarization","",0,0,0
+"KE 2284"," Increased Intracellular cAMP Levels","",0,0,0
+"KE 2285","Increased the delayed and early afterdepolarizations","",0,0,0
+"KE 2287","Impaired Sodium-Calcium Exchange","",0,0,0
+"KE 2288","Phosphodiesterase inhibition","",0,0,0
+"KE 2289","Hyperphosphorylation of ryanodine receptor (RyR2)","",0,0,0
+"KE 2290","Inhibition of Funny current (If)","",0,0,0
+"KE 2291","Slowed Heart Rate ","",0,0,0
+"KE 2292","Altered Cardiac Electrical Conduction","",0,0,0
+"KE 2293","Aromatase, induction","http://purl.obolibrary.org/obo/GO_0070330",1,1,1
+"KE 2294","Plasma estradiol, increased","http://purl.obolibrary.org/obo/MP_0005182",17,13,9
+"KE 2295","HCN Channel Inhibition","",0,0,0
+"KE 2296","Reduced Pacemaker Activity in SA Node","",4,2,2
+"KE 2298","Decrease, intratesticular testosterone levels","http://purl.obolibrary.org/obo/GO_0061370",7,7,0
+"KE 2299","Altered, Redox Homeostasis","http://purl.obolibrary.org/obo/GO_0045454",0,0,0
+"KE 2300","Disruption, Glucolipid metabolism","http://purl.obolibrary.org/obo/GO_0006006|http://purl.obolibrary.org/obo/MP_0013245",0,0,0
+"KE 2301","Abnormal, Behavior","http://purl.obolibrary.org/obo/GO_0007610",0,0,0
+"KE 2302","Increase, Malformations","",0,0,0
+"KE 2303","Increased plasma estradiol to progesterone ratio (estrogen dominance/unopposed estrogen)","",1,1,0
+"KE 2305","Premature ovarian Insufficiency","http://purl.obolibrary.org/obo/HP_0008209",0,0,0
+"KE 2306","Persistent vaginal cornification","http://purl.obolibrary.org/obo/GO_0070268",3,0,3
+"KE 2307","Binding of plastoquinone B (QB) within D1 protein of Photosystem II","",3,3,0
+"KE 2308","Increased, stimulation of brain serotonin 5-HT1a, 5-HT2c receptors","http://purl.obolibrary.org/obo/GO_0007210|http://purl.obolibrary.org/obo/GO_0099589",3,3,0
+"KE 2309","Decreased DNA methylation of FAM50B/PTCHD3","",0,0,0
+"KE 231","Decreased, PPAR-alpha activation","http://purl.obolibrary.org/obo/GO_0035357",0,0,0
+"KE 2310","Elevated gene expression of FAM50B/PTCHD3","",0,0,0
+"KE 2311","Inhibition of PI3K-Akt pathway","",0,0,0
+"KE 2312","Increased, nasal lesions","http://purl.obolibrary.org/obo/MP_0013027",0,0,0
+"KE 2316","Increased, pulmonary edema","http://purl.obolibrary.org/obo/HP_0100598",0,0,0
+"KE 2317","Loss of olfactory function","http://purl.obolibrary.org/obo/GO_1990834",1,1,0
+"KE 232","Decreased, PPAR-beta activation","http://purl.obolibrary.org/obo/GO_0035357",0,0,0
+"KE 2323","Over-expression of PD-L1 in cancer cells","",8,6,3
+"KE 2324","Increased of Treg/Th17 cell ratio","",13,11,8
+"KE 2326","CTL cytotoxic activity disruption","",15,13,5
+"KE 2327","Decrease, Cell growth","",0,0,0
+"KE 2329","Sine oculis homeobox 1 gene expression, increased","http://purl.obolibrary.org/obo/GO_0010467",1,1,1
+"KE 233","Decreased, PPAR-gamma activation","http://purl.obolibrary.org/obo/GO_0035357",2,2,1
+"KE 2330","Sine oculis homeobox 1 protein expression, increased","http://purl.obolibrary.org/obo/GO_0006412",1,1,1
+"KE 2331","Activation, Mineralocorticoid Receptor","",0,0,0
+"KE 2332","Increase, Lipid droplet","",0,0,0
+"KE 2333","Increase, Fat mass","",0,0,0
+"KE 2334","Increase, DGAT1","",0,0,0
+"KE 2335","Increase, body mass index","",0,0,0
+"KE 2336","Increase, SREBF1","",0,0,0
+"KE 2337","Increase, perilipin-2","",0,0,0
+"KE 2339","Intracellular copper, increased","",0,0,0
+"KE 2340","Oligomerisation of dihydrolipoamide acetyltransferase (DLAT), increased","",0,0,0
+"KE 2341","Tricarboxylic acid (TCA) cycle, disrupted","",0,0,0
+"KE 2342","Iron-sulfur cluster assembly, impaired","",0,0,0
+"KE 2343","Cuproptosis, increased","",0,0,0
+"KE 2344","Upregulation, growth arrest and DNA-damage-inducible beta a","",0,0,0
+"KE 2345","Activation, MAPK","",0,0,0
+"KE 2346","Decrease, Proliferating Cell Nuclear Antigen","",0,0,0
+"KE 2347","Increase, Lipid degradation","",0,0,0
+"KE 2348","Inhibition, Liver regeneration","",0,0,0
+"KE 2349","Inhibition of  LDH activity","",0,0,0
+"KE 2350","Decreased, Glycolysis","",0,0,0
+"KE 2351","Increased, OXPHOS","",0,0,0
+"KE 2352","Increased, MMP","",0,0,0
+"KE 2353","Disrupted, energy metabolism","",0,0,0
+"KE 2354","Activation, Apoptosis signaling","",0,0,0
+"KE 2355","Disrupted, Spermatogenesis and Sperm quality","",0,0,0
+"KE 2362","Redox cycling of a chemical by mitochondria","",13,10,3
+"KE 2363","Elevated mitochondrial ROS and dysfunction","",20,17,3
+"KE 2365","Anogenital distance (AGD), increased","",0,0,0
+"KE 2366","ovarian retardation","",0,0,0
+"KE 2367","Steroidogenesis Dysregulation","",0,0,0
+"KE 2369","Granulosa cell damage","",0,0,0
+"KE 2370","Agonism binding, α1-Adrenoreceptor ","http://purl.obolibrary.org/obo/GO_0007186",2,2,0
+"KE 2371","Increased cortisol","http://purl.obolibrary.org/obo/GO_0005102|http://purl.obolibrary.org/obo/GO_0043043",7,6,1
+"KE 2373","Increase, Mis-timed ecdysone receptor-responsive nuclear receptor cascade","",0,0,0
+"KE 2374","Increase, Ecdysone receptor antagonism","",0,0,0
+"KE 2375","Decrease, Mis-timed ecdysone receptor-responsive nuclear receptor cascade","",0,0,0
+"KE 2376","Inhibition, organic anion-transporting polypeptide 1C1 (OATP1C1)","",0,0,0
+"KE 2377","Decrease, neural network maturation","",0,0,0
+"KE 2378","Impaired axonal insulation","",0,0,0
+"KE 2379","Disruption of the regulatory function of dopamine signaling components.","",0,0,0
+"KE 2380","Increase, transcription of the dopamine transporter (SLC6A3) gene","",0,0,0
+"KE 2381","Increase, transcription of the dopamine receptor (drd) gene.","",0,0,0
+"KE 2382","Increase, nerve spasm","",0,0,0
+"KE 2383","Increase, Hemopericardium","",0,0,0
+"KE 2384","Decrease, Vascular integrity","http://purl.obolibrary.org/obo/GO_0043114",1,1,0
+"KE 2385","Suppression of Keap1 cysteine oxidation","",0,0,0
+"KE 2387","MIE-A: Direct ligand interaction with nuclear hormone receptors (ERα/ERβ, AR) or interference with steroidogenic enzymes (e.g., CYP19A1) → receptor activation/antagonism or enzyme inhibition.","",0,0,0
+"KE 2388","MIE-B: Photoactivation / photoproduct formation leading to ROS generation","",0,0,0
+"KE 2389","KE1: Altered steroidogenesis (gene/protein level)","",0,0,0
+"KE 239","Activation, Pregnane-X receptor, NR1I2","http://purl.obolibrary.org/obo/GO_0023052",3,3,2
+"KE 2390","KE5: Altered circulating reproductive hormones","",0,0,0
+"KE 2391","Reduced fertility / fecundity","",0,0,0
+"KE 2393","Androgen receptor nuclear transcriptional activity in genital-tubercle tissues, reduced ","http://purl.obolibrary.org/obo/GO_0000060|http://purl.obolibrary.org/obo/GO_0051101",1,1,0
+"KE 2394","Diminished survival of naive B lymphocytes","",0,0,0
+"KE 2395","Diminished proliferation of activated B lymphocytes ","",0,0,0
+"KE 2396","Diminished differentiation of activated B lymphocytes ","",0,0,0
+"KE 2397","Diminished vaccine response","",0,0,0
+"KE 2398","Reduced antibody production","",0,0,0
+"KE 2399","Fibroblast growth factor 10, fibroblast growth factor receptor 2 isoform IIIb signaling in genital tissue, reduced","http://purl.obolibrary.org/obo/GO_0001775|http://purl.obolibrary.org/obo/GO_0060638",3,3,1
+"KE 240","Feminisation or incomplete development, Primary and accessory male sex organs","http://purl.obolibrary.org/obo/GO_0032502",0,0,0
+"KE 2400","Preputial epithelial morphogenesis, disrupted","http://purl.obolibrary.org/obo/GO_0035261",0,0,0
+"KE 2401","Male preputial separation, failed/delayed","http://purl.obolibrary.org/obo/MP_0008940",0,0,0
+"KE 2402","Increased, estradiol (E2) production in ovaries ","http://purl.obolibrary.org/obo/GO_0090030",12,11,6
+"KE 2403","Metabolic impairment ","",0,0,0
+"KE 2404","Increase, kidney fibrosis","",0,0,0
+"KE 2405","Increase, Hepatocellular lipotoxicity","",0,0,0
+"KE 2406","Increase, Regenerative nodule formation","",0,0,0
+"KE 2407","Increase, Cirrhosis","",1,1,0
+"KE 2408","Increase, Adipose lipolysis","",0,0,0
+"KE 2409","Decrease, 11β-Hydroxysteroid dehydrogenase type 2 activity","",0,0,0
+"KE 2410","Increase, 11β-Hydroxysteroid dehydrogenase type 1 activity ","",0,0,0
+"KE 2412","Increase, Hepatic intracellular active glucocorticoids","",0,0,0
+"KE 2413","Increased, uterine weight","http://purl.obolibrary.org/obo/MP_0004904",0,0,0
+"KE 2414","COL3A1 Signaling Pathway","http://purl.obolibrary.org/obo/HP_0012852",2,1,2
+"KE 2415","Precocious puberty","http://purl.obolibrary.org/obo/MP_0003936",0,0,0
+"KE 2416","human amyotrophic lateral sclerosis (ALS)","",0,0,0
+"KE 2417","Increased, differentiation to ovaries","http://purl.obolibrary.org/obo/GO_0008585",1,0,1
+"KE 2418","Increased, phenotypic female-biased sex ratio","http://purl.obolibrary.org/obo/GO_0030237",0,0,0
+"KE 2419","Decreased, Retinoic Acid Receptor Activation","",13,12,3
+"KE 2420","Increased, Retinoic Acid Receptor Activation","",15,14,4
+"KE 2421"," Inhibition, Intestinal FXR","",0,0,0
+"KE 2422","Ileal FGF15/FGF19 secretion, decreased","",0,0,0
+"KE 2423","Hepatic SHP, decreased","",0,0,0
+"KE 2424","Hepatic CYP7A1, increased","",0,0,0
+"KE 2425","Intrahepatic bile acid burden, increased","",0,0,0
+"KE 2426","Hepatic BSEP (ABCB11), decreased","",0,0,0
+"KE 2427","Bile acid composition in bile and intestine, altered","",0,0,0
+"KE 2428","Gut derived PAMPs, increased","",0,0,0
+"KE 243","Reduction, Prostaglandin E2 concentration","",0,0,0
+"KE 2430","Aryl hydrocarbon receptor（AhR）activation","",0,0,0
+"KE 2431","Impact on sirtuins-related aging signaling pathway gene expression","",0,0,0
+"KE 2432","Increase, Cell cycle arrest","",0,0,0
+"KE 2435","Increase, Myocardial and vascular structural remodeling","",0,0,0
+"KE 2438","Increase, Cardiovascular aging","",0,0,0
+"KE 2439","Increase, Telomere attrition","",0,0,0
+"KE 244","Alkylation, Protein","http://purl.obolibrary.org/obo/GO_0008213",0,0,0
+"KE 2441","Increased , Fatty acid synthesis and transport","",0,0,0
+"KE 2444","Increase, Progesterone resistance","",0,0,0
+"KE 2445","Increase, Blood pressure","",0,0,0
+"KE 2446","Increase, lipid accumulation","",0,0,0
+"KE 245","Activation, PXR/SXR","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 246","Increase, RBC congestion in liver","http://purl.obolibrary.org/obo/MP_0010019",0,0,0
+"KE 25","Agonism, Androgen receptor","http://purl.obolibrary.org/obo/GO_0004882",7,4,4
+"KE 250","Damaging, Red blood cells; hemolysis","",0,0,0
+"KE 252","Increase, Renal pathology due to VTG deposition","http://purl.org/commons/record/mesh/D007674",0,0,0
+"KE 253","N/A, Reproductive failure","http://purl.obolibrary.org/obo/GO_0044703",0,0,0
+"KE 258","Activation, SCD-1","http://purl.obolibrary.org/obo/GO_0010467",6,4,4
+"KE 26","Antagonism, Androgen receptor","http://purl.obolibrary.org/obo/GO_0004882",7,7,0
+"KE 264","Activation, SREBP-1c","http://purl.obolibrary.org/obo/GO_0032933",8,7,7
+"KE 265","Increase, Hepatic stellate cell activation","http://purl.obolibrary.org/obo/GO_0035733",16,12,8
+"KE 266","Decrease, Steroidogenic acute regulatory protein (STAR)","http://purl.obolibrary.org/obo/GO_0010467",1,1,0
+"KE 269","Induction, Sustained Cell Proliferation","http://purl.obolibrary.org/obo/GO_0072574",0,0,0
+"KE 270","Induction, Sustained Hepatotoxicity","http://purl.obolibrary.org/obo/MI_MI:2141",0,0,0
+"KE 272","Activation/Proliferation, T-cells","http://purl.obolibrary.org/obo/GO_0008283|http://purl.obolibrary.org/obo/GO_0042110",3,3,0
+"KE 274","Reduction, Testosterone synthesis by ovarian theca cells","http://purl.obolibrary.org/obo/GO_0061370",4,4,0
+"KE 277","Thyroid hormone synthesis, Decreased","http://purl.obolibrary.org/obo/GO_0006590",19,15,10
+"KE 279","Thyroperoxidase, Inhibition","http://purl.obolibrary.org/obo/GO_0004447",7,5,5
+"KE 28","Reduction, Angiogenesis","http://purl.obolibrary.org/obo/GO_0001525",7,7,3
+"KE 280","Thyroxine (T4) in neuronal tissue, Decreased ","http://purl.obolibrary.org/obo/GO_0010817",10,8,5
+"KE 281"," Thyroxine (T4) in serum, Decreased","http://purl.obolibrary.org/obo/MP_0005475",6,3,4
+"KE 285","Reduction, Vitellogenin synthesis in liver","http://purl.obolibrary.org/obo/GO_0009306|http://purl.obolibrary.org/obo/GO_0010467",3,3,0
+"KE 286","Altered, Transcription of genes by the androgen receptor","http://purl.obolibrary.org/obo/GO_0010468",5,2,4
+"KE 288","Activation of specific nuclear receptors, Transcriptional change","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 289","Decrease, Translocator protein (TSPO)","http://purl.obolibrary.org/obo/GO_0010467",2,2,1
+"KE 291","Accumulation, Triglyceride","",17,12,11
+"KE 294","N/A, Unknown","",0,0,0
+"KE 295","Induction, Upregulation of glucuronyltransferase activity","http://purl.obolibrary.org/obo/GO_0003824|http://purl.obolibrary.org/obo/GO_0015020",0,0,0
+"KE 298","Insufficiency, Vascular","http://purl.obolibrary.org/obo/GO_0008015",10,8,5
+"KE 3","Reduction, 17beta-estradiol synthesis by ovarian granulosa cells","http://purl.obolibrary.org/obo/GO_0006703",5,5,1
+"KE 305","Inhibition, VegfR2","http://purl.obolibrary.org/obo/GO_0043184",7,7,4
+"KE 307","Increase, Vitellogenin synthesis in liver","http://purl.obolibrary.org/obo/GO_0010467",2,2,0
+"KE 309","Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development","http://purl.obolibrary.org/obo/GO_0001555|http://purl.obolibrary.org/obo/GO_0006898|http://purl.obolibrary.org/obo/GO_0048599",2,2,0
+"KE 310","Alteration, Wnt pathway","http://purl.obolibrary.org/obo/GO_0016055",0,0,0
+"KE 313","Increase, Allergic Respiratory Hypersensitivity Response","http://purl.org/commons/record/mesh/D012130",0,0,0
+"KE 317","Altered, Cardiovascular development/function","http://purl.obolibrary.org/obo/GO_0072358|http://purl.obolibrary.org/obo/MP_0001544",0,0,0
+"KE 319","Loss, Cochlear function","http://purl.obolibrary.org/obo/MP_0000032",0,0,0
+"KE 321","N/A, Cyanosis occurs","",0,0,0
+"KE 323","Increased, Disease susceptibility","http://purl.org/commons/record/mesh/D004198",0,0,0
+"KE 327","Accumulation, Fatty acid","",0,0,0
+"KE 328","Decrease, Fecundity","",0,0,0
+"KE 330","Decrease, Fertility","",0,0,0
+"KE 334","Promotion, Hepatocelluar carcinoma","http://purl.org/commons/record/mesh/D006528",0,0,0
+"KE 336","Increase, Heritable mutations in offspring","http://purl.org/commons/record/mesh/D009154",0,0,0
+"KE 337","N/A, Impairment of reproductive capacity","",0,0,0
+"KE 339","Altered, Larval development","http://purl.obolibrary.org/obo/GO_0002164",0,0,0
+"KE 341","Impairment, Learning and memory","http://purl.obolibrary.org/obo/GO_0007612|http://purl.obolibrary.org/obo/GO_0007613",0,0,0
+"KE 344","Increase, Liver fibrosis","http://purl.obolibrary.org/obo/MP_0003333",2,1,1
+"KE 345","N/A, Liver Steatosis","",0,0,0
+"KE 347","Formation, Liver tumor","",0,0,0
+"KE 348","Malformation, Male reproductive tract","",1,1,1
+"KE 350","Increase, Mortality","http://purl.org/commons/record/mesh/D009026",0,0,0
+"KE 351","Increased Mortality","http://purl.org/commons/record/mesh/D009026",0,0,0
+"KE 352","N/A, Neurodegeneration","http://purl.obolibrary.org/obo/MP_0002229",8,5,5
+"KE 357","Cholestasis, Pathology","",0,0,0
+"KE 36","Inhibition, Aromatase","http://purl.obolibrary.org/obo/GO_0070330",1,1,1
+"KE 360","Decrease, Population growth rate","http://purl.obolibrary.org/obo/PCO_0000008",0,0,0
+"KE 361","Decline, Population","http://purl.obolibrary.org/obo/PCO_0000008",0,0,0
+"KE 363","Altered, Reproductive behaviour","http://purl.obolibrary.org/obo/GO_0019098",0,0,0
+"KE 364","Impaired development of, Reproductive organs","http://purl.obolibrary.org/obo/GO_0032502",0,0,0
+"KE 369","Uroporphyria","http://purl.obolibrary.org/obo/MP_0005654",1,1,1
+"KE 373","Formation, Pro-mutagenic DNA Adducts","http://purl.obolibrary.org/obo/GO_0006305",3,2,1
+"KE 376","Increased, Induced Mutations in Critical Genes","http://purl.org/commons/record/mesh/D009154",3,2,2
+"KE 378","Tumorigenesis, Hepatocellular carcinoma","",6,4,4
+"KE 381","Reduced levels of BDNF","http://purl.obolibrary.org/obo/GO_0010467|http://purl.obolibrary.org/obo/GO_0046903",18,13,8
+"KE 382","Aberrant, Dendritic morphology","http://purl.obolibrary.org/obo/GO_0048813",2,2,1
+"KE 383","Reduced, Presynaptic release of glutamate","http://purl.obolibrary.org/obo/GO_0014047",10,8,3
+"KE 385","Decrease of synaptogenesis","http://purl.obolibrary.org/obo/GO_0007416",5,3,2
+"KE 386","Decrease of neuronal network function","http://purl.obolibrary.org/obo/GO_0099536",13,10,6
+"KE 388","Overactivation, NMDARs","http://purl.obolibrary.org/obo/GO_0004972|http://purl.obolibrary.org/obo/MP_0011267",9,9,0
+"KE 389","Increased, Intracellular Calcium overload","http://purl.obolibrary.org/obo/GO_0006816",2,2,0
+"KE 39","Increased Cholinergic Signaling","http://purl.obolibrary.org/obo/MP_0000753|http://purl.obolibrary.org/obo/MP_0001393|http://purl.obolibrary.org/obo/MP_0001399",5,5,0
+"KE 396","Covalent Binding, Protein","http://purl.obolibrary.org/obo/GO_0005515",1,1,1
+"KE 398","Activation, Dendritic Cells","http://purl.obolibrary.org/obo/GO_0001775|http://purl.obolibrary.org/obo/GO_0002396",17,15,10
+"KE 40","Mitochondrial ATP production, decreased","http://purl.obolibrary.org/obo/GO_0006754",0,0,0
+"KE 402","Cognitive function, decreased ","http://purl.obolibrary.org/obo/GO_0007611|http://purl.obolibrary.org/obo/GO_0050890",2,0,2
+"KE 403","Suppression, Immune system","http://purl.obolibrary.org/obo/GO_0044414",0,0,0
+"KE 405","disrupted, ovarian cycle","http://purl.obolibrary.org/obo/GO_0042698",5,5,2
+"KE 406","decreased, Fertility","http://purl.obolibrary.org/obo/GO_0009566|http://purl.org/commons/record/mesh/D005298",0,0,0
+"KE 408","reduction in ovarian granulosa cells, Aromatase (Cyp19a1)","http://purl.obolibrary.org/obo/GO_0009299|http://purl.obolibrary.org/obo/GO_0070330",5,5,1
+"KE 409","Metabolism of AFB1, Production of Reactive Electrophiles","http://purl.obolibrary.org/obo/GO_0008152",10,8,4
+"KE 41","Inhibition, Bile Salt Export Pump (ABCB11)","http://purl.obolibrary.org/obo/GO_0006810",2,2,1
+"KE 413","Reduction, Testosterone synthesis in Leydig cells","http://purl.obolibrary.org/obo/GO_0061370",5,5,0
+"KE 414","Increase, Luteinizing hormone (LH) ","http://purl.obolibrary.org/obo/GO_0042446",0,0,0
+"KE 415","Hyperplasia, Leydig cell","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 416","Increase proliferation, Leydig cell ","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 417","skewed, sex ratio","http://purl.org/commons/record/mesh/D012744",0,0,0
+"KE 418","Increased, Vitellogenin synthesis","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 419","Increased, renal vitellogenin deposition","",0,0,0
+"KE 421","Increased, glomerular rupture and renal hemorrhaging","http://purl.obolibrary.org/obo/MP_0001914",0,0,0
+"KE 422","Increased, nephropathy","http://purl.obolibrary.org/obo/HP_0000112",0,0,0
+"KE 424","Inhibition, Na+/I- symporter (NIS)","http://purl.obolibrary.org/obo/GO_0008507",10,9,2
+"KE 425","Decrease of Thyroidal iodide","http://purl.obolibrary.org/obo/GO_0015705",11,9,6
+"KE 442","Decreased, Population trajectory","http://purl.obolibrary.org/obo/PCO_0000008",0,0,0
+"KE 444","Increased, Atrioventricular block and bradycardia","",0,0,0
+"KE 445","Respiratory distress/arrest","http://purl.obolibrary.org/obo/MP_0001954",0,0,0
+"KE 446","Reduction, fetal/adult testosterone ","",2,2,0
+"KE 447","Reduction, Cholesterol transport in mitochondria","http://purl.obolibrary.org/obo/GO_0006839",7,6,3
+"KE 450","Decrease, Very low-density lipoprotein export capacity","http://purl.obolibrary.org/obo/GO_0046903",0,0,0
+"KE 451","Inhibition, Mitochondrial fatty acid beta-oxidation","http://purl.obolibrary.org/obo/GO_0006635",0,0,0
+"KE 454","Increased, Triglyceride formation","http://purl.obolibrary.org/obo/GO_0009058|http://purl.obolibrary.org/obo/GO_0019432",0,0,0
+"KE 456","Suppression, Constitutive androstane receptor, NR1I3","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 457","Activation, SREBF1","http://purl.obolibrary.org/obo/GO_0023052|http://purl.obolibrary.org/obo/GO_0032933",0,0,0
+"KE 458","Increased, De Novo FA synthesis","http://purl.obolibrary.org/obo/GO_0006633",0,0,0
+"KE 459","Increase, Liver steatosis","http://purl.obolibrary.org/obo/HP_0001397",6,2,5
+"KE 46","Accumulation, Biological membranes","",0,0,0
+"KE 461","Suppression, HNF4alpha","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 462","Up Regulation, SCD-1","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 463","Up Regulation, FAS","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 465","Increased, Fatty acid influx","http://purl.obolibrary.org/obo/GO_0015908",0,0,0
+"KE 466","Up Regulation, LDLR (low density lipoprotein receptor)","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 467","Increased, LDL uptake","http://purl.obolibrary.org/obo/GO_0006898",0,0,0
+"KE 468","Inhibition, PPAR alpha","http://purl.obolibrary.org/obo/GO_0035357",0,0,0
+"KE 470","Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)","http://purl.obolibrary.org/obo/GO_0003989",0,0,0
+"KE 471","Inhibition, FoxA2","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 472","Down Regulation, CPT1A","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 474","Down Regulation, HMGCS2","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 477","Decreased, Ketogenesis","http://purl.org/commons/record/mesh/D007662",0,0,0
+"KE 478","Activation, NRF2","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 479","Activation, NR1H4","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 480","Activation, SHP","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 482","Decreased, DHB4/HSD17B4","http://purl.obolibrary.org/obo/GO_0003824",0,0,0
+"KE 483","Activation, LXR alpha","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 484","Activation, AKT2","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 486","systemic inflammation leading to hepatic steatosis","http://purl.obolibrary.org/obo/GO_0006954",0,0,0
+"KE 488","Decrease, Ovulation","http://purl.obolibrary.org/obo/GO_0030728",0,0,0
+"KE 49","Reduction, Ca and HCO3 transport to shell gland","http://purl.obolibrary.org/obo/GO_0006816|http://purl.obolibrary.org/obo/GO_0015701",0,0,0
+"KE 491","Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)","http://purl.obolibrary.org/obo/GO_0072574",2,2,0
+"KE 493","Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts","http://purl.obolibrary.org/obo/GO_0006281",6,3,5
+"KE 494","Glucocorticoid Receptor Agonist, Activation","http://purl.obolibrary.org/obo/GO_0004883",0,0,0
+"KE 495","Repressed expression of steroidogenic enzymes ","http://purl.obolibrary.org/obo/GO_0042446",0,0,0
+"KE 496","Increased apoptosis, decreased fetal/adult Leydig Cells ","http://purl.obolibrary.org/obo/GO_0006915",0,0,0
+"KE 50","Increase, Ca++ (intracellular)","",1,1,0
+"KE 505","Decreased sperm quantity / quality in the adult, Decreased fertility ","",0,0,0
+"KE 51","Inhibition, Ca++ ATPase","http://purl.obolibrary.org/obo/GO_0005388",1,1,0
+"KE 52","Decreased, Calcium influx","http://purl.obolibrary.org/obo/GO_0006816",8,6,3
+"KE 520","Decreased sperm quantity or quality in the adult, Decreased fertility ","http://purl.obolibrary.org/obo/VT_0002673",0,0,0
+"KE 525","Apoptosis of adult Leydig cells, Decreased testosterone by adult Leydig cells","http://purl.obolibrary.org/obo/GO_0006915",0,0,0
+"KE 526","Inhibition, Inhibition of Dopamine-beta-hydroxylase","http://purl.obolibrary.org/obo/GO_0004500",0,0,0
+"KE 527","Decreased, Decreased fecundity ","http://purl.obolibrary.org/obo/MP_0001921",0,0,0
+"KE 528","Decreased, Synthesis of NE","http://purl.obolibrary.org/obo/GO_0042421",0,0,0
+"KE 529","Decreased, GnRH cfos activity","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 530","Decreased, GnRH pulsatility/release","http://purl.obolibrary.org/obo/GO_0046879",15,12,8
+"KE 531","Decreased, LH Surge","http://purl.obolibrary.org/obo/GO_0033684|http://purl.obolibrary.org/obo/GO_0046879",8,8,3
+"KE 532","Delayed, Ovulation","http://purl.obolibrary.org/obo/MP_0001928",0,0,0
+"KE 533","Decreased, Cortical granule release/distribution upon fertilization","http://purl.obolibrary.org/obo/GO_0046903",0,0,0
+"KE 534","Altered, Formation of cortical envelope","",0,0,0
+"KE 535","Abnormal, Sperm penetration (polyspermy)","http://purl.obolibrary.org/obo/GO_0035037",0,0,0
+"KE 536","Altered, Chromosome number (polyploid) zygote","http://purl.obolibrary.org/obo/MP_0004023",0,0,0
+"KE 54","Up Regulation, CD36","http://purl.obolibrary.org/obo/GO_0010467",6,6,2
+"KE 540","Decreased testosterone by the fetal Leydig cells, Dysgensis of fetal Leydig cells","http://purl.obolibrary.org/obo/HP_0008715|http://purl.obolibrary.org/obo/MP_0013603",0,0,0
+"KE 541","Decreased testosterone by the fetal Leydig cells, Decreased COUP-TFII stem Leydig cells","http://purl.obolibrary.org/obo/GO_0035624|http://purl.obolibrary.org/obo/MP_0013604",0,0,0
+"KE 543","Decreased fertility in the adult, Decreased sperm quantity and/or quality in the adult testis","",0,0,0
+"KE 55","Increase, Cell injury/death","http://purl.obolibrary.org/obo/GO_0008219",27,25,8
+"KE 559","Activation, Nicotinic acetylcholine receptor","http://purl.obolibrary.org/obo/GO_0015464",4,4,0
+"KE 560","Abnormal, Foraging activity and behavior","http://purl.obolibrary.org/obo/GO_0060756",3,3,0
+"KE 561","Reduced, Food storage","http://purl.obolibrary.org/obo/NBO_0000079",0,0,0
+"KE 563","Death/Failure, Colony","http://purl.org/commons/record/mesh/D056631",1,1,0
+"KE 564","Abnormal, Roll change within caste","",0,0,0
+"KE 565","Reduced, Brood care","http://purl.obolibrary.org/obo/GO_0019098|http://purl.obolibrary.org/obo/MP_0001386",0,0,0
+"KE 566","impaired, Larval development","http://purl.obolibrary.org/obo/GO_0002164",0,0,0
+"KE 568","impaired, Hive thermoregulation","http://purl.obolibrary.org/obo/NBO_0000051",0,0,0
+"KE 57","Proliferation, Cell proliferation in the absence of cytotoxicity","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 570","Accumulation, Damaged mitochondrial DNA","http://purl.obolibrary.org/obo/GO_0009611",0,0,0
+"KE 571","Accelerated, Aging","http://purl.obolibrary.org/obo/GO_0007568",0,0,0
+"KE 572","Decrease, Number of worker bees","",0,0,0
+"KE 573","Increase, Energetic demands and therefore metabolic stress","http://purl.obolibrary.org/obo/MP_0004889|http://purl.org/commons/record/mesh/D013312",0,0,0
+"KE 574","Increased, Appetite and hunger","http://purl.org/commons/record/mesh/D001066",0,0,0
+"KE 576","Increased, Viral susceptibility","http://purl.obolibrary.org/obo/MP_0002418",0,0,0
+"KE 577","impaired, Development","http://purl.obolibrary.org/obo/GO_0032502",0,0,0
+"KE 578","Decreased, Glucose oxidase enzyme activity","http://purl.obolibrary.org/obo/GO_0046562",0,0,0
+"KE 579","Decreased, Hydrogen peroxide production","http://purl.obolibrary.org/obo/GO_0050665",0,0,0
+"KE 580","Reduced, Antiseptic incorporated in food","",0,0,0
+"KE 584","Inhibition, sodium channel","http://purl.obolibrary.org/obo/GO_0019871|http://purl.obolibrary.org/obo/GO_0023052",1,1,0
+"KE 585","Decreased, Sodium conductance 1","http://purl.obolibrary.org/obo/GO_0001508",0,0,0
+"KE 586","Reduced, swimming speed","http://purl.obolibrary.org/obo/NBO_0000371",0,0,0
+"KE 587","Reduced, feeding 1","http://purl.obolibrary.org/obo/NBO_0000079",0,0,0
+"KE 588","Increased, predation","http://purl.obolibrary.org/obo/GO_0002120",0,0,0
+"KE 590","N/A, hypoxia","http://purl.obolibrary.org/obo/MP_0005039",0,0,0
+"KE 591","Increased, amputations","",0,0,0
+"KE 592","Reduced, survival","http://purl.obolibrary.org/obo/VT_0005372",0,0,0
+"KE 593","Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel ","http://purl.obolibrary.org/obo/GO_0019870",13,9,6
+"KE 598","modulation, sodium channel","http://purl.obolibrary.org/obo/GO_0019871",0,0,0
+"KE 599","prolonged, Depolarization of neuronal membrane","http://purl.obolibrary.org/obo/GO_0051899",0,0,0
+"KE 600","Overactivation, Neuronotransmitter release","http://purl.obolibrary.org/obo/GO_0007269",0,0,0
+"KE 601","Overactivation, muscle contraction","http://purl.obolibrary.org/obo/GO_0006936",0,0,0
+"KE 602","Increased, Ataxia, paralysis, or hyperactivity","http://purl.obolibrary.org/obo/MP_0000753|http://purl.obolibrary.org/obo/MP_0001393|http://purl.obolibrary.org/obo/MP_0001399",0,0,0
+"KE 613","Occurrence, Epileptic seizure","http://purl.obolibrary.org/obo/NBO_0000025",0,0,0
+"KE 616","Occurrence, A paroxysmal depolarizing shift","http://purl.obolibrary.org/obo/GO_0051899",2,1,1
+"KE 618","Decreased, Neuronal network function in adult brain","http://purl.obolibrary.org/obo/GO_0099536",12,10,4
+"KE 619","Inhibition, 5-hydroxytryptamine transporter (5-HTT; SERT)","http://purl.obolibrary.org/obo/GO_0051610|http://purl.obolibrary.org/obo/GO_0098810",1,1,1
+"KE 621","Increase, cilia movement","",4,4,0
+"KE 622","Increased, locomotion","http://purl.obolibrary.org/obo/GO_0040011",0,0,0
+"KE 623","Increase, predation","http://purl.obolibrary.org/obo/GO_0002120",0,0,0
+"KE 624","Increased, foot detachment","http://purl.obolibrary.org/obo/NBO_0000071",0,0,0
+"KE 625","Increased, muscular waves in foot","",0,0,0
+"KE 626","Increased, serotonin (5-HT) ","http://purl.obolibrary.org/obo/GO_0001820",0,0,0
+"KE 627","Decreased, anxiety","http://purl.obolibrary.org/obo/NBO_0000018",0,0,0
+"KE 629","Decreased, sheltering","http://purl.obolibrary.org/obo/MP_0014039",0,0,0
+"KE 633","Decrease, histaminergic neuron excitation","http://purl.obolibrary.org/obo/GO_0043179",0,0,0
+"KE 634","N/A, sedation","",0,0,0
+"KE 635","Decreased, locomotion","http://purl.obolibrary.org/obo/GO_0040011",0,0,0
+"KE 636","Decreased, survival","http://purl.obolibrary.org/obo/VT_0005372",0,0,0
+"KE 637","impaired, Learning and memory","",0,0,0
+"KE 638","Antagonism, Histamine Receptor (H2)","http://purl.obolibrary.org/obo/GO_0004969",0,0,0
+"KE 64","Reduction, Ionotropic GABA receptor chloride channel conductance","http://purl.obolibrary.org/obo/GO_0022851",1,1,0
+"KE 640","Decreased steroidogenesis, Proteomic alterations in the adult Leydig cell","http://purl.obolibrary.org/obo/GO_0006694",0,0,0
+"KE 642","Decreased Cholesterol, Decreased De Novo Biosynthesis of Choleseterol","http://purl.obolibrary.org/obo/GO_0006695",0,0,0
+"KE 643","Decreased Cholesterol, Decreased Uptake of Lipoproteins","http://purl.obolibrary.org/obo/GO_0042953",0,0,0
+"KE 644","Decreased Cholesterol, Decreased Transport of Cholesterol to the Inner Mitochondrial Membrane","http://purl.obolibrary.org/obo/GO_0032367",0,0,0
+"KE 645","Decreased Cholesterol, Decreased Testosterone Production by Adult Leydig Cells","http://purl.obolibrary.org/obo/GO_0061370",0,0,0
+"KE 646","Decreased Cholesterol, Decreased sperm quantity and/or quality in the adult testis","",0,0,0
+"KE 647","Decreased, steroidogenic protein expression","http://purl.obolibrary.org/obo/GO_0050810",0,0,0
+"KE 648","Decreased steroidogenesis, Increased Apoptosis of Adult Leydig Cells","http://purl.obolibrary.org/obo/GO_0006915",0,0,0
+"KE 649","Decreased steroidogenesis, Alterations in the Leydig Cell Cytoskeleton","http://purl.obolibrary.org/obo/GO_0007010",0,0,0
+"KE 650","Stimulation of adult Leydig cells via the Adrenal Corticosterone, Increased Glucocorticoid","http://purl.obolibrary.org/obo/GO_0001775|http://purl.obolibrary.org/obo/GO_0006704",0,0,0
+"KE 651","Glucocorticoid Receptor mediated alterations in steriodogenic enzymes, Decreased testosterone by adult Leydig cells","http://purl.obolibrary.org/obo/GO_0004883",0,0,0
+"KE 652","Direct effects of Corticosterone on steroidogenesis, Decreased testosterone by adult Leydig cells","http://purl.obolibrary.org/obo/GO_0050810",0,0,0
+"KE 653","Decreased testosterone by the fetal Leydig cells, Increased corticosterone","",0,0,0
+"KE 654","Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists","http://purl.obolibrary.org/obo/GO_0004883",0,0,0
+"KE 655","Decreased testosterone by the fetal Leydig cells, Increased COUP-TFII in fetal Leydig cells","http://purl.obolibrary.org/obo/GO_0035624",0,0,0
+"KE 656","Decreased, Chicken Ovalbumin Upstream Promoter Transcription Factor II (COUP-TFII)","http://purl.obolibrary.org/obo/GO_0035624",3,3,1
+"KE 657","Decreased testosterone by the fetal Leydig cells, Dysgenesis of fetal Leydig cells","http://purl.obolibrary.org/obo/HP_0008715|http://purl.obolibrary.org/obo/MP_0013603",0,0,0
+"KE 658","Decreased testosterone by the fetal Leydig cells, Increased estradiol","",0,0,0
+"KE 659","Decreased testosterone by the fetal Leydig cells, Activation by other estradiol agonists","http://purl.obolibrary.org/obo/GO_0030284",0,0,0
+"KE 66","Activation, ChREBP","http://purl.obolibrary.org/obo/GO_0023052",6,5,3
+"KE 660","decreased testosterone by fetal Leydig cells, Dysgenesis of fetal Leydig cells","http://purl.obolibrary.org/obo/HP_0008715|http://purl.obolibrary.org/obo/MP_0013603",0,0,0
+"KE 661","Decreased testosterone by the fetal Leydig cells, Alterations in the fetal testis proteome","",0,0,0
+"KE 662","Decreased testosterone by the fetal Leydig cells, Hypermethylation in the fetal testis","http://purl.obolibrary.org/obo/GO_0044026",0,0,0
+"KE 663","Desensitization, Nicotinic acetylcholine receptor","http://purl.obolibrary.org/obo/GO_0030545|http://purl.obolibrary.org/obo/GO_0030549",8,8,1
+"KE 664","Overwhelmed, Mitochondrial DNA repair mechanisms","http://purl.obolibrary.org/obo/GO_0006281",0,0,0
+"KE 667","Binding at picrotoxin site, iGABAR chloride channel","http://purl.obolibrary.org/obo/GO_0050811",6,6,0
+"KE 669","Reduction, Neuronal synaptic inhibition","http://purl.obolibrary.org/obo/GO_0007268",1,1,0
+"KE 671","Reduced, Prostaglandin F2alpha concentration, plasma ","",0,0,0
+"KE 672","Reduced, Prostaglandin F2alpha synthesis, ovary  ","http://purl.obolibrary.org/obo/GO_0001516",0,0,0
+"KE 673","Reduced, Spawning behavior","",0,0,0
+"KE 674","Reduced, Ability to attract spawning mates","http://purl.obolibrary.org/obo/NBO_0000280",0,0,0
+"KE 675","Reduced, Reproductive Success","http://purl.obolibrary.org/obo/GO_0000003|http://purl.obolibrary.org/obo/GO_0022414",0,0,0
+"KE 678","Reduced, Pheromone release","http://purl.obolibrary.org/obo/GO_0071834",0,0,0
+"KE 679","Decline, Population trajectory","http://purl.obolibrary.org/obo/PCO_0000008",0,0,0
+"KE 68","Increase, Collagen accumulation","http://purl.obolibrary.org/obo/GO_0032964",7,7,1
+"KE 681","Decreased, Prostaglandin F2alpha synthesis, ovary  ","http://purl.obolibrary.org/obo/GO_0001516",0,0,0
+"KE 682","Generation, Amplified excitatory postsynaptic potential (EPSP)","http://purl.obolibrary.org/obo/GO_0060079",8,2,6
+"KE 685","Reduced, Prostaglandins, ovary","",0,0,0
+"KE 687","Reduced, Prostaglandin E2 concentration, hypothalamus","",0,0,0
+"KE 689","Reduced, Gonadotropin releasing hormone, hypothalamus","",0,0,0
+"KE 690","Reduced, Luteinizing hormone (LH), plasma ","",0,0,0
+"KE 691","Reduced, Maturation inducing steroid, plasma","",0,0,0
+"KE 692","Reduced, Maturation inducing steroid receptor signalling, oocyte","http://purl.obolibrary.org/obo/GO_0003707|http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 693","Increased, cyclic adenosine monophosphate","",0,0,0
+"KE 694","Reduced, Meiotic prophase I/metaphase I transition, oocyte","http://purl.obolibrary.org/obo/GO_0008315",0,0,0
+"KE 695","Upregulated, Spindle assembly checkpoint protein Mad2-oocyte","http://purl.obolibrary.org/obo/GO_1902426",0,0,0
+"KE 696","Increased, Chromosome misseggregation","http://purl.obolibrary.org/obo/GO_0007059",0,0,0
+"KE 697","impaired, ion channels","http://purl.obolibrary.org/obo/GO_0005216",0,0,0
+"KE 698","Altered, Action Potential","http://purl.obolibrary.org/obo/GO_0001508",0,0,0
+"KE 699","Increased, cardiac arrthymia","http://purl.org/commons/record/mesh/D001145",0,0,0
+"KE 708","Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)","",0,0,0
+"KE 709","Increase, Cytotoxicity (renal tubular cell)","http://purl.obolibrary.org/obo/GO_0008219",29,25,11
+"KE 710","Increase, Regenerative cell proliferation (tubular epithelial cells)","http://purl.obolibrary.org/obo/GO_0050673",0,0,0
+"KE 713","Increase, Adenomas/carcinomas (renal tubular)","http://purl.org/commons/record/mesh/D002292",0,0,0
+"KE 714","Increased, Binding of chemicals to 2u (serum)","http://purl.obolibrary.org/obo/GO_0005488",0,0,0
+"KE 715","Activation, Constitutive androstane receptor","http://purl.obolibrary.org/obo/GO_0023052",9,5,5
+"KE 716","Increase, cell proliferation (hepatocytes)","http://purl.obolibrary.org/obo/GO_0008283|http://purl.obolibrary.org/obo/GO_0072574",0,0,0
+"KE 718","Binding, Tubulin","http://purl.obolibrary.org/obo/GO_0015631",10,10,0
+"KE 719","Increase, hepatocellular adenomas and carcinomas","http://purl.org/commons/record/mesh/D006528",0,0,0
+"KE 720","Disruption, Microtubule dynamics","http://purl.obolibrary.org/obo/GO_0007019",0,0,0
+"KE 721","Disorganization, Meiotic Spindle","http://purl.obolibrary.org/obo/GO_0007051",3,2,1
+"KE 723","Altered, Chromosome number","http://purl.obolibrary.org/obo/MP_0004023",0,0,0
+"KE 724","Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme","http://purl.obolibrary.org/obo/GO_0004738",0,0,0
+"KE 726","Increased, Induction of pyruvate dehydrogenase (PDH)","http://purl.obolibrary.org/obo/GO_0004738",0,0,0
+"KE 728","Increase, Aneuploid offspring","http://purl.obolibrary.org/obo/MP_0004023",0,0,0
+"KE 733","Increase, Necrosis (terminal bronchiolar cells)","http://purl.obolibrary.org/obo/GO_0008219",0,0,0
+"KE 734","Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)","http://purl.obolibrary.org/obo/GO_0050673",0,0,0
+"KE 735","Increase, Hyperplasia (terminal bronchiolar cells)","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 736","Increase, Adenomas/carcinomas (bronchioloalveolar)","",0,0,0
+"KE 739","Increase, Hypertrophy and proliferation (follicular cell)","http://purl.obolibrary.org/obo/GO_0008283|http://purl.org/commons/record/mesh/D006984",0,0,0
+"KE 740","Increase, Hyperplasia (follicular cells)","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 741","Increase, Adenomas/carcinomas (follicular cell)","",0,0,0
+"KE 743","Decreased, Testosterone binding to androgen receptor (hypothalamus)","http://purl.obolibrary.org/obo/GO_0005102",0,0,0
+"KE 744","Increase, Hyperplasia (Leydig cells)","http://purl.obolibrary.org/obo/MP_0001152",0,0,0
+"KE 745","Increase, Leydig cell tumors","http://purl.obolibrary.org/obo/MP_0002006",0,0,0
+"KE 746","Increase, Dopaminergic activity","http://purl.obolibrary.org/obo/GO_0001963",0,0,0
+"KE 747","Decreased, Prolactin","",0,0,0
+"KE 748","Increased, Estrogen receptor (ER) activity","http://purl.obolibrary.org/obo/GO_0030284",0,0,0
+"KE 749","Decreased, Progesterone from corpus luteum","http://purl.obolibrary.org/obo/GO_0042701",0,0,0
+"KE 752","Altered, Meiotic chromosome dynamics","http://purl.obolibrary.org/obo/GO_0051305",0,0,0
+"KE 754","Increased, Luteinizing hormone (LH) ","",0,0,0
+"KE 756","Hippocampal gene expression, Altered ","http://purl.obolibrary.org/obo/GO_0010468",7,6,1
+"KE 757","Hippocampal anatomy, Altered ","http://purl.obolibrary.org/obo/GO_0007420",16,11,9
+"KE 758","Hippocampal Physiology, Altered","http://purl.obolibrary.org/obo/GO_0007268",2,0,2
+"KE 759","Increased, Kidney Failure","http://purl.obolibrary.org/obo/MP_0003606",0,0,0
+"KE 760","Activation, Glutamate-gated chloride channel","http://purl.obolibrary.org/obo/GO_0005254",0,0,0
+"KE 761","Increased, Chloride conductance","http://purl.obolibrary.org/obo/GO_1902476",0,0,0
+"KE 762","Activation, ionotropic GABA Receptor chloride channel","http://purl.obolibrary.org/obo/GO_0022851",0,0,0
+"KE 763","hyperpolarisation, neuron","http://purl.obolibrary.org/obo/GO_0060081",0,0,0
+"KE 764","N/A, Ataxia, paralysis, or hyperactivity","http://purl.obolibrary.org/obo/MP_0000753|http://purl.obolibrary.org/obo/MP_0001393|http://purl.obolibrary.org/obo/MP_0001399",0,0,0
+"KE 765","Decreased, population 1","",0,0,0
+"KE 766","Inhibition, 4-hydroxyphenyl-pyruvate dioxygenase (HPPD) enzyme","http://purl.obolibrary.org/obo/GO_0003868",1,0,1
+"KE 767","Increase, Hyperplasia (renal tubular cells)","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 768","Increase, Cytotoxicity","http://purl.obolibrary.org/obo/GO_0001909|http://purl.obolibrary.org/obo/GO_0008219",0,0,0
+"KE 769","Increase, Oxidative metabolism","http://purl.obolibrary.org/obo/GO_0045333",0,0,0
+"KE 77","Production, Critical Metabolites (CGA 330050 and CGA 265307)","http://purl.obolibrary.org/obo/GO_0008152",0,0,0
+"KE 770","Increase, Cytotoxicity (club cells)","http://purl.obolibrary.org/obo/GO_0008219",0,0,0
+"KE 771","Decrease, Serum thyroid hormone (T4/T3)","",0,0,0
+"KE 772","Increase, Hyperplasia (glandular epithelial cells of endometrium)","http://purl.obolibrary.org/obo/MP_0009092|http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 773","Increase, Endometrial adenocarcinomas","",0,0,0
+"KE 774","Increase, Preneoplastic foci (hepatocytes)","http://purl.obolibrary.org/obo/MP_0002009",0,0,0
+"KE 775","Increased, Plasma tyrosine","",0,0,0
+"KE 776","Increase, Cytotoxicity (corneal cells)","http://purl.obolibrary.org/obo/GO_0008219",0,0,0
+"KE 777","Increase, Inflammation (corneal cells)","http://purl.obolibrary.org/obo/GO_0006954",0,0,0
+"KE 778","Increase, Regenerative cell proliferation (corneal cells)","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 779","Increase, Papillomas/carcinomas (squamous cells)","",0,0,0
+"KE 78","Reduction, Cumulative fecundity and spawning","http://purl.obolibrary.org/obo/VT_1000294",0,0,0
+"KE 780","Increase, Cytotoxicity (epithelial cells)","http://purl.obolibrary.org/obo/GO_0008219",0,0,0
+"KE 781","Increase, Regenerative cell proliferation (forestomach epithelial cells)","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 782","Increase, Hyperplasia (forestomach epithelial cells)","http://purl.obolibrary.org/obo/MP_0005493",0,0,0
+"KE 783","Increase, Cytotoxicity (tubular epithelial cells)","http://purl.obolibrary.org/obo/GO_0008219",1,1,0
+"KE 784","Increase, Hyperplasia (tubular epithelial cells)","http://purl.obolibrary.org/obo/MP_0004968",0,0,0
+"KE 786","Increase, Cytotoxicity (hepatocytes)","http://purl.obolibrary.org/obo/GO_0008219",1,1,0
+"KE 787","Increase, Regenerative cell proliferation (hepatocytes)","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 79","Inhibition, Cyclooxygenase activity","http://purl.obolibrary.org/obo/GO_0004666",9,8,2
+"KE 791","Increased, Leutinizing hormone (LH)","",0,0,0
+"KE 793","Increase, Urinary bladder calculi","http://purl.obolibrary.org/obo/MP_0011625",0,0,0
+"KE 794","Increase, Cytotoxicity (urothelial cells)","http://purl.obolibrary.org/obo/GO_0008219",0,0,0
+"KE 795","Increase, Regenerative cell proliferation (urothelial cells)","http://purl.obolibrary.org/obo/GO_0008283",0,0,0
+"KE 796","Increase, Hyperplasia (urothelial)","http://purl.org/commons/record/mesh/D006965",0,0,0
+"KE 797","Increase, Adenomas/carcinomas (urothelial)","",0,0,0
+"KE 798","Inhibition, Prolyl hydroxylases","http://purl.obolibrary.org/obo/GO_0003824",0,0,0
+"KE 799","Increased, HIF-1 heterodimer","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 8","Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity","http://purl.obolibrary.org/obo/GO_0003857",0,0,0
+"KE 80","Up Regulation, CYP1A1","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 800","Decreased, Aromatase (Cyp19a1) mRNA","http://purl.obolibrary.org/obo/GO_0070330",0,0,0
+"KE 801","modulation, Unknown","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 802","Increased, HIF-1 alpha transcription","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 804","Inhibition, HMG-CoA reductase","http://purl.obolibrary.org/obo/GO_0042282",0,0,0
+"KE 805","Decreased, mevalonate","",0,0,0
+"KE 807","Decreased, cholesterol","http://purl.obolibrary.org/obo/GO_0006695|http://purl.obolibrary.org/obo/GO_0030301",6,6,0
+"KE 809","malformed, Male reproductive tract","",0,0,0
+"KE 813","Increased, Serum creatinine","http://purl.obolibrary.org/obo/MP_0005332",0,0,0
+"KE 814","Occurrence, Kidney toxicity","http://purl.org/commons/record/mesh/Q000633",12,11,6
+"KE 818","Occurrence, Cytoplasmic vacuolization (Renal tubule)","http://purl.obolibrary.org/obo/GO_0048102",0,0,0
+"KE 819","Decreased, Glomerular filtration","http://purl.obolibrary.org/obo/GO_0003094",0,0,0
+"KE 820","Decreased, Renal plasma flow","http://purl.obolibrary.org/obo/VT_0005524",0,0,0
+"KE 821","Decreased, Sodium reabsorption","http://purl.obolibrary.org/obo/GO_0070293",0,0,0
+"KE 823","Occurrence, Cystic dilatation (renal tubule)","http://purl.org/commons/record/mesh/D004106",0,0,0
+"KE 824","Occurrence, Cytoplasmic vacuolization (podocyte)","http://purl.obolibrary.org/obo/MP_0011899",0,0,0
+"KE 825","Decreased, Renal ability to dilute urine","http://purl.obolibrary.org/obo/MI_MI:0613",0,0,0
+"KE 826","Activation, Keratinocytes","http://purl.obolibrary.org/obo/GO_0002534|http://purl.obolibrary.org/obo/GO_0032980",9,9,2
+"KE 827","sensitisation, skin","",1,0,1
+"KE 828","Inhibition, Phospholipase A","http://purl.obolibrary.org/obo/GO_0004620",0,0,0
+"KE 829","Damage, Lipid bilayer","",0,0,0
+"KE 831","Disturbance, Lysosomal function","",0,0,0
+"KE 833","Occurrence, Cytoplasmic vacuolization (hepatocyte)","http://purl.obolibrary.org/obo/GO_0048102",0,0,0
+"KE 835","Occurrence, Ballooning degeneration (hepatocyte)","http://purl.obolibrary.org/obo/GO_0048102",0,0,0
+"KE 836","Occurrence, Cytoplasmic vacuolization (Bile duct cell)","http://purl.obolibrary.org/obo/GO_0048102",0,0,0
+"KE 837","Occurrence, Cytoplasmic vacuolization (kupffer cell)","http://purl.obolibrary.org/obo/GO_0048102",0,0,0
+"KE 838","Induction, Microvesicular fat","http://purl.obolibrary.org/obo/HP_0001414",0,0,0
+"KE 839","Formation, Mallory body","http://purl.obolibrary.org/obo/MP_0014045",0,0,0
+"KE 840","Formation, Liver fibrosis","http://purl.obolibrary.org/obo/MP_0003333",0,0,0
+"KE 844","Oxidation, Uroporphyrinogen","",1,1,1
+"KE 845","Inhibition, UROD","http://purl.obolibrary.org/obo/GO_0003824",4,3,3
+"KE 846","Accumulation, Highly carboxylated porphyrins","",0,0,0
+"KE 848","Decreased, Binding of NE to NE receptors on GnRH neurons","http://purl.obolibrary.org/obo/GO_0051380",0,0,0
+"KE 849","Inhibition, Antgonism of NE receptor","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 850","Induction, CYP1A2/CYP1A5","http://purl.obolibrary.org/obo/GO_0010467",5,5,1
+"KE 851","Decrease of GABAergic interneurons","http://purl.obolibrary.org/obo/MP_0002882",13,12,7
+"KE 853","Changes/Inhibition, Cellular Homeostasis and Apoptosis","http://purl.obolibrary.org/obo/GO_0006915|http://purl.obolibrary.org/obo/GO_0019725",1,1,1
+"KE 854","Alterations, Cellular proliferation / hyperplasia","http://purl.obolibrary.org/obo/GO_0008283|http://purl.org/commons/record/mesh/D006965",5,5,4
+"KE 856","Formation, Hepatocellular and Bile duct tumors","",1,1,1
+"KE 858","Decreased, PPARalpha transactivation of gene expression","http://purl.obolibrary.org/obo/GO_0035624",11,11,2
+"KE 860","Decreased, Mitochondrial Fatty Acid Beta Oxidation","http://purl.obolibrary.org/obo/GO_0006635",20,20,0
+"KE 861","Decreased, Ketogenesis (production of ketone bodies)","http://purl.org/commons/record/mesh/D007662",7,7,5
+"KE 862","Not Increased, Circulating Ketone Bodies","http://purl.obolibrary.org/obo/MP_0002118",1,1,0
+"KE 863","Increased, Catabolism of Muscle Protein","http://purl.obolibrary.org/obo/GO_0030163",1,1,0
+"KE 864","Decreased, Body Weight","http://purl.obolibrary.org/obo/MP_0001262",4,4,1
+"KE 867","Decrease, Intracellular pH","http://purl.obolibrary.org/obo/GO_0051453",2,2,0
+"KE 868","Increase, Tissue Degeneration, Necrosis & Atrophy ","http://purl.obolibrary.org/obo/GO_0070265|http://purl.org/commons/record/mesh/D001284",0,0,0
+"KE 869","Increase, Respiratory or Squamous Metaplasia","",0,0,0
+"KE 87","Release, Cytokine","http://purl.obolibrary.org/obo/GO_0050663",16,16,8
+"KE 870","Increase, Cell Proliferation","http://purl.obolibrary.org/obo/GO_0008283",7,4,3
+"KE 872","Increase, Site of Contact Nasal Tumors","http://purl.obolibrary.org/obo/MP_0002006",0,0,0
+"KE 875","Binding of agonist, Ionotropic glutamate receptors","http://purl.obolibrary.org/obo/GO_0004970",13,12,6
+"KE 876","Increase, Mutations in Critical Genes","http://purl.org/commons/record/mesh/D009154",0,0,0
+"KE 877","Inhibition, organic anion transporter 1 (OAT1)","http://purl.obolibrary.org/obo/GO_0023052",5,4,4
+"KE 878","Inhibition, SREBP1c","http://purl.obolibrary.org/obo/GO_0032933",0,0,0
+"KE 879","Activation, MTTP","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 880","Increased, ApoB100","http://purl.obolibrary.org/obo/GO_0010467",0,0,0
+"KE 881","Increased, Triglyceride","http://purl.obolibrary.org/obo/GO_0009058",0,0,0
+"KE 885","Increase, Cancer","",0,0,0
+"KE 887","Inhibition, NADH-ubiquinone oxidoreductase  (complex I)","http://purl.obolibrary.org/obo/GO_0008137",5,3,2
+"KE 888","Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)","http://purl.obolibrary.org/obo/GO_0006120",20,18,9
+"KE 889","Proteostasis, impaired","http://purl.org/commons/record/mesh/D057165",14,8,6
+"KE 89","Synthesis, De Novo Fatty Acid (FA)","http://purl.obolibrary.org/obo/GO_0006633",11,9,6
+"KE 890","Degeneration of dopaminergic neurons of the nigrostriatal pathway","http://purl.obolibrary.org/obo/MP_0003244",6,6,0
+"KE 896","Parkinsonian motor deficits","",9,5,5
+"KE 898","Disruption, Lysosome","http://purl.obolibrary.org/obo/GO_1903008",20,16,10
+"KE 9","Activation, 5HT2c","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 901","Infiltration, Inflammatory cells","http://purl.obolibrary.org/obo/GO_0006954",22,20,11
+"KE 902","Inflammation, Liver","http://purl.obolibrary.org/obo/MP_0001860",3,3,0
+"KE 926","Oxidation, Glutathione (To be considered with MIE)","http://purl.obolibrary.org/obo/GO_0016209",0,0,0
+"KE 927","KE1 : S-Glutathionylation, eNOS","http://purl.obolibrary.org/obo/GO_0010731",2,2,1
+"KE 932","KE4 : Uncoupling, eNOS","",2,2,1
+"KE 933","KE6 : Depletion, Nitric Oxide","http://purl.obolibrary.org/obo/GO_0006809",1,1,1
+"KE 934","KE3 : Decrease, Tetrahydrobiopterin","http://purl.obolibrary.org/obo/GO_0009058",7,6,4
+"KE 935","KE2 : Decrease, GTPCH-1","http://purl.obolibrary.org/obo/GO_1903009",5,5,3
+"KE 937","KE7 : Impaired, Vasodilation","http://purl.obolibrary.org/obo/GO_0042311",0,0,0
+"KE 941","Activation, EGFR","http://purl.obolibrary.org/obo/GO_0005006|http://purl.obolibrary.org/obo/GO_0016310",26,24,8
+"KE 944","dimerization, AHR/ARNT","http://purl.obolibrary.org/obo/GO_0046983",35,23,21
+"KE 945","reduced dimerization, ARNT/HIF1-alpha","http://purl.obolibrary.org/obo/GO_0046983",7,5,4
+"KE 947","Increase, Early Life Stage Mortality","http://purl.obolibrary.org/obo/MP_0008762|http://purl.org/commons/record/mesh/D009026",0,0,0
+"KE 948","reduced production, VEGF","http://purl.obolibrary.org/obo/GO_0010467|http://purl.obolibrary.org/obo/MP_0008469",6,6,1
+"KE 951","KE8 : Increase, Vascular Resistance","http://purl.obolibrary.org/obo/MP_0004878",0,0,0
+"KE 952","Hypertension","http://purl.obolibrary.org/obo/MP_0000231",2,1,2
+"KE 957","Binding, Transthyretin in serum","http://purl.obolibrary.org/obo/GO_0005488",9,5,7
+"KE 958","Displacement, Serum thyroxine (T4) from transthyretin","",26,15,16
+"KE 959","Increased, Free serum thyroxine (T4)","",7,3,6
+"KE 960","Increased, Uptake of thyroxine into tissue","http://purl.obolibrary.org/obo/GO_0006810",41,29,28
+"KE 961","Increased, Clearance of thyroxine from serum","http://purl.obolibrary.org/obo/GO_0008152",42,32,22
+"KE 962","Increase, Mucin production","http://purl.obolibrary.org/obo/GO_0006412|http://purl.obolibrary.org/obo/GO_0010467",18,16,15
+"KE 964","Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol","http://purl.obolibrary.org/obo/GO_0023052",0,0,0
+"KE 968","Decreased, release of kisspeptin from anteroventral periventricular nucleus (AVPV) neurons ","http://purl.obolibrary.org/obo/GO_0007269",6,4,4
+"KE 969","Decreased GnRH Release, Decreased Kisspeptin stimulation of GnRH neurons ","http://purl.obolibrary.org/obo/GO_0046879",0,0,0
+"KE 97","Alkylation, DNA","http://purl.obolibrary.org/obo/GO_0006305",0,0,0
+"KE 970","Decreased LH release from Anterior Pituitary, Decreased GnRH stimulation of Anterior Pituitary Gonadotrophs","http://purl.obolibrary.org/obo/GO_0032275",0,0,0
+"KE 971","Ovulation of oocytes Reduced, Delayed, or Blocked, Decrease or delay in LH surge required for ovulation ","http://purl.obolibrary.org/obo/GO_0042698",0,0,0
+"KE 972","Decreased fertility, Reduced number of oocytes ovulated ","http://purl.obolibrary.org/obo/VT_1000294",0,0,0
+"KE 973","KE5 : Decrease, AKT/eNOS activity","http://purl.obolibrary.org/obo/GO_0003824",5,5,2
+"KE 979","Interference, nuclear localization of NFAT","http://purl.obolibrary.org/obo/MI_MI:0254",9,8,1
+"KE 980","Inhibition, Calcineurin Activity","http://purl.obolibrary.org/obo/GO_0005488",14,9,5
+"KE 981","Reduction, NFAT/AP-1 complex formation","http://purl.obolibrary.org/obo/GO_0001775|http://purl.obolibrary.org/obo/GO_0002534",7,5,6
+"KE 984","Impairment, T-cell dependent antibody response","http://purl.obolibrary.org/obo/IDO_0000610",21,16,7
+"KE 988","Decrease, Circulating ecdysis triggering hormone","http://purl.obolibrary.org/obo/GO_0008255",0,0,0
+"KE 990","Increase, Incomplete ecdysis","http://purl.obolibrary.org/obo/GO_0006031",0,0,0
+"KE 993","Decrease, Abdominal muscle contraction","http://purl.obolibrary.org/obo/GO_0006936",0,0,0
+"KE 996","Decrease, Digestion of old cuticle","",0,0,0
+"KE 997","Decreased, Population size","",0,0,0
+"KE 998","Binding of antagonist, PPAR alpha","http://purl.obolibrary.org/obo/GO_0048019",3,3,2

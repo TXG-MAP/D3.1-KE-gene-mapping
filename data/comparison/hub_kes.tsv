@@ -1,0 +1,539 @@
+ke_id	title	biolevel	organs	degree	betweenness	n_methods	covered
+KE 1392	Increase, Oxidative Stress	Molecular	brain;kidney;liver;lung	39	0.251805	3	True
+KE 177	Increase, Mitochondrial dysfunction	Cellular	brain;kidney;liver;lung	29	0.176717	3	True
+KE 1115	Increase, Reactive oxygen species	Cellular	brain;kidney;liver;lung	22	0.190492	3	True
+KE 55	Increase, Cell injury/death	Cellular	brain;liver;lung	18	0.108252	3	True
+KE 341	Impairment, Learning and memory	Individual	brain	16	0.040752	0	False
+KE 459	Increase, Liver steatosis	Organ	liver	14	0.131771	2	True
+KE 1262	Apoptosis	Cellular	brain;liver;lung	13	0.034928	3	True
+KE 352	N/A, Neurodegeneration	Tissue	brain	13	0.050382	2	True
+KE 167	Activation, LXR	Molecular	liver	12	0.005992	2	True
+KE 188	Neuroinflammation	Tissue	brain	12	0.031713	2	True
+KE 281	Thyroxine (T4) in serum, Decreased	Tissue	brain;kidney;liver	12	0.049164	2	True
+KE 389	Increased, Intracellular Calcium overload	Cellular	brain	12	0.044864	1	True
+KE 327	Accumulation, Fatty acid	Organ	liver	11	0.034692	2	True
+KE 1496	Increased, secretion of proinflammatory mediators	Cellular	lung	10	0.027443	2	True
+KE 18	Activation, AhR	Molecular	brain;liver;lung	10	0.023026	3	True
+KE 386	Decrease of neuronal network function	Organ	brain	10	0.050601	2	True
+KE 388	Overactivation, NMDARs	Cellular	brain	10	0.035887	2	True
+KE 1457	Epithelial Mesenchymal Transition	Cellular	lung	9	0.045179	2	True
+KE 149	Increase, Inflammation	Cellular	brain;liver;lung	9	0.027399	3	True
+KE 277	Thyroid hormone synthesis, Decreased	Cellular	brain;kidney	9	0.054168	2	True
+KE 291	Accumulation, Triglyceride	Cellular	liver	9	0.069664	2	True
+KE 381	Reduced levels of BDNF	Molecular	brain	9	0.020897	2	True
+KE 1686	Deposition of Energy	Molecular	brain;lung	8	0.009992	1	True
+KE 351	Increased Mortality	Population	brain;kidney;lung	8	0.022011	0	False
+KE 618	Decreased, Neuronal network function in adult brain	Organ	brain	8	0.022867	2	True
+KE 68	Increase, Collagen accumulation	Tissue	liver;lung	8	0.017347	3	True
+KE 1097	Occurrence, renal proximal tubular necrosis	Tissue	kidney	7	0.023406	2	True
+KE 1512	Unfolded Protein Response	Molecular	brain;liver	7	0.008094	3	True
+KE 1635	Increase, DNA strand breaks	Molecular	brain;lung	7	0.006393	2	True
+KE 2151	Disruption, neurotransmitter release	Molecular	brain	7	0.010551	1	True
+KE 54	Up Regulation, CD36	Molecular	liver	7	0.004903	2	True
+KE 716	Increase, cell proliferation (hepatocytes)	Cellular	liver	7	0.010752	2	True
+KE 814	Occurrence, Kidney toxicity	Organ	kidney;lung	7	0.026019	1	True
+KE 831	Disturbance, Lysosomal function	Cellular	kidney;liver	7	0.003179	2	True
+KE 1250	Decrease, Lung function	Individual	lung	6	0.011085	1	True
+KE 1495	Substance interaction with the lung resident cell membrane components	Molecular	lung	6	0.014472	1	True
+KE 1498	Loss of alveolar capillary membrane integrity	Tissue	lung	6	0.015636	2	True
+KE 1605	Accumulation of misfolded proteins	Cellular	brain;liver	6	0.005404	2	True
+KE 1944	Synaptic dysfunction	Organ	brain	6	0.00619	2	True
+KE 2007	Non-coding RNA expression profile alteration	Molecular	lung	6	0.045371	1	True
+KE 385	Decrease of synaptogenesis	Cellular	brain	6	0.003358	2	True
+KE 402	Cognitive function, decreased	Individual	brain	6	0.032489	2	True
+KE 458	Increased, De Novo FA synthesis	Cellular	liver	6	0.029165	2	True
+KE 462	Up Regulation, SCD-1	Molecular	liver	6	0.008175	1	True
+KE 637	impaired, Learning and memory	Individual	brain	6	0.002847	1	True
+KE 709	Increase, Cytotoxicity (renal tubular cell)	Cellular	kidney	6	0.032115	2	True
+KE 818	Occurrence, Cytoplasmic vacuolization (Renal tubule)	Organ	kidney	6	0.00192	0	False
+KE 823	Occurrence, Cystic dilatation (renal tubule)	Organ	kidney	6	0.00192	0	False
+KE 824	Occurrence, Cytoplasmic vacuolization (podocyte)	Organ	kidney	6	0.00192	0	False
+KE 89	Synthesis, De Novo Fatty Acid (FA)	Cellular	liver	6	0.010293	3	True
+KE 1016	Inhibition, Feeding	Individual	brain	5	0.006605	0	False
+KE 1172	Increased activation, Nuclear factor kappa B (NF-kB)	Cellular	lung	5	0.020924	2	True
+KE 12	Acetylcholinesterase (AchE) Inhibition	Cellular	brain	5	0.003396	2	True
+KE 1220	Trigeminal nerve activation	Tissue	lung	5	0.000129	0	False
+KE 1350	Increased, glutamate	Molecular	brain	5	0.017579	2	True
+KE 1492	Tissue resident cell activation	Cellular	brain;liver	5	0.003176	2	True
+KE 1493	Increased Pro-inflammatory mediators	Tissue	brain;liver;lung	5	0.00464	3	True
+KE 1497	Increased, recruitment of inflammatory cells	Tissue	lung	5	0.027637	1	True
+KE 1545	Decreased, mitochondrial oxidative phosphorylation	Cellular	liver	5	0.018427	2	True
+KE 1585	Proteasomal dysfunction	Molecular	brain;lung	5	0.016424	2	True
+KE 1633	Increase in inflammation	Tissue	kidney;liver	5	0.006145	2	True
+KE 1636	Increase, Chromosomal aberrations	Cellular	lung	5	0.001005	0	False
+KE 1656	Antagonism, Thyroid Receptor	Molecular	brain	5	0.018281	3	True
+KE 179	Decrease, Fatty acid beta-oxidation	Cellular	liver	5	0.019687	3	True
+KE 185	Increase, Mutations	Molecular	lung	5	0.001005	0	False
+KE 2078	Loss of drebrin	Cellular	brain	5	0.004214	1	True
+KE 2098	Increase, Abnormal Neural Remodeling	Tissue	brain	5	0.000271	1	True
+KE 2195	Increase, CNS Neural cell death	Cellular	brain	5	0.00044	2	True
+KE 2223	Reduced number of oligodendrocytes	Cellular	brain	5	0.015328	2	True
+KE 227	Activation, PPARα	Molecular	liver	5	0.020512	3	True
+KE 265	Increase, Hepatic stellate cell activation	Cellular	liver	5	0.013804	3	True
+KE 40	Mitochondrial ATP production, decreased	Cellular	brain;kidney	5	0.009465	1	True
+KE 451	Inhibition, Mitochondrial fatty acid beta-oxidation	Molecular	liver	5	0.006173	2	True
+KE 457	Activation, SREBF1	Molecular	liver	5	0.013616	2	True
+KE 719	Increase, hepatocellular adenomas and carcinomas	Tissue	liver	5	0.024347	1	True
+KE 756	Hippocampal gene expression, Altered	Tissue	brain	5	0.002089	2	True
+KE 758	Hippocampal Physiology, Altered	Tissue	brain	5	0.003913	3	True
+KE 829	Damage, Lipid bilayer	Cellular	liver	5	2.5e-05	1	True
+KE 833	Occurrence, Cytoplasmic vacuolization (hepatocyte)	Cellular	liver	5	0.003841	0	False
+KE 835	Occurrence, Ballooning degeneration (hepatocyte)	Cellular	liver	5	0.003841	1	True
+KE 836	Occurrence, Cytoplasmic vacuolization (Bile duct cell)	Cellular	liver	5	0.003841	1	True
+KE 837	Occurrence, Cytoplasmic vacuolization (kupffer cell)	Cellular	liver	5	0.003841	1	True
+KE 838	Induction, Microvesicular fat	Tissue	liver	5	0.001551	1	True
+KE 839	Formation, Mallory body	Cellular	liver	5	0.001551	1	True
+KE 87	Release, Cytokine	Cellular	liver;lung	5	0.010066	3	True
+KE 870	Increase, Cell Proliferation	Cellular	lung	5	0.004098	2	True
+KE 890	Degeneration of dopaminergic neurons of the nigrostriatal pathway	Organ	brain	5	0.009208	2	True
+KE 1014	Induction, Somatic muscle paralysis	Tissue	brain	4	0.003193	1	True
+KE 1015	Increased, Neuronal synaptic inhibition	Cellular	brain	4	0.00159	1	True
+KE 1018	Activation, Glutamate-gated chloride channels	Molecular	brain	4	0.010705	0	False
+KE 1096	Increased, blood uric acid concentration	Tissue	kidney	4	0.004405	2	True
+KE 1226	Increased Respiratory irritability and Chronic Cough,	Organ	lung	4	5.9e-05	0	False
+KE 1339	Increase, intracellular calcium	Cellular	brain	4	0.004289	2	True
+KE 1393	Hepatocytotoxicity	Cellular	liver	4	0.001583	3	True
+KE 140	Decreased, HSD17B10 expression	Cellular	liver	4	0.009255	1	True
+KE 1439	Systemic acute phase response	Organ	lung	4	0.000199	2	True
+KE 1556	Increase, lung cancer	Organ	lung	4	0.000596	1	True
+KE 1582	Impaired axonial transport	Cellular	brain	4	0.006929	2	True
+KE 165	Activation, Long term AHR receptor driven direct and indirect gene expression changes	Cellular	liver	4	1.4e-05	3	True
+KE 1669	Increased, DNA damage and mutation	Cellular	lung	4	0.004694	1	True
+KE 1673	Alveolar collapse	Cellular	lung	4	2e-06	0	False
+KE 1752	Increased Angiotensin II	Cellular	kidney;lung	4	0.005153	2	True
+KE 178	Mitochondrial electron transport chain, disrupted	Cellular	brain;kidney	4	0.013145	2	True
+KE 1815	Increase, Endoplasmic reticulum stress	Cellular	kidney;liver	4	1.5e-05	2	True
+KE 1908	Cilia Beat Frequency, Decreased	Cellular	lung	4	0.014174	2	True
+KE 202	Inhibition, Nuclear factor kappa B (NF-kB)	Molecular	kidney;liver	4	0.00531	3	True
+KE 209	Peptide Oxidation	Molecular	liver	4	0.041373	2	True
+KE 2115	Altered, cholesterol metabolism	Molecular	brain	4	0.001556	2	True
+KE 214	Bile accumulation, Pathological condition	Cellular	liver	4	0.008578	2	True
+KE 2188	Activation, caspases	Cellular	brain	4	0.001239	2	True
+KE 2201	Agonism, Retinoic acid receptor	Molecular	brain	4	0.009719	2	True
+KE 2203	Decreased proliferation of cortical neural progenitor cells	Cellular	brain	4	0.002075	2	True
+KE 2225	Disrupted Lipid Storage	Cellular	liver	4	0.011358	3	True
+KE 228	peroxisome proliferator activated receptor promoter demethylation	Molecular	liver	4	0.001149	3	True
+KE 373	Formation, Pro-mutagenic DNA Adducts	Molecular	liver	4	3.5e-05	2	True
+KE 454	Increased, Triglyceride formation	Cellular	liver	4	0.001447	2	True
+KE 465	Increased, Fatty acid influx	Cellular	liver	4	0.000563	2	True
+KE 710	Increase, Regenerative cell proliferation (tubular epithelial cells)	Cellular	kidney	4	0.012309	1	True
+KE 757	Hippocampal anatomy, Altered	Tissue	brain	4	0.015321	3	True
+KE 759	Increased, Kidney Failure	Population	kidney;lung	4	0.020819	0	False
+KE 813	Increased, Serum creatinine	Organ	kidney	4	0.003086	0	False
+KE 819	Decreased, Glomerular filtration	Tissue	kidney	4	0.001352	1	True
+KE 820	Decreased, Renal plasma flow	Tissue	kidney	4	0.001352	0	False
+KE 821	Decreased, Sodium reabsorption	Organ	kidney	4	0.001352	1	True
+KE 825	Decreased, Renal ability to dilute urine	Organ	kidney	4	0.001352	0	False
+KE 896	Parkinsonian motor deficits	Individual	brain	4	0.007158	3	True
+KE 898	Disruption, Lysosome	Cellular	kidney;liver	4	0.004435	3	True
+KE 10	Acetylcholine accumulation in synapses	Cellular	brain	3	0.003204	3	True
+KE 1012	Increased, Inhibitory postsynaptic potential	Cellular	brain	3	6.6e-05	1	True
+KE 1283	Activation, TGF-beta pathway	Cellular	lung	3	0.017515	1	True
+KE 1289	Perturbation of cholesterol	Cellular	liver	3	8.3e-05	2	True
+KE 1292	Activation, JNK	Cellular	lung	3	0.003096	1	True
+KE 1349	Activated, presynaptic neuron 1	Molecular	brain	3	0.003283	2	True
+KE 1355	Activated, membrane depolarization	Cellular	brain	3	0.015518	2	True
+KE 1363	Increased, epilepsy	Individual	brain	3	0.022318	1	True
+KE 1365	Increase, Apoptosis	Cellular	kidney	3	0.000851	2	True
+KE 139	N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects	Tissue	liver	3	3e-06	0	False
+KE 1391	Activation of Cyp2E1	Molecular	brain;liver	3	0.003289	3	True
+KE 1395	Liver Cancer	Organ	liver	3	0.001515	2	True
+KE 1415	Reduced, GABA-A receptor activation	Molecular	brain	3	0.009248	2	True
+KE 1438	Transcription of genes encoding acute phase proteins, Increased	Organ	lung	3	0.0	1	True
+KE 1469	Activation, Transforming Growth Factor beta pathway	Molecular	lung	3	0.003401	2	True
+KE 1501	Increase, Extracellular matrix deposition	Tissue	liver;lung	3	0.003339	3	True
+KE 1511	Lipid Peroxidation	Molecular	brain	3	0.003767	2	True
+KE 1513	General Apoptosis	Cellular	brain	3	0.003099	2	True
+KE 1527	Increase, Cell membrane depolarization	Cellular	brain	3	0.003204	2	True
+KE 1549	Liver Injury	Organ	liver	3	0.000219	1	True
+KE 155	Inadequate DNA repair	Cellular	lung	3	1e-06	2	True
+KE 1583	Sensory axonal peripheral neuropathy	Individual	brain	3	0.014613	0	False
+KE 1587	Fibroproliferative airway lesions	Tissue	lung	3	0.003092	3	True
+KE 1672	Inhibition of lung surfactant function	Molecular	lung	3	0.0	2	True
+KE 1677	Reduced tidal volume	Organ	lung	3	0.0	1	True
+KE 1788	Status epilepticus	Individual	brain	3	0.004895	2	True
+KE 1795	Latent Transforming growth Factor beta expression	Cellular	lung	3	0.012288	2	True
+KE 1817	Apoptotic cell death	Cellular	liver	3	0.001731	2	True
+KE 1825	Increase, Cell death	Cellular	brain;lung	3	0.000532	3	True
+KE 1852	Increased Ang II type 1 receptor (AT1R)	Tissue	kidney;liver	3	0.008183	2	True
+KE 1917	Altered gene expression, NRF2 dependent antioxidant pathway	Molecular	kidney	3	0.000443	2	True
+KE 1942	Accumulation, Cytosolic toxic Tau oligomers	Cellular	brain	3	0.003975	1	True
+KE 1945	Dysfunctional Autophagy	Cellular	brain;lung	3	0.000936	2	True
+KE 2006	Secondary genotoxicity	Cellular	lung	3	1.6e-05	0	False
+KE 2008	Chronic obstructive pulmonary disease	Individual	lung	3	0.00095	0	False
+KE 2010	Pulmonary inflammation	Organ	lung	3	0.00406	2	True
+KE 2011	Emphysema	Organ	lung	3	0.000989	0	False
+KE 2013	Airway remodeling	Organ	lung	3	0.000567	2	True
+KE 2017	Endoplasmic reticulum stress	Cellular	brain	3	0.0003	2	True
+KE 2097	Increase, Pro-Inflammatory Mediators	Tissue	brain	3	0.000157	2	True
+KE 2107	Hypomyelination	Tissue	brain	3	0.003955	2	True
+KE 2149	Increased intracelluar Iron accumulation	Cellular	brain	3	0.005337	1	True
+KE 2150	Neurological disorder	Individual	brain	3	0.000949	0	False
+KE 2219	Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha	Molecular	brain	3	0.003092	1	True
+KE 2221	Altered Liver X receptor activity	Molecular	brain	3	0.001536	2	True
+KE 2224	Dysregulation of transcriptional expression within PPAR signaling network	Molecular	liver	3	0.00617	3	True
+KE 2244	Altered Stress Response Signaling	Molecular	brain	3	0.000599	1	True
+KE 2263	Lysolecithin, increased	Cellular	brain	3	0.004624	2	True
+KE 2265	Oligodendrocyte death, increased	Cellular	brain	3	0.001546	2	True
+KE 2266	Demyelination, increased	Cellular	brain	3	0.003092	0	False
+KE 2344	Upregulation, growth arrest and DNA-damage-inducible beta a	Molecular	liver	3	0.007115	0	False
+KE 2345	Activation, MAPK	Molecular	liver	3	0.011054	0	False
+KE 245	Activation, PXR/SXR	Molecular	liver	3	0.002845	2	True
+KE 280	Thyroxine (T4) in neuronal tissue, Decreased	Organ	brain	3	0.002759	2	True
+KE 294	N/A, Unknown	Molecular	kidney;liver	3	0.012306	0	False
+KE 295	Induction, Upregulation of glucuronyltransferase activity	Molecular	brain;liver	3	0.008125	2	True
+KE 350	Increase, Mortality	Individual	brain	3	0.00599	0	False
+KE 357	Cholestasis, Pathology	Individual	liver	3	0.005053	2	True
+KE 376	Increased, Induced Mutations in Critical Genes	Cellular	liver	3	7e-06	2	True
+KE 378	Tumorigenesis, Hepatocellular carcinoma	Individual	liver	3	5e-06	2	True
+KE 39	Increased Cholinergic Signaling	Organ	brain	3	0.003919	1	True
+KE 396	Covalent Binding, Protein	Molecular	lung	3	0.003082	1	True
+KE 398	Activation, Dendritic Cells	Cellular	lung	3	0.003082	2	True
+KE 424	Inhibition, Na+/I- symporter (NIS)	Molecular	brain	3	0.000224	1	True
+KE 471	Inhibition, FoxA2	Molecular	liver	3	0.000334	1	True
+KE 479	Activation, NR1H4	Molecular	liver	3	0.009248	1	True
+KE 491	Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)	Organ	liver	3	5e-06	3	True
+KE 566	impaired, Larval development	Population	brain	3	0.001583	0	False
+KE 66	Activation, ChREBP	Molecular	liver	3	0.000548	2	True
+KE 761	Increased, Chloride conductance	Cellular	brain	3	0.005649	1	True
+KE 774	Increase, Preneoplastic foci (hepatocytes)	Cellular	liver	3	0.00617	1	True
+KE 780	Increase, Cytotoxicity (epithelial cells)	Cellular	lung	3	7.1e-05	1	True
+KE 828	Inhibition, Phospholipase A	Molecular	liver	3	0.001546	1	True
+KE 851	Decrease of GABAergic interneurons	Cellular	brain	3	5.3e-05	2	True
+KE 854	Alterations, Cellular proliferation / hyperplasia	Tissue	liver	3	3e-06	3	True
+KE 887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	Cellular	brain;liver	3	0.003092	3	True
+KE 889	Proteostasis, impaired	Cellular	brain;liver	3	0.000261	2	True
+KE 961	Increased, Clearance of thyroxine from serum	Tissue	brain;liver	3	0.013629	3	True
+KE 962	Increase, Mucin production	Cellular	lung	3	0.00617	1	True
+KE 1019	Induction, pharyngeal muscle paralysis	Tissue	brain	2	0.000114	0	False
+KE 1023	Increased, Thyroid-stimulating hormone (TSH)	Tissue	liver	2	0.009235	0	False
+KE 105	Inhibition, Mitochondrial Electron Transport Chain Complexes	Molecular	kidney	2	0.000458	3	True
+KE 1098	Increased, blood potassium concentration	Tissue	kidney	2	0.002566	1	True
+KE 1102	Occurrence, tophi (urate) deposition	Tissue	kidney	2	0.0	0	False
+KE 1104	Decreased, Prostaglandin F2alpha concentration, plasma	Tissue	kidney	2	0.003092	2	True
+KE 1105	Occurrence, renal ischemia	Tissue	kidney	2	0.00617	0	False
+KE 1106	Occurrence, cardiac arrhythmia	Organ	kidney	2	0.00046	1	True
+KE 115	Increase, Fatty acid influx	Cellular	liver	2	0.00111	3	True
+KE 116	Activation, FAS	Molecular	liver	2	1.3e-05	2	True
+KE 1170	Increase, Phenotypic enzyme activity	Cellular	liver	2	0.0	0	False
+KE 1171	Increase, Clonal Expansion of Altered Hepatic Foci	Cellular	liver	2	0.0	3	True
+KE 1214	Altered gene expression specific to CAR activation, Hepatocytes	Cellular	liver	2	0.003092	3	True
+KE 1218	Opening of calcium channel, Calcium influx	Cellular	lung	2	4.9e-05	1	True
+KE 1222	SP (Substance P) release, Local increase of SP	Cellular	lung	2	1.9e-05	0	False
+KE 1270	Inactivation of PPARγ	Molecular	lung	2	4.2e-05	3	True
+KE 1271	Increase, Transforming growth factor-beta signaling	Molecular	lung	2	0.000857	2	True
+KE 1275	Collagen Deposition	Tissue	lung	2	0.000311	2	True
+KE 1276	Lung fibrosis	Organ	lung	2	0.000214	2	True
+KE 1285	Up Regulation, Unsaturated fatty acid	Cellular	liver	2	4.2e-05	2	True
+KE 1286	Down Regulation, GSS and GSTs gene	Cellular	liver	2	1.4e-05	1	True
+KE 1287	Glutathione synthesis	Cellular	liver	2	2.1e-05	2	True
+KE 1288	Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene	Cellular	liver	2	3.5e-05	1	True
+KE 1290	Glutathione homeostasis	Cellular	liver	2	2.1e-05	2	True
+KE 1291	Hepatotoxicity	Cellular	liver	2	3.5e-05	0	False
+KE 1293	Activation, FOXO	Cellular	liver	2	3.1e-05	0	False
+KE 1305	Increase, cytosolic fatty acid	Cellular	liver	2	0.003092	1	True
+KE 1321	Increased, intracellular sodium (Na+)	Molecular	brain	2	0.005346	1	True
+KE 1344	Increased, seizure	Individual	brain	2	0.01897	0	False
+KE 1348	Increase, seizure	Individual	brain	2	0.022159	0	False
+KE 1351	Activated, NMDA receptor	Molecular	brain	2	0.008296	1	True
+KE 1352	Activated, voltage-gated sodium channel	Molecular	brain	2	0.002482	2	True
+KE 1353	Binding to voltage-gated sodium channel	Molecular	brain	2	0.003092	2	True
+KE 1362	Increased, hippocampal hyperdepolarization	Molecular	brain	2	0.016041	2	True
+KE 1394	Induction, persistent proliferation/sustained proliferation	Cellular	liver	2	0.0	3	True
+KE 1414	Decreased, GABA	Cellular	brain	2	0.003092	2	True
+KE 1416	Decreased, intracellular chloride	Cellular	brain	2	0.012285	1	True
+KE 1419			liver	2	0.003092	1	True
+KE 142	Hyperplasia, Hyperplasia	Tissue	liver	2	0.003092	1	True
+KE 1420			liver	2	0.00617	0	False
+KE 1421	Activated, LXR	Molecular	liver	2	0.009235	2	True
+KE 1422	Reduced, PPARalpha	Molecular	liver	2	0.012285	2	True
+KE 1423	Reduced, HSD17B4 activity	Molecular	liver	2	0.015321	1	True
+KE 1424	Reduced, fatty acid beta oxidation	Molecular	liver	2	0.018344	2	True
+KE 1433	Increased CGRP, neuronal release of CGRP	Cellular	lung	2	1.9e-05	0	False
+KE 1435	Increased neurokinin A (NKA) by neuronal cells	Cellular	lung	2	1.9e-05	0	False
+KE 1443	Atherosclerosis	Individual	lung	2	0.0	1	True
+KE 1445	Increase, Lipid peroxidation	Molecular	kidney	2	0.008252	1	True
+KE 1456	Increase, Differentiation of fibroblasts	Cellular	lung	2	0.000429	2	True
+KE 1458	Pulmonary fibrosis	Organ	lung	2	0.0	3	True
+KE 1482	Depletion, mtDNA	Cellular	kidney	2	0.003092	1	True
+KE 1488	Glutamate dyshomeostasis	Cellular	brain	2	0.0	3	True
+KE 1491	Increased, Oncotic Necrosis	Tissue	liver	2	0.003092	1	True
+KE 1494	Leukocyte recruitment/activation	Cellular	liver	2	0.0	3	True
+KE 1499	Increased, activation of T (T) helper (h) type 2 cells	Tissue	lung	2	0.000468	2	True
+KE 1500	Increased, fibroblast proliferation and myofibroblast differentiation	Tissue	lung	2	0.000967	2	True
+KE 1505	Increase, Cell cycle disruption	Cellular	liver	2	5.9e-05	1	True
+KE 1509	Protein Adduct Formation	Molecular	brain	2	7e-06	1	True
+KE 1538	Decreased protection against oxidative stress	Cellular	brain;kidney	2	0.003092	3	True
+KE 1542	Inhibition, Mitochondrial complex III	Molecular	liver	2	0.003092	2	True
+KE 1543	Mitochondrial Complex IV inhibition	Molecular	liver	2	0.003092	2	True
+KE 1544	Mitochondrial Complex V inhibition	Molecular	liver	2	0.003092	2	True
+KE 1547	Mitochondrial Injury	Cellular	brain;liver	2	0.002882	1	True
+KE 1548	Necrotic Tissue	Tissue	liver	2	0.00052	2	True
+KE 1575	Activation, Caspase 8 pathway	Molecular	liver	2	0.000595	3	True
+KE 1576	Activation, Tissue resident cells (Kuppfer cells)	Cellular	liver	2	0.003092	1	True
+KE 1581	Disturbance in microtubule dynamic instability	Cellular	brain	2	0.003092	3	True
+KE 1586	Airway epithelial injury	Cellular	lung	2	0.010413	1	True
+KE 1602	Increased Muscarinic Acetylcholine Receptors	Molecular	brain	2	0.000335	1	True
+KE 1606	Activation, Stellate cell	Cellular	liver	2	0.0	2	True
+KE 1607	Increase, Necrosis	Tissue	kidney	2	0.005914	2	True
+KE 1623	Occurrence, Focal Seizure	Tissue	brain	2	0.000446	2	True
+KE 1738	SARS-CoV-2 cell entry	Cellular	lung	2	0.003245	2	True
+KE 1739	Binding to ACE2	Molecular	brain;lung	2	0.006186	1	True
+KE 1740	Induced dysregulation of ACE2	Molecular	liver;lung	2	9e-06	2	True
+KE 1743	Increase plasma Ang II	Tissue	liver	2	0.001025	2	True
+KE 1748	Increase, the risk of acute respiratory failure	Organ	lung	2	0.004107	0	False
+KE 1750	Increased inflammatory immune responses	Tissue	lung	2	0.00496	2	True
+KE 1770	Decrease, Mitochondrial membrane potential	Cellular	kidney	2	0.000262	2	True
+KE 1793	Activator protein 1 activation	Cellular	lung	2	0.003078	0	False
+KE 1794	Pin-1 activation	Cellular	lung	2	0.003078	1	True
+KE 1812	Increase, Cytochrome c release	Cellular	brain	2	1.6e-05	2	True
+KE 1814	benzoquinone imine and acylglucuronide metabolites	Molecular	liver	2	0.003415	1	True
+KE 1818	Immune cell activation	Cellular	liver	2	0.000463	2	True
+KE 1819	IFNγ signaling	Cellular	liver	2	0.000126	2	True
+KE 1821	Decrease, Cell proliferation	Cellular	liver	2	0.002144	0	False
+KE 1834	Decrease, Acyl-CoA dehydrogenases	Molecular	liver	2	0.003092	1	True
+KE 1841	Encephalitis	Organ	brain	2	0.0	3	True
+KE 1842	Prolonged TLR9 activation	Molecular	lung	2	0.003092	2	True
+KE 1847	Increased SARS-CoV-2 production	Cellular	lung	2	0.00077	2	True
+KE 1848	Toll Like Receptor (TLR) Dysregulation	Molecular	lung	2	0.003038	3	True
+KE 1851	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	Molecular	lung	2	0.004086	2	True
+KE 1855	Increased Sodium-sensitive hypertension	Tissue	kidney	2	0.003092	1	True
+KE 1897	increased MyD88 activation	Molecular	lung	2	0.00617	2	True
+KE 1901	Interferon-I antiviral response, antagonized by SARS-CoV-2	Cellular	lung	2	0.000919	2	True
+KE 1906	Cystic Fibrosis Transmembrane Regulator Function, Decreased	Molecular	lung	2	0.001502	1	True
+KE 1907	Airway Surface Liquid Height, Decreased	Tissue	lung	2	3e-05	2	True
+KE 1909	Mucociliary Clearance, Decreased	Individual	lung	2	0.008318	2	True
+KE 191	Neuronal dysfunction	Cellular	brain	2	1.4e-05	0	False
+KE 1911	FOXJ1 Protein, Decreased	Cellular	lung	2	0.001502	1	True
+KE 1912	Motile Cilia Number/Length, Decreased	Cellular	lung	2	3e-05	2	True
+KE 192	Altered, Neurophysiology	Organ	brain	2	0.003092	2	True
+KE 193	Decreased, Nitric Oxide	Cellular	brain	2	0.003092	2	True
+KE 195	Inhibition, NMDARs	Molecular	brain	2	0.003092	1	True
+KE 1977	Disruption of sodium channel gating kinetics	Cellular	brain	2	0.00617	1	True
+KE 1978	Increase risk, microcephaly	Individual	brain	2	0.001025	1	True
+KE 1983	Disruption, action potential generation	Cellular	brain	2	0.009235	1	True
+KE 2005	Altered neurotransmission in development	Cellular	brain	2	0.012285	3	True
+KE 2009	Activation of inflammation pathway	Cellular	lung	2	6.3e-05	2	True
+KE 2012	Fibroblast proliferation and differentiation	Cellular	lung	2	0.000811	2	True
+KE 2019	Non-alcoholic fatty liver disease	Individual	liver	2	0.008207	0	False
+KE 2029	protein-coupled estrogen receptor 1 (GPER) activation	Molecular	brain	2	0.00023	2	True
+KE 2037	Inositol triphosphate receptor activation	Molecular	brain	2	0.003092	2	True
+KE 2038	Activation of calpain signalling	Cellular	brain	2	0.001395	1	True
+KE 2108	Altered, white brain matter	Tissue	brain	2	0.00636	1	True
+KE 2117	Increase, goblet cell number	Cellular	lung	2	0.0	1	True
+KE 216	Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)	Cellular	liver	2	0.000298	2	True
+KE 2187	Opening, voltage-gated calcium channels	Molecular	brain	2	0.00134	1	True
+KE 2196	Decrease, elavl3	Molecular	brain	2	0.000741	0	False
+KE 2197	Decrease, sox10	Molecular	brain	2	0.000741	0	False
+KE 2198	Decrease, mbp	Molecular	brain	2	0.000741	0	False
+KE 2199	Increased, Expression of LXR activated genes	Molecular	liver	2	1.3e-05	2	True
+KE 2202	Altered expression of cell cycle genes	Molecular	brain	2	0.0	3	True
+KE 2204	Altered brain morphology	Organ	brain	2	0.002554	1	True
+KE 2208	Aberrant, synaptic formation and plasticity	Organ	brain	2	0.000664	2	True
+KE 2210	Reduced cortical thickness	Tissue	brain	2	6e-06	1	True
+KE 2218	Binding of (ant)agonist to liver X receptor	Molecular	brain	2	0.0	2	True
+KE 2227	Disrupted PPAR isoform nuclear signaling	Molecular	liver	2	0.003092	3	True
+KE 2233	Decreased, ERαβ heterodimers	Molecular	brain	2	0.000299	2	True
+KE 2242	Abnormality, dendritic spine morphology	Cellular	brain	2	0.0	1	True
+KE 2264	Lysolecithin cell membrane integration, increased	Cellular	brain	2	7e-06	2	True
+KE 2299	Altered, Redox Homeostasis	Molecular	brain	2	0.003092	1	True
+KE 2300	Disruption, Glucolipid metabolism	Cellular	brain	2	0.00219	1	True
+KE 2301	Abnormal, Behavior	Individual	brain	2	0.001871	0	False
+KE 2302	Increase, Malformations	Population	brain	2	0.000668	0	False
+KE 2346	Decrease, Proliferating Cell Nuclear Antigen	Molecular	liver	2	0.001007	0	False
+KE 2347	Increase, Lipid degradation	Cellular	liver	2	0.002116	0	False
+KE 2348	Inhibition, Liver regeneration	Organ	liver	2	0.00517	0	False
+KE 239	Activation, Pregnane-X receptor, NR1I2	Molecular	brain;liver	2	0.00077	3	True
+KE 244	Alkylation, Protein	Molecular	kidney;liver	2	0.0	1	True
+KE 258	Activation, SCD-1	Molecular	liver	2	1.3e-05	2	True
+KE 264	Activation, SREBP-1c	Molecular	liver	2	1.3e-05	3	True
+KE 272	Activation/Proliferation, T-cells	Organ	lung	2	3e-06	2	True
+KE 279	Thyroperoxidase, Inhibition	Molecular	brain	2	0.0	1	True
+KE 288	Activation of specific nuclear receptors, Transcriptional change	Cellular	liver	2	1.4e-05	2	True
+KE 313	Increase, Allergic Respiratory Hypersensitivity Response	Organ	lung	2	3e-06	0	False
+KE 344	Increase, Liver fibrosis	Organ	liver	2	0.000296	2	True
+KE 382	Aberrant, Dendritic morphology	Cellular	brain	2	0.0	1	True
+KE 383	Reduced, Presynaptic release of glutamate	Molecular	brain	2	0.0	2	True
+KE 425	Decrease of Thyroidal iodide	Cellular	brain	2	0.0	2	True
+KE 450	Decrease, Very low-density lipoprotein export capacity	Cellular	liver	2	0.0	2	True
+KE 456	Suppression, Constitutive androstane receptor, NR1I3	Molecular	liver	2	2.3e-05	2	True
+KE 463	Up Regulation, FAS	Molecular	liver	2	0.000297	1	True
+KE 466	Up Regulation, LDLR (low density lipoprotein receptor)	Molecular	liver	2	0.000293	1	True
+KE 467	Increased, LDL uptake	Cellular	liver	2	0.000238	1	True
+KE 468	Inhibition, PPAR alpha	Molecular	liver	2	0.000104	2	True
+KE 470	Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)	Molecular	liver	2	0.000297	1	True
+KE 472	Down Regulation, CPT1A	Molecular	liver	2	0.000341	1	True
+KE 474	Down Regulation, HMGCS2	Molecular	liver	2	0.000209	2	True
+KE 477	Decreased, Ketogenesis	Cellular	liver	2	0.00312	0	False
+KE 480	Activation, SHP	Molecular	liver	2	0.003092	1	True
+KE 483	Activation, LXR alpha	Molecular	liver	2	0.019034	1	True
+KE 484	Activation, AKT2	Molecular	liver	2	0.003092	2	True
+KE 493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	Molecular	liver	2	5e-06	3	True
+KE 50	Increase, Ca++ (intracellular)	Cellular	brain	2	0.003092	3	True
+KE 52	Decreased, Calcium influx	Cellular	brain	2	0.00617	2	True
+KE 57	Proliferation, Cell proliferation in the absence of cytotoxicity	Cellular	liver	2	0.00617	2	True
+KE 616	Occurrence, A paroxysmal depolarizing shift	Tissue	brain	2	2.8e-05	2	True
+KE 64	Reduction, Ionotropic GABA receptor chloride channel conductance	Cellular	brain	2	2.8e-05	2	True
+KE 669	Reduction, Neuronal synaptic inhibition	Cellular	brain	2	4.2e-05	2	True
+KE 682	Generation, Amplified excitatory postsynaptic potential (EPSP)	Cellular	brain	2	4.2e-05	2	True
+KE 708	Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)	Tissue	kidney	2	0.003092	1	True
+KE 713	Increase, Adenomas/carcinomas (renal tubular)	Tissue	kidney	2	3e-06	0	False
+KE 726	Increased, Induction of pyruvate dehydrogenase (PDH)	Molecular	liver	2	0.003092	1	True
+KE 733	Increase, Necrosis (terminal bronchiolar cells)	Cellular	lung	2	2.1e-05	0	False
+KE 734	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	Cellular	lung	2	2.8e-05	0	False
+KE 735	Increase, Hyperplasia (terminal bronchiolar cells)	Cellular	lung	2	2.1e-05	0	False
+KE 739	Increase, Hypertrophy and proliferation (follicular cell)	Cellular	liver	2	0.00617	1	True
+KE 740	Increase, Hyperplasia (follicular cells)	Cellular	liver	2	0.003092	0	False
+KE 767	Increase, Hyperplasia (renal tubular cells)	Cellular	kidney	2	0.001543	1	True
+KE 768	Increase, Cytotoxicity	Cellular	kidney;liver	2	0.025828	2	True
+KE 769	Increase, Oxidative metabolism	Cellular	liver	2	0.00617	2	True
+KE 784	Increase, Hyperplasia (tubular epithelial cells)	Cellular	kidney	2	0.001543	1	True
+KE 787	Increase, Regenerative cell proliferation (hepatocytes)	Cellular	liver	2	0.003092	2	True
+KE 794	Increase, Cytotoxicity (urothelial cells)	Cellular	kidney	2	2.1e-05	1	True
+KE 795	Increase, Regenerative cell proliferation (urothelial cells)	Cellular	kidney	2	2.8e-05	1	True
+KE 796	Increase, Hyperplasia (urothelial)	Cellular	kidney	2	2.1e-05	0	False
+KE 8	Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity	Cellular	liver	2	0.012285	1	True
+KE 840	Formation, Liver fibrosis	Tissue	liver	2	1e-06	1	True
+KE 850	Induction, CYP1A2/CYP1A5	Molecular	brain	2	0.009204	2	True
+KE 853	Changes/Inhibition, Cellular Homeostasis and Apoptosis	Cellular	liver	2	0.0	3	True
+KE 856	Formation, Hepatocellular and Bile duct tumors	Organ	liver	2	0.0	2	True
+KE 860	Decreased, Mitochondrial Fatty Acid Beta Oxidation	Molecular	liver	2	0.00617	3	True
+KE 875	Binding of agonist, Ionotropic glutamate receptors	Molecular	brain	2	8.1e-05	2	True
+KE 941	Activation, EGFR	Molecular	lung	2	0.0	2	True
+KE 958	Displacement, Serum thyroxine (T4) from transthyretin	Molecular	brain	2	0.003092	2	True
+KE 959	Increased, Free serum thyroxine (T4)	Tissue	brain	2	0.00617	3	True
+KE 1103	Inhibition, Cyclooxygenase 1 activity	Molecular	kidney	1	0.0	1	True
+KE 1114	Unknown, MIE	Molecular	kidney	1	0.0	0	False
+KE 1177	Decreased, Ionotropic GABA receptor chloride channel conductance	Cellular	brain	1	0.0	2	True
+KE 1194	Increase, DNA damage	Molecular	liver	1	0.0	3	True
+KE 1215	TRPA1 activation, TRPA1 Receptor	Molecular	lung	1	0.0	0	False
+KE 122	Increase, Glucocorticoid receptor activation	Molecular	liver	1	0.0	3	True
+KE 1223	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	Tissue	lung	1	0.0	1	True
+KE 1284	Up Regulation, SREBF2	Cellular	liver	1	0.0	2	True
+KE 1354	Treat, carbamazepine	Molecular	brain	1	0.0	0	False
+KE 1357	Increased, RDX dose	Molecular	brain	1	0.0	0	False
+KE 1413	Reduced, presynaptic neuron 2 activity	Cellular	brain	1	0.0	2	True
+KE 1417	NFE2/Nrf2 repression	Molecular	liver	1	0.0	2	True
+KE 1434	Irritation of nasal mucosa inducing sneeze reflex	Tissue	lung	1	0.0	0	False
+KE 1468	Activation, Latent Transforming Growth Factor Beta 1	Molecular	lung	1	0.0	2	True
+KE 1481	Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	Molecular	kidney	1	0.0	1	True
+KE 1486	Binding of substrate, endocytic receptor	Molecular	kidney	1	0.0	1	True
+KE 1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Molecular	brain;kidney	1	0.0	2	True
+KE 1489	Increase, Steatohepatitis	Organ	liver	1	0.0	1	True
+KE 1490	Inhibition, Fatty Acid Beta Oxidation	Molecular	liver	1	0.0	1	True
+KE 1508	CYP2E1 Activation	Molecular	brain	1	0.0	3	True
+KE 1514	Neurodegeneration	Organ	brain	1	0.0	1	True
+KE 1539	Endocytotic lysosomal uptake	Molecular	liver	1	0.0	2	True
+KE 1541	Mitochondrial Complex I inhibition	Molecular	brain	1	0.0	2	True
+KE 1574	Inhibition, IKK complex	Molecular	liver	1	0.0	2	True
+KE 1579	Increase, proinflammatory mediators (TNFalpha)	Molecular	liver	1	0.0	1	True
+KE 1580	Binding of microtubule stabilizing agents (MSA) to microtubules	Molecular	brain	1	0.0	2	True
+KE 1584	Interaction of α-diketones with arginine residues	Molecular	lung	1	0.0	1	True
+KE 1588	Bronchiolitis obliterans	Individual	lung	1	0.0	0	False
+KE 1603	Chronic kidney disease	Organ	kidney	1	0.0	0	False
+KE 1604	Inhibition of N-linked glycosylation	Molecular	liver	1	0.0	2	True
+KE 1653	Binding of inhibitor to mitochondrial complex III	Molecular	liver	1	0.0	1	True
+KE 1654	Binding of inhibitor to mitochondrial complex IV	Molecular	liver	1	0.0	1	True
+KE 1655	Binding of inhibitor to mitochondrial complex V	Molecular	liver	1	0.0	1	True
+KE 166	Decreased, Long-term potentiation (LTP)	Organ	brain	1	0.0	0	False
+KE 1668	Frustrated phagocytosis	Cellular	lung	1	0.0	1	True
+KE 1670	Lung cancer	Organ	lung	1	0.0	1	True
+KE 1792	Toll-like receptor 4 activation	Molecular	lung	1	0.0	2	True
+KE 1816	Mitochondrial dysfunction EMPTY	Cellular	brain	1	0.0	1	True
+KE 1820	Immune mediated hepatitis	Organ	liver	1	0.0	2	True
+KE 1853	Hyperactivation of ACE/Ang-II/AT1R axis	Molecular	kidney	1	0.0	2	True
+KE 186	Altered, Neuroanatomy	Organ	brain	1	0.0	2	True
+KE 1895	NLRP3 inflammasome activity, increased	Molecular	lung	1	0.0	1	True
+KE 1941	Memory Loss	Individual	brain	1	0.0	1	True
+KE 1943	Hyperphosphorylation of Tau	Cellular	brain	1	0.0	1	True
+KE 201	Binding of antagonist, NMDA receptors	Molecular	brain	1	0.0	2	True
+KE 2030	Activation, PARP1	Molecular	liver	1	0.0	1	True
+KE 2036	Activation of metabotropic glutamate receptor	Molecular	brain	1	0.0	2	True
+KE 2039	Inhibition GABAA receptor	Molecular	brain	1	0.0	2	True
+KE 2146	Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2	Molecular	brain	1	0.0	1	True
+KE 2148	Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron	Molecular	brain	1	0.0	1	True
+KE 2216	Binding of antagonist to thyroid hormone receptor	Molecular	brain	1	0.0	2	True
+KE 2217	Binding of antagonist to glucocorticoid hormone receptor	Molecular	brain	1	0.0	2	True
+KE 2220	Antagonism, Glucocorticoid hormone receptor	Molecular	brain	1	0.0	2	True
+KE 2222	Altered peroxisome proliferator–activated receptor alpha activity	Molecular	brain	1	0.0	1	True
+KE 2226	Stressor binding PPAR isoforms	Molecular	liver	1	0.0	3	True
+KE 2262	Neuropathy target esterase, inhibited	Molecular	brain	1	0.0	2	True
+KE 2267	Delayed neuropathy, increased	Individual	brain	1	0.0	0	False
+KE 231	Decreased, PPAR-alpha activation	Molecular	liver	1	0.0	2	True
+KE 232	Decreased, PPAR-beta activation	Molecular	liver	1	0.0	2	True
+KE 233	Decreased, PPAR-gamma activation	Molecular	liver	1	0.0	3	True
+KE 25	Agonism, Androgen receptor	Molecular	liver	1	0.0	3	True
+KE 319	Loss, Cochlear function	Organ	brain	1	0.0	0	False
+KE 334	Promotion, Hepatocelluar carcinoma	Individual	liver	1	0.0	2	True
+KE 360	Decrease, Population growth rate	Population	brain;kidney	1	0.0	0	False
+KE 409	Metabolism of AFB1, Production of Reactive Electrophiles	Molecular	liver	1	0.0	2	True
+KE 41	Inhibition, Bile Salt Export Pump (ABCB11)	Molecular	liver	1	0.0	3	True
+KE 478	Activation, NRF2	Molecular	liver	1	0.0	2	True
+KE 482	Decreased, DHB4/HSD17B4	Molecular	liver	1	0.0	1	True
+KE 486	systemic inflammation leading to hepatic steatosis	Organ	liver	1	0.0	2	True
+KE 51	Inhibition, Ca++ ATPase	Molecular	brain	1	0.0	1	True
+KE 613	Occurrence, Epileptic seizure	Individual	brain	1	0.0	1	True
+KE 667	Binding at picrotoxin site, iGABAR chloride channel	Molecular	brain	1	0.0	2	True
+KE 714	Increased, Binding of chemicals to 2u (serum)	Molecular	kidney	1	0.0	0	False
+KE 715	Activation, Constitutive androstane receptor	Molecular	liver	1	0.0	3	True
+KE 724	Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme	Cellular	liver	1	0.0	1	True
+KE 736	Increase, Adenomas/carcinomas (bronchioloalveolar)	Tissue	lung	1	0.0	0	False
+KE 741	Increase, Adenomas/carcinomas (follicular cell)	Tissue	liver	1	0.0	0	False
+KE 762	Activation, ionotropic GABA Receptor chloride channel	Molecular	brain	1	0.0	1	True
+KE 770	Increase, Cytotoxicity (club cells)	Cellular	lung	1	0.0	1	True
+KE 783	Increase, Cytotoxicity (tubular epithelial cells)	Cellular	kidney	1	0.0	2	True
+KE 786	Increase, Cytotoxicity (hepatocytes)	Cellular	liver	1	0.0	2	True
+KE 793	Increase, Urinary bladder calculi	Organ	kidney	1	0.0	0	False
+KE 797	Increase, Adenomas/carcinomas (urothelial)	Tissue	kidney	1	0.0	0	False
+KE 80	Up Regulation, CYP1A1	Molecular	liver	1	0.0	1	True
+KE 877	Inhibition, organic anion transporter 1 (OAT1)	Molecular	kidney	1	0.0	1	True
+KE 878	Inhibition, SREBP1c	Molecular	liver	1	0.0	2	True
+KE 888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	Molecular	brain;liver	1	0.0	3	True
+KE 9	Activation, 5HT2c	Molecular	kidney	1	0.0	1	True
+KE 926	Oxidation, Glutathione (To be considered with MIE)	Molecular	kidney	1	0.0	1	True
+KE 957	Binding, Transthyretin in serum	Molecular	brain	1	0.0	1	True
+KE 1197	Activation, Fibroblasts	Cellular	lung	0	0.0	1	True
+KE 1198	Activation, Macrophages	Cellular	lung	0	0.0	1	True
+KE 1239	Altered, Gene Expression	Molecular	brain	0	0.0	1	True
+KE 1535	Heart failure	Organ	lung	0	0.0	0	False
+KE 17	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	Molecular	lung	0	0.0	2	True
+KE 1708	Th17 cell migration and inflammation induction	Cellular	lung	0	0.0	3	True
+KE 1809	Increase, Tissue/organ damage	Organ	lung	0	0.0	0	False
+KE 1829	Altered, Thyroid hormone-dependent gene expression	Molecular	brain	0	0.0	2	True
+KE 1843	Multi Organ Failure involving Acute Respiratory Distress Syndrome	Individual	lung	0	0.0	1	True
+KE 1844	systemic inflammatory response syndrome	Individual	lung	0	0.0	2	True
+KE 1846	Thrombosis and Disseminated Intravascular Coagulation	Individual	lung	0	0.0	2	True
+KE 1854	Dysregulation, ACE2 expression and activity	Molecular	lung	0	0.0	2	True
+KE 1857	Platelet-neutrophil interactions, Increased	Cellular	lung	0	0.0	3	True
+KE 1868	Hyperinflammation	Tissue	lung	0	0.0	2	True
+KE 1869	Diminished protective oxidative stress response	Cellular	brain;lung	0	0.0	2	True
+KE 1898	Increase, Damage-associated molecular pattern release	Tissue	lung	0	0.0	0	False
+KE 1899	formation of neutrophil extracellular traps (NETs)	Cellular	lung	0	0.0	1	True
+KE 1900	increased platelet surface TLR9 expression	Cellular	lung	0	0.0	2	True
+KE 1921	Altered gene expression, NF-kB dependent Interleukin-6 pathway	Molecular	lung	0	0.0	1	True
+KE 1922	Increased, Reactive metabolites production	Cellular	lung	0	0.0	2	True
+KE 1923	Altered gene expression, P53 dependent apoptosis pathway	Molecular	lung	0	0.0	2	True
+KE 1933	Increased, Interleukin-6 production	Cellular	lung	0	0.0	1	True
+KE 2031	Releasing, Apoptosis-Inducing Factor (AIF)	Molecular	liver	0	0.0	2	True
+KE 2085	Pulmonary epithelial injury	Cellular	lung	0	0.0	1	True
+KE 2086	Airway inflammation	Organ	lung	0	0.0	2	True
+KE 2087	Increased incidence of respiratory disease	Individual	lung	0	0.0	0	False
+KE 2088	Dysfunction of respiratory system	Individual	lung	0	0.0	1	True
+KE 2093	Brain thyroid hormone (T4/T3) decreased	Organ	brain	0	0.0	2	True
+KE 2094	Abnormal, neuroblast migration	Cellular	brain	0	0.0	2	True
+KE 2095	Periventricular heterotopia formation	Individual	brain	0	0.0	0	False
+KE 2109	Binding, extracellular matrix protein laminin	Molecular	brain	0	0.0	1	True
+KE 2110	Disrupted binding, laminin-beta1-integrin receptors with laminin	Molecular	brain	0	0.0	2	True
+KE 2111	Decreased, neural progenitor cell adhesion to laminin	Cellular	brain	0	0.0	2	True
+KE 2112	Disturbed, radial glia cell alignment and migration	Cellular	brain	0	0.0	1	True
+KE 2113	Decreased, radial glia cell density	Cellular	brain	0	0.0	1	True
+KE 2114	Disturbed, cortical architecture	Organ	brain	0	0.0	1	True
+KE 2116	Decreased, oligodendrocyte differentiation	Cellular	brain	0	0.0	2	True
+KE 2232	Antagonism, Retinoic acid receptors	Molecular	brain	0	0.0	2	True
+KE 345	N/A, Liver Steatosis	Organ	liver	0	0.0	2	True
+KE 771	Decrease, Serum thyroid hormone (T4/T3)	Tissue	brain	0	0.0	2	True
+KE 879	Activation, MTTP	Cellular	liver	0	0.0	1	True
+KE 880	Increased, ApoB100	Tissue	liver	0	0.0	1	True
+KE 881	Increased, Triglyceride	Cellular	liver	0	0.0	2	True
+KE 902	Inflammation, Liver	Organ	lung	0	0.0	2	True
+KE 960	Increased, Uptake of thyroxine into tissue	Cellular	brain	0	0.0	2	True
